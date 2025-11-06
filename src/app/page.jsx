@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import { OverlayHero, Banner, ImageTextBlock, Container, BorderedBackground } from "@courtneyring/components-library";
+import { OverlayHero, Banner, ImageTextBlock, Container, Background, Note } from "@courtneyring/components-library";
 import content from "../copy/home";
 
 export default function Home() {
@@ -8,10 +8,13 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <OverlayHero {...content.hero} />
-
-        <Container color="color-white" maxWidth="lg">
-            <ImageTextBlock {...content.imageTextVenue} reverse />
+        <Container color='color-primary-dark' maxWidth='sm'>
+          <Note {...content.note} />
         </Container>
+        <Background image='/images/background.jpg' y={0}/>
+        {/* <Container color="color-white" maxWidth="sm">
+          <ImageTextBlock {...content.imageTextVenue} reverse />
+        </Container> */}
         <Container color="color-neutral-light" maxWidth="lg">
           <ImageTextBlock {...content.imageTextPlanning} />
         </Container>
