@@ -42,6 +42,6 @@ export default {
       </p>,
     ],
     image: "/images/image.jpg",
-    cta: { variation: "color-secondary", children: "Book Your Stay" },
+    cta: { variation: "color-primary-dark", children: "Book Your Stay", href:'/details' },
   },
 };
