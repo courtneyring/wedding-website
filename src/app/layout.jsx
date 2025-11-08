@@ -1,3 +1,4 @@
+import './theme.scss';
 import "./globals.css";
 import copy from '../assets/json/global.json';
 import { Footer } from '@courtneyring/components-library';

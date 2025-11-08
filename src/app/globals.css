@@ -11,7 +11,7 @@
 }
 
 :root {
-  --color-primary-dark: #323B43;
+  --color-primary-dark: rgb(50, 59, 67);
   --color-primary-medium: #4C5B69;
   --color-primary-light: #9098A0;
   --color-neutral-dark: #474848;
@@ -30,4 +30,8 @@ body {
 
 strong {
   font-weight: 600;
+}
+
+p, h1, h2 {
+  margin: 0;
 }

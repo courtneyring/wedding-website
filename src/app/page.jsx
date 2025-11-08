@@ -1,4 +1,5 @@
 import Image from "next/image";
+import "./theme.scss";
 import styles from "./page.module.css";
 import { OverlayHero, Banner, ImageTextBlock, Container, Background, Note } from "@courtneyring/components-library";
 import content from "../copy/home";
@@ -12,9 +13,6 @@ export default function Home() {
           <Note {...content.note} />
         </Container>
         <Background image='/images/background.jpg' y={0}/>
-        {/* <Container color="color-white" maxWidth="sm">
-          <ImageTextBlock {...content.imageTextVenue} reverse />
-        </Container> */}
         <Container color="color-neutral-light" maxWidth="lg">
           <ImageTextBlock {...content.imageTextPlanning} />
         </Container>

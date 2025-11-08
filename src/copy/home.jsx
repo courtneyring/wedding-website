@@ -2,10 +2,10 @@ export default {
   hero: {
     title: "Courtney & Matthew",
     subtitle: [
-      <p>
+      <p key='hero-0'>
         <i>Milea Estate Vineyard</i>
       </p>,
-      <p>
+      <p key='hero-1'>
         <i>Staatsburg, NY</i>
       </p>,
     ],
@@ -17,9 +17,9 @@ export default {
     from: "Future Haberlachs",
     body: [
       "We can’t tell you how excited we are to share this important day with all of you. For us we are celebrating so much more than a wedding, but a lifelong commitment we pray will be filled with laughter, adventure & lots of love.",
-      "Please join us in celebration at our reception December 10th, at 5:00pm, following our intimate mountain ceremony. ",
-      "With Love,",
+      "Please join us in celebration at our reception December 10th, at 5:00pm, following our intimate mountain ceremony. "
     ],
+    close: 'With Love,',
     signature: "Courtney & Matt",
   },
   banner: {
