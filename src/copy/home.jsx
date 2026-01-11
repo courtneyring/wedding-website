@@ -2,10 +2,10 @@ export default {
   hero: {
     title: "Courtney & Matthew",
     subtitle: [
-      <p key='hero-0'>
+      <p >
         <i>Milea Estate Vineyard</i>
       </p>,
-      <p key='hero-1'>
+      <p >
         <i>Staatsburg, NY</i>
       </p>,
     ],
@@ -35,7 +35,7 @@ export default {
     header: "Start Planning",
     body: [
       "Our wedding weekend will be centered around the historic village of Rhinebeck, NY. While we love the small town charm, it makes accommodations very limited.",
-      <p>
+      <p >
         <strong>
           We strongly recommend you book your stay as early as possible.
         </strong>
