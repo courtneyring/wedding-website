@@ -42,6 +42,7 @@ export default {
       </p>,
     ],
     image: "/images/image.jpg",
-    cta: { variation: "color-primary-dark", children: "Book Your Stay", href:'/details' },
+    primaryCta: { variation: "color-primary-dark", children: "Getting There", href:'/details' },
+    secondaryCta: { variation: "color-primary-dark", children: "Book Your Stay", href:'/details', hollow: true },
   },
 };
