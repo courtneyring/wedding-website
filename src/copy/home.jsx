@@ -1,12 +1,14 @@
 export default {
   hero: {
-    title: "Courtney & Matthew",
+    title: ["Courtney", "&", "Matt"],
     subtitle: [
-      <p >
-        <i>Milea Estate Vineyard</i>
+      <p>
+        Milea Estate Vineyard
+
       </p>,
-      <p >
-        <i>Staatsburg, NY</i>
+      <p>
+        Staatsburg, NY
+
       </p>,
     ],
     eyebrow: "August 29, 2026",
@@ -17,9 +19,9 @@ export default {
     from: "Future Haberlachs",
     body: [
       "We can’t tell you how excited we are to share this important day with all of you. For us we are celebrating so much more than a wedding, but a lifelong commitment we pray will be filled with laughter, adventure & lots of love.",
-      "Please join us in celebration at our reception December 10th, at 5:00pm, following our intimate mountain ceremony. "
+      "Please join us in celebration at our reception December 10th, at 5:00pm, following our intimate mountain ceremony. ",
     ],
-    close: 'With Love,',
+    close: "With Love,",
     signature: "Courtney & Matt",
   },
   banner: {
@@ -33,16 +35,21 @@ export default {
   },
   imageTextPlanning: {
     header: "Start Planning",
-    body: [
+    reverse: true,
+    body: 
       "Our wedding weekend will be centered around the historic village of Rhinebeck, NY. While we love the small town charm, it makes accommodations very limited.",
-      <p >
-        <strong>
-          We strongly recommend you book your stay as early as possible.
-        </strong>
-      </p>,
-    ],
-    image: "/images/image.jpg",
-    primaryCta: { variation: "color-primary-dark", children: "Getting There", href:'/details' },
-    secondaryCta: { variation: "color-primary-dark", children: "Book Your Stay", href:'/details', hollow: true },
+    image: "/images/paracas-image.jpg",
+    primaryCta: {
+      variation: "color-primary-dark",
+      children: "Book Your Stay",
+      href: "/details",
+    },
+    secondaryCta: {
+      variation: "color-primary-dark",
+      children: "Getting There",
+      href: "/details",
+      hollow: true,
+      // variation: 'link'
+    },
   },
 };

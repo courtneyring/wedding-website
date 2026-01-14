@@ -9,14 +9,16 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <OverlayHero {...content.hero} />
-        <Container color='color-primary-dark' maxWidth='sm'>
+        <Container color="color-primary-dark" maxWidth="sm">
           <Note {...content.note} />
         </Container>
-        <Background image='/images/background.jpg' y={0}/>
+        <Background image="/images/background.jpg" y={0} />
         <Container color="color-neutral-light" maxWidth="lg">
           <ImageTextBlock {...content.imageTextPlanning} />
         </Container>
-        <Banner {...content.banner} />
+        <Container color="color-primary-medium" maxWidth="lg">
+          <Banner {...content.banner} />
+        </Container>
       </main>
     </div>
   );
