@@ -1,8 +1,8 @@
 import styles from "./page.module.scss";
 import { OverlayHero, Fifty, Banner, Container, List } from "@courtneyring/components-library";
-import copy from "../../copy/details";
+import copy from "../../copy/accommodations";
 
-export default function DetailPage() {
+export default function AccommodationsPage() {
   return (
     <main>
       <OverlayHero {...copy.hero} />
