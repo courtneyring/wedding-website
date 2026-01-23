@@ -1,15 +1,15 @@
-
-'use client';
+"use client";
 
 import {
   OverlayHero,
   ImageTextBlock,
   Banner,
   Container,
-  Promo, 
-  PromoGroup
+  Promo,
+  PromoGroup,
 } from "@courtneyring/components-library";
 import copy from "../../copy/travel";
+import { Fragment } from "react";
 
 export default function TravelPage() {
   return (
@@ -20,7 +20,7 @@ export default function TravelPage() {
       </Container>
       <Container maxWidth="lg" color="color-neutral-light">
         <PromoGroup header={copy.air.header}>
-          {copy.air.promos.map((c) => (
+          {copy.air.promos.map((c, idx) => (
             <Promo {...c}></Promo>
           ))}
         </PromoGroup>
@@ -30,7 +30,7 @@ export default function TravelPage() {
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup header={copy.tracks.header}>
-          {copy.tracks.promos.map((c) => (
+          {copy.tracks.promos.map((c, idx) => (
             <Promo {...c}></Promo>
           ))}
         </PromoGroup>

@@ -1,6 +1,6 @@
 export default {
   hero: {
-    title: "Getting There & Around",
+    title: "Travel",
     image: "/images/background.jpg",
   },
   banner: {

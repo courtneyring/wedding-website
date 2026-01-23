@@ -1,6 +1,6 @@
 export default {
   hero: {
-    title: ["Courtney", "&", "Matt"],
+    title: [<span>Courtney</span>, <span>&nbsp;&&nbsp;</span>, <span>Matt</span>],
     subtitle: [<p>Milea Estate Vineyard</p>, <p>Staatsburg, NY</p>],
     eyebrow: "August 29, 2026",
     image: "/images/hero.jpg",
@@ -24,23 +24,42 @@ export default {
         description:
           "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe.",
         details: [
-          {icon: 'location_on', text: "The Beekman Arms Hotel\n1234 Main Street, Rhinebeck, NY 10001"},
-          {icon: 'schedule', text: "Friday August 28, Time TBA"},
-        ]
+          {
+            icon: "location_on",
+            text: [
+              "The Beekman Arms Hotel, Wayfarer Room",
+              "6387 Mill Street, Rhinebeck, NY 12572",
+            ],
+          },
+          { icon: "schedule", text: "Friday August 28, Time TBA" },
+        ],
       },
       {
         header: "Ceremony & Reception",
         description:
           "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe.",
-        location: "Milea Estate Vineyard \n 1234 Main Street, Staatsburg, NY 10001",
-        time: "Friday August 29, Time TBA",
+        details: [
+          {
+            icon: "location_on",
+            text: [
+              "Milea Estate Vineyard",
+              "450 Hollow Road, Staatsburg, NY 12580",
+            ],
+          },
+          { icon: "schedule", text: "Saturday August 29, Time TBA" },
+        ],
       },
       {
         header: "After Party",
         description:
           "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe.",
-        location: "American Legion \n 1234 Main Street, Staatsburg, NY 10001",
-        time: "Friday August 29, Time TBA",
+        details: [
+          {
+            icon: "location_on",
+            text: ["American Legion", "6361 Mill St, Rhinebeck, NY 12572"],
+          },
+          { icon: "schedule", text: "Friday August 29, Time TBA" },
+        ],
       },
     ],
   },
