@@ -19,15 +19,24 @@ export default function TravelPage() {
         <Banner {...copy.banner} />
       </Container>
       <Container maxWidth="lg" color="color-neutral-light">
-        <PromoGroup>
-          {copy.air.map(c =><Promo {...c}></Promo>)}
+        <PromoGroup header={copy.air.header}>
+          {copy.air.promos.map((c) => (
+            <Promo {...c}></Promo>
+          ))}
         </PromoGroup>
       </Container>
       <Container color="color-white" maxWidth="lg">
         <ImageTextBlock {...copy.road} />
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">
-        <ImageTextBlock {...copy.tracks} />
+        <PromoGroup header={copy.tracks.header}>
+          {copy.tracks.promos.map((c) => (
+            <Promo {...c}></Promo>
+          ))}
+        </PromoGroup>
+      </Container>
+      <Container maxWidth="sm" color="color-primary-medium">
+        <Banner {...copy.bookYourStay} />
       </Container>
     </main>
   );

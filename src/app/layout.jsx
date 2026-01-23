@@ -1,11 +1,11 @@
 import "./theme.scss";
 import "./globals.css";
 import copy from "../assets/json/global.json";
-import { Footer } from "@courtneyring/components-library";
+import { Navbar, Footer } from "@courtneyring/components-library";
 
 export const metadata = {
-  title: "Courtney & Matthew | Save the Date",
-  description: "Courtney & Matthew | Save the Date",
+  title: "Courtney & Matt | 08.29.2026",
+  description: "Courtney & Matt | 08.29.2026",
 };
 
 export default function RootLayout({ children }) {
@@ -18,6 +18,13 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
+        <Navbar
+          links={[
+            { label: "Accommodations", value: "/accommodations" },
+            { label: "Travel", value: "/travel" },
+          ]}
+          logoImage='/images/cmlogo.svg'
+        />
         {children}
         <Footer {...copy.footer} />
       </body>
