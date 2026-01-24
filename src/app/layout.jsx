@@ -6,12 +6,14 @@ import { Navbar, Footer } from "@courtneyring/components-library";
 export const metadata = {
   title: "Courtney & Matt | 08.29.2026",
   description: "Courtney & Matt | 08.29.2026",
+  image: '/images/paracas-image.jpg'
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <link rel='icon' href='/favicon.ico'/>
         <link
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100"
           rel="stylesheet"
