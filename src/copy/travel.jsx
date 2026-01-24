@@ -103,7 +103,7 @@ export default {
         },
       },
       {
-        body: "Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience.",
+        body: "Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience.Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience",
         image: "/images/amtrak-logo.png",
         textAlign: "center",
         cta: {

@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
       <body>
         <Navbar
           links={[
-            { label: "Accommodations", value: "/accommodations" },
+            { label: "Hotels", value: "/accommodations" },
             { label: "Travel", value: "/travel" },
           ]}
           logoImage='/images/cmlogo.svg'
