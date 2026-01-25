@@ -6,7 +6,7 @@ import { Navbar, Footer } from "@courtneyring/components-library";
 export const metadata = {
   title: "Courtney & Matt | 08.29.2026",
   description: "Courtney & Matt | 08.29.2026",
-  image: '/images/paracas-image.jpg'
+  image: '/images/proposal.jpg'
 };
 
 export default function RootLayout({ children }) {
