@@ -48,6 +48,7 @@ for (const browserConfig of BROWSERS) {
         await page.screenshot({
           path: `screenshots/${browserConfig.name}/${name}.png`,
           fullPage: true,
+          animations: 'disabled'
         });
 
         await browser.close();

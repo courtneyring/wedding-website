@@ -7,6 +7,7 @@ import {
   Container,
   Promo,
   PromoGroup,
+  PinnedImage,
 } from "@courtneyring/components-library";
 import copy from "../../copy/travel";
 import { Fragment } from "react";
@@ -22,7 +23,8 @@ export default function TravelPage() {
         <PromoGroup {...copy.air} />
       </Container>
       <Container color="color-white" maxWidth="lg">
-        <ImageTextBlock {...copy.road} />
+        {/* <ImageTextBlock {...copy.road} /> */}
+        <PinnedImage {...copy.road}/>
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...copy.tracks} />

@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start", 
+    "test": "npm playwright test"
   },
   "dependencies": {
     "@courtneyring/components-library": "^1.0.6",

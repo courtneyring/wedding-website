@@ -1,7 +1,7 @@
 import "./theme.scss";
 import "./globals.css";
 import copy from "../assets/json/global.json";
-import { Navbar, Footer } from "@courtneyring/components-library";
+import { Navbar, Footer, Toolbar } from "@courtneyring/components-library";
 
 export const metadata = {
   title: "Courtney & Matt | 08.29.2026",
@@ -19,6 +19,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
+        <Toolbar />
         <Navbar
           links={[
             { label: "Hotels", value: "/accommodations" },

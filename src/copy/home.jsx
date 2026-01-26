@@ -1,6 +1,10 @@
 export default {
   hero: {
-    title: [<span>Courtney</span>, <span>&nbsp;&&nbsp;</span>, <span>Matt</span>],
+    title: [
+      <span>Courtney</span>,
+      <span>&nbsp;&&nbsp;</span>,
+      <span>Matt</span>,
+    ],
     subtitle: [<p>Milea Estate Vineyard</p>, <p>Staatsburg, NY</p>],
     eyebrow: "August 29, 2026",
     image: "/images/milea-1.jpg",
@@ -9,8 +13,9 @@ export default {
     salutation: "A Note from the",
     from: "Future Haberlachs",
     body: [
-      "As we approach our wedding day, we can’t tell you how excited we are to share this important day with you. Each of you has played a role in our journey and we feel incredibly lucky to be surrounded by people who have helped us grow as individuals and as a couple. Having you with us to mark this milestone makes it all the more meaningful.",
-      "Whether you’re coming from down the street or across the world, we appreciate you taking the time to be with us. We can’t wait to see you, share in the joy of the day, and create memories together that we will cherish forever.",
+      "Our story started four years ago in a bar in downtown Manhattan. We drank, and flirted, and made plans for the next date. We've come a long way since that day... five international trips, one typical NYC high-stress move-in, multiple trips home that ___something about family____, 3 years in banking (if you know you know), one national championship that divided our house, ___________, and countless regular nights in that ______. Tying the knot feels like both a long time coming and something we can hardly believe is finally here.",
+      "With the weddng day getting closer, we can’t tell you how excited we are to have everyone come together to celebrate with us on our special day! We feel incredibly lucky to be surrounded by amazing poeple.",
+      "Whether you’re coming from down the street, across the country, or around the world, we appreciate you taking the time to be with us. We can’t wait to see you, share in the joy of the day, and create memories together that we will cherish forever.",
     ],
     close: "With Love,",
     signature: "Courtney & Matt",
@@ -22,13 +27,13 @@ export default {
       {
         header: "Welcome Party",
         description:
-          "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe.",
+          "Kick off the weekend with drinks and light desserts as we welcome everyone to Rhinebeck.",
         details: [
           {
             icon: "location_on",
             text: [
               "The Beekman Arms Hotel",
-               "Wayfarer Room",
+              "Wayfarer Room",
               "6387 Mill Street",
               "Rhinebeck, NY 12572",
             ],
@@ -39,13 +44,14 @@ export default {
       {
         header: "Ceremony & Reception",
         description:
-          "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe.",
+          "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
         details: [
           {
             icon: "location_on",
             text: [
               "Milea Estate Vineyard",
-              "450 Hollow Road", "Staatsburg, NY 12580",
+              "450 Hollow Road",
+              "Staatsburg, NY 12580",
             ],
           },
           { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
@@ -54,13 +60,13 @@ export default {
       {
         header: "After Party",
         description:
-          "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe.",
+          "For anyone who wants to keep the night going, join us afterward for late-night drinks and dancing.",
         details: [
           {
             icon: "location_on",
             text: ["American Legion", "6361 Mill St", "Rhinebeck, NY 12572"],
           },
-          { icon: "schedule", text: ["Friday August 29", "Time TBA"] },
+          { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
         ],
       },
     ],

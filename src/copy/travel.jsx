@@ -81,18 +81,37 @@ export default {
       },
     ],
   },
-
   road: {
-    header: "By Road",
-    body: "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe, it does make accommodations limited",
-
-    image: "/images/paracas-image.jpg",
+    title: "By Road",
+    image: "/images/milea-2.png",
+    sections: [
+      {
+        header: "Cars",
+        description:
+          "Rhinebeck is within easy driving distance of several regional airports, ranging from about 45 minutes to three hours depending on where you’re coming from and traffic conditions. Once you arrive, there is plenty of parking both in town and at the wedding venue. If you choose to drive to the ceremony, plan for traffic and leave with plenty of time as the driveway into the vineyard will be closed 10 minutes before the ceremony starts. ",
+      },
+      {
+        header: "Shuttle",
+        description:
+          "There will be a shuttle provided both from Rhinebeck to Milea, as well as from Milea back to Rhinebeck after the reception ends. ",
+      },
+      {
+        header: "Rideshare",
+        description:
+          "Rideshare is available, but limited in this area. Drivers often come from a distance and there will be traffic. We recommend you schedule your ubers and lyfts ahead of time to make sure they arrive on time.",
+      },
+      {
+        header: "Cabs",
+        description:
+          "Cabs are also an option in this area, but they will also be coming from a distance. The following are a couple companies you can call if you need to get around. ",
+      },
+    ],
   },
   tracks: {
     header: "By Tracks",
     promos: [
       {
-        body: "Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience.",
+        body: "Metro North is available from both Albany and NYC. The closest stop is Poughkeepsie and it's about a 20 minute car ride from there.",
         image: "/images/mta-logo.png",
         textAlign: "center",
         cta: {
@@ -103,7 +122,7 @@ export default {
         },
       },
       {
-        body: "Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience.Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience",
+        body: "Amtrak is available from multiple cities including Albany and NYC airports. The closest stop is Rhinecliff and it's about a 5 minute car ride from there.",
         image: "/images/amtrak-logo.png",
         textAlign: "center",
         cta: {
