@@ -3,7 +3,7 @@ export default {
     title: [<span>Courtney</span>, <span>&nbsp;&&nbsp;</span>, <span>Matt</span>],
     subtitle: [<p>Milea Estate Vineyard</p>, <p>Staatsburg, NY</p>],
     eyebrow: "August 29, 2026",
-    image: "/images/hero.jpg",
+    image: "/images/milea-1.jpg",
   },
   note: {
     salutation: "A Note from the",
@@ -17,7 +17,7 @@ export default {
   },
   weekend: {
     title: "Our Weekend",
-    image: "/images/paracas-image.jpg",
+    image: "/images/milea-2.png",
     sections: [
       {
         header: "Welcome Party",

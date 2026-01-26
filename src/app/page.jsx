@@ -15,7 +15,7 @@ export default function Home() {
           <Note {...content.note} />
         </Container>
         <Background image="/images/background.jpg" y={0} />
-        <Container color="color-white" maxWidth="sm">
+        <Container color="color-neutral-light" >
           <PinnedImage {...content.weekend} />
         </Container>
         <Background image="/images/background.jpg" y={0} />

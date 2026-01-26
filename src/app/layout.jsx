@@ -13,7 +13,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel='icon' href='/favicon.ico'/>
         <link
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100"
           rel="stylesheet"
