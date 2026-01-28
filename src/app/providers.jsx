@@ -1,7 +1,7 @@
 "use client";
 
-import { ChakraProvider } from "@chakra-ui/react";
+import { NavThemeProvider } from "@courtneyring/components-library";
 
 export default function Providers({ children }) {
-  return <ChakraProvider>{children}</ChakraProvider>;
+  return <NavThemeProvider>{children}</NavThemeProvider>;
 }

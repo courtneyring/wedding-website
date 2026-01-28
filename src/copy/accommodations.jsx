@@ -4,7 +4,7 @@ export default {
     image: "/images/background.jpg",
   },
   banner: {
-    body: "Our wedding weekend will take place in the historic town of Rhinebeck, New York. Known for its charming shops, excellent restaurants, and rich history, Rhinebeck offers a warm and walkable setting for the celebration. The welcome party, wedding shuttles, and after-party are all within easy walking distance, so we recommend choosing accommodations in town if possible.",
+    body: "Our wedding weekend will be centered in the historic town of Rhinebeck, New York. It's a small town with lots of shops and restaurants to check out. The welcome party, wedding shuttles, and after-party are all within easy walking distance, so we recommend choosing accommodations in town if possible.",
   },
   list: {
     items: [
@@ -34,7 +34,7 @@ export default {
     },
     {
       heading: "Mirbeau Inn & Spa",
-      body: "Mirbeau Inn & Spa Rhinebeck is one of our favorite spots, inspired by a French country estate with a peaceful, elegant atmosphere. The rooms are thoughtfully designed and the on-site spa makes it a perfect place to unwind. We don’t have a room block, but we’ll be staying at Mirbeau ourselves and would love it if some of you join us there.",
+      body: "Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel with a spa and restaurant on site, making it a great option for a more relaxing and luxurious stay. While there is no room block, the bride and groom will be staying at Mirbeau and would love for guests to join them there.",
       image: "/images/mirbeau.jpg",
       color: "color-white",
       cta: {
@@ -74,7 +74,7 @@ export default {
     header: "Plan Your Route",
     cta: {
       label: "See Travel Info",
-      href: "/accommodations",
+      href: "/travel",
     },
   },
 };

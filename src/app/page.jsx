@@ -1,21 +1,33 @@
-'use client';
+"use client";
 
 import Image from "next/image";
 import "./theme.scss";
 import styles from "./page.module.css";
-import { OverlayHero, Banner, ImageTextBlock, Container, Background, Note, PinnedImage } from "@courtneyring/components-library";
+import {
+  OverlayHero,
+  Banner,
+  ImageTextBlock,
+  Container,
+  Background,
+  Note,
+  PinnedImage,
+} from "@courtneyring/components-library";
 import content from "../copy/home";
 
 export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <OverlayHero {...content.hero} />
+        <Container color="color-neutral-light" styleless>
+          <OverlayHero {...content.hero} />
+        </Container>
         <Container color="color-primary-dark" maxWidth="sm">
           <Note {...content.note} />
         </Container>
-        <Background image="/images/background.jpg" y={0} />
-        <Container color="color-neutral-light" >
+        <Container color="color-neutral-dark" styleless>
+          <Background image="/images/background.jpg" y={0} />
+        </Container>
+        <Container color="color-neutral-light">
           <PinnedImage {...content.weekend} />
         </Container>
         <Background image="/images/background.jpg" y={0} />

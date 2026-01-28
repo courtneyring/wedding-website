@@ -11,7 +11,7 @@ export default {
     promos: [
       {
         header: "Stewart International",
-        body: "The easiest airport for getting to Rhinebeck if you can swing it. Smaller, quieter, and way less hectic than the NYC airports.",
+        body: "This airport is the easiest way to get to Rhinebeck — small, quiet, and closer than most other options.",
         color: "color-white",
         stats: [
           { icon: "label_important", text: "SWF" },
@@ -21,7 +21,7 @@ export default {
       },
       {
         header: "Albany international",
-        body: "A solid, no-stress option with plenty of flight choices. Lots of people use this airport when heading to the Hudson Valley.",
+        body: "Roughly an hour’s drive from Rhinebeck, Albany International is a straightforward option for getting to Hudson Valley.",
         color: "color-white",
         stats: [
           { icon: "label_important", text: "ALB" },
@@ -41,7 +41,7 @@ export default {
       },
       {
         header: "Bradley International",
-        body: "The easiest airport for getting to Rhinebeck if you can swing it. Smaller, quieter, and way less hectic than the NYC airports.",
+        body: "Around 1 hour 45 minutes to 2 hours away, Bradley offers flights from a number of major cities.",
         color: "color-white",
         stats: [
           { icon: "label_important", text: "BDL" },
@@ -61,7 +61,7 @@ export default {
       },
       {
         header: "John F Kennedy International",
-        body: "Best choice for international flights with lots of nonstop options. It’s busy, but hard to beat for global connections.",
+        body: "Best choice for international flights with lots of nonstop options. Offers easy connections to trains directly from the airport.",
         color: "color-white",
         stats: [
           { icon: "label_important", text: "JFK" },
@@ -71,7 +71,7 @@ export default {
       },
       {
         header: "Newark Liberty International",
-        body: "Another big hub with lots of flight options. Convenient for nonstop routes, but expect a more crowded experience.",
+        body: "Another big hub with lots of flight options, but expect more crowds and traffic. Offers trains via NJ Transit that can be used to connect to NY Transit",
         color: "color-white",
         stats: [
           { icon: "label_important", text: "EWR" },
@@ -86,24 +86,32 @@ export default {
     image: "/images/milea-2.png",
     sections: [
       {
+        header: "A General Note",
+        description:
+          "Although Rhinebeck is a small town, August is a very busy time of year for the area. Be sure to plan ahead and allow extra time for traffic. If you’re driving to the vineyard, please note that the driveway will close 10 minutes before the ceremony begins.",
+      },
+      {
         header: "Cars",
         description:
-          "Rhinebeck is within easy driving distance of several regional airports, ranging from about 45 minutes to three hours depending on where you’re coming from and traffic conditions. Once you arrive, there is plenty of parking both in town and at the wedding venue. If you choose to drive to the ceremony, plan for traffic and leave with plenty of time as the driveway into the vineyard will be closed 10 minutes before the ceremony starts. ",
+          "Rhinebeck is within easy driving distance of several regional airports, with travel times ranging from about 45 minutes to three hours depending on traffic. Once you arrive, there is plenty of parking both in town and at the wedding venue.",
       },
       {
         header: "Shuttle",
         description:
-          "There will be a shuttle provided both from Rhinebeck to Milea, as well as from Milea back to Rhinebeck after the reception ends. ",
+          "A shuttle will be provided to take guests from Rhinebeck to Milea, and back to Rhinebeck after the reception.",
       },
       {
         header: "Rideshare",
         description:
-          "Rideshare is available, but limited in this area. Drivers often come from a distance and there will be traffic. We recommend you schedule your ubers and lyfts ahead of time to make sure they arrive on time.",
+          "Rideshare is available, though limited in this area. Drivers may be coming from a distance. To avoid delays, we recommend booking your Uber or Lyft ahead of time.",
       },
       {
         header: "Cabs",
-        description:
-          "Cabs are also an option in this area, but they will also be coming from a distance. The following are a couple companies you can call if you need to get around. ",
+        description: [
+          "Cabs are an option as well, though drivers often come from farther away. Here are a few companies you can reach out to if you need a ride. ",
+          <a href="tel:8452245316">Available One Taxi</a>,
+          <a href="tel:8455512243">Nick's Rhinecliff Taxi Service</a>,
+        ],
       },
     ],
   },
