@@ -20,6 +20,14 @@ export default {
     close: "With Love,",
     signature: "Courtney & Matt",
   },
+  imageScroller: {
+    images: [
+      '/images/egypt.jpg',
+      '/images/europe.jpg',
+      '/images/peru.jpg',
+      '/images/florida.jpg'
+    ]
+  },
   weekend: {
     title: "Our Weekend",
     image: "/images/milea-2.png",

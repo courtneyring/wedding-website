@@ -1,7 +1,9 @@
+import { Button } from '@courtneyring/components-library';
+
 export default {
   hero: {
-    title: "Travel",
-    image: "/images/background.jpg",
+    title: "Getting There & Around",
+    image: "/images/travel-hero.jpg",
   },
   banner: {
     body: "Wedding  activities will be centered around the historical town of Rhinebeck, NY. While we love the small town vibe, it does make accommodations limited.We strongly recommend you book your stay as early as possible.",
@@ -109,8 +111,14 @@ export default {
         header: "Cabs",
         description: [
           "Cabs are an option as well, though drivers often come from farther away. Here are a few companies you can reach out to if you need a ride. ",
-          <a href="tel:8452245316">Available One Taxi</a>,
-          <a href="tel:8455512243">Nick's Rhinecliff Taxi Service</a>,
+          <div>
+            <Button variation="link" href="tel:8452245316">
+              Available One Taxi
+            </Button>
+            <Button variation="link" href="tel:8455512243">
+              Nick's Rhinecliff Taxi Service
+            </Button>
+          </div>,
         ],
       },
     ],

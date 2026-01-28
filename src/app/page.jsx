@@ -10,6 +10,7 @@ import {
   Container,
   Background,
   Note,
+  ImageScroller,
   PinnedImage,
 } from "@courtneyring/components-library";
 import content from "../copy/home";
@@ -24,13 +25,16 @@ export default function Home() {
         <Container color="color-primary-dark" maxWidth="sm">
           <Note {...content.note} />
         </Container>
-        <Container color="color-neutral-dark" styleless>
-          <Background image="/images/background.jpg" y={0} />
+        <Container color="color-primary-medium" maxWidth="lg">
+          <ImageScroller {...content.imageScroller} />
         </Container>
         <Container color="color-neutral-light">
           <PinnedImage {...content.weekend} />
         </Container>
-        <Background image="/images/background.jpg" y={0} />
+        <Container styleless color='color-primary-dark'>
+          <Background image="/images/background.jpg" y={0} />
+        </Container>
+
         <Container color="color-neutral-light" maxWidth="lg">
           <ImageTextBlock {...content.imageTextPlanning} />
         </Container>

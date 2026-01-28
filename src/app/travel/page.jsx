@@ -7,6 +7,7 @@ import {
   Container,
   Promo,
   PromoGroup,
+  Background,
   PinnedImage,
 } from "@courtneyring/components-library";
 import copy from "../../copy/travel";
@@ -16,19 +17,23 @@ export default function TravelPage() {
   return (
     <main>
       <OverlayHero {...copy.hero} />
-      <Container maxWidth="sm" color="color-primary-medium">
+      <Container maxWidth="sm" color="color-primary-dark">
         <Banner {...copy.banner} />
       </Container>
-      <Container maxWidth="lg" color="color-neutral-light">
+      <Container maxWidth="lg" color="color-primary-medium">
         <PromoGroup {...copy.air} />
       </Container>
-      <Container color="color-white" maxWidth="lg">
-        {/* <ImageTextBlock {...copy.road} /> */}
-        <PinnedImage {...copy.road}/>
+      <Container styleless color="color-primary-dark">
+        <Background image="/images/train.jpg" y={0} />
       </Container>
-      <Container color="color-neutral-light" maxWidth="lg">
+      <Container color="color-white" maxWidth="lg">
         <PromoGroup {...copy.tracks} />
       </Container>
+      <Container color="color-neutral-light" maxWidth="lg">
+        {/* <ImageTextBlock {...copy.road} /> */}
+        <PinnedImage {...copy.road} />
+      </Container>
+
       <Container maxWidth="sm" color="color-primary-medium">
         <Banner {...copy.bookYourStay} />
       </Container>

@@ -1,7 +1,7 @@
 export default {
   hero: {
     title: "Where to Stay",
-    image: "/images/background.jpg",
+    image: "/images/accommodations-hero.jpg",
   },
   banner: {
     body: "Our wedding weekend will be centered in the historic town of Rhinebeck, New York. It's a small town with lots of shops and restaurants to check out. The welcome party, wedding shuttles, and after-party are all within easy walking distance, so we recommend choosing accommodations in town if possible.",
@@ -66,7 +66,7 @@ export default {
       heading: "Other Options",
       body: "There are a few bed & breakfast options, as well as apartments through Airbnb. If you prefer to do one of these, we recommend you finding one in town to make your weekend as smooth as possible.",
       image: "/images/gables.jpg",
-      color: "color-white",
+      color: "color-neutral-light",
       reverse: true,
     },
   ],
