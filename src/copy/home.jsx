@@ -21,12 +21,49 @@ export default {
     signature: "Courtney & Matt",
   },
   imageScroller: {
-    images: [
-      '/images/egypt.jpg',
-      '/images/europe.jpg',
-      '/images/peru.jpg',
-      '/images/florida.jpg'
-    ]
+    images: 
+    [
+      {
+        src: '/images/egypt.jpg',
+        speed: 0.8,
+        style: { top: '60%', left: "5%", width: 350 },
+      },
+      {
+        src: '/images/europe.jpg',
+        speed: 0.5,
+        style: { top: '70%', left: "20%", width: 350 },
+      },
+      {
+        src: '/images/peru.jpg',
+        speed: 0.2,
+        style: { top: '40%', left: "50%", width: 350 },
+      },
+      {
+        src: '/images/florida.jpg',
+        speed: 0.4,
+        style: { top: '30%', left: "30%", width: 350 },
+      },
+      {
+        src: '/images/egypt.jpg',
+        speed: 0.1,
+        style: { top: '20%', left: "6%", width: 350 },
+      },
+      {
+        src: '/images/europe.jpg',
+        speed: 0.1,
+        style: { top: '10%', left: "70%", width: 350 },
+      },
+      {
+        src: '/images/peru.jpg',
+        speed: 0.1,
+        style: { top: '5%', left: "80%", width: 350 },
+      },
+      {
+        src: '/images/florida.jpg',
+        speed: 0.4,
+        style: { top: '90%', left: "90%", width: 350 },
+      },
+    ],
   },
   weekend: {
     title: "Our Weekend",

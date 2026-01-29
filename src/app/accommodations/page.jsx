@@ -17,6 +17,8 @@ export default function AccommodationsPage() {
   const [modalIsOpen, toggleModal] = useState(false);
 
   const handleBeekmanClick = () => {
+    let bodyStyle = modalIsOpen ? "unset" : "hidden";
+    document.body.style.overflow = bodyStyle;
     toggleModal(true);
   };
 
