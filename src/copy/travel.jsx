@@ -156,7 +156,7 @@ export default {
         },
       },
       {
-        body: "Amtrak is available from multiple cities including Albany and NYC airports. The closest stop is Rhinecliff and it's about a 5 minute car ride from there.",
+        body: "Amtrak is available from multiple cities including Albany and NYC. The closest stop is Rhinecliff and it's about a 5 minute car ride from there.",
         image: "/images/amtrak-logo.png",
         textAlign: "center",
         cta: {
