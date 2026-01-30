@@ -26,6 +26,7 @@ export default function RootLayout({ children }) {
         {/* <Toolbar /> */}
         <Navbar
           links={[
+            { label: "Home", value: "/" },
             { label: "Hotels", value: "/accommodations" },
             { label: "Travel", value: "/travel" },
           ]}

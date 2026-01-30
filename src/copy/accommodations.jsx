@@ -77,7 +77,7 @@ export default {
         ],
         primaryCta: {
           varation: "primaryDark",
-          children: "Book Your Stay",
+          children: "Continue to Book",
           href: "https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430",
         },
         secondaryCta: {

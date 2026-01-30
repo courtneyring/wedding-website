@@ -16,11 +16,11 @@ import { useState, Fragment } from "react";
 export default function AccommodationsPage() {
   const [modalIsOpen, toggleModal] = useState(false);
 
-  const handleBeekmanClick = () => {
-    let bodyStyle = modalIsOpen ? "hidden" : "unset";
-    document.body.style.overflow = bodyStyle;
-    toggleModal(true);
-  };
+  // const handleBeekmanClick = (val) => {
+  //   let bodyStyle = val ? "hidden" : "unset";
+  //   document.body.style.overflow = bodyStyle;
+  //   toggleModal(val);
+  // };
 
 const copy = {
   ...copyOriginal,
@@ -29,8 +29,10 @@ const copy = {
     // Replace single 'cta' with 'ctas' array
     ctas: item.ctas
       ? item.ctas.map((cta) =>
-          item.heading === "Beekman Arms Delamater Inn" && !cta.href && !cta.value
-            ? { ...cta, fn: handleBeekmanClick }
+          item.heading === "Beekman Arms Delamater Inn" &&
+          !cta.href &&
+          !cta.value
+            ? { ...cta, fn: () => toggleModal(true) }
             : cta,
         )
       : [],
@@ -54,8 +56,14 @@ const copy = {
           {modalIsOpen &&
             fifty.overlay &&
             createPortal(
-              <Overlay closeFn={() => toggleModal(false)} hideClose={false} fullscreen={false}>
-                <GenericOverlay {...fifty.overlay} />
+              <Overlay
+                closeFn={() => toggleModal(false)}
+                hideClose={false}
+                fullscreen={false}
+              >
+                {/* <Container maxWidth="sm" color="color-white"> */}
+                  <GenericOverlay {...fifty.overlay} />
+                {/* </Container> */}
               </Overlay>,
               window.document.body,
             )}
