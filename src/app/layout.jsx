@@ -3,6 +3,7 @@ import "./globals.css";
 import copy from "../assets/json/global.json";
 import { Navbar, Footer, Toolbar } from "@courtneyring/components-library";
 import CMIcon from "../icons/logo.jsx";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata = {
   title: "Courtney & Matt | 08.29.2026",
@@ -35,6 +36,7 @@ export default function RootLayout({ children }) {
         {children}
         <Footer {...copy.footer} />
       </body>
+      <GoogleAnalytics gaId="G-JKKGTFTMPP" />
     </html>
   );
 }
