@@ -25,13 +25,13 @@ export default function Home() {
         <Container color="color-primary-dark" maxWidth="sm">
           <Note {...content.note} />
         </Container>
-        <Container color="color-primary-medium" maxWidth="lg" styleless>
+        <Container styleless color="color-neutral-dark" maxWidth="lg">
           <ParallaxImageGrid {...content.imageScroller} />
         </Container>
         <Container color="color-neutral-light">
           <PinnedImage {...content.weekend} />
         </Container>
-        <Container styleless color='color-primary-dark'>
+        <Container styleless color="color-primary-dark">
           <Background image="/images/background.jpg" y={0} />
         </Container>
 

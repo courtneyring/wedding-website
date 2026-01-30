@@ -7,7 +7,6 @@ import CMIcon from "../icons/logo.jsx";
 export const metadata = {
   title: "Courtney & Matt | 08.29.2026",
   description: "Courtney & Matt | 08.29.2026",
-  image: "/images/proposal.jpg",
 };
 
 export default function RootLayout({ children }) {

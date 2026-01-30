@@ -17,21 +17,25 @@ export default function AccommodationsPage() {
   const [modalIsOpen, toggleModal] = useState(false);
 
   const handleBeekmanClick = () => {
-    let bodyStyle = modalIsOpen ? "unset" : "hidden";
+    let bodyStyle = modalIsOpen ? "hidden" : "unset";
     document.body.style.overflow = bodyStyle;
     toggleModal(true);
   };
 
-  const copy = {
-    ...copyOriginal,
-    fifties: copyOriginal.fifties.map((item) => ({
-      ...item,
-      cta:
-        item.heading === "Beekman Arms Delamater Inn"
-          ? { ...item.cta, fn: handleBeekmanClick }
-          : item.cta,
-    })),
-  };
+const copy = {
+  ...copyOriginal,
+  fifties: copyOriginal.fifties.map((item) => ({
+    ...item,
+    // Replace single 'cta' with 'ctas' array
+    ctas: item.ctas
+      ? item.ctas.map((cta) =>
+          item.heading === "Beekman Arms Delamater Inn" && !cta.href && !cta.value
+            ? { ...cta, fn: handleBeekmanClick }
+            : cta,
+        )
+      : [],
+  })),
+};
 
   console.log(copy);
 
@@ -50,7 +54,7 @@ export default function AccommodationsPage() {
           {modalIsOpen &&
             fifty.overlay &&
             createPortal(
-              <Overlay closeFn={() => toggleModal(false)} hideClose={false}>
+              <Overlay closeFn={() => toggleModal(false)} hideClose={false} fullscreen={false}>
                 <GenericOverlay {...fifty.overlay} />
               </Overlay>,
               window.document.body,

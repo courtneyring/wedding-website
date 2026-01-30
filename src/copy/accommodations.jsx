@@ -30,24 +30,50 @@ export default {
       image: "/images/beekman-arms.jpg",
       reverse: true,
       color: "color-neutral-light",
-      cta: { children: "Book Your Stay" },
+      ctas: [
+        { children: "Book Online" },
+        {
+          varation: "primaryDark",
+          hollow: true,
+          children: "Call the Hotel",
+          href: "tel:8458767077",
+        },
+      ],
     },
     {
       heading: "Mirbeau Inn & Spa",
       body: "Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel with a spa and restaurant on site, making it a great option for a more relaxing and luxurious stay. While there is no room block, the bride and groom will be staying at Mirbeau and would love for guests to join them there.",
       image: "/images/mirbeau.jpg",
       color: "color-white",
-      cta: {
-        varation: "primaryDark",
-        children: "Book Your Stay",
-        href: "https://book.onagilysys.com/onecart/wbe/room/2230/rhinebeck-mirbeau/2026-08-28/2026-08-30/RBROOM/2",
-      },
+      ctas: [
+        {
+          varation: "primaryDark",
+          children: "Book Online",
+          href: "https://book.onagilysys.com/onecart/wbe/room/2230/rhinebeck-mirbeau/2026-08-28/2026-08-30/RBROOM/2",
+        },
+        {
+          varation: "primaryDark",
+          children: "Call the Hotel",
+          hollow: true,
+          href: "tel:8776472328",
+        },
+      ],
       overlay: {
         header: "A Note on the Beekman",
         body: [
           "Each room is a little different so take a look at the room types to see some pictures and where they are located.",
           "When you are ready to book, use the link below or enter the group code with August 28-30 selected: HOWAR260828-151430",
-          "No matter how many are staying in your room, please select 1 Adult. The software engineer bride is trying to find humor in these fun quirks…",
+          <p>
+            <strong>
+              No matter how many are staying in your room, please select
+              1&nbsp;Adult.
+            </strong>
+            <br />
+            <small>
+              The software engineer bride is trying to find humor in these fun
+              quirks…
+            </small>
+          </p>,
         ],
         primaryCta: {
           varation: "primaryDark",
