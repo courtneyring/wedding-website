@@ -23,10 +23,10 @@ export default function TravelPage() {
       <Container maxWidth="lg" color="color-primary-medium">
         <PromoGroup {...copy.air} />
       </Container>
-      <Container styleless color="color-primary-dark">
+      <Container styleless >
         <Background image="/images/train.jpg" y={0} />
       </Container>
-      <Container color="color-white" maxWidth="lg">
+      <Container color="color-white" maxWidth="sm">
         <PromoGroup {...copy.tracks} />
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">

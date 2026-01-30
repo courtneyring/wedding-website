@@ -16,11 +16,11 @@ import { useState, Fragment } from "react";
 export default function AccommodationsPage() {
   const [modalIsOpen, toggleModal] = useState(false);
 
-  // const handleBeekmanClick = (val) => {
-  //   let bodyStyle = val ? "hidden" : "unset";
-  //   document.body.style.overflow = bodyStyle;
-  //   toggleModal(val);
-  // };
+  const handleBeekmanClick = (val) => {
+    let bodyStyle = val ? "hidden" : "unset";
+    document.body.style.overflow = bodyStyle;
+    toggleModal(val);
+  };
 
 const copy = {
   ...copyOriginal,
@@ -32,7 +32,7 @@ const copy = {
           item.heading === "Beekman Arms Delamater Inn" &&
           !cta.href &&
           !cta.value
-            ? { ...cta, fn: () => toggleModal(true) }
+            ? { ...cta, fn: () => handleBeekmanClick(true) }
             : cta,
         )
       : [],
