@@ -80,7 +80,7 @@ jobs:
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
         env:
-          NEXT_PUBLIC_GA_ID: ${{ vars.NEXT_PUBLIC_GA_ID }}
+          NEXT_PUBLIC_GA_ID: ${{ vars.NEXT_PUBLIC_ANALYTICS_ID }}
           NEXT_PUBLIC_APP_ENV: ${{ vars.NEXT_PUBLIC_APP_ENV }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
