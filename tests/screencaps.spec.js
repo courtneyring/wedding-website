@@ -59,10 +59,7 @@ for (const { name, width, height } of SCREEN_SIZES) {
           await page.waitForTimeout(500);
 
           await page.screenshot({
-            path: path.join(
-              __dirname,
-              `screenshots/${pathName === "/" ? "root" : pathName}/${name.split("-")[0]}/${name.split("-")[1]}/${width}x${height}-${browserConfig.name}.png`,
-            ),
+            path: `screenshots/${pathName === "/" ? "root" : pathName}/${name.split("-")[0]}/${name.split("-")[1]}/${width}x${height}-${browserConfig.name}.png`,
             fullPage: true,
             animations: "disabled",
           });

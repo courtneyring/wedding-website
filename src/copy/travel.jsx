@@ -2,7 +2,7 @@ import { Button } from "@courtneyring/components-library";
 
 export default {
   hero: {
-    title: "Getting There & Around",
+    title: "Travel",
     image: "/images/travel-hero.jpg",
   },
   banner: {
