@@ -12,6 +12,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   console.log(process.env.NEXT_PUBLIC_APP_ENV);
+  const analyticsId = process.env.NEXT_PUBLIC_ANALYTICS_ID;
   return (
     <html lang="en">
       <head>
@@ -37,7 +38,7 @@ export default function RootLayout({ children }) {
         {children}
         <Footer {...copy.footer} />
       </body>
-      <GoogleAnalytics gaId="G-0K44RL4JQ3" />
+      <GoogleAnalytics gaId={analyticsId} />
     </html>
   );
 }
