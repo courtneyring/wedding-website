@@ -13,6 +13,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   console.log(process.env.NEXT_PUBLIC_APP_ENV);
   const analyticsId = process.env.NEXT_PUBLIC_ANALYTICS_ID;
+  console.log(analyticsId);
   return (
     <html lang="en">
       <head>
