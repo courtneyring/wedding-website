@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import AccommodationsPage from "./AccommodationsPage";
 
 export const metadata = {
@@ -8,5 +9,9 @@ export const metadata = {
 
 
 export default function PageWrapper() {
-  return <AccommodationsPage />;
+  return (
+    <Suspense fallback={null}>
+      <AccommodationsPage />
+    </Suspense>
+  );
 }

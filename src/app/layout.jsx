@@ -11,6 +11,7 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  console.log(process.env.NEXT_PUBLIC_APP_ENV);
   return (
     <html lang="en">
       <head>
