@@ -6,12 +6,12 @@ export default {
     image: "/images/milea-3.jpg",
   },
   banner: {
-    body: "Check back for updates",
+    body: "We’re looking forward to spending the weekend together. Below is the schedule for our wedding weekend, with details on timing, locations, and what’s planned each day.",
   },
   sections: [
     {
       heading: "Welcome Party",
-      body: "Kick off the weekend with drinks and light desserts as we welcome everyone to Rhinebeck.",
+      body: "Kick off the weekend with drinks and mingling as we welcome everyone to Rhinebeck.",
       image: "/images/proposal-1.jpg",
       pos: "bottom center",
       color: "color-secondary",
@@ -48,7 +48,7 @@ export default {
     },
     {
       heading: "After Party",
-      body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and dancing.",
+      body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
       image: "/images/proposal-3.jpg",
       color: "color-secondary",
       pos: "60% 30%",

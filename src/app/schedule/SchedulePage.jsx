@@ -19,6 +19,9 @@ export default function SchedulePage() {
         <Container color="color-neutral-light" styleless>
           <OverlayHero {...content.hero} />
         </Container>
+        <Container maxWidth="sm" color="color-primary-dark">
+          <Banner {...content.banner} />
+        </Container>
 
         {content.sections.map((section, idx) => (
           <Fragment key={`section-${idx}`}>
