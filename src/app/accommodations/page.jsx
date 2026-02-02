@@ -1,77 +1,12 @@
-"use client";
+import AccommodationsPage from "./AccommodationsPage";
 
-import {
-  OverlayHero,
-  Fifty,
-  Banner,
-  Container,
-  List,
-  Overlay,
-  GenericOverlay,
-} from "@courtneyring/components-library";
-import copyOriginal from "../../copy/accommodations";
-import { createPortal } from "react-dom";
-import { useState, Fragment } from "react";
-
-export default function AccommodationsPage() {
-  const [modalIsOpen, toggleModal] = useState(false);
-
-  const handleBeekmanClick = (val) => {
-    let bodyStyle = val ? "hidden" : "unset";
-    document.body.style.overflow = bodyStyle;
-    toggleModal(val);
-  };
-
-const copy = {
-  ...copyOriginal,
-  fifties: copyOriginal.fifties.map((item) => ({
-    ...item,
-    // Replace single 'cta' with 'ctas' array
-    ctas: item.ctas
-      ? item.ctas.map((cta) =>
-          item.heading === "Beekman Arms Delamater Inn" &&
-          !cta.href &&
-          !cta.value
-            ? { ...cta, fn: () => handleBeekmanClick(true) }
-            : cta,
-        )
-      : [],
-  })),
+export const metadata = {
+  title: "Courtney & Matt | Accommodations",
+  description:
+    "Our wedding weekend will be centered in the historic town of Rhinebeck, New York. It's a small town with lots of shops and restaurants to check out. This page has all the information you need to book your stay in town.",
 };
 
-  console.log(copy);
 
-  return (
-    <main>
-      <OverlayHero {...copy.hero} />
-      <Container maxWidth="sm" color="color-primary-medium">
-        <Banner {...copy.banner} />
-      </Container>
-      {/* <Container maxWidth='sm' color='color-primary-dark'>
-        <List {...copy.list}/>
-      </Container> */}
-      {copy.fifties.map((fifty, idx) => (
-        <Fragment key={`fifty-${idx}`}>
-          <Fifty {...fifty}></Fifty>
-          {modalIsOpen &&
-            fifty.overlay &&
-            createPortal(
-              <Overlay
-                closeFn={() => toggleModal(false)}
-                hideClose={false}
-                fullscreen={false}
-              >
-                {/* <Container maxWidth="sm" color="color-white"> */}
-                  <GenericOverlay {...fifty.overlay} />
-                {/* </Container> */}
-              </Overlay>,
-              window.document.body,
-            )}
-        </Fragment>
-      ))}
-      <Container maxWidth="sm" color="color-primary-medium">
-        <Banner {...copy.bookYourStay} />
-      </Container>
-    </main>
-  );
+export default function PageWrapper() {
+  return <AccommodationsPage />;
 }

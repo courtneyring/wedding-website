@@ -153,6 +153,7 @@ export default {
           variation: "link",
           icon: "east",
           href: "https://www.mta.info/agency/metro-north-railroad",
+          onClick: () => sendButtonEvent("trains-mta"),
         },
       },
       {
@@ -164,6 +165,7 @@ export default {
           variation: "link",
           icon: "east",
           href: "https://www.amtrak.com/home",
+          onClick: () => sendButtonEvent("trains-amtrak"),
         },
       },
     ],

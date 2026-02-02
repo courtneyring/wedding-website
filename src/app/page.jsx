@@ -25,7 +25,7 @@ export default function Home() {
         <Container color="color-primary-dark" maxWidth="sm">
           <Note {...content.note} />
         </Container>
-        <Container color="color-primary-dark" maxWidth="lg">
+        <Container color="color-primary-dark" styleless>
           <ParallaxImageGrid {...content.imageScroller} />
         </Container>
         <Container color="color-neutral-light" maxWidth="lg">

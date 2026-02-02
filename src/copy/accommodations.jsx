@@ -1,3 +1,5 @@
+import {sendButtonEvent} from '../utils/analytics';
+
 export default {
   hero: {
     title: "Where to Stay",
@@ -37,6 +39,7 @@ export default {
           hollow: true,
           children: "Call the Hotel",
           href: "tel:8458767077",
+          onClick: () => sendButtonEvent("call-beekman"),
         },
       ],
     },
@@ -50,12 +53,14 @@ export default {
           varation: "primaryDark",
           children: "Book Online",
           href: "https://book.onagilysys.com/onecart/wbe/room/2230/rhinebeck-mirbeau/2026-08-28/2026-08-30/RBROOM/2",
+          onClick: () => sendButtonEvent("mirbeau-book"),
         },
         {
           varation: "primaryDark",
           children: "Call the Hotel",
           hollow: true,
           href: "tel:8776472328",
+          onClick: () => sendButtonEvent("mirbeau-call"),
         },
       ],
       overlay: {
@@ -79,12 +84,16 @@ export default {
           varation: "primaryDark",
           children: "Continue to Book",
           href: "https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430",
+          target: "_blank",
+          onClick: () => sendButtonEvent("beekman-book"),
         },
         secondaryCta: {
           varation: "primaryDark",
           children: "See Room Types",
           href: "https://www.beekmandelamaterinn.com/accommodations",
           hollow: true,
+          target: "_blank",
+          onClick: () => sendButtonEvent("beekman-rooms"),
         },
       },
     },

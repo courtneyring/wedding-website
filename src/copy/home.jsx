@@ -146,12 +146,14 @@ export default {
       variation: "color-primary-dark",
       children: "View Hotels",
       href: "/accommodations",
+      onClick: () => sendButtonEvent("navigate-accommodations"),
     },
     secondaryCta: {
       variation: "color-primary-dark",
       children: "Travel Info",
       href: "/travel",
       hollow: true,
+      onClick: () => sendButtonEvent("navigate-travel"),
       // variation: 'link'
     },
   },

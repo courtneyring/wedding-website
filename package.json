@@ -9,7 +9,7 @@
     "test": "npm playwright test"
   },
   "dependencies": {
-    "@courtneyring/components-library": "^1.0.14",
+    "@courtneyring/components-library": "^1.0.15",
     "@next/third-parties": "^16.1.6",
     "next": "15.5.6",
     "react": "19.1.0",
