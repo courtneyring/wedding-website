@@ -1,3 +1,5 @@
+import { sendButtonEvent } from "../utils/analytics";
+
 export default {
   hero: {
     title: [
@@ -77,57 +79,57 @@ export default {
       },
     ],
   },
-  weekend: {
-    title: "Our Weekend",
-    image: "/images/milea-2.png",
-    sections: [
-      {
-        header: "Welcome Party",
-        description:
-          "Kick off the weekend with drinks and light desserts as we welcome everyone to Rhinebeck.",
-        details: [
-          {
-            icon: "location_on",
-            text: [
-              "The Beekman Arms Hotel",
-              "Wayfarer Room",
-              "6387 Mill Street",
-              "Rhinebeck, NY 12572",
-            ],
-          },
-          { icon: "schedule", text: ["Friday August 28", "Time TBA"] },
-        ],
-      },
-      {
-        header: "Ceremony & Reception",
-        description:
-          "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
-        details: [
-          {
-            icon: "location_on",
-            text: [
-              "Milea Estate Vineyard",
-              "450 Hollow Road",
-              "Staatsburg, NY 12580",
-            ],
-          },
-          { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
-        ],
-      },
-      {
-        header: "After Party",
-        description:
-          "For anyone who wants to keep the night going, join us afterward for late-night drinks and dancing.",
-        details: [
-          {
-            icon: "location_on",
-            text: ["American Legion", "6361 Mill St", "Rhinebeck, NY 12572"],
-          },
-          { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
-        ],
-      },
-    ],
-  },
+  // weekend: {
+  //   title: "Our Weekend",
+  //   image: "/images/milea-2.png",
+  //   sections: [
+  //     {
+  //       header: "Welcome Party",
+  //       description:
+  //         "Kick off the weekend with drinks and light desserts as we welcome everyone to Rhinebeck.",
+  //       details: [
+  //         {
+  //           icon: "location_on",
+  //           text: [
+  //             "The Beekman Arms Hotel",
+  //             "Wayfarer Room",
+  //             "6387 Mill Street",
+  //             "Rhinebeck, NY 12572",
+  //           ],
+  //         },
+  //         { icon: "schedule", text: ["Friday August 28", "Time TBA"] },
+  //       ],
+  //     },
+  //     {
+  //       header: "Ceremony & Reception",
+  //       description:
+  //         "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
+  //       details: [
+  //         {
+  //           icon: "location_on",
+  //           text: [
+  //             "Milea Estate Vineyard",
+  //             "450 Hollow Road",
+  //             "Staatsburg, NY 12580",
+  //           ],
+  //         },
+  //         { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
+  //       ],
+  //     },
+  //     {
+  //       header: "After Party",
+  //       description:
+  //         "For anyone who wants to keep the night going, join us afterward for late-night drinks and dancing.",
+  //       details: [
+  //         {
+  //           icon: "location_on",
+  //           text: ["American Legion", "6361 Mill St", "Rhinebeck, NY 12572"],
+  //         },
+  //         { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
+  //       ],
+  //     },
+  //   ],
+  // },
   banner: {
     header: "More Details to Come",
     body: "Check back for updates",
@@ -136,6 +138,17 @@ export default {
     header: "Milea Estate Vineyard",
     body: "Staatsburg, NY",
     image: "/images/image.jpg",
+  },
+  imageTextSchedule: {
+    header: "Our Weekend",
+    body: "We’re looking forward to spending the weekend together. Check the schedule for timing, locations, and everything you need to know.",
+    image: "/images/wedding.jpg",
+    primaryCta: {
+      variation: "color-primary-dark",
+      children: "View Schedule",
+      href: "/schedule",
+      onClick: () => sendButtonEvent("navigate-schedule"),
+    },
   },
   imageTextPlanning: {
     header: "Travel & Accommodations",

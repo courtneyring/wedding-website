@@ -107,9 +107,9 @@ export default {
   ],
   bookYourStay: {
     header: "Plan Your Route",
-    cta: {
+    ctas: [{
       label: "See Travel Info",
       href: "/travel",
-    },
+    }],
   },
 };

@@ -12,6 +12,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   const analyticsId = process.env.NEXT_PUBLIC_ANALYTICS_ID;
+  console.log(process.env.NEXT_PUBLIC_ANALYTICS_ID);
   return (
     <html lang="en">
       <head>
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
         <Navbar
           links={[
             { label: "Home", value: "/" },
+            { label: "Schedule", value: "/schedule" },
             { label: "Hotels", value: "/accommodations" },
             { label: "Travel", value: "/travel" },
           ]}

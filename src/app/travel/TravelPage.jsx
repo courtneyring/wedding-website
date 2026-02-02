@@ -9,6 +9,7 @@ import {
   PromoGroup,
   Background,
   PinnedImage,
+  TextBlock
 } from "@courtneyring/components-library";
 import copy from "../../copy/travel";
 
@@ -30,9 +31,11 @@ export default function TravelPage() {
       <Container color="color-white" maxWidth="sm">
         <PromoGroup {...copy.tracks} />
       </Container>
-      <Container color="color-neutral-light" maxWidth="lg">
-        {/* <ImageTextBlock {...copy.road} /> */}
-        <PinnedImage {...copy.road} />
+      {/* <Container color="color-neutral-light" maxWidth="lg">
+=        <PinnedImage {...copy.road} />
+      </Container> */}
+      <Container color="color-neutral-light" maxWidth="sm">
+        <TextBlock {...copy.road} />
       </Container>
 
       <Container maxWidth="sm" color="color-primary-medium">

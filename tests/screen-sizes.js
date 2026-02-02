@@ -1,4 +1,3 @@
-// screen-sizes.js
 module.exports = [
   /* =======================
      xxs — 0–389 (Small Mobile)
@@ -9,33 +8,27 @@ module.exports = [
   { name: "xxs-portrait-medium", width: 360, height: 640 },
   { name: "xxs-portrait-high", width: 375, height: 667 },
 
-  // Landscape (does not exist in reality, intentionally omitted)
-
   /* =======================
-     xs — 390–599 (Standard Mobile)
+     xs — 390–625 (Standard Mobile)
      ======================= */
 
   // Portrait
   { name: "xs-portrait-low", width: 390, height: 844 },
   { name: "xs-portrait-medium", width: 414, height: 896 },
-  { name: "xs-portrait-high", width: 599, height: 900 },
+  { name: "xs-portrait-high", width: 625, height: 900 },
 
-  // Landscape
-  { name: "xs-landscape-low", width: 667, height: 375 },
-  { name: "xs-landscape-medium", width: 740, height: 360 },
-  { name: "xs-landscape-high", width: 799, height: 360 },
 
   /* =======================
-     sm — 600–799 (Small Tablet Portrait)
+     sm — 626–799 (Small Tablet Portrait)
      ======================= */
 
   // Portrait
-  { name: "sm-portrait-low", width: 600, height: 960 },
-  { name: "sm-portrait-medium", width: 712, height: 1138 }, // Galaxy Tab S4
+  { name: "sm-portrait-low", width: 626, height: 960 },
+  { name: "sm-portrait-medium", width: 712, height: 1138 },
   { name: "sm-portrait-high", width: 768, height: 1024 },
 
-  // Landscape (rare but possible via phones / small tablets)
-  { name: "sm-landscape-low", width: 600, height: 400 },
+  // Landscape
+  { name: "sm-landscape-low", width: 626, height: 400 },
   { name: "sm-landscape-medium", width: 712, height: 450 },
   { name: "sm-landscape-high", width: 799, height: 500 },
 
@@ -57,13 +50,13 @@ module.exports = [
      lg — 992–1199 (Small Desktop / Tablet Landscape)
      ======================= */
 
-  // Portrait (large tablets)
+  // Portrait
   { name: "lg-portrait-low", width: 992, height: 1300 },
   { name: "lg-portrait-medium", width: 1024, height: 1366 },
   { name: "lg-portrait-high", width: 1199, height: 1400 },
 
   // Landscape
-  { name: "lg-landscape-low", width: 1024, height: 768 },
+  { name: "lg-landscape-low", width: 992, height: 768 },
   { name: "lg-landscape-medium", width: 1100, height: 800 },
   { name: "lg-landscape-high", width: 1199, height: 900 },
 
@@ -71,7 +64,7 @@ module.exports = [
      xl — 1200–1599 (Desktop)
      ======================= */
 
-  // Portrait (rare but possible on rotated monitors)
+  // Portrait
   { name: "xl-portrait-low", width: 1200, height: 1600 },
   { name: "xl-portrait-medium", width: 1366, height: 1800 },
   { name: "xl-portrait-high", width: 1599, height: 2000 },

@@ -1,4 +1,4 @@
-import { Button } from '@courtneyring/components-library';
+import { Button } from "@courtneyring/components-library";
 
 export default {
   hero: {
@@ -84,9 +84,8 @@ export default {
     ],
   },
   road: {
-    title: "By Road",
-    image: "/images/milea-2.png",
-    sections: [
+    header: "By Road",
+    blocks: [
       {
         header: "A General Note",
         description:
@@ -98,34 +97,10 @@ export default {
           "Rhinebeck is within easy driving distance of several regional airports, with travel times ranging from about 45 minutes to three hours depending on traffic. Once you arrive, there is plenty of parking both in town and at the wedding venue.",
       },
       {
-        header: "Shuttle",
-        description:
-          "A shuttle will be provided to take guests from Rhinebeck to Milea, and back to Rhinebeck after the reception.",
-      },
-      {
-        header: "Rideshare",
+        header: "Cabs & Rideshare",
         description:
           "Rideshare is available, though limited in this area. Drivers may be coming from a distance. To avoid delays, we recommend booking your Uber or Lyft ahead of time.",
-      },
-      {
-        header: "Cabs",
-        description: [
-          "Cabs are an option as well, though drivers often come from farther away. Here are a few companies you can reach out to if you need a ride. ",
-          // <div
-          //   style={{
-          //     display: "flex",
-          //     alignItems: "center",
-          //     flexDirection: "column",
-          //   }}
-          // >
-          //   <Button variation="link" href="tel:8452245316">
-          //     Available One Taxi
-          //   </Button>
-          //   <Button variation="link" href="tel:8455512243">
-          //     Nick's Rhinecliff Taxi Service
-          //   </Button>
-          // </div>,
-        ],
+
         details: [
           {
             icon: "phone",
@@ -139,6 +114,12 @@ export default {
           },
         ],
       },
+      // {
+      //   header: "Cabs",
+      //   description: [
+      //     "Cabs are an option as well, though drivers often come from farther away. Here are a few companies you can reach out to if you need a ride. ",
+      //   ],
+      // },
     ],
   },
   tracks: {
@@ -172,9 +153,10 @@ export default {
   },
   bookYourStay: {
     header: "Book Your Stay",
-    cta: {
+    ctas: [{
       label: "See Hotels",
       href: "/accommodations",
-    },
+      onClick: () => sendButtonEvent("navigate-accommodations"),
+    }],
   },
 };

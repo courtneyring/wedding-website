@@ -2,6 +2,8 @@
 const { test } = require("@playwright/test");
 const SCREEN_SIZES = require("./screen-sizes");
 const BROWSERS = require("./browsers");
+import fs from "fs";
+import path from "path";
 
 const URL = "http://localhost:3000";
 
@@ -12,11 +14,12 @@ const paths = [
   "/accommodations?beekmanModal=true",
 ];
 
+
 for (const { name, width, height } of SCREEN_SIZES) {
-  for (const path of paths) {
-    test.describe(`${name} - ${path}`, () => {
+  for (const pathName of paths) {
+    test.describe(`${name} - ${pathName}`, () => {
       for (const browserConfig of BROWSERS) {
-        test(`${browserConfig.name} – ${name} - ${path}`, async ({
+        test(`${browserConfig.name} – ${name} - ${pathName}`, async ({
           playwright,
         }) => {
           const browser = await playwright[browserConfig.type].launch();
@@ -26,7 +29,7 @@ for (const { name, width, height } of SCREEN_SIZES) {
 
           const page = await context.newPage();
 
-          await page.goto(`${URL}${path}`, { waitUntil: "networkidle" });
+          await page.goto(`${URL}${pathName}`, { waitUntil: "networkidle" });
 
           // Optional: wait for main content to exist
           await page.waitForSelector("main");
@@ -56,7 +59,10 @@ for (const { name, width, height } of SCREEN_SIZES) {
           await page.waitForTimeout(500);
 
           await page.screenshot({
-            path: `screenshots/${path === "/" ? "root" : path}/${name.split("-")[0]}/${name.split("-")[1]}/${name}-${browserConfig.name}.png`,
+            path: path.join(
+              __dirname,
+              `screenshots/${pathName === "/" ? "root" : pathName}/${name.split("-")[0]}/${name.split("-")[1]}/${width}x${height}-${browserConfig.name}.png`,
+            ),
             fullPage: true,
             animations: "disabled",
           });
