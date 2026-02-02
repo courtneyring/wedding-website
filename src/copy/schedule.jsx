@@ -51,6 +51,7 @@ export default {
       body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and dancing.",
       image: "/images/proposal-3.jpg",
       color: "color-secondary",
+      pos: "60% 30%",
       details: [
         {
           icon: "location_on",
@@ -61,7 +62,7 @@ export default {
     },
   ],
   bookend: {
-    header: "We Hope You Can Make It",
+    header: "Plan Your Trip",
     ctas: [
       {
         label: "Hotels",
