@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
-        {/* <Toolbar /> */}
+        <Toolbar />
         <Navbar
           links={[
             { label: "Home", value: "/" },
