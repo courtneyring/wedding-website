@@ -27,23 +27,6 @@ export default {
   },
   fifties: [
     {
-      heading: "Beekman Arms Delamater Inn",
-      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. With a range of room styles across the inn, it’s a great option if you're looking for historic charm and variety. We have a block that will be available until July 27.",
-      image: "/images/beekman-arms.jpg",
-      reverse: true,
-      color: "color-neutral-light",
-      ctas: [
-        { children: "Book Online" },
-        {
-          varation: "primaryDark",
-          hollow: true,
-          children: "Call the Hotel",
-          href: "tel:8458767077",
-          onClick: () => sendButtonEvent("call-beekman"),
-        },
-      ],
-    },
-    {
       heading: "Mirbeau Inn & Spa",
       body: "Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel with a spa and restaurant on site, making it a great option for a more relaxing and luxurious stay. While there is no room block, we'll be staying at Mirbeau and would love for guests to join us there.",
       image: "/images/mirbeau.jpg",
@@ -61,6 +44,23 @@ export default {
           hollow: true,
           href: "tel:8776472328",
           onClick: () => sendButtonEvent("mirbeau-call"),
+        },
+      ],
+    },
+    {
+      heading: "Beekman Arms Delamater Inn",
+      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. With a range of room styles across the inn, it’s a great option if you're looking for historic charm and variety. We have a block that will be available until July 27.",
+      image: "/images/beekman-arms.jpg",
+      reverse: true,
+      color: "color-neutral-light",
+      ctas: [
+        { children: "Book Online" },
+        {
+          varation: "primaryDark",
+          hollow: true,
+          children: "Call the Hotel",
+          href: "tel:8458767077",
+          onClick: () => sendButtonEvent("call-beekman"),
         },
       ],
       overlay: {
@@ -102,14 +102,15 @@ export default {
       body: "There are a few bed & breakfast options, as well as apartments through Airbnb. If you prefer to do one of these, we recommend you finding one in town to make your weekend as smooth as possible.",
       image: "/images/gables.jpg",
       color: "color-neutral-light",
-      reverse: true,
     },
   ],
   bookYourStay: {
     header: "Plan Your Route",
-    ctas: [{
-      label: "See Travel Info",
-      href: "/travel",
-    }],
+    ctas: [
+      {
+        label: "See Travel Info",
+        href: "/travel",
+      },
+    ],
   },
 };
