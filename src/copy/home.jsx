@@ -10,6 +10,7 @@ export default {
     subtitle: [<p>Milea Estate Vineyard</p>, <p>Staatsburg, NY</p>],
     eyebrow: "August 29, 2026",
     image: "/images/milea-1.jpg",
+    pos: "center 25%"
   },
   note: {
     salutation: "A Note from the",

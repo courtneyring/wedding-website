@@ -6,9 +6,11 @@ module.exports = [
   { name: "mobile-landscape-800x360", width: 800, height: 360 },
 
   { name: "mobile-portrait-390x844", width: 390, height: 844 },
+  { name: "mobile-portrait-393x852", width: 393, height: 852 },
   { name: "mobile-landscape-844x390", width: 844, height: 390 },
 
   { name: "mobile-portrait-393x873", width: 393, height: 873 },
+  { name: "mobile-portrait-440x956", width: 440, height: 956 },
   { name: "mobile-landscape-873x393", width: 873, height: 393 },
 
   /* =======================
@@ -16,6 +18,7 @@ module.exports = [
      ======================= */
   { name: "tablet-portrait-768x1024", width: 768, height: 1024 },
   { name: "tablet-landscape-1024x768", width: 1024, height: 768 },
+  { name: "tablet-landscape-1024x1024", width: 1024, height: 1024 },
 
   { name: "tablet-portrait-810x1080", width: 810, height: 1080 },
   { name: "tablet-landscape-1080x810", width: 1080, height: 810 },
@@ -26,12 +29,13 @@ module.exports = [
   /* =======================
      Desktop / Laptop
      ======================= */
+  { name: "desktop-1117x686", width: 1117, height: 686 },
+  { name: "desktop-1280x720", width: 1280, height: 720 },
+  { name: "desktop-1280x551", width: 1280, height: 551 },
   { name: "desktop-1366x768", width: 1366, height: 768 },
-  { name: "desktop-768x1366", width: 768, height: 1366 },
 
   { name: "desktop-1536x864", width: 1536, height: 864 },
-  { name: "desktop-864x1536", width: 864, height: 1536 },
+  { name: "desktop-1728x1117", width: 1728, height: 1117 },
 
   { name: "desktop-1920x1080", width: 1920, height: 1080 },
-  { name: "desktop-1080x1920", width: 1080, height: 1920 },
 ];
