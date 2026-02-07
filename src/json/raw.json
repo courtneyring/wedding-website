@@ -1,0 +1,3440 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+      "created_time": "2026-02-07T19:43:00.000Z",
+      "last_edited_time": "2026-02-07T20:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": "mrhjr@comcast.net"
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "e54ccafd-144d-4b29-8344-488021394f90",
+            "name": "father-of-the-bride",
+            "color": "orange"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "248-321-0783"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "953becf9-80b8-403e-98f4-098fbd444c04",
+            "name": "Family & Friends",
+            "color": "green"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "mrhjr@comcast.net"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "howie",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "howie",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "248-321-0783"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Howard Ring",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Howard Ring",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Howard-Ring-300de2a91181800984b9f3021e97e700",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "created_time": "2026-02-07T19:39:00.000Z",
+      "last_edited_time": "2026-02-07T20:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": "mhaberlach@me.com"
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "444fc8cc-4e60-4302-9d88-0490176357ad",
+            "name": "groom",
+            "color": "default"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "775-686-8979"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "mhaberlach@me.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "matt",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "matt",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "775-686-8979"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Matt Haberlach",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Matt Haberlach",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Matt-Haberlach-300de2a911818024bea5e67cf3ec00ea",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "created_time": "2026-02-07T19:39:00.000Z",
+      "last_edited_time": "2026-02-07T20:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": "courtneyring3@gmail.com"
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "68ba03e4-ef97-476d-964b-7225d56dd2a7",
+            "name": "bride",
+            "color": "green"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "248-924-5377"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "courtneyring3@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "court",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "court",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "248-924-5377"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Courtney Ring",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Courtney Ring",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Courtney-Ring-300de2a9118180298dcbee42ecab92f8",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+      "created_time": "2026-02-07T19:37:00.000Z",
+      "last_edited_time": "2026-02-07T19:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "47354d47-2ac2-4935-931b-4d89625833d7",
+            "name": "best-man",
+            "color": "brown"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "cj",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "cj",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "CJ Douty",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "CJ Douty",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/CJ-Douty-300de2a9118180308d3cda6c337ae361",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "created_time": "2026-02-07T19:45:00.000Z",
+      "last_edited_time": "2026-02-07T20:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Lindsay Eileen",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Lindsay Eileen",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "247de2a9-1181-8029-8488-f7bc9f4282ad"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "43c735f3-3b81-40b3-af5a-e36b9550daa2",
+            "name": "photography",
+            "color": "purple"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "717-307-1321"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "lindsayeileenphotography@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "lindsay",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "lindsay",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "717-307-1321"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "lindsayeileenphotography@gmail.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Lindsay Varner",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Lindsay Varner",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Lindsay-Varner-300de2a91181803fa8fbf24f2426e1fd",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+      "created_time": "2026-02-07T19:36:00.000Z",
+      "last_edited_time": "2026-02-07T20:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "e1fe70fe-5889-4a80-852a-62f39e739f27",
+            "name": "bridesmaid",
+            "color": "red"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "810-813-6466"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "mackenzie",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "mackenzie",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "810-813-6466"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mackenzie Robertson",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mackenzie Robertson",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Mackenzie-Robertson-300de2a91181804aaeb3da17945f356d",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "created_time": "2026-02-07T20:21:00.000Z",
+      "last_edited_time": "2026-02-07T20:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Conway Entertainment",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Conway Entertainment",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "279de2a9-1181-8050-814a-faa294471596"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "3f6ce077-4007-48ba-abdf-e7c0b756c8e3",
+            "name": "dj",
+            "color": "default"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "800-882-7216"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "support@conwayentertainment.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "jeff",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "jeff",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "800-882-7216"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "support@conwayentertainment.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Jeff Richards",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Jeff Richards",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Jeff-Richards-300de2a91181804bb266cdd24fd63e39",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+      "created_time": "2026-02-07T19:37:00.000Z",
+      "last_edited_time": "2026-02-07T19:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "8636208e-4ad6-4f2c-8740-aebf1400d6c7",
+            "name": "groomsman",
+            "color": "blue"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "alex",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "alex",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Alex Myers",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Alex Myers",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Alex-Myers-300de2a91181805cbaa6c4c331099d70",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+      "created_time": "2026-02-07T19:36:00.000Z",
+      "last_edited_time": "2026-02-07T20:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": "domenicapazmino3@gmail.com"
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "e1fe70fe-5889-4a80-852a-62f39e739f27",
+            "name": "bridesmaid",
+            "color": "red"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "201-741-9514"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "domenicapazmino3@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "dom",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "dom",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "201-741-9514"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Domenica Pazmino",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Domenica Pazmino",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Domenica-Pazmino-300de2a91181805fa8f1d6e834fa7f7d",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-805f-b40a-c82cc61f68e9",
+      "created_time": "2026-02-07T19:21:00.000Z",
+      "last_edited_time": "2026-02-07T20:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "e1fe70fe-5889-4a80-852a-62f39e739f27",
+            "name": "bridesmaid",
+            "color": "red"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "248-767-6305"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "jessie",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "jessie",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "248-767-6305"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Jessica Ronayne",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Jessica Ronayne",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Jessica-Ronayne-300de2a91181805fb40ac82cc61f68e9",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8064-9891-df4314ea7fad",
+      "created_time": "2026-02-07T20:32:00.000Z",
+      "last_edited_time": "2026-02-07T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Peony Design Studio",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Peony Design Studio",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "263de2a9-1181-8034-98a7-f1e4fdb8e45f"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "9ddc68b4-57c7-4af7-979c-cac743cd5705",
+            "name": "florist",
+            "color": "pink"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "845-723-4600"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "peonydesignstudiollc@yahoo.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "christine",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "christine",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "845-723-4600"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "peonydesignstudiollc@yahoo.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Christine Fontana",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Christine Fontana",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Christine-Fontana-300de2a9118180649891df4314ea7fad",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8065-8a5e-f03507318665",
+      "created_time": "2026-02-07T20:30:00.000Z",
+      "last_edited_time": "2026-02-07T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Milea Estate Vineyard",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Milea Estate Vineyard",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "253de2a9-1181-8076-bae4-cbf8008bdbc7"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "212202ab-0a7c-47f8-9791-82e54a45e53d",
+            "name": "venue",
+            "color": "default"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "845-392-2422"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "events@mileaestatevineyard.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "jamie",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "jamie",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "845-392-2422"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "events@mileaestatevineyard.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Jamie Greene",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Jamie Greene",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Jamie-Greene-300de2a9118180658a5ef03507318665",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+      "created_time": "2026-02-07T19:36:00.000Z",
+      "last_edited_time": "2026-02-07T20:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "e1fe70fe-5889-4a80-852a-62f39e739f27",
+            "name": "bridesmaid",
+            "color": "red"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "206-200-8456"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "becky",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "becky",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "206-200-8456"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Becky Wetzler",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Becky Wetzler",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Becky-Wetzler-300de2a91181807c906bd8c1f1d72667",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "created_time": "2026-02-07T20:25:00.000Z",
+      "last_edited_time": "2026-02-07T20:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "House of Glam",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "House of Glam",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26ade2a9-1181-8041-8474-f6d86b5fe969"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "04febee6-12e2-4f90-a45b-1ca27ecdbdc2",
+            "name": "hair",
+            "color": "yellow"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "(203)-885-3196"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "lauramoorebeauty@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "laura",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "laura",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "(203)-885-3196"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "lauramoorebeauty@gmail.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Laura Moore",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Laura Moore",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Laura-Moore-300de2a9118180869ec3ed32ebfd97c5",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+      "created_time": "2026-02-07T19:37:00.000Z",
+      "last_edited_time": "2026-02-07T19:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "8636208e-4ad6-4f2c-8740-aebf1400d6c7",
+            "name": "groomsman",
+            "color": "blue"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "austin",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "austin",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Austin Michel",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Austin Michel",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Austin-Michel-300de2a91181809e96c3da3e34e95806",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+      "created_time": "2026-02-07T19:43:00.000Z",
+      "last_edited_time": "2026-02-07T20:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "3b67d549-2d3e-4cff-94ef-58a2c013422b",
+            "name": "aunt-of-the-bride",
+            "color": "yellow"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "810-407-2884"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "953becf9-80b8-403e-98f4-098fbd444c04",
+            "name": "Family & Friends",
+            "color": "green"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "barb",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "barb",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "810-407-2884"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Barb Konuszewski",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Barb Konuszewski",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Barb-Konuszewski-300de2a91181809fb7f2c8b6c54639a5",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+      "created_time": "2026-02-07T19:43:00.000Z",
+      "last_edited_time": "2026-02-07T20:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": "mjrandhjr@comcast.net"
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "a5e9874f-2c3d-4878-81a1-5bb13e2e7484",
+            "name": "mother-of-the-bride",
+            "color": "pink"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "313-434-8702"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "953becf9-80b8-403e-98f4-098fbd444c04",
+            "name": "Family & Friends",
+            "color": "green"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "mjrandhjr@comcast.net"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "mj",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "mj",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "313-434-8702"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mary Jo Ring",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mary Jo Ring",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Mary-Jo-Ring-300de2a9118180c18998e898d9766e4b",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-80c4-b498-ce77d077924a",
+      "created_time": "2026-02-07T20:31:00.000Z",
+      "last_edited_time": "2026-02-07T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Dorian Quartet",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Dorian Quartet",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "27bde2a9-1181-805f-b3ba-f92a33a4f618"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "14efea64-9c4b-4c0f-82f6-7d0b5b1877d9",
+            "name": "musicians",
+            "color": "red"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "845-642-8785"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "dorianstringquartet@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "alexis",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "alexis",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "845-642-8785"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "dorianstringquartet@gmail.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Alexis Koutrouvelis",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Alexis Koutrouvelis",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Alexis-Koutrouvelis-300de2a9118180c4b498ce77d077924a",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+      "created_time": "2026-02-07T19:36:00.000Z",
+      "last_edited_time": "2026-02-07T20:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": "ashleyleighslater@gmail.com"
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "61096388-216b-4610-846c-c68a187307e2",
+            "name": "maid-of-honor",
+            "color": "gray"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "248-412-3834"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "ashleyleighslater@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ashley",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ashley",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "248-412-3834"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Ashley Slater",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Ashley Slater",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Ashley-Slater-300de2a9118180c89596f22327f25eab",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+      "created_time": "2026-02-07T19:37:00.000Z",
+      "last_edited_time": "2026-02-07T20:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "8636208e-4ad6-4f2c-8740-aebf1400d6c7",
+            "name": "groomsman",
+            "color": "blue"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "828-674-2391"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "87b1bf6e-c53d-4173-9eb2-bfb60f7069e2",
+            "name": "Wedding Party",
+            "color": "yellow"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": null
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "wes",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "wes",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": "828-674-2391"
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Wes Landreth",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Wes Landreth",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Wes-Landreth-300de2a9118180d8ad32fa3d87421a2e",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "created_time": "2026-02-07T20:27:00.000Z",
+      "last_edited_time": "2026-02-07T20:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "afd36642-5351-4773-84bc-357376259093"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "data_source_id",
+        "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+        "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Company": {
+          "id": "%3AMFw",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "title",
+                "title": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "House of Glam",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "House of Glam",
+                    "href": null
+                  }
+                ]
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Email": {
+          "id": "%3B%3B%7Cm",
+          "type": "email",
+          "email": null
+        },
+        "rollup": {
+          "id": "%3BXF%7B",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26ade2a9-1181-8008-8990-e5d777a3b691"
+            }
+          ],
+          "has_more": false
+        },
+        "Role in Wedding": {
+          "id": "%3DK%40S",
+          "type": "select",
+          "select": {
+            "id": "0198c458-8d41-44de-8da9-ec3f1aa6fe52",
+            "name": "makeup",
+            "color": "gray"
+          }
+        },
+        "Phone Number": {
+          "id": "Hhas",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "(203) 731-7319"
+          }
+        },
+        "Category": {
+          "id": "SONO",
+          "type": "select",
+          "select": {
+            "id": "69ce68e4-5aea-4d98-8a64-ca6e86268e8b",
+            "name": "Vendors",
+            "color": "blue"
+          }
+        },
+        "Email": {
+          "id": "Tn%3F%5E",
+          "type": "formula",
+          "formula": {
+            "type": "string",
+            "string": "sarajuliannabeauty@gmail.com"
+          }
+        },
+        "id": {
+          "id": "Y%7B%3BF",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "sara",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "sara",
+              "href": null
+            }
+          ]
+        },
+        "Linked Phone": {
+          "id": "uRpM",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "phone_number",
+                "phone_number": "(203) 731-7319"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Manual Phone": {
+          "id": "x%3Fkw",
+          "type": "phone_number",
+          "phone_number": null
+        },
+        "Linked Email": {
+          "id": "yNqX",
+          "type": "rollup",
+          "rollup": {
+            "type": "array",
+            "array": [
+              {
+                "type": "email",
+                "email": "sarajuliannabeauty@gmail.com"
+              }
+            ],
+            "function": "show_original"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sara Julianna",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sara Julianna",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Sara-Julianna-300de2a9118180eabff2c1e5d156f770",
+      "public_url": null
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "page_or_data_source",
+  "page_or_data_source": {},
+  "request_id": "97025c46-7707-44ab-b035-90558f91dd74"
+}
