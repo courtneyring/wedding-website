@@ -1,6 +1,6 @@
 "use client";
 
-import copy from "../assets/json/global.json";
+import copy from "@/assets/json/global.json";
 import { Footer } from "@courtneyring/components-library";
 
 
