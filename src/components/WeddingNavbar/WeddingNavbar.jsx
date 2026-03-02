@@ -9,6 +9,7 @@ const WeddingNavbar = () => {
         { label: "Schedule", value: "/schedule" },
         { label: "Hotels", value: "/accommodations" },
         { label: "Travel", value: "/travel" },
+        { label: "RSVP", value: "/rsvp" },
       ]}
       logoComponent={<CMIcon />}
     ></Navbar>

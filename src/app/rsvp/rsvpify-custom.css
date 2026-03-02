@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Parisienne&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Parisienne&display=swap");
 
 *,
 html body .themed-element,
 html body .themed-element * {
   font-family: "Crimson Pro", "Times New Roman", Times, serif !important;
   font-size: 22px !important;
+  line-height: 1;
 }
-
 
 button {
   box-shadow: none;
@@ -25,25 +25,61 @@ a[href="https://rsvpify.com/?utm_source=hyperloop&utm_medium=embedded_form_heade
   display: none;
 }
 
-
-div[data-index="2"] .mb-2.break-words.themed-element.themed-element-form-text,
-div[data-index="3"] .mb-2.break-words.themed-element.themed-element-form-text {
-  white-space: pre-line;
-  word-break: break-word;
-  font-feature-settings: "liga" 0;
-}
-
 .rounded-md.relative.transition-all.mt-20.mb-24.mx-4.themed-element.undefined.themed-element- {
   margin-top: 0rem;
 }
 
-
-.themed-element-form-title-text.themed-element-form-accent {
-  font-family: "Parisienne", cursive !important;
+.themed-element-form-background
+  > .themed-element-form-title-text.themed-element-form-accent:first-child {
   font-weight: 300 !important;
-  font-size: 30px !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 0;
 }
 
+/* Radios */
+.form-field-wrapper .rounded-full:not(.option-selected) {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-top: 5px;
+}
+
+.form-field-wrapper .rounded-full .option-selected {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+
+.text-center.text-2xl.mt-8.mb-4.border-b.pb-4.font-semibold.themed-element.themed-element-form-title-text.themed-element-form-accent {
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 28px !important;
+}
+
+.themed-element-form-background
+  .h-full.w-full
+  div:not(:first-child)
+  button.themed-element-form-button {
+  margin-top: 20px;
+}
+
+.themed-element-form-text .my-1 {
+  margin-top: 10px;
+}
+
+.shadow-md {
+  box-shadow: none !important;
+}
+
+input {
+  background-color: white !important;
+}
+
+.vb-dragger-styler {
+  background-color: #e2e0e0 !important;
+}
+
+/* Wedding RSVP and Confirmation Screens */
 div[data-index="0"] .themed-element-form-background .text-2xl {
   font-size: 33px !important;
   border-bottom: none;
@@ -51,7 +87,9 @@ div[data-index="0"] .themed-element-form-background .text-2xl {
   padding-bottom: 0;
 }
 
-div[data-index="0"] .themed-element-form-background>div:nth-child(2) {
+div[data-index="0"]
+  .themed-element-form-background
+  > div.mb-2.break-words.themed-element.themed-element-form-text {
   text-align: center;
   font-size: 20px !important;
   letter-spacing: 1px;
@@ -62,35 +100,103 @@ div[data-index="0"] .themed-element-form-title-text.themed-element-form-accent {
   border: none;
 }
 
-
-div[data-index="0"] .themed-element-form-title-text.themed-element-form-accent .font-semibold {
+div[data-index="0"]
+  .z-10.form-field-wrapper
+  .themed-element-form-title-text.themed-element-form-accent
+  .font-semibold {
   margin-bottom: 0;
+}
+
+div[data-index="0"] .mt-6 {
+  margin-top: 2rem;
 }
 
 div[data-index="0"] .form-field-wrapper .mt-4 {
   margin-top: 0;
 }
 
-
 div[data-index="0"] .form-field-wrapper .leading-normal {
   line-height: 0.8rem;
 }
-
-
-.form-field-wrapper .rounded-full {
-  width: 1.5rem;
-  height: 1.5rem;
+div[data-index="0"] .form-field-wrapper.z-10 > .block.w-full > .mt-6 > .themed-element-form-title-text.themed-element-form-accent {
+  flex-direction: column;
 }
 
-.form-field-wrapper .rounded-full .option-selected {
-  width: 0.8rem;
-  height: 0.8rem;
+div[data-index="0"] .form-field-wrapper.z-10 > .block.w-full > .mt-6 > .themed-element-form-title-text.themed-element-form-accent > div {
+  margin-bottom: 5px;
 }
 
-.shadow-md {
-  box-shadow: none !important;
+div[data-index="0"] .editor h1 {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 27px;
+  letter-spacing: 1px;
+  font-size: 28px !important;
 }
 
-.vb-dragger-styler {
-  background-color: #e2e0e0 !important;
+/* Response Summary on the last page */
+div[data-index="0"] .rounded-md.themed-element.undefined > .h-full.w-full > .min-h-min  .themed-element.mt-16.themed-element-form-background > .p-6.items-center.border-b.themed-element.themed-element-form-accent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ 
+}
+
+/* Response Summary on the last page */
+div[data-index="0"] .rounded-md.themed-element.undefined > .h-full.w-full > .min-h-min  .themed-element.mt-16.themed-element-form-background  .p-6.items-center.border-b.themed-element.themed-element-form-accent {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+ 
+}
+
+div[data-index="0"] .rounded-md.themed-element.undefined > .h-full.w-full > .min-h-min  .themed-element.mt-16.themed-element-form-background  .p-6.items-center.border-b.themed-element.themed-element-form-accent > div:nth-child(1) {
+      grid-column: 1 / -1; 
+}
+
+
+.rounded-md > .h-full.w-full .ProseMirror > p > strong  {
+  white-space: nowrap;
+}
+
+
+/* Transportation Pages */
+
+.mb-2.break-words.themed-element.themed-element-form-text {
+  white-space: pre-line;
+  word-break: break-word;
+  font-feature-settings: "liga" 0;
+  margin-bottom: 2rem;
+  margin-top: -1rem;
+  align-self: center;
+}
+
+.form-field-wrapper .block.w-full > .pt-2.pl-2 {
+  padding-top: 1rem;
+}
+
+.form-field-wrapper
+  .block.w-full
+  > .pt-2.pl-2
+  a
+  .themed-element-form-text
+  button {
+  padding-top: 5px;
+}
+
+.themed-element-form-text
+  .rounded-md.themed-element-form-background
+  .space-x-2 {
+  flex-direction: column;
+}
+
+.themed-element-form-text
+  .rounded-md.themed-element-form-background
+  .space-x-2
+  > div:nth-child(2) {
+  margin-left: 0;
+  margin-top: 10px;
+}
+
+.themed-element-form-background:has(input) .px-6.py-2 {
+  padding-left: 0;
+  padding-right: 0;
 }
