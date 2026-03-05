@@ -49,12 +49,24 @@ a[href="https://rsvpify.com/?utm_source=hyperloop&utm_medium=embedded_form_heade
   height: 0.8rem;
 }
 
-.text-center.text-2xl.mt-8.mb-4.border-b.pb-4.font-semibold.themed-element.themed-element-form-title-text.themed-element-form-accent {
+/* Header everywhere else */
+.rsvp-form:not(:has( div[data-index='0'])) .themed-element-form-background .text-2xl {
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: 1px;
   font-size: 28px !important;
+
 }
+
+/* Header on Welcome and Confirmation Screens */
+.rsvp-form:has( div[data-index='0']) .themed-element-form-background .text-2xl {
+  font-size: 45px !important;
+  line-height: 1.5;
+  /* border-bottom: none; */
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 
 .themed-element-form-background
   .h-full.w-full
@@ -79,13 +91,6 @@ input {
   background-color: #e2e0e0 !important;
 }
 
-/* Wedding RSVP and Confirmation Screens */
-div[data-index="0"] .themed-element-form-background .text-2xl {
-  font-size: 33px !important;
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
 
 div[data-index="0"]
   .themed-element-form-background
@@ -96,7 +101,7 @@ div[data-index="0"]
   text-transform: uppercase;
 }
 
-div[data-index="0"] .themed-element-form-title-text.themed-element-form-accent {
+div[data-index="0"] .z-10.form-field-wrapper > .block.w-full > .mt-6 > .themed-element-form-title-text.themed-element-form-accent {
   border: none;
 }
 
