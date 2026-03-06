@@ -3,126 +3,156 @@
     "name": "Howard Ring",
     "email": "mrhjr@comcast.net",
     "phone": "248-321-0783",
-    "role": "father-of-the-bride"
+    "role": "father-of-the-bride",
+    "notes": []
   },
   {
     "name": "Matt Haberlach",
     "email": "mhaberlach@me.com",
     "phone": "775-686-8979",
-    "role": "groom"
+    "role": "groom",
+    "notes": []
   },
   {
     "name": "Courtney Ring",
     "email": "courtneyring3@gmail.com",
     "phone": "248-924-5377",
-    "role": "bride"
+    "role": "bride",
+    "notes": []
   },
   {
     "name": "CJ Douty",
     "email": null,
     "phone": null,
-    "role": "best-man"
+    "role": "best-man",
+    "notes": []
   },
   {
     "name": "Lindsay Varner",
     "email": "lindsayeileenphotography@gmail.com",
     "phone": "717-307-1321",
-    "role": "photography"
+    "role": "photography",
+    "notes": []
   },
   {
     "name": "Mackenzie Robertson",
     "email": null,
     "phone": "810-813-6466",
-    "role": "bridesmaid"
+    "role": "bridesmaid",
+    "notes": []
   },
   {
     "name": "Jeff Richards",
     "email": "support@conwayentertainment.com",
     "phone": "800-882-7216",
-    "role": "dj"
+    "role": "dj",
+    "notes": []
   },
   {
     "name": "Alex Myers",
     "email": null,
     "phone": null,
-    "role": "groomsman"
+    "role": "groomsman",
+    "notes": []
   },
   {
     "name": "Domenica Pazmino",
     "email": "domenicapazmino3@gmail.com",
     "phone": "201-741-9514",
-    "role": "bridesmaid"
+    "role": "bridesmaid",
+    "notes": [
+      "Steam Dress beforehand",
+      "Here’s more notes",
+      "and more notes",
+      "some notes with a line break\nhere’s the line break",
+      null
+    ]
   },
   {
     "name": "Jessica Ronayne",
     "email": null,
     "phone": "248-767-6305",
-    "role": "bridesmaid"
+    "role": "bridesmaid",
+    "notes": [
+      null,
+      null
+    ]
   },
   {
     "name": "Christine Fontana",
     "email": "peonydesignstudiollc@yahoo.com",
     "phone": "845-723-4600",
-    "role": "florist"
+    "role": "florist",
+    "notes": []
   },
   {
     "name": "Jamie Greene",
     "email": "events@mileaestatevineyard.com",
     "phone": "845-392-2422",
-    "role": "venue"
+    "role": "venue",
+    "notes": []
   },
   {
     "name": "Becky Wetzler",
     "email": null,
     "phone": "206-200-8456",
-    "role": "bridesmaid"
+    "role": "bridesmaid",
+    "notes": []
   },
   {
     "name": "Laura Moore",
     "email": "lauramoorebeauty@gmail.com",
     "phone": "(203)-885-3196",
-    "role": "hair"
+    "role": "hair",
+    "notes": []
   },
   {
     "name": "Austin Michel",
     "email": null,
     "phone": null,
-    "role": "groomsman"
+    "role": "groomsman",
+    "notes": []
   },
   {
     "name": "Barb Konuszewski",
     "email": null,
     "phone": "810-407-2884",
-    "role": "aunt-of-the-bride"
+    "role": "aunt-of-the-bride",
+    "notes": []
   },
   {
     "name": "Mary Jo Ring",
     "email": "mjrandhjr@comcast.net",
     "phone": "313-434-8702",
-    "role": "mother-of-the-bride"
+    "role": "mother-of-the-bride",
+    "notes": []
   },
   {
     "name": "Alexis Koutrouvelis",
     "email": "dorianstringquartet@gmail.com",
     "phone": "845-642-8785",
-    "role": "musicians"
+    "role": "musicians",
+    "notes": []
   },
   {
     "name": "Ashley Slater",
     "email": "ashleyleighslater@gmail.com",
     "phone": "248-412-3834",
-    "role": "maid-of-honor"
+    "role": "maid-of-honor",
+    "notes": []
   },
   {
     "name": "Wes Landreth",
     "email": null,
     "phone": "828-674-2391",
-    "role": "groomsman"
+    "role": "groomsman",
+    "notes": []
   },
   {
     "name": "Sara Julianna",
     "email": "sarajuliannabeauty@gmail.com",
     "phone": "(203) 731-7319",
-    "role": "makeup"
+    "role": "makeup",
+    "notes": []
   }
 ]
