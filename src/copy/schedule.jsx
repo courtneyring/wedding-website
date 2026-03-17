@@ -14,7 +14,7 @@ export default {
       body: "Kick off the weekend with drinks and mingling as we welcome everyone to Rhinebeck.",
       image: "/images/proposal-1.jpg",
       pos: "bottom center",
-      color: "color-secondary",
+      color: "color-white",
       details: [
         {
           icon: "location_on",
@@ -33,6 +33,7 @@ export default {
       body: "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
       image: "/images/proposal-2.jpg",
       pos: "bottom center",
+      color: 'color-primary-dark',
       reverse: true,
       details: [
         {
@@ -50,7 +51,7 @@ export default {
       heading: "After Party",
       body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
       image: "/images/proposal-3.jpg",
-      color: "color-secondary",
+      color: "color-white",
       pos: "60% 30%",
       details: [
         {

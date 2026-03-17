@@ -19,7 +19,7 @@ export default function SchedulePage() {
         <Container color="color-neutral-light" styleless>
           <OverlayHero {...content.hero} />
         </Container>
-        <Container maxWidth="sm" color="color-primary-dark">
+        <Container maxWidth="sm" color="color-neutral-dark">
           <Banner {...content.banner} />
         </Container>
 
