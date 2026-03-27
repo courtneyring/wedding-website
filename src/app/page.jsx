@@ -35,10 +35,10 @@ export default function Home() {
           <Background image="/images/background.jpg" y={0} />
         </Container>
 
-        <Container color="color-secondary" maxWidth="lg">
+        <Container color="color-neutral-light" maxWidth="lg">
           <ImageTextBlock {...content.imageTextSchedule} />
         </Container>
-        <Container color="color-secondary" maxWidth="lg">
+        <Container color="color-neutral-light" maxWidth="lg">
           <ImageTextBlock {...content.imageTextPlanning} />
         </Container>
         <Container color="color-primary-medium" maxWidth="lg">

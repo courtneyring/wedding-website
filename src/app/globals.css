@@ -13,11 +13,11 @@
 :root {
   --color-primary-dark: #344149;
   --color-primary-medium: #4a5d6a;
-  --color-primary-light: #668193;
+  --color-primary-light: #8098a8;
   --color-neutral-dark: #494746;
-  --color-neutral-medium: #aba39e;
-  --color-neutral-light: #d2cac5;
-  --color-white: #f4ede7;
+  --color-neutral-medium: #d2cac5;
+  --color-neutral-light: #dddad7;
+  --color-white: #efefef;
   --color-secondary: #f9e2e6;
 
   --font-primary: "Crimson Pro", 'Times New Roman', Times,;
