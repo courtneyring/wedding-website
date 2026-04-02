@@ -11,7 +11,7 @@ import {
   PinnedImage,
   TextBlock
 } from "@courtneyring/components-library";
-import copy from "../../copy/travel";
+import copy from "@/copy/travel";
 
 
 

@@ -10,7 +10,7 @@ import {
   GenericOverlay,
 } from "@courtneyring/components-library";
 import { sendButtonEvent } from "@/utils/analytics";
-import copyOriginal from "../../copy/accommodations";
+import copyOriginal from "@/copy/accommodations";
 import { createPortal } from "react-dom";
 import { useState, Fragment, useEffect } from "react";
 

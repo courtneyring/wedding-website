@@ -3,7 +3,7 @@ import { sendButtonEvent } from "../utils/analytics";
 export default {
   hero: {
     title: "RSVP",
-    image: "/images/milea-1.jpg",
+    backgroundImage: "/images/hudson-valley-vistas.jpeg",
     pos: "center 25%",
   },
   rsvp: {

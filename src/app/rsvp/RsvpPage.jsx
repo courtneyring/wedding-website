@@ -12,10 +12,11 @@ const RSVPPage = () => {
       {/* <OverlayHero {...copy.hero} /> */}
       <Container
         color="color-white"
-        backgroundImage="/images/accommodations-hero.jpg"
+        // backgroundImage="/images/accommodations-hero.jpg"
         fullHeight
         styleless
         center
+        {...copy.hero}
       >
         <RSVPEmbed {...copy.rsvp} />
       </Container>
