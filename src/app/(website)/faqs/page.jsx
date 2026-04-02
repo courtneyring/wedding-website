@@ -1,8 +1,8 @@
 import { Suspense } from 'react';
-import Accommodations from "./Accommodations";
+import FAQs from "./FAQs";
 
 export const metadata = {
-  title: "Courtney & Matt | Accommodations",
+  title: "Courtney & Matt | FAQs",
   description:
     "Our wedding weekend will be centered in the historic town of Rhinebeck, New York. It's a small town with lots of shops and restaurants to check out. This page has all the information you need to book your stay in town.",
 };
@@ -11,7 +11,7 @@ export const metadata = {
 export default function PageWrapper() {
   return (
     <Suspense fallback={null}>
-      <Accommodations />
+      <FAQs />
     </Suspense>
   );
 }

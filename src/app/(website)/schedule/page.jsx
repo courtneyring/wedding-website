@@ -1,4 +1,4 @@
-import SchedulePage from "./SchedulePage";
+import Schedule from "./Schedule";
 
 export const metadata = {
   title: "Courtney & Matt | Schedule",
@@ -7,6 +7,6 @@ export const metadata = {
 
 export default function PageWrapper() {
   return (
-      <SchedulePage />
+      <Schedule />
   );
 }

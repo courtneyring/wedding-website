@@ -1,4 +1,4 @@
-import TravelPage from "./TravelPage";
+import Travel from "./Travel";
 
 export const metadata = {
   title: "Courtney & Matt | Travel",
@@ -7,5 +7,5 @@ export const metadata = {
 };
 
 export default function PageWrapper() {
-  return <TravelPage />;
+  return <Travel />;
 }
