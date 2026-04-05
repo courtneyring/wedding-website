@@ -70,7 +70,7 @@ export default {
     },
     {
       title: "What will the weather be like?",
-      body: "Late August in the Hudson Valley is typically warm and beautiful. We anticipate daytime temperatures in the mid-to-high 70s, cooling off slightly after sunset. We are keeping our fingers crossed for clear skies!",
+      body: "Late August in the Hudson Valley is typically warm and beautiful. We anticipate daytime temperatures in the high 70s and low 80s, cooling off slightly after sunset. We are keeping our fingers crossed for clear skies!",
       category: "other",
     },
     {
@@ -129,7 +129,7 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          The shuttles will pick up from Mirbeau at 3:15 PM and the Delamater
+          The shuttles will pick up from Mirbeau at 3:15 PM and the Beekman Arms - Delamater
           Inn at 3:30 PM. A full schedule is
           available on our <a href="/transportation">Transportation page</a>.
         </p>
@@ -141,7 +141,7 @@ export default {
       body: (
         <p>
           Return shuttles will depart Milea at 11:00 PM. Drop-offs will include
-          the afterparty location, Mirbeau, and the Delamater Inn. A full
+          the afterparty location, Mirbeau, and the Beekman-Delamater. A full
           schedule is available on our{" "}
           <a href="/transportation">Transportation page</a>
         </p>

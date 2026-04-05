@@ -94,7 +94,7 @@ export default {
       slots: [
         {
           time: "3:15pm",
-          description: "Depart from Delamater Inn",
+          description: "Depart from Beekman Arms & Delamater Inn",
         },
         {
           time: "3:30pm",
@@ -123,7 +123,7 @@ export default {
         },
         {
           time: "11:25",
-          description: "Arrive at Delamater Inn",
+          description: "Arrive at Beekman Arms & Delamater Inn",
         },
       ],
     },

@@ -46,8 +46,8 @@ export default {
         {
           icon: "directions_bus",
           text: [
-            "Shuttle from Delamater Inn, 3:30pm",
-            "Shuttle from Mirbeau Inn & Spa, 3:35pm",
+            "Shuttle from Beekman Arms & Delamater Inn, 3:15pm",
+            "Shuttle from Mirbeau Inn & Spa, 3:30pm",
           ],
         },
         { icon: "apparel", text: "Formal Attire" },
