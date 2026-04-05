@@ -11,14 +11,14 @@
 }
 
 :root {
-  --color-primary-dark: #323b43;
-  --color-primary-medium: #4C5B69;
-  --color-primary-light: #9098A0;
-  --color-neutral-dark: #302f2f;
-  --color-neutral-medium: #E0E0E0;
-  --color-neutral-light: #e2e0e0;
-  --color-white: #F5F5F5;
-  --color-secondary: #ecdde0;
+  --color-primary-dark: #344149;
+  --color-primary-medium: #56656F;
+  --color-primary-light: #8098A8;
+  --color-neutral-dark: #3B3938;
+  --color-neutral-medium: #CEC7C2;
+  --color-neutral-light: #E3DED9;
+  --color-white: #F4F2F0;
+  --color-secondary: #f9e2e6;
 
   --font-primary: "Crimson Pro", 'Times New Roman', Times,;
   --font-secondary: "Parisienne", cursive;

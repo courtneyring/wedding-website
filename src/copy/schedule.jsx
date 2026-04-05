@@ -14,18 +14,17 @@ export default {
       body: "Kick off the weekend with drinks and mingling as we welcome everyone to Rhinebeck.",
       image: "/images/proposal-1.jpg",
       pos: "bottom center",
-      color: "color-secondary",
+      color: "color-white",
       details: [
         {
           icon: "location_on",
           text: [
-            "The Beekman Arms Hotel",
-            "Wayfarer Room",
-            "6387 Mill Street",
-            "Rhinebeck, NY 12572",
+            "Beekman Arms, The Wayfarer Room",
+            "6387 Mill Street, Rhinebeck, NY 12572",
           ],
         },
-        { icon: "schedule", text: ["Friday August 28", "Time TBA"] },
+        { icon: "schedule", text: ["Friday August 28, 8:00-10:00pm"] },
+        { icon: "apparel", text: "Cocktail Attire" },
       ],
     },
     {
@@ -33,31 +32,39 @@ export default {
       body: "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
       image: "/images/proposal-2.jpg",
       pos: "bottom center",
+      color: "color-primary-dark",
       reverse: true,
       details: [
         {
           icon: "location_on",
           text: [
             "Milea Estate Vineyard",
-            "450 Hollow Road",
-            "Staatsburg, NY 12580",
+            "450 Hollow Road, Staatsburg, NY 12580",
           ],
         },
-        { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
+        { icon: "schedule", text: ["Saturday August 29", "4:00pm - 11:00pm"] },
+        {
+          icon: "directions_bus",
+          text: [
+            "Shuttle from Delamater Inn, 3:30pm",
+            "Shuttle from Mirbeau Inn & Spa, 3:35pm",
+          ],
+        },
+        { icon: "apparel", text: "Formal Attire" },
       ],
     },
     {
       heading: "After Party",
       body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
       image: "/images/proposal-3.jpg",
-      color: "color-secondary",
+      color: "color-white",
       pos: "60% 30%",
       details: [
         {
           icon: "location_on",
-          text: ["American Legion", "6361 Mill St", "Rhinebeck, NY 12572"],
+          text: ["The American Legion", "6361 Mill St, Rhinebeck, NY 12572"],
         },
-        { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
+        { icon: "schedule", text: ["Saturday August 29, 11:00pm-2:00am"] },
       ],
     },
   ],
