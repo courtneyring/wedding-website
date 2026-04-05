@@ -6,144 +6,166 @@ export default {
   items: [
     {
       title: "Do I need a car?",
-      body: "If you stay in Rhinebeck, you won't need a car. Everything is either walkable or we provide a shuttle. There is also lots of cute shops and restaurants in town for when you have free time. However, if you want to stay outside Rhinebeck or you want to go somewhere outside of town, we recommend renting a car because cabs and rideshare are limited.",
+      body: "If you are staying within the town of Rhinebeck, a car is not necessary. The village is very walkable, and both the Welcome Party and After Party are within walking distance of the local hotels. We will also provide a shuttles for the wedding ceremony and reception. However, if you choose to stay outside of town or plan to explore the wider Hudson Valley, we recommend a rental car, as rideshare services and local cabs are limited.",
       category: "getting-around",
     },
 
     {
       title: "Where should I stay?",
-      body: "We recommend you stay in one of the two hotels in Rhinebeck - Beekman Arms & Delamater Inn or Mirbeau Inn & Spa.",
+      body: "We recommend you stay in one of the two hotels in Rhinebeck - Beekman Arms & Delamater Inn or Mirbeau To be close to the festivities, we recommend staying at one of Rhinebeck’s two main hotels: The Beekman Arms & Delamater Inn or the Mirbeau Inn & Spa.Inn & Spa.",
       category: "accommodations",
     },
     {
       title:
-        "What's the difference between the buildings at Beekman Arms-Delamater Inn?",
-      body: [
+        "What's the difference between the buildings at the Beekman Arms-Delamater Inn?",
+      body: (
         <p>
-          Beekman Arms & Delamater Inn has rooms spread across various
-          buildings, all with their own character. Most of the rooms reserved in
-          our block are in the same general area. You can find a description{" "}
-          <a>test</a> of each on their{" "}
-        </p>,
-        <a
-          href="https://www.beekmandelamaterinn.com/accommodations"
-          target="_blank"
-        >
-          accommodations
-        </a>,
-        " page and the list of rooms in our block on our ",
-        <a
-          href="https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430"
-          target="_blank"
-        >
-          reservation page.
-        </a>,
-      ],
+          The Beekman Arms & Delamater Inn features several historic buildings,
+          each offering a unique charm and character. Most rooms in our wedding
+          block are clustered in the same area. You can view detailed
+          descriptions of each building on their{" "}
+          <a
+            href="https://www.beekmandelamaterinn.com/accommodations"
+            target="_blank"
+          >
+            accommodations page
+          </a>
+          and see the specific rooms available in our block on the
+          <a
+            key="a2"
+            href="https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430"
+            target="_blank"
+          >
+            reservation portal
+          </a>
+          .
+        </p>
+      ),
       category: "accommodations",
     },
     {
-      title: "Is there a block at the Mirbeau Inn & Spa?",
-      body: "No, but we will be staying there and would love for you to join us!",
+      title: "Is there a room block at the Mirbeau Inn & Spa?",
+      body: "We do not have a formal block at Mirbeau, but that is where we will be staying for the weekend — we would love for you to join us there!",
       category: "accommodations",
     },
     {
-      title: "Are you serving dinner at the welcome party?",
-      body: "We encourage you to grab dinner beforehand, we'll have small appetizers and desserts as well as an open bar at the welcome party.",
+      title: "Will dinner be served at the Welcome Party?",
+      body: "We recommend enjoying dinner in town before joining us. We’ll be serving light hors d'oeuvres and desserts alongside an open bar to kick off the weekend!",
       category: "welcome-party",
     },
     {
-      title: "When should I arrive to the venue?",
-      body: "We ask that you arrive promptly at 4pm. The driveway into the venue will close at 4:10pm",
+      title: "What time should I arrive at the venue?",
+      body: "Please plan to arrive promptly by 4:00 PM. To ensure an intimate and uninterrupted ceremony, the venue driveway will close to all incoming traffic at 4:10 PM.",
       category: "ceremony-&-reception",
     },
     {
-      title: "Why are you closing the driveway into the venue?",
-      body: "The driveway runs in view of the ceremony. In an effort to reduce extra noise and distraction, we're limiting cars in and out of the venue for the duration of the ceremony.",
+      title: "Why is the driveway closing?",
+      body: "The venue's driveway is positioned within view of the ceremony site. To minimize noise and distractions during our vows, we are limiting vehicle access for the duration of the ceremony.",
       category: "ceremony-&-reception",
     },
     {
       title: "What if I'm running late?",
-      body: "We really encourage you to plan ahead and arrive on time. If you arrive after 4:10, the driveway will be closed. We ask that you wait until the ceremony is over and the driveway will be reopened for entry.",
+      body: "We highly encourage everyone to account for Hudson Valley traffic and aim for 4:00 PM. If you arrive after the gates close at 4:10 PM, please wait at the entrance; the driveway will reopen for entry immediately following the conclusion of the ceremony.",
       category: "ceremony-&-reception",
     },
     {
       title: "What will the weather be like?",
-      body: "In late August, Hudson Valley is still very warm. We expect temperatures around the mid to high 70s, cooling off slightly as we move later into the night. Crossing our fingers for no rain.",
+      body: "Late August in the Hudson Valley is typically warm and beautiful. We anticipate daytime temperatures in the mid-to-high 70s, cooling off slightly after sunset. We are keeping our fingers crossed for clear skies!",
       category: "other",
     },
     {
-      title: "Can I park at the venue?",
-      body: "Yes there is parking at the venue. If you are planning to drive to the ceremony, we encourage you to plan ahead for traffic and delays in order to arrive before the driveway closes at 4:10.",
+      title: "Is there parking available at the venue?",
+      body: "Yes, there is ample parking on-site. If you plan to drive, please ensure you arrive before the 4:10 PM driveway closure to avoid missing the ceremony.",
       category: "ceremony-&-reception",
     },
     {
-      title: "What if I have a dietary restriction?",
-      body: "Please note it on your RSVP or reach out to us directly.",
+      title: "What if I have dietary restrictions?",
+      body: "Please specify any allergies or dietary needs on your RSVP or reach out to us directly so we can accommodate you.",
       category: "ceremony-&-reception",
     },
     {
       title: "Can I bring a plus one?",
-      body: "Because of space restrictions, we've only included plus ones we've already met, it will be noted on the invitation and RSVP form.",
+      body: "Due to space limitations at our venue, we are only able to accommodate the guests specifically listed on your invitation and RSVP form. Thank you for understanding!",
       category: "other",
     },
     {
-      title: "What should I wear?",
-      body: "The ceremony is formal attire. This means dark suits with ties or tuxedos for men. For women, floor length gowns or refined midi dresses.",
+      title: "What is the dress code?",
+      body: "The wedding will be Formal Attire. For men, this includes dark suits with ties or tuxedos. For women, we recommend floor-length gowns or elegant midi dresses.",
       category: "ceremony-&-reception",
     },
     {
       title: "When is the RSVP deadline?",
-      body: "July 27.",
+      body: "Please kindly respond by July 27.",
       category: "other",
     },
     {
-      title: "When does the block for the Beekman Arms & Delamater Inn close?",
-      body: "July 27.",
+      title: "When does the hotel room block expire?",
+      body: "The block at the Beekman Arms & Delamater Inn will be held until July 27.",
       category: "accommodations",
     },
     {
       title: "Will the wedding be indoors or outdoors?",
-      body: "The ceremony will outside on grass, the cocktail hour will take place in a covered patio, and the reception will be inside.",
+      body: "Weather permitting, the ceremony will be held outdoors on the lawn. Cocktail hour will take place on a covered patio, followed by an indoor reception.",
       category: "ceremony-&-reception",
     },
     {
-      title: "How do I get to and from the wedding venue?",
-      body: "We encourage you to take the shuttle to avoid the obstacles of finding a cab or uber. If you are driving, the address is here, please plan for traffic and arrive promptly at 4pm.",
+      title: "How do I get to and from the venue?",
+      body: (
+        <p>
+          We highly recommend using our guest shuttles, as rideshares can be
+          difficult to secure in this area. If you prefer to drive, the venue
+          address is listed on the <a href="/schedule">schedule page</a> —
+          please allow extra time for traffic to ensure arrival by 4:00 PM.
+        </p>
+      ),
       category: "getting-around",
     },
     {
-      title: "Can I bring my kids?",
-      body: "As much as we'd like to include everyone, this is a small vineyard and space is limited so kids are not invited.",
+      title: "Can I bring my children?",
+      body: "While we love your little ones, our venue is a small vineyard with limited capacity. We have chosen to host an adults-only celebration.",
       category: "other",
     },
     {
       title: "What time does the shuttle leave for Milea?",
-      body: "The shuttles will pick up from Mirbeau at 3:10 and pick up from Delamater Inn at 3:15, departing at 3:30. See the full schedule on the transportation page.",
+      body: (
+        <p>
+          The shuttles will pick up from Mirbeau at 3:15 PM and the Delamater
+          Inn at 3:30 PM. A full schedule is
+          available on our <a href="/transportation">Transportation page</a>.
+        </p>
+      ),
       category: "getting-around",
     },
     {
       title: "What time does the shuttle return to Rhinebeck?",
-      body: "The shuttles will pick up from Milea at 11pm, and will drop off at the afterparty, Mirbeau, and Delamater Inn. See the full schedule on the transportation page.",
+      body: (
+        <p>
+          Return shuttles will depart Milea at 11:00 PM. Drop-offs will include
+          the afterparty location, Mirbeau, and the Delamater Inn. A full
+          schedule is available on our{" "}
+          <a href="/transportation">Transportation page</a>
+        </p>
+      ),
       category: "getting-around",
     },
     {
-      title: "How do I get home after the afterparty?",
-      body: "The Beekman Arms & Delamater Inn and Mirbeau Inn & Spa are both a short walk from the after party.",
+      title: "How do I get home from the afterparty?",
+      body: "The afterparty is located within a short, easy walking distance of both the Beekman Arms & Delamater Inn and the Mirbeau Inn & Spa.",
       category: "getting-around",
     },
     {
-      title: "Where do I go if I arrive early to the venue?",
-      body: "Feel free to grab a glass of wine at the tasting room while you wait. The ceremony area will open at 3:30.",
+      title: "What if I arrive early to the venue?",
+      body: "You are welcome to enjoy a glass of wine at the vineyard tasting room while you wait. The ceremony seating area will open at 3:30 PM.",
       category: "ceremony-&-reception",
     },
     {
-      title: "What is the dress code for the welcome party?",
-      body: "Cocktail attire",
+      title: "What is the dress code for the Welcome Party?",
+      body: "Cocktail Attire.",
       category: "welcome-party",
     },
     {
-      title: "What if I can't find a hotel in Rhinebeck?",
-      body: "There should be enough rooms under the Ring/Haberlach Block at the Beekman Arms & Delamater Inn. However, if you missed the cut off date, there are a couple bed & breakfast spots in town - I would take a look at The Gables of Rhinebeck, The Baker House, or The Veranda House",
+      title: "What if the recommended hotels are full?",
+      body: "We have reserved a generous block of rooms at the Beekman Arms & Delamater Inn. If you miss the booking deadline or prefer a different setting, we recommend local bed and breakfasts such as The Gables of Rhinebeck, The Baker House, or The Veranda House.",
       category: "accommodations",
     },
   ],
