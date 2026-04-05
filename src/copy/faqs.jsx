@@ -23,22 +23,11 @@ export default {
           The Beekman Arms & Delamater Inn features several historic buildings,
           each offering a unique charm and character. Most rooms in our wedding
           block are clustered in the same area. You can view detailed
-          descriptions of each building on their{" "}
-          <a
+          descriptions of each building on their{" "}<a
             href="https://www.beekmandelamaterinn.com/accommodations"
-            target="_blank"
-          >
-            accommodations page
-          </a>
-          and see the specific rooms available in our block on the
-          <a
-            key="a2"
-            href="https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430"
-            target="_blank"
-          >
-            reservation portal
-          </a>
-          .
+            target="_blank"> accommodations page </a>
+          and see the specific rooms available in our block on the 
+          <a href="https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430"target="_blank">reservation portal</a>.
         </p>
       ),
       category: "accommodations",
@@ -131,7 +120,7 @@ export default {
         <p>
           The shuttles will pick up from Mirbeau at 3:15 PM and the Beekman Arms - Delamater
           Inn at 3:30 PM. A full schedule is
-          available on our <a href="/transportation">Transportation page</a>.
+          available on our <a href="/travel">Transportation page</a>.
         </p>
       ),
       category: "getting-around",
@@ -143,7 +132,7 @@ export default {
           Return shuttles will depart Milea at 11:00 PM. Drop-offs will include
           the afterparty location, Mirbeau, and the Beekman-Delamater. A full
           schedule is available on our{" "}
-          <a href="/transportation">Transportation page</a>
+          <a href="/travel">Transportation page</a>
         </p>
       ),
       category: "getting-around",

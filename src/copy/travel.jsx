@@ -86,7 +86,7 @@ export default {
   shuttle: {
     imageText: {
       header: "By Shuttle",
-      body: "Another big hub with lots of flight options, but expect more crowds and traffic. Offers trains via NJ Transit that can be used to connect to NY Transit",
+      // body: "Another big hub with lots of flight options, but expect more crowds and traffic. Offers trains via NJ Transit that can be used to connect to NY Transit",
       image: "/images/travel-hero.jpg",
     },
     toMilea: {
