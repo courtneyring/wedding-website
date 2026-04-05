@@ -50,7 +50,7 @@ a[href="https://rsvpify.com/?utm_source=hyperloop&utm_medium=embedded_form_heade
 }
 
 /* Header everywhere else */
-.rsvp-form:not(:has( div[data-index='0'])) .themed-element-form-background .text-2xl {
+.rsvp-form >div > div> div > div:not([data-index='0']) .themed-element-form-background .text-2xl {
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: 1px;
@@ -59,12 +59,17 @@ a[href="https://rsvpify.com/?utm_source=hyperloop&utm_medium=embedded_form_heade
 }
 
 /* Header on Welcome and Confirmation Screens */
-.rsvp-form:has( div[data-index='0']) .themed-element-form-background .text-2xl {
+.rsvp-form >div > div> div > div[data-index='0'] .themed-element-form-background .text-2xl {
   font-size: 45px !important;
   line-height: 1.5;
   /* border-bottom: none; */
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+/* Text below Title on welcome screen */
+.rsvp-form >div > div> div > div[data-index='0'] .themed-element-form-background .mb-2.break-words.themed-element.themed-element-form-text {
+    margin-top:  0;
 }
 
 
