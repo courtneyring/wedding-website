@@ -10,7 +10,7 @@ export default {
     subtitle: [<p>Milea Estate Vineyard</p>, <p>Staatsburg, NY</p>],
     eyebrow: "August 29, 2026",
     image: "/images/milea-1.jpg",
-    pos: "center 25%"
+    pos: "center 25%",
   },
   note: {
     salutation: "A Note from the",
@@ -152,13 +152,13 @@ export default {
     },
   },
   imageTextPlanning: {
-    header: "Travel & Accommodations",
-    reverse: true,
+    header: "Plan Your Trip",
+    reverse: false,
     body: "We’ve put together a few helpful details on travel and accommodations. Everything you need to plan your trip is included in the pages below.",
     image: "/images/paracas-image.jpg",
     primaryCta: {
       variation: "color-primary-dark",
-      children: "View Hotels",
+      children: "Book Your Stay",
       href: "/accommodations",
       onClick: () => sendButtonEvent("navigate-accommodations"),
     },
@@ -170,5 +170,48 @@ export default {
       onClick: () => sendButtonEvent("navigate-travel"),
       // variation: 'link'
     },
+  },
+  nextSteps: {
+    promos: [
+      {
+        header: "Read Our story",
+        body: "Metro North is available from both Albany and NYC. The closest stop is Poughkeepsie and it's about a 20 minute car ride from there.",
+        icon: "favorite",
+        textAlign: "center",
+        cta: {
+          label: "Visit Metro North Site",
+          variation: "link",
+          icon: "east",
+          href: "https://www.mta.info/agency/metro-north-railroad",
+          onClick: () => sendButtonEvent("trains-mta"),
+        },
+      },
+      {
+        header: "see the schedule",
+        body: "Metro North is available from both Albany and NYC. The closest stop is Poughkeepsie and it's about a 20 minute car ride from there.",
+        icon: "groups",
+        textAlign: "center",
+        cta: {
+          label: "Visit Metro North Site",
+          variation: "link",
+          icon: "east",
+          href: "https://www.mta.info/agency/metro-north-railroad",
+          onClick: () => sendButtonEvent("trains-mta"),
+        },
+      },
+      {
+        header: "faqs",
+        body: "Amtrak is available from multiple cities including Albany and NYC. The closest stop is Rhinecliff and it's about a 5 minute car ride from there.",
+        icon: "celebration",
+        textAlign: "center",
+        cta: {
+          label: "Visit Amtrak Site",
+          variation: "link",
+          icon: "east",
+          href: "https://www.amtrak.com/home",
+          onClick: () => sendButtonEvent("trains-amtrak"),
+        },
+      },
+    ],
   },
 };
