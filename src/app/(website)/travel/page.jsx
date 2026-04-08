@@ -1,7 +1,7 @@
 import Travel from "./Travel";
 
 export const metadata = {
-  title: "Courtney Ring & Matthew Haberlach Wedding | Travel",
+  title: "Courtney Ring & Matt Haberlach's Wedding Website | Travel",
   description:
     "All the essential information for getting to Rhinebeck and getting around during the weekend. We’ve included details for airports, driving, and local transportation to make planning your trip easier.",
 };
