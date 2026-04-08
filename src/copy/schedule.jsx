@@ -11,7 +11,7 @@ export default {
   sections: [
     {
       heading: "Welcome Party",
-      body: "Kick off the weekend with drinks and mingling as we welcome everyone to Rhinebeck.",
+      // body: "Kick off the weekend with drinks and mingling as we welcome everyone to Rhinebeck.",
       image: "/images/proposal-1.jpg",
       pos: "bottom center",
       color: "color-white",
@@ -29,7 +29,7 @@ export default {
     },
     {
       heading: "Ceremony & Reception",
-      body: "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
+      // body: "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
       image: "/images/proposal-2.jpg",
       pos: "bottom center",
       color: "color-primary-dark",
@@ -55,7 +55,7 @@ export default {
     },
     {
       heading: "After Party",
-      body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
+      // body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
       image: "/images/proposal-3.jpg",
       color: "color-white",
       pos: "60% 30%",

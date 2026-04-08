@@ -118,11 +118,11 @@ export default {
           description: "Arrive at American Legion After Pary",
         },
         {
-          time: "11:25",
+          time: "11:25pm",
           description: "Arrive at Mirbeau Inn & Spa",
         },
         {
-          time: "11:25",
+          time: "11:25pm",
           description: "Arrive at Beekman Arms & Delamater Inn",
         },
       ],

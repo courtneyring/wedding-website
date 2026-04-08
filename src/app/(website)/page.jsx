@@ -29,20 +29,19 @@ export default function Home() {
         </Container>
         <Container
           color="color-primary-dark"
-          backgroundImage={"/images/hands-background.jpg"}
+          backgroundImage={content.countdown.backgroundImage}
+          backgroundPosition={content.countdown.backgroundPosition}
+          hide={new Date(content.countdown.targetDate) - new Date() <= 0}
         >
-          <Countdown targetDate="2026-08-29T16:30:00-04:00" />
+          <Countdown targetDate={content.countdown.targetDate} />
         </Container>
-        {/* <Container color="color-neutral-light" maxWidth="lg">
-          <ImageTextBlock {...content.imageTextSchedule} />
-        </Container> */}
         <Container color="color-white" maxWidth="lg">
           <ImageTextBlock {...content.imageTextPlanning} />
         </Container>
         <Container styleless>
           <Background image="/images/background.jpg" y={0} />
         </Container>
-        <Container color="color-neutral-light" >
+        <Container color="color-neutral-light" maxWidth="lg">
           <PromoGroup {...content.nextSteps} />
         </Container>
         <Container color="color-primary-medium" maxWidth="lg">

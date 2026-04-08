@@ -25,7 +25,7 @@ export default function TravelPage() {
         <PromoGroup {...copy.air} />
       </Container>
       <Container styleless>
-        <Background image="/images/train.jpg" y={0} />
+        <Background image="/images/hudson-valley-wide.jpg" y={0} />
       </Container>
       <Container color="color-white" maxWidth="lg">
         <PromoGroup {...copy.tracks} />

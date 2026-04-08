@@ -22,115 +22,11 @@ export default {
     close: "With Love,",
     signature: "Courtney & Matt",
   },
-  imageScroller: {
-    center: {
-      src: "/images/proposal.jpg",
-      position: "center bottom",
-      speed: 0.8,
-      style: { top: "60%", left: "5%", width: 350 },
-    },
-    images: [
-      {
-        src: "/images/machupichu.jpg",
-        position: "35% 35%",
-        speed: 0.8,
-        style: { top: "60%", left: "5%", width: 350 },
-      },
-      {
-        src: "/images/stamford.jpg",
-        position: "45% 30%",
-        // size: "160%",
-        speed: 0.5,
-        style: { top: "70%", left: "20%", width: 350 },
-      },
-      {
-        src: "/images/bikes.jpg",
-        position: "35% 50%",
-        speed: 1.2,
-        style: { top: "40%", left: "50%", width: 350 },
-      },
-      {
-        src: "/images/florida.jpg",
-        position: "34% 45%",
-        speed: 0.4,
-        style: { top: "30%", left: "30%", width: 350 },
-      },
-      {
-        src: "/images/egypt.jpg",
-        speed: 0.5,
-        style: { top: "20%", left: "6%", width: 350 },
-      },
-      {
-        src: "/images/europe.jpg",
-        position: "85% center",
-        speed: 0.1,
-        style: { top: "10%", left: "70%", width: 350 },
-      },
-      {
-        src: "/images/f12.jpg",
-        position: "left 65%",
-        speed: 0.1,
-        style: { top: "5%", left: "80%", width: 350 },
-      },
-      {
-        src: "/images/wedding.jpg",
-        position: "35% center",
-        speed: 1,
-        style: { top: "90%", left: "90%", width: 350 },
-      },
-    ],
+  countdown: {
+    targetDate: "2026-08-29T16:30:00-04:00",
+    backgroundImage: "/images/wine-glass-and-bottle.jpg",
+    backgroundPosition: "center center",
   },
-  // weekend: {
-  //   title: "Our Weekend",
-  //   image: "/images/milea-2.png",
-  //   sections: [
-  //     {
-  //       header: "Welcome Party",
-  //       description:
-  //         "Kick off the weekend with drinks and light desserts as we welcome everyone to Rhinebeck.",
-  //       details: [
-  //         {
-  //           icon: "location_on",
-  //           text: [
-  //             "The Beekman Arms Hotel",
-  //             "Wayfarer Room",
-  //             "6387 Mill Street",
-  //             "Rhinebeck, NY 12572",
-  //           ],
-  //         },
-  //         { icon: "schedule", text: ["Friday August 28", "Time TBA"] },
-  //       ],
-  //     },
-  //     {
-  //       header: "Ceremony & Reception",
-  //       description:
-  //         "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
-  //       details: [
-  //         {
-  //           icon: "location_on",
-  //           text: [
-  //             "Milea Estate Vineyard",
-  //             "450 Hollow Road",
-  //             "Staatsburg, NY 12580",
-  //           ],
-  //         },
-  //         { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
-  //       ],
-  //     },
-  //     {
-  //       header: "After Party",
-  //       description:
-  //         "For anyone who wants to keep the night going, join us afterward for late-night drinks and dancing.",
-  //       details: [
-  //         {
-  //           icon: "location_on",
-  //           text: ["American Legion", "6361 Mill St", "Rhinebeck, NY 12572"],
-  //         },
-  //         { icon: "schedule", text: ["Saturday August 29", "Time TBA"] },
-  //       ],
-  //     },
-  //   ],
-  // },
   banner: {
     header: "More Details to Come",
     body: "Check back for updates",
@@ -174,42 +70,42 @@ export default {
   nextSteps: {
     promos: [
       {
-        header: "Read Our story",
-        body: "Metro North is available from both Albany and NYC. The closest stop is Poughkeepsie and it's about a 20 minute car ride from there.",
-        icon: "favorite",
+        header: "Our Weekend",
+        body: "See the full weekend lineup, from welcome drinks to farewell.",
+        icon: "event_list",
         textAlign: "center",
         cta: {
-          label: "Visit Metro North Site",
+          label: "See the Schedule",
           variation: "link",
           icon: "east",
-          href: "https://www.mta.info/agency/metro-north-railroad",
-          onClick: () => sendButtonEvent("trains-mta"),
+          href: "/schedule",
+          onClick: () => sendButtonEvent("promos-schedule"),
         },
       },
       {
-        header: "see the schedule",
-        body: "Metro North is available from both Albany and NYC. The closest stop is Poughkeepsie and it's about a 20 minute car ride from there.",
-        icon: "groups",
+        header: "FAQs",
+        body: "Everything you need to know before the big day.",
+        icon: "chat_info",
         textAlign: "center",
         cta: {
-          label: "Visit Metro North Site",
+          label: "Get the Details",
           variation: "link",
           icon: "east",
-          href: "https://www.mta.info/agency/metro-north-railroad",
-          onClick: () => sendButtonEvent("trains-mta"),
+          href: "/faqs",
+          onClick: () => sendButtonEvent("promos-faqs"),
         },
       },
       {
-        header: "faqs",
-        body: "Amtrak is available from multiple cities including Albany and NYC. The closest stop is Rhinecliff and it's about a 5 minute car ride from there.",
-        icon: "celebration",
+        header: "Hotels",
+        body: "Plan your stay with these nearby hotel options.",
+        icon: "home",
         textAlign: "center",
         cta: {
-          label: "Visit Amtrak Site",
+          label: "Explore Accommodations",
           variation: "link",
           icon: "east",
-          href: "https://www.amtrak.com/home",
-          onClick: () => sendButtonEvent("trains-amtrak"),
+          href: "/accommodations",
+          onClick: () => sendButtonEvent("promos-hotels"),
         },
       },
     ],
