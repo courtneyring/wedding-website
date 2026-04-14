@@ -88,6 +88,11 @@ export default {
       category: "other",
     },
     {
+      title: "Will there be food at the after party?",
+      body: "Yes, we plan to order pizza and have other small snacks.",
+      category: "other",
+    },
+    {
       title: "When does the hotel room block expire?",
       body: "The block at the Beekman Arms & Delamater Inn will be held until July 27.",
       category: "accommodations",
@@ -118,8 +123,8 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          The shuttles will pick up from Mirbeau at 3:15 PM and the Beekman Arms - Delamater
-          Inn at 3:30 PM. A full schedule is
+          The shuttles will pick up from Mirbeau at 3:10 PM and the Beekman Arms - Delamater
+          Inn at 3:20 PM. A full schedule is
           available on our <a href="/travel">Transportation page</a>.
         </p>
       ),
