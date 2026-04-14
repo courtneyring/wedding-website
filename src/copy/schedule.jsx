@@ -46,8 +46,8 @@ export default {
         {
           icon: "directions_bus",
           text: [
-            "Shuttle from Beekman Arms & Delamater Inn, 3:15pm",
-            "Shuttle from Mirbeau Inn & Spa, 3:30pm",
+            "Shuttle from Beekman Arms & Delamater Inn, 3:10pm",
+            "Shuttle from Mirbeau Inn & Spa, 3:20pm",
           ],
         },
         { icon: "apparel", text: "Formal Attire" },
@@ -65,6 +65,12 @@ export default {
           text: ["The American Legion", "6361 Mill St, Rhinebeck, NY 12572"],
         },
         { icon: "schedule", text: ["Saturday August 29, 11:00pm-2:00am"] },
+        {
+          icon: "directions_bus",
+          text: [
+            "Shuttle from Milea, 11:00pm",
+          ],
+        },
       ],
     },
   ],

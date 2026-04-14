@@ -17,6 +17,7 @@ import {
 } from "@courtneyring/components-library";
 import content from "@/copy/home";
 
+
 export default function Home() {
   return (
     <div className={styles.page}>
