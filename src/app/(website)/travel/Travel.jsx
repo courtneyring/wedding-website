@@ -30,22 +30,26 @@ export default function TravelPage() {
       <Container color="color-white" maxWidth="lg">
         <PromoGroup {...copy.tracks} />
       </Container>
-      <Container color="color-primary-dark">
-        <ImageTextBlock {...copy.shuttle.imageText}>
-          <Schedule {...copy.shuttle.toMilea} />
-          <Schedule {...copy.shuttle.fromMilea} />
-        </ImageTextBlock>
-      </Container>
       {/* <Container color="color-neutral-light" maxWidth="lg">
 =        <PinnedImage {...copy.road} />
       </Container> */}
-      <Container color="color-neutral-light" maxWidth="sm">
+      {/* <Container color="color-neutral-light" maxWidth="sm">
         <TextBlock {...copy.road} />
+      </Container> */}
+      <Container color="color-primary-medium">
+        <ImageTextBlock {...copy.road.parent}>
+          {copy.road.body.map((block, idx) => (
+            <div key={`road-${idx}`} style={{marginBottom: 40}}>
+              <p className="typography--h3">{block.header}</p>
+              <p className='typography--body'>{block.description}</p>
+              <br></br>
+            </div>
+          ))}
+        </ImageTextBlock>
       </Container>
-
-      <Container maxWidth="sm" color="color-primary-medium">
+      {/* <Container maxWidth="sm" color="color-primary-medium">
         <Banner {...copy.bookYourStay} />
-      </Container>
+      </Container> */}
     </main>
   );
 }

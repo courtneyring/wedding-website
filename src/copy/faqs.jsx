@@ -12,7 +12,7 @@ export default {
 
     {
       title: "Where should I stay?",
-      body: "We recommend you stay in one of the two hotels in Rhinebeck - Beekman Arms & Delamater Inn or Mirbeau To be close to the festivities, we recommend staying at one of Rhinebeck’s two main hotels: The Beekman Arms & Delamater Inn or the Mirbeau Inn & Spa.Inn & Spa.",
+      body: "To be close to the festivities, we recommend staying at one of Rhinebeck’s two main hotels: The Beekman Arms & Delamater Inn or the Mirbeau Inn & Spa.",
       category: "accommodations",
     },
     {
@@ -64,7 +64,7 @@ export default {
     },
     {
       title: "Is there parking available at the venue?",
-      body: "Yes, there is ample parking on-site. If you plan to drive, please ensure you arrive before the 4:10 PM driveway closure to avoid missing the ceremony.",
+      body: "Yes, there is ample parking on-site. ",
       category: "ceremony-&-reception",
     },
     {
@@ -123,9 +123,9 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          The shuttles will pick up from Mirbeau at 3:10 PM and the Beekman Arms - Delamater
-          Inn at 3:20 PM. A full schedule is
-          available on our <a href="/travel">Transportation page</a>.
+          The shuttles will depart from Mirbeau at 3:15 PM and Delamater
+          Inn at 3:30 PM. The shuttle ride should be 20-30 minutes depending on traffic. A full schedule is
+          available on our <a href="/travel">transportation page</a>.
         </p>
       ),
       category: "getting-around",
@@ -137,7 +137,7 @@ export default {
           Return shuttles will depart Milea at 11:00 PM. Drop-offs will include
           the afterparty location, Mirbeau, and the Beekman-Delamater. A full
           schedule is available on our{" "}
-          <a href="/travel">Transportation page</a>
+          <a href="/travel">transportation page</a>
         </p>
       ),
       category: "getting-around",

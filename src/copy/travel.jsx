@@ -83,88 +83,28 @@ export default {
       },
     ],
   },
-  shuttle: {
-    imageText: {
-      header: "By Shuttle",
-      // body: "Another big hub with lots of flight options, but expect more crowds and traffic. Offers trains via NJ Transit that can be used to connect to NY Transit",
+
+  road: {
+    parent: {
+      header: "By Highway",
       image: "/images/travel-hero.jpg",
     },
-    toMilea: {
-      header: "Rhinebeck to Milea",
-      slots: [
-        {
-          time: "3:15pm",
-          description: "Depart from Beekman Arms & Delamater Inn",
-        },
-        {
-          time: "3:30pm",
-          description: "Depart from Mirbeau Inn & Spa",
-        },
-        {
-          time: "4:00pm",
-          description: "Arrive at Milea Estate Vineyard",
-        },
-      ],
-    },
-    fromMilea: {
-      header: "Milea to Rhinebeck",
-      slots: [
-        {
-          time: "11:00pm",
-          description: "Depart from Milea Estate Vineyard",
-        },
-        {
-          time: "11:20pm",
-          description: "Arrive at American Legion After Pary",
-        },
-        {
-          time: "11:25pm",
-          description: "Arrive at Mirbeau Inn & Spa",
-        },
-        {
-          time: "11:25pm",
-          description: "Arrive at Beekman Arms & Delamater Inn",
-        },
-      ],
-    },
-  },
-  road: {
-    header: "By Road",
-    blocks: [
+    body: [
       {
-        header: "A General Note",
+        header: "From Albany",
         description:
-          "Although Rhinebeck is a small town, August is a very busy time of year for the area. Be sure to plan ahead and allow extra time for traffic. If you’re driving to the vineyard, please note that the driveway will close 10 minutes before the ceremony begins.",
+          "Take I-87 South and connect to NY-199 East into Rhinebeck.",
       },
       {
-        header: "Cars",
+        header: "From NYC",
         description:
-          "Rhinebeck is within easy driving distance of several regional airports, with travel times ranging from about 45 minutes to three hours depending on traffic. Once you arrive, there is plenty of parking both in town and at the wedding venue.",
+          "Take the Taconic State Parkway North or I-87 North, then connect to NY-199 East into Rhinebeck.",
       },
       {
-        header: "Cabs & Rideshare",
+        header: "From Other Areas",
         description:
-          "Rideshare is available, though limited in this area. Drivers may be coming from a distance. To avoid delays, we recommend booking your Uber or Lyft ahead of time.",
-
-        details: [
-          {
-            icon: "phone",
-            text: "Available One Taxi",
-            href: "tel:8452245316",
-          },
-          {
-            icon: "phone",
-            text: " Nick's Rhinecliff Taxi",
-            href: "tel:8455512243",
-          },
-        ],
+          "Connect via I-87, US-9, or regional routes to NY-199, which leads into Rhinebeck.",
       },
-      // {
-      //   header: "Cabs",
-      //   description: [
-      //     "Cabs are an option as well, though drivers often come from farther away. Here are a few companies you can reach out to if you need a ride. ",
-      //   ],
-      // },
     ],
   },
   tracks: {

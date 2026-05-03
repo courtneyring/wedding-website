@@ -2,7 +2,7 @@ import {sendButtonEvent} from '../utils/analytics';
 
 export default {
   hero: {
-    title: "Where to Stay",
+    title: "Accommodations",
     image: "/images/accommodations-hero.jpg",
   },
   banner: {
@@ -30,7 +30,7 @@ export default {
       heading: "Mirbeau Inn & Spa",
       body: "Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel with a spa and restaurant on site, making it a great option for a more relaxing and luxurious stay. While there is no room block, we'll be staying at Mirbeau and would love for guests to join us there.",
       image: "/images/mirbeau.jpg",
-      color: "color-white",
+      color: "color-neutral-light",
       ctas: [
         {
           varation: "primaryDark",
@@ -52,7 +52,7 @@ export default {
       body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. With a range of room styles across the inn, it’s a great option if you're looking for historic charm and variety. We have a block that will be available until July 27.",
       image: "/images/beekman-arms.jpg",
       reverse: true,
-      color: "color-neutral-light",
+      color: "color-white",
       ctas: [
         { children: "Book Online" },
         {

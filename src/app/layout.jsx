@@ -1,7 +1,7 @@
 'use client';
 
 import "./theme.scss";
-import "./globals.css";
+import "./globals.scss";
 import copy from "../assets/json/global.json";
 import { Footer, Toolbar } from "@courtneyring/components-library";
 import { GoogleAnalytics } from "@next/third-parties/google";

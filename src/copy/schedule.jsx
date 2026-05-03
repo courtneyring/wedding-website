@@ -15,6 +15,7 @@ export default {
       image: "/images/proposal-1.jpg",
       pos: "bottom center",
       color: "color-white",
+      reverse: true,
       details: [
         {
           icon: "location_on",
@@ -33,7 +34,7 @@ export default {
       image: "/images/proposal-2.jpg",
       pos: "bottom center",
       color: "color-primary-dark",
-      reverse: true,
+
       details: [
         {
           icon: "location_on",
@@ -42,12 +43,12 @@ export default {
             "450 Hollow Road, Staatsburg, NY 12580",
           ],
         },
-        { icon: "schedule", text: ["Saturday August 29", "4:00pm - 11:00pm"] },
+        { icon: "schedule", text: ["Saturday August 29, 4:00pm - 11:00pm"] },
         {
           icon: "directions_bus",
           text: [
-            "Shuttle from Beekman Arms & Delamater Inn, 3:10pm",
-            "Shuttle from Mirbeau Inn & Spa, 3:20pm",
+            "Shuttle from Mirbeau, 3:15pm",
+            " Shuttle from Delamater Inn, 3:30pm",
           ],
         },
         { icon: "apparel", text: "Formal Attire" },
@@ -58,6 +59,7 @@ export default {
       // body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
       image: "/images/proposal-3.jpg",
       color: "color-white",
+      reverse: true,
       pos: "60% 30%",
       details: [
         {
@@ -67,9 +69,7 @@ export default {
         { icon: "schedule", text: ["Saturday August 29, 11:00pm-2:00am"] },
         {
           icon: "directions_bus",
-          text: [
-            "Shuttle from Milea, 11:00pm",
-          ],
+          text: ["Shuttle from Milea, 11:00pm"],
         },
       ],
     },

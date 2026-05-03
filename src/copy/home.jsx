@@ -74,6 +74,7 @@ export default {
         body: "See the full weekend lineup, from welcome drinks to farewell.",
         icon: "event_list",
         textAlign: "center",
+        color: "color-white",
         cta: {
           label: "See the Schedule",
           variation: "link",
@@ -87,6 +88,7 @@ export default {
         body: "Everything you need to know before the big day.",
         icon: "chat_info",
         textAlign: "center",
+        color: "color-white",
         cta: {
           label: "Get the Details",
           variation: "link",
@@ -100,8 +102,9 @@ export default {
         body: "Plan your stay with these nearby hotel options.",
         icon: "home",
         textAlign: "center",
+        color: "color-white",
         cta: {
-          label: "Explore Accommodations",
+          label: "Explore Hotels",
           variation: "link",
           icon: "east",
           href: "/accommodations",

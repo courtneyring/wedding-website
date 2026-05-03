@@ -9,10 +9,13 @@ const WeddingNavbar = () => {
         { label: "Schedule", value: "/schedule" },
         { label: "Hotels", value: "/accommodations" },
         { label: "Travel", value: "/travel" },
+        { label: "Transport", value: "/transportation" },
         { label: "FAQs", value: "/faqs" },
-        // { label: "RSVP", value: "/rsvp" },
+        { label: "RSVP", value: "/rsvp" },
       ]}
       logoComponent={<CMIcon />}
+      backgroundColor={"colorNeutralDark"}
+      color={'colorWhite'}
     ></Navbar>
   );
 };
