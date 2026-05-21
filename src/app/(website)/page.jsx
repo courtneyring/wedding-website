@@ -3,6 +3,7 @@
 import Image from "next/image";
 import "../theme.scss";
 import styles from "../page.module.css";
+import overrides from "../overrides.module.scss";
 import {
   OverlayHero,
   Banner,
@@ -14,41 +15,40 @@ import {
   PinnedImage,
   PromoGroup,
   Countdown,
+  FloatingWordsHero,
 } from "@courtneyring/components-library";
 import content from "@/copy/home";
 
-
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Container color="color-neutral-light" styleless>
-          <OverlayHero {...content.hero} />
-        </Container>
-        <Container color="color-primary-dark" maxWidth="sm">
-          <Note {...content.note} />
-        </Container>
-        <Container
-          color="color-primary-dark"
-          backgroundImage={content.countdown.backgroundImage}
-          backgroundPosition={content.countdown.backgroundPosition}
-          hide={new Date(content.countdown.targetDate) - new Date() <= 0}
-        >
-          <Countdown targetDate={content.countdown.targetDate} />
-        </Container>
-        <Container color="color-white" maxWidth="lg">
-          <ImageTextBlock {...content.imageTextPlanning} />
-        </Container>
-        <Container styleless>
-          <Background image="/images/background.jpg" y={0} />
-        </Container>
-        <Container color="color-neutral-light" maxWidth="lg">
-          <PromoGroup {...content.nextSteps} />
-        </Container>
-        <Container color="color-primary-medium" maxWidth="lg">
-          <Banner {...content.banner} />
-        </Container>
-      </main>
-    </div>
+    <main className={overrides.home}>
+      <Container color="color-neutral-light" styleless>
+        <FloatingWordsHero {...content.hero} />
+      </Container>
+      <Container color="color-primary-dark" maxWidth="sm">
+        <Note {...content.note} />
+      </Container>
+      <Container
+        color="color-primary-dark"
+        backgroundImage={content.countdown.backgroundImage}
+        backgroundPosition={content.countdown.backgroundPosition}
+        hide={new Date(content.countdown.targetDate) - new Date() <= 0}
+      >
+        <Countdown targetDate={content.countdown.targetDate} />
+      </Container>
+      <Container color="color-white" maxWidth="lg">
+        <ImageTextBlock {...content.imageTextPlanning} />
+      </Container>
+      <Container styleless>
+        <Background image="/images/holding-hands2.jpg" y={0} pos='50% 90%'/>
+      </Container>
+      <Container color="color-neutral-light" maxWidth="lg">
+        <PromoGroup {...content.nextSteps} />
+      </Container>
+
+      <Container color="color-primary-medium" maxWidth="lg">
+        <Banner {...content.banner} />
+      </Container>
+    </main>
   );
 }

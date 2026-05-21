@@ -1,9 +1,23 @@
-import {sendButtonEvent} from '../utils/analytics';
+import { sendButtonEvent } from "../utils/analytics";
+
+const telFallback = () => {
+  const blurTimeout = setTimeout(() => {
+    e.preventDefault();
+    alert(
+      `It looks like your device can't make direct calls. You can reach us at: ${phoneNumber}`,
+    );
+  }, 1000);
+
+  window.addEventListener("blur", () => clearTimeout(blurTimeout), {
+    once: true,
+  });
+};
 
 export default {
   hero: {
     title: "Accommodations",
-    image: "/images/accommodations-hero.jpg",
+    image: "/images/smiling-trees.jpg",
+    pos: "center 40%",
   },
   banner: {
     body: "Our wedding weekend will be centered in the historic town of Rhinebeck, New York. It's a small town with lots of shops and restaurants to check out. The welcome party, wedding shuttles, and after-party are all within easy walking distance, so we recommend choosing accommodations in town if possible.",
@@ -28,9 +42,17 @@ export default {
   fifties: [
     {
       heading: "Mirbeau Inn & Spa",
-      body: "Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel with a spa and restaurant on site, making it a great option for a more relaxing and luxurious stay. While there is no room block, we'll be staying at Mirbeau and would love for guests to join us there.",
+      body: (
+        <p>
+          Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel
+          featuring an on-site spa and restaurant, and while there is no
+          official room block, we would love for guests to join us there.
+          <br />
+        </p>
+      ),
       image: "/images/mirbeau.jpg",
       color: "color-neutral-light",
+      contentFirst: false,
       ctas: [
         {
           varation: "primaryDark",
@@ -40,10 +62,13 @@ export default {
         },
         {
           varation: "primaryDark",
-          children: "Call the Hotel",
+          children: "877-647-2328",
           hollow: true,
           href: "tel:8776472328",
-          onClick: () => sendButtonEvent("mirbeau-call"),
+          onClick: () => {
+            sendButtonEvent("mirbeau-call");
+            telFallback();
+          },
         },
       ],
     },
@@ -53,14 +78,18 @@ export default {
       image: "/images/beekman-arms.jpg",
       reverse: true,
       color: "color-white",
+      contentFirst: false,
       ctas: [
         { children: "Book Online" },
         {
           varation: "primaryDark",
           hollow: true,
-          children: "Call the Hotel",
+          children: "845-876-7077",
           href: "tel:8458767077",
-          onClick: () => sendButtonEvent("call-beekman"),
+          onClick: () => {
+            sendButtonEvent("call-beekman");
+            telFallback();
+          },
         },
       ],
       overlay: {
@@ -102,6 +131,7 @@ export default {
       body: "There are a few bed & breakfast options, as well as apartments through Airbnb. If you prefer to do one of these, we recommend you finding one in town to make your weekend as smooth as possible.",
       image: "/images/gables.jpg",
       color: "color-neutral-light",
+      contentFirst: false,
     },
   ],
   bookYourStay: {

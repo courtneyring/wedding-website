@@ -13,6 +13,8 @@ import {
   Schedule,
 } from "@courtneyring/components-library";
 import copy from "@/copy/travel";
+import styles from './travel.module.scss';
+import classNames from 'classnames';
 
 export default function TravelPage() {
   return (
@@ -25,7 +27,7 @@ export default function TravelPage() {
         <PromoGroup {...copy.air} />
       </Container>
       <Container styleless>
-        <Background image="/images/hudson-valley-wide.jpg" y={0} />
+        <Background image="/images/train.jpg" y={0} />
       </Container>
       <Container color="color-white" maxWidth="lg">
         <PromoGroup {...copy.tracks} />
@@ -39,8 +41,8 @@ export default function TravelPage() {
       <Container color="color-primary-medium">
         <ImageTextBlock {...copy.road.parent}>
           {copy.road.body.map((block, idx) => (
-            <div key={`road-${idx}`} style={{marginBottom: 40}}>
-              <p className="typography--h3">{block.header}</p>
+            <div key={`road-${idx}`} className={styles.block}>
+              <p className={classNames("typography--h3", styles.blockHeader)}>{block.header}</p>
               <p className='typography--body'>{block.description}</p>
               <br></br>
             </div>

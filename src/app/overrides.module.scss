@@ -1,0 +1,18 @@
+@use "@courtneyring/components-library/styles" as lib;
+
+.home {
+  --floating-words-hero-content-top: 5vh;
+
+}
+
+.registry {
+  --image-container-height: 300px;
+  --promo-group-gap: 50px;
+}
+
+@include lib.md {
+  .home {
+    --floating-words-hero-content-top: 50px;
+    --floating-words-hero-content-right: 60px;
+  }
+}

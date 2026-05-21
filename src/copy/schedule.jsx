@@ -3,7 +3,7 @@ import { sendButtonEvent } from "../utils/analytics";
 export default {
   hero: {
     title: "Our Weekend",
-    image: "/images/milea-3.jpg",
+    image: "/images/kissing-forehead-bridge.jpg",
   },
   banner: {
     body: "We’re looking forward to spending the weekend together. Below is the schedule for our wedding weekend, with details on timing, locations, and what’s planned each day.",
@@ -12,7 +12,7 @@ export default {
     {
       heading: "Welcome Party",
       // body: "Kick off the weekend with drinks and mingling as we welcome everyone to Rhinebeck.",
-      image: "/images/proposal-1.jpg",
+      image: "/images/bridge-1.jpg",
       pos: "bottom center",
       color: "color-white",
       reverse: true,
@@ -20,36 +20,37 @@ export default {
         {
           icon: "location_on",
           text: [
-            "Beekman Arms, The Wayfarer Room",
-            "6387 Mill Street, Rhinebeck, NY 12572",
+            "Beekman Arms, Wayfarer Room",
+            "6387 Mill Street, ",
+            "Rhinebeck, NY 12572",
           ],
         },
-        { icon: "schedule", text: ["Friday August 28, 8:00-10:00pm"] },
+        {
+          icon: "schedule",
+          text: ["Friday August 28, 8-10pm"],
+        },
         { icon: "apparel", text: "Cocktail Attire" },
       ],
     },
     {
       heading: "Ceremony & Reception",
       // body: "An outdoor ceremony overlooking the vineyard followed by dinner, drinks and dancing to celebrate.",
-      image: "/images/proposal-2.jpg",
-      pos: "bottom center",
-      color: "color-primary-dark",
-
+      image: "/images/bridge-2.jpg",
+      pos: "center center",
+      color: "color-neutral-light",
       details: [
         {
           icon: "location_on",
           text: [
             "Milea Estate Vineyard",
-            "450 Hollow Road, Staatsburg, NY 12580",
+            "450 Hollow Road,",
+            "Staatsburg, NY 12580",
           ],
         },
-        { icon: "schedule", text: ["Saturday August 29, 4:00pm - 11:00pm"] },
+        { icon: "schedule", text: ["Saturday August 29, 4-10:30pm"] },
         {
           icon: "directions_bus",
-          text: [
-            "Shuttle from Mirbeau, 3:15pm",
-            " Shuttle from Delamater Inn, 3:30pm",
-          ],
+          text: ["Shuttles from Mirbeau & Delamater", "Pick up times TBA"],
         },
         { icon: "apparel", text: "Formal Attire" },
       ],
@@ -57,19 +58,19 @@ export default {
     {
       heading: "After Party",
       // body: "For anyone who wants to keep the night going, join us afterward for late-night drinks and snacks.",
-      image: "/images/proposal-3.jpg",
+      image: "/images/bridge-3.jpg",
       color: "color-white",
       reverse: true,
-      pos: "60% 30%",
+      pos: "100% 100%",
       details: [
         {
           icon: "location_on",
-          text: ["The American Legion", "6361 Mill St, Rhinebeck, NY 12572"],
+          text: ["The American Legion", "6361 Mill St,", "Rhinebeck, NY 12572"],
         },
-        { icon: "schedule", text: ["Saturday August 29, 11:00pm-2:00am"] },
+        { icon: "schedule", text: ["Saturday August 29, 11pm-2am"] },
         {
           icon: "directions_bus",
-          text: ["Shuttle from Milea, 11:00pm"],
+          text: ["Shuttles from Milea to Rhinebeck", "Depart at 10:30pm"],
         },
       ],
     },

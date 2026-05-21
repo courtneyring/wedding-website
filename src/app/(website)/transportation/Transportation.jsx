@@ -5,27 +5,45 @@ import {
   ImageTextBlock,
   Container,
   Schedule,
-  PromoGroup
+  PromoGroup, 
+  Map, 
+  Background, 
+  Banner
 } from "@courtneyring/components-library";
 
 import copy from "@/copy/transportation";
+const MapsAPIKey = "AIzaSyAFBFusgZHpLL5j6M4z2J9rDuvfIgtHZrY";
+const query = ["W3GP+JR", "W3GP+94", "W3FP+XV"];
+const url = `http://www.google.com/maps/embed/v1/place?key=${MapsAPIKey}&q=${query.join(',')}`;
+console.log(url)
+const staticUrl =
+  "//maps.googleapis.com/maps/api/staticmap?center=51.477222,0&zoom=14&size=400x400&key=AIzaSyA3kg7YWugGl1lTXmAmaBGPNhDW9pEh5bo&signature=ciftxSv4681tGSAnes7ktLrVI3g=";
 
-export default function TransportationPage() {
+export default function Transportation() {
   return (
     <main>
       <OverlayHero {...copy.hero} />
-      {/* <Container maxWidth="sm" color="color-white">
-        <Banner {...copy.banner} />
+      <Container color="color-white" maxWidth="sm">
+        <Banner {...copy.intro} />
       </Container>
-      */}
-      <Container color="color-white">
+      {/* <Container color="color-white" style={{ height: "50vh" }}> */}
+        <Map {...copy.map}/>
+      {/* </Container> */}
+
+      <Container color="color-primary-dark">
         <ImageTextBlock {...copy.shuttle.imageText}>
           <Schedule {...copy.shuttle.toMilea} />
           <Schedule {...copy.shuttle.fromMilea} />
         </ImageTextBlock>
       </Container>
+      <Container styleless>
+        <Background image="/images/kissing-cheek.jpg" pos='74% 74%' />
+      </Container>
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...copy.car} />
+      </Container>
+      <Container color="color-primary-medium" maxWidth="lg">
+        <Banner {...copy.planYourStay} />
       </Container>
     </main>
   );

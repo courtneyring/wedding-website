@@ -13,7 +13,7 @@ const RSVPPage = () => {
       <Container
         color="color-white"
         // backgroundImage="/images/accommodations-hero.jpg"
-        fullHeight
+        // fullHeight
         styleless
         center
         {...copy.hero}

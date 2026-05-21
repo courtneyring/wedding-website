@@ -3,13 +3,15 @@ import { Button } from "@courtneyring/components-library";
 export default {
   hero: {
     title: "Travel",
-    image: "/images/travel-hero.jpg",
+    image: "/images/brick-wall.jpg",
+    pos: "center 20%",
   },
   banner: {
     body: "This page has all the essential information for getting to Rhinebeck and getting around during the weekend. We’ve included details for airports, driving, and local transportation to make planning your trip easier.",
   },
   air: {
     header: "By Air",
+    slider: true,
     promos: [
       {
         header: "Stewart International",
@@ -87,7 +89,7 @@ export default {
   road: {
     parent: {
       header: "By Highway",
-      image: "/images/travel-hero.jpg",
+      image: "/images/road.jpg",
     },
     body: [
       {
@@ -114,6 +116,7 @@ export default {
         body: "Metro North is available from both Albany and NYC. The closest stop is Poughkeepsie and it's about a 20 minute car ride from there.",
         image: "/images/mta-logo.png",
         textAlign: "center",
+        imageFit: "none",
         cta: {
           label: "Visit Metro North Site",
           variation: "link",
@@ -126,6 +129,7 @@ export default {
         body: "Amtrak is available from multiple cities including Albany and NYC. The closest stop is Rhinecliff and it's about a 5 minute car ride from there.",
         image: "/images/amtrak-logo.png",
         textAlign: "center",
+        imageFit: "none",
         cta: {
           label: "Visit Amtrak Site",
           variation: "link",

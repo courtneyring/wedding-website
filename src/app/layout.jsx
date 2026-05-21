@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
           content="Courtney&nbsp;&&nbsp;Matt"
         />
       </head>
-      <body>
+      <body >
         <Toolbar />
         <WeddingNavbar />
         {children}

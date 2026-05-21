@@ -1,7 +1,7 @@
 export default {
   hero: {
     title: "FAQs",
-    image: "/images/accommodations-hero.jpg",
+    image: "/images/jeans-walking.jpg",
   },
   items: [
     {

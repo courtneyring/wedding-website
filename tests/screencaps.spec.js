@@ -9,9 +9,14 @@ const URL = "http://localhost:3000";
 
 const paths = [
   "/",
+  "/schedule",
+  "/transportation",
   "/travel",
   "/accommodations",
   "/accommodations?beekmanModal=true",
+  "/faqs",
+  "/registry",
+  "/rsvp",
 ];
 
 
