@@ -4,6 +4,7 @@ import { Navbar } from "@courtneyring/components-library";
 import CMIcon from "../../icons/logo.jsx";
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
+import overrides from '../../app/overrides.module.scss';
 
 const WeddingNavbar = () => {
     const pathname = usePathname();
@@ -42,6 +43,7 @@ const WeddingNavbar = () => {
       color={"colorWhite"}
       hidden={hidden}
       position={pathname === '/rsvp' && 'static'}
+      className={overrides.navbar}
     ></Navbar>
   );
 };

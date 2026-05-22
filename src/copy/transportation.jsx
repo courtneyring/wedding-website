@@ -104,48 +104,53 @@ export default {
     },
   },
   shuttle: {
-    imageText: {
-      header: "Shuttle",
-      // body: "Another big hub with lots of flight options, but expect more crowds and traffic. Offers trains via NJ Transit that can be used to connect to NY Transit",
-      image: "/images/milea-tasting-room.jpeg",
-    },
     toMilea: {
-      header: "Rhinebeck to Milea",
-      slots: [
-        {
-          time: "TBA",
-          description: "Depart from Mirbeau Inn & Spa",
-        },
-        {
-          time: "TBA",
-          description: "Depart from Delamater Inn",
-        },
-        {
-          time: "4:00pm",
-          description: "Arrive at Milea Estate Vineyard",
-        },
-      ],
+      reverse: true,
+      // header: "Shuttle",
+      image: "/images/milea-tasting-room.jpeg",
+      schedule: {
+        header: "Rhinebeck to Milea",
+        slots: [
+          {
+            time: "TBA",
+            description: "Depart from Mirbeau Inn & Spa",
+          },
+          {
+            time: "TBA",
+            description: "Depart from Delamater Inn",
+          },
+          {
+            time: "4:00pm",
+            description: "Arrive at Milea Estate Vineyard",
+          },
+        ],
+      }
+     
     },
     fromMilea: {
-      header: "Milea to Rhinebeck",
-      slots: [
-        {
-          time: "10:30pm",
-          description: "Depart from Milea Estate Vineyard",
-        },
-        {
-          time: "11:00pm",
-          description: "Arrive at American Legion After Pary",
-        },
-        {
-          time: "11:05pm",
-          description: "Arrive at Mirbeau Inn & Spa",
-        },
-        {
-          time: "11:05pm",
-          description: "Arrive at Beekman Arms & Delamater Inn",
-        },
-      ],
+      image: "/images/milea-tasting-room.jpeg",
+      schedule: {
+        header: "Milea to Rhinebeck",
+        slots: [
+          {
+            time: "10:30pm",
+            description: "Depart from Milea Estate Vineyard",
+          },
+          {
+            time: "11:00pm",
+            description: "Arrive at American Legion After Pary",
+          },
+          {
+            time: "11:05pm",
+            description: "Arrive at Mirbeau Inn & Spa",
+          },
+          {
+            time: "11:05pm",
+            description: "Arrive at Beekman Arms & Delamater Inn",
+          },
+        ],
+      }
+      
     },
   },
   car: {

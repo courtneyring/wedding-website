@@ -8,6 +8,10 @@ html body .themed-element * {
   line-height: 1;
 }
 
+:root, :host {
+  --spacing: .15rem;
+}
+
 button {
   box-shadow: none;
 }

@@ -39,6 +39,7 @@ h1,
 h2 {
   margin: 0;
 }
+
 /* 
 #rsvpify-wrapper, #rsvpify-wrapper iframe {
   width: 600px;
@@ -50,11 +51,13 @@ h2 {
   display: none;
 }
 
-@include lib.md {
+@include lib.viewport('md', 'landscape') {
   .desktop-only {
     display: initial;
   }
+
   .mobile-only {
     display: none;
   }
 }
+

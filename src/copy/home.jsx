@@ -87,7 +87,7 @@ export default {
     header: "Plan Your Trip",
     reverse: false,
     body: "We’ve put together a few helpful details on travel and accommodations. Everything you need to plan your trip is included in the pages below.",
-    image: "/images/holding-hands-park.jpg",
+    image: "/images/milea-1.jpg",
     primaryCta: {
       variation: "color-primary-dark",
       children: "Book Your Stay",

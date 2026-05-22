@@ -1,7 +1,23 @@
+@use "@courtneyring/components-library/styles" as lib;
+
 .block {
   margin-bottom: 20px;
 }
 
 .blockHeader {
   margin-bottom: 5px;
+}
+
+
+@include lib.viewport('md', 'landscape') {
+  .block {
+    margin-bottom: 10px;
+  }
+}
+
+
+@include lib.lg {
+  .block {
+    margin-bottom: 15px;
+  }
 }

@@ -40,7 +40,7 @@ export default function Home() {
         <ImageTextBlock {...content.imageTextPlanning} />
       </Container>
       <Container styleless>
-        <Background image="/images/holding-hands2.jpg" y={0} pos='50% 90%'/>
+        <Background image="/images/holding-hands-3.jpeg" y={0} pos='50% 55%'/>
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...content.nextSteps} />

@@ -21,8 +21,7 @@ export default {
           icon: "location_on",
           text: [
             "Beekman Arms, Wayfarer Room",
-            "6387 Mill Street, ",
-            "Rhinebeck, NY 12572",
+            <p>6387 Mill Street, <br className="mobile-only"/>Rhinebeck, NY 12572</p>
           ],
         },
         {
@@ -43,8 +42,7 @@ export default {
           icon: "location_on",
           text: [
             "Milea Estate Vineyard",
-            "450 Hollow Road,",
-            "Staatsburg, NY 12580",
+            <p>450 Hollow Road, <br className="mobile-only" />Staatsburg, NY 12580</p>,
           ],
         },
         { icon: "schedule", text: ["Saturday August 29, 4-10:30pm"] },
@@ -65,7 +63,7 @@ export default {
       details: [
         {
           icon: "location_on",
-          text: ["The American Legion", "6361 Mill St,", "Rhinebeck, NY 12572"],
+          text: ["The American Legion", <p>6361 Mill St,<br className="mobile-only" />Rhinebeck, NY 12572</p>],
         },
         { icon: "schedule", text: ["Saturday August 29, 11pm-2am"] },
         {

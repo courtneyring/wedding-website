@@ -74,7 +74,7 @@ export default {
     },
     {
       heading: "Beekman Arms Delamater Inn",
-      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. With a range of room styles across the inn, it’s a great option if you're looking for historic charm and variety. We have a block that will be available until July 27.",
+      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. We have a block that will be available until July 27.",
       image: "/images/beekman-arms.jpg",
       reverse: true,
       color: "color-white",

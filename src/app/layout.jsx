@@ -6,6 +6,7 @@ import copy from "../assets/json/global.json";
 import { Footer, Toolbar } from "@courtneyring/components-library";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import WeddingNavbar from '@/components/WeddingNavbar/WeddingNavbar';
+import overrides from './overrides.module.scss';
 
 export default function RootLayout({ children }) {
   const analyticsId = process.env.NEXT_PUBLIC_ANALYTICS_ID;
@@ -21,8 +22,8 @@ export default function RootLayout({ children }) {
           content="Courtney&nbsp;&&nbsp;Matt"
         />
       </head>
-      <body >
-        <Toolbar />
+      <body className={overrides.root}>
+        {/* <Toolbar /> */}
         <WeddingNavbar />
         {children}
       </body>

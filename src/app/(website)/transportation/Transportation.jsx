@@ -8,7 +8,8 @@ import {
   PromoGroup, 
   Map, 
   Background, 
-  Banner
+  Banner,
+  Spacer
 } from "@courtneyring/components-library";
 
 import copy from "@/copy/transportation";
@@ -31,9 +32,13 @@ export default function Transportation() {
       {/* </Container> */}
 
       <Container color="color-primary-dark">
-        <ImageTextBlock {...copy.shuttle.imageText}>
-          <Schedule {...copy.shuttle.toMilea} />
-          <Schedule {...copy.shuttle.fromMilea} />
+        <h2 className="typography--h2" style={{width: '100%', textAlign: 'center', marginBottom: '20px'}}>Shuttle</h2>
+        <ImageTextBlock {...copy.shuttle.toMilea}>
+          <Schedule {...copy.shuttle.toMilea.schedule} />
+        </ImageTextBlock>
+        <Spacer height='50px' />
+        <ImageTextBlock {...copy.shuttle.fromMilea}>
+          <Schedule {...copy.shuttle.fromMilea.schedule} />
         </ImageTextBlock>
       </Container>
       <Container styleless>
