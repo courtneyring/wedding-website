@@ -12,6 +12,13 @@ html body .themed-element * {
   --spacing: .15rem;
 }
 
+
+svg#rsvpify-iframe-loader {
+  fill: white;
+
+}
+
+
 button {
   box-shadow: none;
 }

@@ -6,12 +6,18 @@
 }
 
 .root {
-  --navbar-height: 60px;
+  --navbar-height: 50px;
 }
 
 .registry {
   --image-container-height: 300px;
   --promo-group-gap: 50px;
+}
+
+@include lib.xs {
+  .root {
+      --navbar-height: 60px;
+    }
 }
 
 @include lib.sm {
