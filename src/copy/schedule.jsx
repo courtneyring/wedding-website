@@ -42,12 +42,12 @@ export default {
             "450 Hollow Road, Staatsburg, NY 12580",
           ],
         },
-        { icon: "schedule", text: ["Saturday August 29", "4:00pm - 11:00pm"] },
+        { icon: "schedule", text: ["Saturday August 29", "4:00pm - 10:30pm"] },
         {
           icon: "directions_bus",
           text: [
-            "Shuttle from Beekman Arms & Delamater Inn, 3:10pm",
-            "Shuttle from Mirbeau Inn & Spa, 3:20pm",
+            "Shuttle from Beekman Arms & Delamater Inn, TBA",
+            "Shuttle from Mirbeau Inn & Spa, TBA",
           ],
         },
         { icon: "apparel", text: "Formal Attire" },
@@ -68,7 +68,7 @@ export default {
         {
           icon: "directions_bus",
           text: [
-            "Shuttle from Milea, 11:00pm",
+            "Shuttles from Milea, 10:30pm",
           ],
         },
       ],

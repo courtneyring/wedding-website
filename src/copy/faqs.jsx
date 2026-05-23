@@ -44,19 +44,19 @@ export default {
     },
     {
       title: "What time should I arrive at the venue?",
-      body: "Please plan to arrive promptly by 4:00 PM. To ensure an intimate and uninterrupted ceremony, the venue driveway will close to all incoming traffic at 4:10 PM.",
+      body: "Please plan to arrive promptly by 4:00 PM. To ensure an intimate and uninterrupted ceremony, driveway traffic will be limited starting at 4:15pm.",
       category: "ceremony-&-reception",
     },
-    {
-      title: "Why is the driveway closing?",
-      body: "The venue's driveway is positioned within view of the ceremony site. To minimize noise and distractions during our vows, we are limiting vehicle access for the duration of the ceremony.",
-      category: "ceremony-&-reception",
-    },
-    {
-      title: "What if I'm running late?",
-      body: "We highly encourage everyone to account for Hudson Valley traffic and aim for 4:00 PM. If you arrive after the gates close at 4:10 PM, please wait at the entrance; the driveway will reopen for entry immediately following the conclusion of the ceremony.",
-      category: "ceremony-&-reception",
-    },
+    // {
+    //   title: "Why is the driveway closing?",
+    //   body: "The venue's driveway is positioned within view of the ceremony site. To minimize noise and distractions during our vows, we are limiting vehicle access for the duration of the ceremony.",
+    //   category: "ceremony-&-reception",
+    // },
+    // {
+    //   title: "What if I'm running late?",
+    //   body: "We highly encourage everyone to account for Hudson Valley traffic and aim for 4:00 PM. If you arrive after the gates close at 4:10 PM, please wait at the entrance; the driveway will reopen for entry immediately following the conclusion of the ceremony.",
+    //   category: "ceremony-&-reception",
+    // },
     {
       title: "What will the weather be like?",
       body: "Late August in the Hudson Valley is typically warm and beautiful. We anticipate daytime temperatures in the high 70s and low 80s, cooling off slightly after sunset. We are keeping our fingers crossed for clear skies!",
@@ -84,7 +84,7 @@ export default {
     },
     {
       title: "When is the RSVP deadline?",
-      body: "Please kindly respond by July 27.",
+      body: "Please kindly respond by July 25.",
       category: "other",
     },
     {
@@ -123,9 +123,7 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          The shuttles will pick up from Mirbeau at 3:10 PM and the Beekman Arms - Delamater
-          Inn at 3:20 PM. A full schedule is
-          available on our <a href="/travel">Transportation page</a>.
+          Departure times depend on the amount of guests that opt for the shuttle. Times will be updated on the website at the beginning of August.
         </p>
       ),
       category: "getting-around",
@@ -134,7 +132,7 @@ export default {
       title: "What time does the shuttle return to Rhinebeck?",
       body: (
         <p>
-          Return shuttles will depart Milea at 11:00 PM. Drop-offs will include
+          Return shuttles will depart Milea at 10:30 PM. Drop-offs will include
           the afterparty location, Mirbeau, and the Beekman-Delamater. A full
           schedule is available on our{" "}
           <a href="/travel">Transportation page</a>

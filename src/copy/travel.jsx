@@ -93,11 +93,11 @@ export default {
       header: "Rhinebeck to Milea",
       slots: [
         {
-          time: "3:15pm",
+          time: "TBA",
           description: "Depart from Beekman Arms & Delamater Inn",
         },
         {
-          time: "3:30pm",
+          time: "TBA",
           description: "Depart from Mirbeau Inn & Spa",
         },
         {
@@ -134,7 +134,7 @@ export default {
       {
         header: "A General Note",
         description:
-          "Although Rhinebeck is a small town, August is a very busy time of year for the area. Be sure to plan ahead and allow extra time for traffic. If you’re driving to the vineyard, please note that the driveway will close 10 minutes before the ceremony begins.",
+          "Although Rhinebeck is a small town, August is a very busy time of year for the area. Be sure to plan ahead and allow extra time for traffic.",
       },
       {
         header: "Cars",
