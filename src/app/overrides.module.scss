@@ -1,0 +1,49 @@
+@use "@courtneyring/components-library/styles" as lib;
+
+.home {
+  --floating-words-hero-content-top: 5vh;
+
+}
+
+.root {
+  --navbar-height: 60px;
+}
+
+.registry {
+  --image-container-height: 300px;
+  --promo-group-gap: 50px;
+}
+
+@include lib.sm {
+  .root {
+    --navbar-height: 80px;
+  }
+}
+
+@include lib.md {
+  .root {
+    --navbar-height: 50px;
+  }
+}
+
+@include lib.viewport('md', 'landscape') {
+    .root {
+        --navbar-height: 40px;
+      }
+  .home {
+    --floating-words-hero-content-top: 20px;
+    --floating-words-hero-content-right: 20px;
+  }
+}
+
+@include lib.lg {
+  .root {
+    --navbar-height: 80px;
+  }
+}
+
+@include lib.xl {
+  .root {
+    --navbar-height: 80px;
+  }
+}
