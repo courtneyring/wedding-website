@@ -25,7 +25,7 @@ export default function Home() {
       <Container color="color-neutral-light" styleless>
         <FloatingWordsHero {...content.hero} />
       </Container>
-      <Container color="color-primary-dark" maxWidth="sm">
+      <Container color="color-primary-dark" maxWidth="sm" id='note'>
         <Note {...content.note} />
       </Container>
       <Container

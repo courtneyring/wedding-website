@@ -22,29 +22,29 @@
 
 @include lib.sm {
   .root {
-    --navbar-height: 80px;
+    --navbar-height: 60px;
   }
 }
 
 @include lib.md {
   .root {
-    --navbar-height: 50px;
+    --navbar-height: 40px;
   }
 }
 
-@include lib.viewport('md', 'landscape') {
+@include lib.landscape-or('md', 'lg') {
     .root {
         --navbar-height: 40px;
       }
   .home {
-    --floating-words-hero-content-top: 20px;
-    --floating-words-hero-content-right: 20px;
+    --floating-words-hero-content-top: 30px;
+    --floating-words-hero-content-right: 30px;
   }
 }
 
 @include lib.lg {
   .root {
-    --navbar-height: 80px;
+    --navbar-height: 55px;
   }
 }
 
@@ -52,4 +52,8 @@
   .root {
     --navbar-height: 80px;
   }
+    .home {
+      --floating-words-hero-content-top: 50px;
+      --floating-words-hero-content-right: 50px;
+    }
 }

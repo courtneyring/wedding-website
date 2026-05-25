@@ -47,7 +47,7 @@ export default function Transportation() {
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...copy.car} />
       </Container>
-      <Container color="color-primary-medium" maxWidth="lg">
+      <Container color="color-primary-medium" maxWidth="lg" backgroundImage='/images/holding-hands.jpg' backgroundPosition='50% 70%'>
         <Banner {...copy.planYourStay} />
       </Container>
     </main>

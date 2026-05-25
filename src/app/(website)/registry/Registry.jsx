@@ -8,7 +8,7 @@ const RegistryPage = ()=> {
   return (
     <main className={overrides.registry}>
       <OverlayHero {...copy.hero} />
-      <Container maxWidth='lg' color='color-white'>
+      <Container maxWidth='sm' color='color-white'>
         <Banner {...copy.banner}/>
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">

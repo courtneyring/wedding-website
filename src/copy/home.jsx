@@ -12,6 +12,7 @@ export default {
       <p className="desktop-only">&nbsp;&nbsp;|&nbsp;&nbsp;</p>,
       <p>August 29, 2026</p>,
     ],
+    scrollToId: 'note',
     image: "/images/sunset-new-york-skyline.jpg",
     pos: "60% 60%",
     contentPos: { top: "50px", right: "60px" },
@@ -53,7 +54,7 @@ export default {
     header: "We hope you can make it!",
     ctas: [
       {
-        variation: "color-neutral-light",
+        variation: "color-white",
         children: "RSVP",
         href: "/rsvp",
         onClick: () => sendButtonEvent("navigate-rsvp"),
@@ -62,6 +63,7 @@ export default {
         variation: "color-white",
         children: "Registry",
         href: "/registry",
+        hollow: true,
         onClick: () => sendButtonEvent("navigate-registry"),
       },
     ],

@@ -97,17 +97,16 @@ export default {
         body: [
           "Each room is a little different so take a look at the room types to see some pictures and where they are located.",
           "When you are ready to book, use the link below or enter the group code with August 28-30 selected: HOWAR260828-151430",
-          <p>
-            <strong>
-              No matter how many are staying in your room, please select
-              1&nbsp;Adult.
-            </strong>
-            <br />
-            <small>
-              The software engineer bride is trying to find humor in these fun
-              quirks…
-            </small>
-          </p>,
+
+          <p><strong>
+            No matter how many are staying in your room, please select
+            1&nbsp;Adult.
+          </strong></p>,
+
+          <p><small style={{ marginBottom: '10px' }}>
+            The software engineer bride is trying to find humor in these fun
+            quirks…
+          </small> </p>,
         ],
         primaryCta: {
           varation: "primaryDark",
@@ -135,11 +134,18 @@ export default {
     },
   ],
   bookYourStay: {
-    header: "Plan Your Route",
+    header: "Getting There & Around",
     ctas: [
       {
-        label: "See Travel Info",
+        variation: 'color-white',
+        label: "Travel",
         href: "/travel",
+      },
+      {
+        label: "Transport",
+        variation: 'color-white',
+        hollow: true,
+        href: "/transportation",
       },
     ],
   },
