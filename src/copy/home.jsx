@@ -47,7 +47,7 @@ export default {
   },
   countdown: {
     targetDate: "2026-08-29T16:30:00-04:00",
-    backgroundImage: "/images/grapes.jpg",
+    backgroundImage: "/images/growing-grapes-for-wine.jpg",
     backgroundPosition: "47% 70%",
   },
   banner: {

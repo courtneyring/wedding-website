@@ -30,13 +30,13 @@ export default function Transportation() {
         <Map {...copy.map}/>
       {/* </Container> */}
 
-      <Container color="color-primary-dark">
+      <Container color="color-primary-dark" maxWidth='lg'>
         <h2 className="typography--h2" style={{width: '100%', textAlign: 'center', marginBottom: '20px'}}>Shuttle</h2>
-        <ImageTextBlock {...copy.shuttle.toMilea}>
+        <ImageTextBlock {...copy.shuttle.toMilea} >
           <Schedule {...copy.shuttle.toMilea.schedule} />
         </ImageTextBlock>
         <Spacer height='50px' />
-        <ImageTextBlock {...copy.shuttle.fromMilea}>
+        <ImageTextBlock {...copy.shuttle.fromMilea} >
           <Schedule {...copy.shuttle.fromMilea.schedule} />
         </ImageTextBlock>
       </Container>

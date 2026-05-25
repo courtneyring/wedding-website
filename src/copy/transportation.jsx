@@ -98,7 +98,7 @@ export default {
     ],
     cta: {
       label: "Open in Google Maps",
-      variation: "color-neutral-dark",
+      variation: "color-primary-dark",
       href: "https://www.google.com/maps/d/u/0/edit?mid=175LH_3TJu9WN6xGGBzyzP2rTn0Y-mNw&usp=sharing",
       target: "_blank",
     },

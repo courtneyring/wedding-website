@@ -63,12 +63,12 @@ export default {
       details: [
         {
           icon: "location_on",
-          text: ["The American Legion", <p>6361 Mill St,<br className="mobile-only" />Rhinebeck, NY 12572</p>],
+          text: ["The American Legion ", <p>6361 Mill St,<br className="mobile-only" />Rhinebeck, NY 12572</p>],
         },
         { icon: "schedule", text: ["Saturday August 29, 11pm-2am"] },
         {
           icon: "directions_bus",
-          text: ["Shuttles from Milea to Rhinebeck", "Depart at 10:30pm"],
+          text: ["Shuttles from Milea to Rhinebeck", "Departures starting at 10:30pm"],
         },
       ],
     },

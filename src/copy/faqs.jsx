@@ -2,7 +2,7 @@ export default {
   hero: {
     title: "FAQs",
     image: "/images/jeans-piggyback.jpg",
-    pos:  "33% 50%",
+    pos:  "33% 26%",
   },
   items: [
     {

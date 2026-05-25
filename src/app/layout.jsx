@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={overrides.root}>
-        <Toolbar />
+        {/* <Toolbar /> */}
         <WeddingNavbar />
         {children}
       </body>
