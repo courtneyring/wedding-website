@@ -25,7 +25,6 @@ export default function FAQs() {
     return acc;
   }, {});
 
-  console.log(grouped)
   return (
     <div>
       <main>
