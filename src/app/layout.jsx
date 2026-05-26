@@ -10,8 +10,8 @@ import overrides from './overrides.module.scss';
 
 export default function RootLayout({ children }) {
   const analyticsId = process.env.NEXT_PUBLIC_ANALYTICS_ID;
-  const env = process.env.NODE_ENV;
-  console.log(env)
+  const devBuild = !!process.env.NEXT_PUBLIC_DEVELOPMENT;
+
   return (
     <html lang="en">
       <head>
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={overrides.root}>
-        {env === 'development' && <Toolbar />}
+        {devBuild && <Toolbar />}
         <WeddingNavbar />
         {children}
       </body>
