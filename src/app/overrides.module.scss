@@ -57,3 +57,10 @@
       --floating-words-hero-content-right: 50px;
     }
 }
+
+@include lib.xxl {
+  .home {
+    --floating-words-hero-content-top: 70px;
+      --floating-words-hero-content-right: 70px;
+  }
+}

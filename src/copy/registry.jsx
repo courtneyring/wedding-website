@@ -4,7 +4,7 @@ export default {
   hero: {
     title: "Registry",
     image: "/images/bridge-lifting-2.jpg",
-    pos: "100% 90%",
+    pos: "100% 100%",
     contentPos: { top: "50px", right: "60px" },
   },
   banner: {
@@ -47,7 +47,8 @@ export default {
     primaryCta: {
       variation: "color-white",
       children: "Donate",
-      href: "/schedule",
+      href: "https://www.stbaldricks.org",
+      target:'_blank'
       // fn: () => sendButtonEvent("navigate-schedule"),
     },
     secondaryCta: {

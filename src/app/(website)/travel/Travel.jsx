@@ -38,7 +38,7 @@ export default function TravelPage() {
       {/* <Container color="color-neutral-light" maxWidth="sm">
         <TextBlock {...copy.road} />
       </Container> */}
-      <Container color="color-primary-medium">
+      <Container color="color-neutral-light" maxWidth='lg'>
         <ImageTextBlock {...copy.road.parent}>
           {copy.road.body.map((block, idx) => (
             <div key={`road-${idx}`} className={styles.block}>
@@ -49,9 +49,9 @@ export default function TravelPage() {
           ))}
         </ImageTextBlock>
       </Container>
-      {/* <Container maxWidth="sm" color="color-primary-medium">
-        <Banner {...copy.bookYourStay} />
-      </Container> */}
+      <Container color="color-primary-medium" maxWidth="lg" backgroundImage='/images/holding-hands.jpg' backgroundPosition='50% 70%'>
+        <Banner {...copy.planYourStay} />
+      </Container>
     </main>
   );
 }

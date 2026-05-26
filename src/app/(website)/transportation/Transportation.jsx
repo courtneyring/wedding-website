@@ -13,6 +13,8 @@ import {
 } from "@courtneyring/components-library";
 
 import copy from "@/copy/transportation";
+import styles from './page.module.scss';
+import classNames from "classnames";
 const MapsAPIKey = "AIzaSyAFBFusgZHpLL5j6M4z2J9rDuvfIgtHZrY";
 const query = ["W3GP+JR", "W3GP+94", "W3FP+XV"];
 const url = `http://www.google.com/maps/embed/v1/place?key=${MapsAPIKey}&q=${query.join(',')}`;
@@ -31,11 +33,11 @@ export default function Transportation() {
       {/* </Container> */}
 
       <Container color="color-primary-dark" maxWidth='lg'>
-        <h2 className="typography--h2" style={{width: '100%', textAlign: 'center', marginBottom: '20px'}}>Shuttle</h2>
+        <h2 className={classNames(styles.shuttleTitle, 'typography--h2')}>Shuttle</h2>
         <ImageTextBlock {...copy.shuttle.toMilea} >
           <Schedule {...copy.shuttle.toMilea.schedule} />
         </ImageTextBlock>
-        <Spacer height='50px' />
+        <Spacer className={styles.spacer}/>
         <ImageTextBlock {...copy.shuttle.fromMilea} >
           <Schedule {...copy.shuttle.fromMilea.schedule} />
         </ImageTextBlock>
@@ -46,7 +48,7 @@ export default function Transportation() {
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...copy.car} />
       </Container>
-      <Container color="color-primary-medium" maxWidth="lg" backgroundImage='/images/holding-hands.jpg' backgroundPosition='50% 70%'>
+      <Container color="color-primary-medium" maxWidth="lg" backgroundImage='/images/kissing-shoulder.jpg' backgroundPosition='50% 25%'>
         <Banner {...copy.planYourStay} />
       </Container>
     </main>

@@ -140,13 +140,22 @@ export default {
       },
     ],
   },
-  bookYourStay: {
-    header: "Book Your Stay",
+  planYourStay: {
+    header: "Plan Your Stay",
+
     ctas: [
       {
-        label: "See Hotels",
+        variation: "color-white",
+        children: "Schedule",
+        href: "/schedule",
+        onClick: () => sendButtonEvent("navigate-rsvp"),
+      },
+      {
+        variation: "color-white",
+        hollow: true,
+        children: "Hotels",
         href: "/accommodations",
-        onClick: () => sendButtonEvent("navigate-accommodations"),
+        onClick: () => sendButtonEvent("navigate-registry"),
       },
     ],
   },

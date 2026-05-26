@@ -9,7 +9,7 @@
     "test": "playwright test"
   },
   "dependencies": {
-    "@courtneyring/components-library": "^1.0.33",
+    "@courtneyring/components-library": "^1.0.34",
     "@next/third-parties": "^16.1.6",
     "classnames": "^2.5.1",
     "next": "15.5.6",
@@ -18,8 +18,7 @@
     "sass": "^1.93.3"
   },
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
-    "@types/node": "^25.0.9",
-    "playwright": "^1.60.0"
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.0.9"
   }
 }

@@ -1,9 +1,11 @@
 // ui-screenshots.spec.js
-const { test } = require("@playwright/test");
-const SCREEN_SIZES = require("./screen-sizes");
-const BROWSERS = require("./browsers");
+import { test } from "@playwright/test";
+import { chromium, firefox, webkit } from "@playwright/test";
+import SCREEN_SIZES from "./screen-sizes.js";
+import BROWSERS from "./browsers.js";
 import fs from "fs";
 import path from "path";
+
 
 const URL = "http://localhost:3000";
 

@@ -32,6 +32,7 @@ export default function Home() {
         color="color-primary-dark"
         backgroundImage={content.countdown.backgroundImage}
         backgroundPosition={content.countdown.backgroundPosition}
+        maxWidth='lg'
         hide={new Date(content.countdown.targetDate) - new Date() <= 0}
       >
         <Countdown targetDate={content.countdown.targetDate} />
