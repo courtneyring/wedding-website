@@ -1,5 +1,5 @@
 import { sendButtonEvent } from "../utils/analytics";
-
+const env = process.env.NODE_ENV;
 export default {
   hero: {
     title: "RSVP",
@@ -7,6 +7,6 @@ export default {
     pos: "center 25%",
   },
   rsvp: {
-    embedUrl: "https://courtneyandmatt.rsvpify.com/embed",
+    embedUrl: `https://courtneyandmatt${env === 'development' ? 'TEST' : ''}.rsvpify.com/embed`,
   },
 };

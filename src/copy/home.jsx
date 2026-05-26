@@ -122,7 +122,7 @@ export default {
         },
       },
       {
-        header: "Transportation",
+        header: "Getting Around",
         body: "See your options for getting around the area.",
         icon: "directions_car",
         textAlign: "center",
