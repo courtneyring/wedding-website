@@ -47,7 +47,7 @@ export default {
     primaryCta: {
       variation: "color-white",
       children: "Donate",
-      href: "https://www.stbaldricks.org",
+      href: "https://www.stbaldricks.org/fundraisers/CameronKicksALL",
       target:'_blank'
       // fn: () => sendButtonEvent("navigate-schedule"),
     },
