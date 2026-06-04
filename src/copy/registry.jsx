@@ -32,7 +32,7 @@ export default {
     body: (
       <div>
         <p>
-          In February, my sweet, energetic, loving nephew was diagnosed with B-cell Acute Lymphoblastic Leukemia. He's had some ups and downs through the first few months, but he's been unbelievably brave through the many procedures and medicines. While he still has 2 years of chemo ahead of him, we are filled with hope: 90% of kids who follow this treatment plan remain cancer-free for life.
+          In February, my sweet, energetic, loving nephew was diagnosed with Acute Lymphoblastic Leukemia. He's had some ups and downs through the first few months, but he's been unbelievably brave through the many procedures and medicines. While he still has 2 years of chemo ahead of him, we are filled with hope: 90% of kids who follow this treatment plan remain cancer-free for life.
         </p>
         <p>
           We are incredibly grateful for the science and research that goes into these treatments and we would be honored if you chose to donate to this cause as your gift to us.
@@ -60,18 +60,7 @@ export default {
     header: 'Wishlist',
     slider: true,
     promos: [
-      {
-        body: "Pyrex Feshlock Food Storage Set",
-        image: "/images/registry-pyrex.png",
-        imageFit: "contain",
-        textAlign: "center",
-        color: "color-white",
-        containerCta: {
-          href: "https://withjoy.com/mattandcourt/registry?pid=1c0f4215-3ee9-46ba-a00d-fa6a8d76ef97",
-          // onClick: () => sendButtonEvent("registry-bambino"),
-          target: "_blank",
-        },
-      },
+     
       {
         body: "Wusthof Ikon 2-Piece Chef's Set",
         image: "/images/registry-knives.png",
@@ -104,6 +93,18 @@ export default {
         imageFit: "contain",
         containerCta: {
           href: "https://withjoy.com/mattandcourt/registry?pid=fcecfea6-0210-44b0-ba05-bd37b46db31a",
+          // onClick: () => sendButtonEvent("registry-bambino"),
+          target: "_blank",
+        },
+      },
+      {
+        body: "Pyrex Feshlock Food Storage Set",
+        image: "/images/registry-pyrex.png",
+        imageFit: "contain",
+        textAlign: "center",
+        color: "color-white",
+        containerCta: {
+          href: "https://withjoy.com/mattandcourt/registry?pid=1c0f4215-3ee9-46ba-a00d-fa6a8d76ef97",
           // onClick: () => sendButtonEvent("registry-bambino"),
           target: "_blank",
         },
