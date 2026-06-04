@@ -3,8 +3,8 @@ import { Button } from "@courtneyring/components-library";
 export default {
   hero: {
     title: "Transport",
-    image: "/images/jeans-piggyback.jpg",
-    pos: "33% 50%",
+    image: "/images/jeans-walking.jpg",
+    pos: "30% 40%",
   },
   intro: {
     body: "The wedding is centered around the historic town of Rhinebeck, NY. Both the Welcome Party and After Party are within walking distance of both hotels. See the map below for a complete view of where everything is located.",
@@ -98,7 +98,7 @@ export default {
     ],
     cta: {
       label: "Open in Google Maps",
-      variation: "color-neutral-dark",
+      variation: "color-primary-dark",
       href: "https://www.google.com/maps/d/u/0/edit?mid=175LH_3TJu9WN6xGGBzyzP2rTn0Y-mNw&usp=sharing",
       target: "_blank",
     },
@@ -128,7 +128,7 @@ export default {
      
     },
     fromMilea: {
-      image: "/images/milea-tasting-room.jpeg",
+      image: "/images/rhinebeck-aerial.jpg",
       schedule: {
         header: "Milea to Rhinebeck",
         slots: [
@@ -159,7 +159,7 @@ export default {
     promos: [
       {
         header: "Driving to the ceremony",
-        body: "Please plan to arrive at the ceremony at 4:00pm, driveway traffic will be limited starting at 4:10pm.",
+        body: "Please plan to arrive at the ceremony at 4:00pm, driveway traffic will be limited starting at 4:15pm.",
         icon: "road",
         color: "color-white",
         cta: {
@@ -196,27 +196,22 @@ export default {
         body: "Cabs and ride share are limited in this area. We recommend scheduling in advance to avoid long wait times.",
         icon: "local_taxi",
         color: "color-white",
-        cta: {
-          label: "Nick's Rhinecliff Taxi",
-          variation: "link",
-          icon: "east",
-          href: "tel:845-551-2243",
-          onClick: () => sendButtonEvent("car-directions"),
-        },
       },
     ],
   },
   planYourStay: {
     header: "Plan Your Stay",
+
     ctas: [
       {
-        variation: "color-neutral-light",
+        variation: "color-white",
         children: "Schedule",
         href: "/schedule",
         onClick: () => sendButtonEvent("navigate-rsvp"),
       },
       {
         variation: "color-white",
+        hollow: true,
         children: "Hotels",
         href: "/accommodations",
         onClick: () => sendButtonEvent("navigate-registry"),

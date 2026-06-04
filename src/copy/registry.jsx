@@ -4,7 +4,7 @@ export default {
   hero: {
     title: "Registry",
     image: "/images/bridge-lifting-2.jpg",
-    pos: "100% 90%",
+    pos: "100% 100%",
     contentPos: { top: "50px", right: "60px" },
   },
   banner: {
@@ -32,13 +32,10 @@ export default {
     body: (
       <div>
         <p>
-          In February, my sweet, energetic, loving nephew was diagnosed with
-          B-ALL Leukemia. He's had some ups and downs through the first few months, but he's fighting it like a champ. While he still has 2 years of chemo ahead of him, we are filled with hope: 90% of kids who follow this treatment plan remain cancer-free for life.
+          In February, my sweet, energetic, loving nephew was diagnosed with B-cell Acute Lymphoblastic Leukemia. He's had some ups and downs through the first few months, but he's been unbelievably brave through the many procedures and medicines. While he still has 2 years of chemo ahead of him, we are filled with hope: 90% of kids who follow this treatment plan remain cancer-free for life.
         </p>
         <p>
-          We are incredibly grateful for the science and research that goes into
-          these treatments and we would be honored if you chose to donate to
-          this cause as your gift to us.
+          We are incredibly grateful for the science and research that goes into these treatments and we would be honored if you chose to donate to this cause as your gift to us.
         </p>
       </div>
     ),
@@ -47,7 +44,8 @@ export default {
     primaryCta: {
       variation: "color-white",
       children: "Donate",
-      href: "/schedule",
+      href: "https://www.stbaldricks.org/fundraisers/CameronKicksALL",
+      target:'_blank'
       // fn: () => sendButtonEvent("navigate-schedule"),
     },
     secondaryCta: {

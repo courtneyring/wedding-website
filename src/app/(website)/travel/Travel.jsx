@@ -13,6 +13,8 @@ import {
   Schedule,
 } from "@courtneyring/components-library";
 import copy from "@/copy/travel";
+import styles from './travel.module.scss';
+import classNames from 'classnames';
 
 export default function TravelPage() {
   return (
@@ -25,26 +27,30 @@ export default function TravelPage() {
         <PromoGroup {...copy.air} />
       </Container>
       <Container styleless>
-        <Background image="/images/hudson-valley-wide.jpg" y={0} />
+        <Background image="/images/train.jpg" y={0} />
       </Container>
       <Container color="color-white" maxWidth="lg">
         <PromoGroup {...copy.tracks} />
       </Container>
-      <Container color="color-primary-dark">
-        <ImageTextBlock {...copy.shuttle.imageText}>
-          <Schedule {...copy.shuttle.toMilea} />
-          <Schedule {...copy.shuttle.fromMilea} />
-        </ImageTextBlock>
-      </Container>
       {/* <Container color="color-neutral-light" maxWidth="lg">
 =        <PinnedImage {...copy.road} />
       </Container> */}
-      <Container color="color-neutral-light" maxWidth="sm">
+      {/* <Container color="color-neutral-light" maxWidth="sm">
         <TextBlock {...copy.road} />
+      </Container> */}
+      <Container color="color-neutral-light" maxWidth='lg'>
+        <ImageTextBlock {...copy.road.parent}>
+          {copy.road.body.map((block, idx) => (
+            <div key={`road-${idx}`} className={styles.block}>
+              <p className={classNames("typography--h3", styles.blockHeader)}>{block.header}</p>
+              <p className='typography--body'>{block.description}</p>
+              <br></br>
+            </div>
+          ))}
+        </ImageTextBlock>
       </Container>
-
-      <Container maxWidth="sm" color="color-primary-medium">
-        <Banner {...copy.bookYourStay} />
+      <Container color="color-primary-medium" maxWidth="lg" backgroundImage='/images/holding-hands.jpg' backgroundPosition='50% 70%'>
+        <Banner {...copy.planYourStay} />
       </Container>
     </main>
   );

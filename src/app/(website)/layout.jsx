@@ -7,7 +7,6 @@ export const metadata = {
   title: "Courtney Ring & Matt Haberlach's Wedding Website",
 };
 
-
 export default function RootLayout({ children }) {
   return (
     <>

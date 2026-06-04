@@ -1,9 +1,23 @@
-import {sendButtonEvent} from '../utils/analytics';
+import { sendButtonEvent } from "../utils/analytics";
+
+const telFallback = () => {
+  const blurTimeout = setTimeout(() => {
+    e.preventDefault();
+    alert(
+      `It looks like your device can't make direct calls. You can reach us at: ${phoneNumber}`,
+    );
+  }, 1000);
+
+  window.addEventListener("blur", () => clearTimeout(blurTimeout), {
+    once: true,
+  });
+};
 
 export default {
   hero: {
-    title: "Where to Stay",
-    image: "/images/accommodations-hero.jpg",
+    title: "Accommodations",
+    image: "/images/smiling-trees.jpg",
+    pos: "center 40%",
   },
   banner: {
     body: "Our wedding weekend will be centered in the historic town of Rhinebeck, New York. It's a small town with lots of shops and restaurants to check out. The welcome party, wedding shuttles, and after-party are all within easy walking distance, so we recommend choosing accommodations in town if possible.",
@@ -28,9 +42,17 @@ export default {
   fifties: [
     {
       heading: "Mirbeau Inn & Spa",
-      body: "Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel with a spa and restaurant on site, making it a great option for a more relaxing and luxurious stay. While there is no room block, we'll be staying at Mirbeau and would love for guests to join us there.",
+      body: (
+        <p>
+          Mirbeau Inn & Spa Rhinebeck is a Parisian-style boutique hotel
+          featuring an on-site spa and restaurant, and while there is no
+          official room block, we would love for guests to join us there.
+          <br />
+        </p>
+      ),
       image: "/images/mirbeau.jpg",
-      color: "color-white",
+      color: "color-neutral-light",
+      contentFirst: false,
       ctas: [
         {
           varation: "primaryDark",
@@ -40,27 +62,34 @@ export default {
         },
         {
           varation: "primaryDark",
-          children: "Call the Hotel",
+          children: "877-647-2328",
           hollow: true,
           href: "tel:8776472328",
-          onClick: () => sendButtonEvent("mirbeau-call"),
+          onClick: () => {
+            sendButtonEvent("mirbeau-call");
+            telFallback();
+          },
         },
       ],
     },
     {
       heading: "Beekman Arms Delamater Inn",
-      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. With a range of room styles across the inn, it’s a great option if you're looking for historic charm and variety. We have a block that will be available until July 27.",
+      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. We have a block that will be available until July 27.",
       image: "/images/beekman-arms.jpg",
       reverse: true,
-      color: "color-neutral-light",
+      color: "color-white",
+      contentFirst: false,
       ctas: [
         { children: "Book Online" },
         {
           varation: "primaryDark",
           hollow: true,
-          children: "Call the Hotel",
+          children: "845-876-7077",
           href: "tel:8458767077",
-          onClick: () => sendButtonEvent("call-beekman"),
+          onClick: () => {
+            sendButtonEvent("call-beekman");
+            telFallback();
+          },
         },
       ],
       overlay: {
@@ -68,17 +97,16 @@ export default {
         body: [
           "Each room is a little different so take a look at the room types to see some pictures and where they are located.",
           "When you are ready to book, use the link below or enter the group code with August 28-30 selected: HOWAR260828-151430",
-          <p>
-            <strong>
-              No matter how many are staying in your room, please select
-              1&nbsp;Adult.
-            </strong>
-            <br />
-            <small>
-              The software engineer bride is trying to find humor in these fun
-              quirks…
-            </small>
-          </p>,
+
+          <p><strong>
+            No matter how many are staying in your room, please select
+            1&nbsp;Adult.
+          </strong></p>,
+
+          <p><small style={{ marginBottom: '10px' }}>
+            The software engineer bride is trying to find humor in these fun
+            quirks…
+          </small> </p>,
         ],
         primaryCta: {
           varation: "primaryDark",
@@ -102,14 +130,22 @@ export default {
       body: "There are a few bed & breakfast options, as well as apartments through Airbnb. If you prefer to do one of these, we recommend you finding one in town to make your weekend as smooth as possible.",
       image: "/images/gables.jpg",
       color: "color-neutral-light",
+      contentFirst: false,
     },
   ],
   bookYourStay: {
-    header: "Plan Your Route",
+    header: "Getting There & Around",
     ctas: [
       {
-        label: "See Travel Info",
+        variation: 'color-white',
+        label: "Travel",
         href: "/travel",
+      },
+      {
+        label: "Transport",
+        variation: 'color-white',
+        hollow: true,
+        href: "/transportation",
       },
     ],
   },

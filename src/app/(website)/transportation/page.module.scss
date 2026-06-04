@@ -1,0 +1,23 @@
+@use "@courtneyring/components-library/styles" as lib;
+
+.spacer {
+    height: 50px;
+}
+
+.shuttleTitle {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+@include lib.landscape-or('md', 'lg') {
+    .spacer {
+        height: 100px;
+    }
+
+    .shuttleTitle {
+        margin-bottom: 50px;
+    }
+
+}

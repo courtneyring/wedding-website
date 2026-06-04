@@ -1,7 +1,8 @@
 export default {
   hero: {
     title: "FAQs",
-    image: "/images/accommodations-hero.jpg",
+    image: "/images/jeans-piggyback.jpg",
+    pos:  "33% 26%",
   },
   items: [
     {
@@ -12,7 +13,7 @@ export default {
 
     {
       title: "Where should I stay?",
-      body: "We recommend you stay in one of the two hotels in Rhinebeck - Beekman Arms & Delamater Inn or Mirbeau To be close to the festivities, we recommend staying at one of Rhinebeck’s two main hotels: The Beekman Arms & Delamater Inn or the Mirbeau Inn & Spa.Inn & Spa.",
+      body: "To be close to the festivities, we recommend staying at one of Rhinebeck’s two main hotels: The Beekman Arms & Delamater Inn or the Mirbeau Inn & Spa.",
       category: "accommodations",
     },
     {
@@ -44,17 +45,17 @@ export default {
     },
     {
       title: "What time should I arrive at the venue?",
-      body: "Please plan to arrive promptly by 4:00 PM. To ensure an intimate and uninterrupted ceremony, driveway traffic will be limited starting at 4:15pm.",
+      body: "Please plan to arrive promptly by 4:00 PM. To ensure an intimate and uninterrupted ceremony, traffic will be limited on the venue driveway starting at 4:15 PM.",
+      category: "ceremony-&-reception",
+    },
+    {
+      title: "Why is the driveway traffic discouraged?",
+      body: "The venue's driveway is positioned within view of the ceremony site. To minimize noise and distractions during our vows, we are limiting vehicle access for the duration of the ceremony.",
       category: "ceremony-&-reception",
     },
     // {
-    //   title: "Why is the driveway closing?",
-    //   body: "The venue's driveway is positioned within view of the ceremony site. To minimize noise and distractions during our vows, we are limiting vehicle access for the duration of the ceremony.",
-    //   category: "ceremony-&-reception",
-    // },
-    // {
     //   title: "What if I'm running late?",
-    //   body: "We highly encourage everyone to account for Hudson Valley traffic and aim for 4:00 PM. If you arrive after the gates close at 4:10 PM, please wait at the entrance; the driveway will reopen for entry immediately following the conclusion of the ceremony.",
+    //   body: "We highly encourage everyone to account for Hudson Valley traffic and aim for 4:00 PM. If you arrive late, please wait at the entrance; the driveway will reopen for entry immediately following the conclusion of the ceremony.",
     //   category: "ceremony-&-reception",
     // },
     {
@@ -64,7 +65,7 @@ export default {
     },
     {
       title: "Is there parking available at the venue?",
-      body: "Yes, there is ample parking on-site. If you plan to drive, please ensure you arrive before the 4:10 PM driveway closure to avoid missing the ceremony.",
+      body: "Yes, there is ample parking on-site. ",
       category: "ceremony-&-reception",
     },
     {
@@ -123,7 +124,7 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          Departure times depend on the amount of guests that opt for the shuttle. Times will be updated on the website at the beginning of August.
+          The departure times will depend on the amount of guests opting for the shuttle. The times will be updated on the website at the beginning of August.
         </p>
       ),
       category: "getting-around",
@@ -132,10 +133,10 @@ export default {
       title: "What time does the shuttle return to Rhinebeck?",
       body: (
         <p>
-          Return shuttles will depart Milea at 10:30 PM. Drop-offs will include
-          the afterparty location, Mirbeau, and the Beekman-Delamater. A full
-          schedule is available on our{" "}
-          <a href="/travel">Transportation page</a>
+          Return shuttles will depart Milea starting at 10:30 PM. Drop-offs will include
+          the afterparty at the American Legion, Mirbeau, and the Beekman-Delamater. A full
+          schedule is available on our
+          <a href="/travel">transportation page</a>
         </p>
       ),
       category: "getting-around",

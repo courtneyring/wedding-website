@@ -1,0 +1,69 @@
+@use "@courtneyring/components-library/styles" as lib;
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Parisienne&display=swap");
+
+
+* {
+  box-sizing: border-box;
+  font-family: "Crimson Pro", "Times New Roman", Times, serif;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+:root {
+  --color-primary-dark: #344149;
+  --color-primary-medium: #56656f;
+  --color-primary-light: #8098a8;
+  --color-neutral-dark: #3c4142;
+  --color-neutral-medium: #cec7c2;
+  --color-neutral-light: #e3ded9;
+  --color-white: #f4f2f0;
+  --color-secondary: #f9e2e6;
+
+  --font-primary: "Crimson Pro", "Times New Roman", Times;
+  --font-secondary: "Parisienne", cursive;
+}
+
+body {
+  margin: 0;
+}
+
+strong {
+  font-weight: 600;
+}
+
+p,
+h1,
+h2 {
+  margin: 0;
+}
+
+/* 
+#rsvpify-wrapper, #rsvpify-wrapper iframe {
+  width: 600px;
+  margin: 0 auto;
+  height: 600px;
+} */
+
+#rsvpify-iframe-loader {
+  fill: white;
+  width: 100%;
+  height: 3rem;
+}
+
+.desktop-only {
+  display: none;
+}
+
+@include lib.viewport('md', 'landscape') {
+  .desktop-only {
+    display: initial;
+  }
+
+  .mobile-only {
+    display: none;
+  }
+}
+
