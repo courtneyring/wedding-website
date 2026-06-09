@@ -3,8 +3,8 @@ import { sendButtonEvent } from "../utils/analytics";
 export default {
   hero: {
     title: "Registry",
-    image: "/images/bridge-lifting-2.jpg",
-    pos: "100% 100%",
+    image: "/images/bridge-lifting.jpg",
+    pos: "100% 65%",
     contentPos: { top: "50px", right: "60px" },
   },
   banner: {
