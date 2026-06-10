@@ -1,0 +1,287 @@
+[
+  {
+    "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+    "name": "Howard Ring",
+    "alias": "howie",
+    "email": "mrhjr@comcast.net",
+    "phone": "248-321-0783",
+    "role": "father-of-the-bride",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+    "name": "Matt Haberlach",
+    "alias": "matt",
+    "email": "mhaberlach@me.com",
+    "phone": "775-686-8979",
+    "role": "groom",
+    "schedule": [
+      {
+        "task": "First Look"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+    "name": "Courtney Ring",
+    "alias": "court",
+    "email": "courtneyring3@gmail.com",
+    "phone": "248-924-5377",
+    "role": "bride",
+    "schedule": [
+      {
+        "task": "Court gets Dressed"
+      },
+      {
+        "task": "Quick Morning Jog"
+      },
+      {
+        "task": "First Look"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+    "name": "CJ Douty",
+    "alias": "cj",
+    "email": null,
+    "phone": null,
+    "role": "best-man",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+    "name": "Lindsay Varner",
+    "alias": "lindsay",
+    "email": "lindsayeileenphotography@gmail.com",
+    "phone": "717-307-1321",
+    "role": "photography",
+    "schedule": [
+      {
+        "task": "Court gets Dressed"
+      },
+      {
+        "task": "Getting Ready Photos"
+      },
+      {
+        "task": "Photographer Leaves"
+      },
+      {
+        "task": "First Look"
+      },
+      {
+        "task": "Photographer Arrives"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+    "name": "Mackenzie Robertson",
+    "alias": "mackenzie",
+    "email": null,
+    "phone": "810-813-6466",
+    "role": "bridesmaid",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+    "name": "Jeff Richards",
+    "alias": "jeff",
+    "email": "support@conwayentertainment.com",
+    "phone": "800-882-7216",
+    "role": "dj",
+    "schedule": [
+      {
+        "task": "DJ Leaves"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+    "name": "Alex Myers",
+    "alias": "alex",
+    "email": null,
+    "phone": null,
+    "role": "groomsman",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+    "name": "Domenica Pazmino",
+    "alias": "dom",
+    "email": "domenicapazmino3@gmail.com",
+    "phone": "201-741-9514",
+    "role": "bridesmaid",
+    "schedule": [
+      {
+        "task": "Florist Leaves",
+        "start": "2026-03-12T09:00:00.000-04:00",
+        "end": "2026-03-12T09:00:00.000-04:00"
+      }
+    ],
+    "notes": [
+      "Steam Dress beforehand",
+      "Here’s more notes",
+      "and more notes",
+      "some notes with a line break\nhere’s the line break",
+      null
+    ]
+  },
+  {
+    "id": "300de2a9-1181-805f-b40a-c82cc61f68e9",
+    "name": "Jessica Ronayne",
+    "alias": "jessie",
+    "email": null,
+    "phone": "248-767-6305",
+    "role": "bridesmaid",
+    "schedule": [],
+    "notes": [
+      null,
+      null
+    ]
+  },
+  {
+    "id": "300de2a9-1181-8064-9891-df4314ea7fad",
+    "name": "Christine Fontana",
+    "alias": "christine",
+    "email": "peonydesignstudiollc@yahoo.com",
+    "phone": "845-723-4600",
+    "role": "florist",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-8065-8a5e-f03507318665",
+    "name": "Jamie Greene",
+    "alias": "jamie",
+    "email": "events@mileaestatevineyard.com",
+    "phone": "845-392-2422",
+    "role": "venue",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+    "name": "Becky Wetzler",
+    "alias": "becky",
+    "email": null,
+    "phone": "206-200-8456",
+    "role": "bridesmaid",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+    "name": "Laura Moore",
+    "alias": "laura",
+    "email": "lauramoorebeauty@gmail.com",
+    "phone": "(203)-885-3196",
+    "role": "hair",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+    "name": "Austin Michel",
+    "alias": "austin",
+    "email": null,
+    "phone": null,
+    "role": "groomsman",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+    "name": "Barb Konuszewski",
+    "alias": "barb",
+    "email": null,
+    "phone": "810-407-2884",
+    "role": "aunt-of-the-bride",
+    "schedule": [
+      {
+        "task": "Chandelier Setup"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+    "name": "Mary Jo Ring",
+    "alias": "mj",
+    "email": "mjrandhjr@comcast.net",
+    "phone": "313-434-8702",
+    "role": "mother-of-the-bride",
+    "schedule": [
+      {
+        "task": "Menus Placed on Tables"
+      },
+      {
+        "task": "Cabinet Decoration"
+      },
+      {
+        "task": "Memories Table Setup"
+      },
+      {
+        "task": "Place cards put on Tables"
+      },
+      {
+        "task": "Gifts Table Setup"
+      },
+      {
+        "task": "Table Numbers put on Tables"
+      },
+      {
+        "task": "Chandelier Setup"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-80c4-b498-ce77d077924a",
+    "name": "Alexis Koutrouvelis",
+    "alias": "alexis",
+    "email": "dorianstringquartet@gmail.com",
+    "phone": "845-642-8785",
+    "role": "musicians",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+    "name": "Ashley Slater",
+    "alias": "ashley",
+    "email": "ashleyleighslater@gmail.com",
+    "phone": "248-412-3834",
+    "role": "maid-of-honor",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+    "name": "Wes Landreth",
+    "alias": "wes",
+    "email": null,
+    "phone": "828-674-2391",
+    "role": "groomsman",
+    "schedule": [],
+    "notes": []
+  },
+  {
+    "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+    "name": "Sara Julianna",
+    "alias": "sara",
+    "email": "sarajuliannabeauty@gmail.com",
+    "phone": "(203) 731-7319",
+    "role": "makeup",
+    "schedule": [],
+    "notes": []
+  }
+]

@@ -19,7 +19,11 @@
     "sass": "^1.93.3"
   },
   "devDependencies": {
+    "@notionhq/client": "^5.11.1",
     "@playwright/test": "^1.60.0",
-    "@types/node": "^25.0.9"
+    "@types/node": "^25.0.9",
+    "dotenv": "^17.2.4",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }

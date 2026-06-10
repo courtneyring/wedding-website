@@ -1,0 +1,6144 @@
+[
+  {
+    "object": "page",
+    "id": "283de2a9-1181-8043-aa1c-dbc25d7e0161",
+    "created_time": "2025-10-05T16:36:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "c7527bc7-0b10-4916-9122-ee4d42a2124e",
+          "name": "12:00 pm",
+          "color": "orange"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1200"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Get Catering for House",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Get Catering for House",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Get-Catering-for-House-283de2a911818043aa1cdbc25d7e0161",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "283de2a9-1181-80f9-9713-dc6f3202e417",
+    "created_time": "2025-10-05T16:53:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ironing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ironing",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Ironing-283de2a9118180f99713dc6f3202e417",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8006-aa40-f22d36261944",
+    "created_time": "2025-10-06T16:30:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "3e9ef4f4-09c2-4fd6-a24b-bb35f7060536",
+          "name": "8:00 pm",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "2000"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Welcome Party Begins",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Welcome Party Begins",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Welcome-Party-Begins-284de2a911818006aa40f22d36261944",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8008-98d6-c8532bec35a7",
+    "created_time": "2025-10-06T16:59:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Strings Leave",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Strings Leave",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Strings-Leave-284de2a91181800898d6c8532bec35a7",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-800e-8650-e7e94011d3fd",
+    "created_time": "2025-10-06T15:52:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "3cbf16a9-d353-4fc5-a5af-6c86977e25a6",
+          "name": "12:45 pm",
+          "color": "gray"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1245"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridesmaid 4 and 5",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridesmaid 4 and 5",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Bridesmaid-4-and-5-284de2a91181800e8650e7e94011d3fd",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8011-be4e-fbc4152c7f05",
+    "created_time": "2025-10-06T15:56:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "23f94286-e8c0-43cf-979e-177922545716",
+          "name": "4:00 pm",
+          "color": "brown"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1600"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Strings Start playing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Strings Start playing",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Strings-Start-playing-284de2a911818011be4efbc4152c7f05",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8016-b29f-eb32dac55aa6",
+    "created_time": "2025-10-06T22:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Menus Placed on Tables",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Menus Placed on Tables",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Menus-Placed-on-Tables-284de2a911818016b29feb32dac55aa6",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-801a-b8e3-c03a6ecf5f8a",
+    "created_time": "2025-10-06T17:00:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cake Cutting",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cake Cutting",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Cake-Cutting-284de2a91181801ab8e3c03a6ecf5f8a",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8024-88d5-f8beb410bfba",
+    "created_time": "2025-10-06T17:26:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Portraits",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Portraits",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Portraits-284de2a91181802488d5f8beb410bfba",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-802c-978e-e8d707647448",
+    "created_time": "2025-10-06T21:49:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "542ded1c-e743-46da-a0c1-e1867abfbe72",
+          "name": "5:00 pm",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1700"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mic Practice",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mic Practice",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Mic-Practice-284de2a91181802c978ee8d707647448",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-802e-92c5-e363aa107c9e",
+    "created_time": "2025-10-06T20:53:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Transfer Wedding Party to Vineyard",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Transfer Wedding Party to Vineyard",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Transfer-Wedding-Party-to-Vineyard-284de2a91181802e92c5e363aa107c9e",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8031-afc9-f9d7786506a7",
+    "created_time": "2025-10-06T21:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Petals to go into Chloe’s basket",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Petals to go into Chloe’s basket",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Petals-to-go-into-Chloe-s-basket-284de2a911818031afc9f9d7786506a7",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-803a-87c0-dbbfa764d15d",
+    "created_time": "2025-10-06T17:24:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Court gets Dressed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Court gets Dressed",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Court-gets-Dressed-284de2a91181803a87c0dbbfa764d15d",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-803c-9ea5-ff0c25995b91",
+    "created_time": "2025-10-06T16:53:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reception Starts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reception Starts",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Reception-Starts-284de2a91181803c9ea5ff0c25995b91",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8043-a025-cdecf28644a1",
+    "created_time": "2025-10-06T20:51:00.000Z",
+    "last_edited_time": "2026-02-08T13:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Get Rings for Photos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Get Rings for Photos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Get-Rings-for-Photos-284de2a911818043a025cdecf28644a1",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8046-8d1e-dc672abb0d8d",
+    "created_time": "2025-10-06T17:02:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ashley Speech",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ashley Speech",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Ashley-Speech-284de2a9118180468d1edc672abb0d8d",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-804a-9bc0-fd5bc593fb9c",
+    "created_time": "2025-10-06T17:25:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Getting Ready Photos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Getting Ready Photos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Getting-Ready-Photos-284de2a91181804a9bc0fd5bc593fb9c",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8052-b2e0-ebfea23e7920",
+    "created_time": "2025-10-06T16:31:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "542ded1c-e743-46da-a0c1-e1867abfbe72",
+          "name": "5:00 pm",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1700"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rehearsal Begins",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rehearsal Begins",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Rehearsal-Begins-284de2a911818052b2e0ebfea23e7920",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8054-8e06-ece979896dc1",
+    "created_time": "2025-10-06T15:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quick Morning Jog",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quick Morning Jog",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Quick-Morning-Jog-284de2a9118180548e06ece979896dc1",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8057-a465-c16bb0ff60b3",
+    "created_time": "2025-10-06T21:00:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quick Arch Review Before Florist Leaves",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quick Arch Review Before Florist Leaves",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Quick-Arch-Review-Before-Florist-Leaves-284de2a911818057a465c16bb0ff60b3",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-805b-af03-f8a27c269600",
+    "created_time": "2025-10-06T16:57:00.000Z",
+    "last_edited_time": "2026-02-08T13:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Processional In Bar Area + Denise",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Processional In Bar Area + Denise",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Processional-In-Bar-Area-Denise-284de2a91181805baf03f8a27c269600",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8061-a5b4-db7d5a6b120a",
+    "created_time": "2025-10-06T20:59:00.000Z",
+    "last_edited_time": "2026-03-05T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 13
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-03-12T09:00:00.000-04:00",
+          "end": "2026-03-12T09:00:00.000-04:00",
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Florist Leaves",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Florist Leaves",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Florist-Leaves-284de2a911818061a5b4db7d5a6b120a",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8063-9079-cbc9346bc8d1",
+    "created_time": "2025-10-06T17:03:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CJ Speech",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CJ Speech",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/CJ-Speech-284de2a9118180639079cbc9346bc8d1",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8063-acbf-c0580b690272",
+    "created_time": "2025-10-06T20:55:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sunset Photos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sunset Photos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Sunset-Photos-284de2a911818063acbfc0580b690272",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-806c-9027-db95be2c5e55",
+    "created_time": "2025-10-06T17:15:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DJ Arrives for Setup",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DJ Arrives for Setup",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/DJ-Arrives-for-Setup-284de2a91181806c9027db95be2c5e55",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8073-87a8-fe4c300fa79a",
+    "created_time": "2025-10-06T16:29:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "0276c40e-0b0d-4d16-be94-64dc94eaa233",
+          "name": "4:30 pm",
+          "color": "brown"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1630"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ceremony Start",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ceremony Start",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Ceremony-Start-284de2a91181807387a8fe4c300fa79a",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8078-bc0c-e7be74e29e33",
+    "created_time": "2025-10-06T21:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Basket of Petals to Chloe",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Basket of Petals to Chloe",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Basket-of-Petals-to-Chloe-284de2a911818078bc0ce7be74e29e33",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8079-aa92-cf45b0404c13",
+    "created_time": "2025-10-06T16:59:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Photographer Leaves",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Photographer Leaves",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Photographer-Leaves-284de2a911818079aa92cf45b0404c13",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-807c-8284-ed5e815e867c",
+    "created_time": "2025-10-06T21:51:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cabinet Decoration",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cabinet Decoration",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Cabinet-Decoration-284de2a91181807c8284ed5e815e867c",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8085-8e60-f297bdf64d3a",
+    "created_time": "2025-10-06T16:52:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cocktail Hour Starts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cocktail Hour Starts",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Cocktail-Hour-Starts-284de2a9118180858e60f297bdf64d3a",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8086-a634-d0ec1af94de0",
+    "created_time": "2025-10-06T17:04:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dinner Starts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dinner Starts",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Dinner-Starts-284de2a911818086a634d0ec1af94de0",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8087-a4f0-ecf6dfeef4f2",
+    "created_time": "2025-10-06T17:17:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DJ Leaves",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DJ Leaves",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/DJ-Leaves-284de2a911818087a4f0ecf6dfeef4f2",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-808a-8bde-ff409c0b0f60",
+    "created_time": "2025-10-06T21:51:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Memories Table Setup",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Memories Table Setup",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Memories-Table-Setup-284de2a91181808a8bdeff409c0b0f60",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-808b-aa9d-c4c4b8de7682",
+    "created_time": "2025-10-06T17:09:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Start Reception Dancing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Start Reception Dancing",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Start-Reception-Dancing-284de2a91181808baa9dc4c4b8de7682",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-808c-9459-f17bc71fad0c",
+    "created_time": "2025-10-06T17:17:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wedding Party, Bride Groom Intros",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wedding Party, Bride Groom Intros",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Wedding-Party-Bride-Groom-Intros-284de2a91181808c9459f17bc71fad0c",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8097-80c3-cc717b3276d8",
+    "created_time": "2025-10-06T22:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Place cards put on Tables",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Place cards put on Tables",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Place-cards-put-on-Tables-284de2a91181809780c3cc717b3276d8",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-8099-af10-e9802ecb41e2",
+    "created_time": "2025-10-06T17:08:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mother / Son",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mother / Son",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Mother-Son-284de2a911818099af10e9802ecb41e2",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-809f-922c-fae5028cb7c2",
+    "created_time": "2025-10-06T17:19:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Strings Arrive",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Strings Arrive",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Strings-Arrive-284de2a91181809f922cfae5028cb7c2",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80a3-8754-d216138b2290",
+    "created_time": "2025-10-06T20:54:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Court Bustled",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Court Bustled",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Court-Bustled-284de2a9118180a38754d216138b2290",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80a6-87f5-d8ae1a3ee6b0",
+    "created_time": "2025-10-06T16:59:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reception Ends",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reception Ends",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Reception-Ends-284de2a9118180a687f5d8ae1a3ee6b0",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80b0-8915-dabfaa30160a",
+    "created_time": "2025-10-06T15:49:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DIY Florals at Clubhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DIY Florals at Clubhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/DIY-Florals-at-Clubhouse-284de2a9118180b08915dabfaa30160a",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80bb-828e-e6e73f98f6bd",
+    "created_time": "2025-10-06T16:28:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "23f94286-e8c0-43cf-979e-177922545716",
+          "name": "4:00 pm",
+          "color": "brown"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1600"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Guests Start Arriving",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Guests Start Arriving",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Guests-Start-Arriving-284de2a9118180bb828ee6e73f98f6bd",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80bd-a003-e5be31756b93",
+    "created_time": "2025-10-06T17:25:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "First Look",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "First Look",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/First-Look-284de2a9118180bda003e5be31756b93",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80c2-8db1-f0e8d5661827",
+    "created_time": "2025-10-06T20:51:00.000Z",
+    "last_edited_time": "2026-02-08T13:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rings to CJ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rings to CJ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Rings-to-CJ-284de2a9118180c28db1f0e8d5661827",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80c7-b5e1-c689e2c18c2e",
+    "created_time": "2025-10-06T15:54:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "ae1e2e78-7d79-436a-8867-d5d55342ae8c",
+          "name": "2:00 pm",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1400"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Photographer Arrives",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Photographer Arrives",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Photographer-Arrives-284de2a9118180c7b5e1c689e2c18c2e",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80cc-87d9-d5ae8cea50c4",
+    "created_time": "2025-10-06T17:01:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Welcome/Thank you Speech",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Welcome/Thank you Speech",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Welcome-Thank-you-Speech-284de2a9118180cc87d9d5ae8cea50c4",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80d3-9a6e-d870967f9505",
+    "created_time": "2025-10-06T15:52:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "3cbf16a9-d353-4fc5-a5af-6c86977e25a6",
+          "name": "12:45 pm",
+          "color": "gray"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1245"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Court Makeup",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Court Makeup",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Court-Makeup-284de2a9118180d39a6ed870967f9505",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80d5-90b9-da4cbdc1b770",
+    "created_time": "2025-10-06T21:51:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gifts Table Setup",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gifts Table Setup",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Gifts-Table-Setup-284de2a9118180d590b9da4cbdc1b770",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80d5-9187-fbd2f8fdf6d7",
+    "created_time": "2025-10-06T15:48:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pick up Stems from Peony (?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pick up Stems from Peony (?)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Pick-up-Stems-from-Peony-284de2a9118180d59187fbd2f8fdf6d7",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80d9-bd0a-d158bdc29737",
+    "created_time": "2025-10-06T20:54:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Family Photos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Family Photos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Family-Photos-284de2a9118180d9bd0ad158bdc29737",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80db-bd36-fd04c63720d4",
+    "created_time": "2025-10-06T17:07:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "First Dance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "First Dance",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/First-Dance-284de2a9118180dbbd36fd04c63720d4",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80e3-9cc6-cde0e5cfdc7e",
+    "created_time": "2025-10-06T15:55:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "831967b2-ab1d-4abf-a5a1-6c95b237aa45",
+          "name": "4:25 pm",
+          "color": "purple"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1625"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Driveway is Blocked, Gate Closed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Driveway is Blocked, Gate Closed",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Driveway-is-Blocked-Gate-Closed-284de2a9118180e39cc6cde0e5cfdc7e",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80e6-9855-c40170b6fffc",
+    "created_time": "2025-10-06T20:57:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridesmaid 1 and 2 Hair",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridesmaid 1 and 2 Hair",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Bridesmaid-1-and-2-Hair-284de2a9118180e69855c40170b6fffc",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80e9-b075-e98542ab390b",
+    "created_time": "2025-10-06T17:21:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Florist Arrives",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Florist Arrives",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Florist-Arrives-284de2a9118180e9b075e98542ab390b",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80eb-8db5-daaf645142d9",
+    "created_time": "2025-10-06T17:26:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wedding Party Photos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wedding Party Photos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Wedding-Party-Photos-284de2a9118180eb8db5daaf645142d9",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80f2-b555-ed698a183038",
+    "created_time": "2025-10-06T17:02:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Parents Speech",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Parents Speech",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Parents-Speech-284de2a9118180f2b555ed698a183038",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80f7-a649-eb983ee7d9bd",
+    "created_time": "2025-10-06T22:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Table Numbers put on Tables",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Table Numbers put on Tables",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Table-Numbers-put-on-Tables-284de2a9118180f7a649eb983ee7d9bd",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80f9-8852-e31c9d207430",
+    "created_time": "2025-10-06T17:00:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DJ Starts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DJ Starts",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/DJ-Starts-284de2a9118180f98852e31c9d207430",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80fb-a52a-c2f669492efb",
+    "created_time": "2025-10-06T15:50:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "ca504af6-2e12-4edc-bbe5-c7cf0c95b732",
+          "name": "11:45 am",
+          "color": "green"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1145"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridesmaid 3 and Court Hair",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridesmaid 3 and Court Hair",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Bridesmaid-3-and-Court-Hair-284de2a9118180fba52ac2f669492efb",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80fb-af21-d8691db5f2ca",
+    "created_time": "2025-10-06T17:08:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Father / Daughter",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Father / Daughter",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Father-Daughter-284de2a9118180fbaf21d8691db5f2ca",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "284de2a9-1181-80fd-9fd7-f791e72dd787",
+    "created_time": "2025-10-06T17:16:00.000Z",
+    "last_edited_time": "2026-02-08T13:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Chandelier Setup",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Chandelier Setup",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Chandelier-Setup-284de2a9118180fd9fd7f791e72dd787",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "2fede2a9-1181-803a-861a-f74735e92b5d",
+    "created_time": "2026-02-05T15:35:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rehearsal Dinner Begins",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rehearsal Dinner Begins",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Rehearsal-Dinner-Begins-2fede2a91181803a861af74735e92b5d",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "2fede2a9-1181-803a-9963-cf1d6022aa84",
+    "created_time": "2026-02-05T15:36:00.000Z",
+    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "3e9ef4f4-09c2-4fd6-a24b-bb35f7060536",
+          "name": "8:00 pm",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "2000"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Welcome Party Ends",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Welcome Party Ends",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Welcome-Party-Ends-2fede2a91181803a9963cf1d6022aa84",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "301de2a9-1181-800b-a6c1-d3a2483700e8",
+    "created_time": "2026-02-08T13:04:00.000Z",
+    "last_edited_time": "2026-02-08T13:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "After Party Starts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "After Party Starts",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/After-Party-Starts-301de2a91181800ba6c1d3a2483700e8",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "301de2a9-1181-80d4-a48a-e5b3a9a32d59",
+    "created_time": "2026-02-08T13:04:00.000Z",
+    "last_edited_time": "2026-02-08T13:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "After Party Ends",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "After Party Ends",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/After-Party-Ends-301de2a9118180d4a48ae5b3a9a32d59",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "301de2a9-1181-80e4-9a5a-feb28a061f9a",
+    "created_time": "2026-02-08T13:03:00.000Z",
+    "last_edited_time": "2026-02-08T13:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shuttle to After Party",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shuttle to After Party",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Shuttle-to-After-Party-301de2a9118180e49a5afeb28a061f9a",
+    "public_url": null
+  }
+]
