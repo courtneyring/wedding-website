@@ -19,7 +19,7 @@
     "sass": "^1.93.3"
   },
   "devDependencies": {
-    "@notionhq/client": "^5.11.1",
+    "@notionhq/client": "^5.22.0",
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.0.9",
     "dotenv": "^17.2.4",
