@@ -137,15 +137,15 @@ export default {
             description: "Depart from Milea Estate Vineyard",
           },
           {
-            time: "11:00pm",
+            time: "10:50pm",
             description: "Arrive at American Legion After Pary",
           },
           {
-            time: "11:05pm",
+            time: "10:55pm",
             description: "Arrive at Mirbeau Inn & Spa",
           },
           {
-            time: "11:05pm",
+            time: "10:55pm",
             description: "Arrive at Beekman Arms & Delamater Inn",
           },
         ],
