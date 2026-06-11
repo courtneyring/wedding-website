@@ -69,27 +69,37 @@ const getSchedule = async () => {
   return results;
 };
 
-const format = (contacts, schedule) => {
-  const map = formatContacts(contacts);
+const format = (schedule) => {
+  const arr = [];
   for (let task of schedule) {
-    const assignees = task.properties["Wedding Ops"].relation;
-    for (let assignee of assignees) {
-      map.get(assignee.id).schedule.push({
-        task: task.properties.Name.title[0].plain_text,
-        start: task.properties.Day.date?.start,
-        end: task.properties.Day.date?.end,
-      });
+    const opsObj = task.properties["Wedding Ops"].relation;
+    const assignees = [];
+    for (let assignee of opsObj) {
+      assignees.push(assignee.id);
+      // map.get(assignee.id).schedule.push({
+      //   task: task.properties.Name.title[0].plain_text,
+      //   start: task.properties.Day.date?.start,
+      //   end: task.properties.Day.date?.end,
+      // });
     }
+    arr.push({
+      task: task.properties.Name.title[0].plain_text,
+      start: task.properties.Day.date?.start,
+      end: task.properties.Day.date?.end,
+      assignees,
+    });
   }
-  return [...map.values()];
+  return arr;
 };
 
 const init = async () => {
-  const contacts = await getContacts();
-  const schedule = await getSchedule();
-  const ops = format(contacts, schedule);
-  const outputPath = path.join(__dirname, "../src/json/schedule.json");
-  fs.writeFileSync(outputPath, JSON.stringify(ops, null, 2), "utf8");
+  const contacts = [...formatContacts(await getContacts()).values()];
+  const schedule = format(await getSchedule());
+  // const ops = format(contacts, schedule);
+  const scheduleOutput = path.join(__dirname, "../src/json/schedule.json");
+  const contactsOutput = path.join(__dirname, "../src/json/contacts.json");
+  fs.writeFileSync(scheduleOutput, JSON.stringify(schedule, null, 2), "utf8");
+  fs.writeFileSync(contactsOutput, JSON.stringify(contacts, null, 2), "utf8");
 };
 
 init();

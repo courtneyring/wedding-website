@@ -1,17 +1,15 @@
-// "use client";
+'use client';
+import WeddingNavbar from '@/components/WeddingNavbar/WeddingNavbar';
+import overrides from '../overrides.module.scss';
+import { Footer, Toolbar } from "@courtneyring/components-library";
 
-import copy from "@/assets/json/global.json";
-import { Footer } from "@courtneyring/components-library";
-
-export const metadata = {
-  title: "Courtney Ring & Matt Haberlach's Wedding Website",
-};
-
-export default function RootLayout({ children }) {
+export default function WebsiteLayout({ children }) {
+  const devBuild = !!process.env.NEXT_PUBLIC_DEVELOPMENT;
   return (
-    <>
+    < >
+      {devBuild && <Toolbar />}
+      <WeddingNavbar />
       {children}
-      <Footer {...copy.footer} />
     </>
   );
 }

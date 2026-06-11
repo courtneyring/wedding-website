@@ -1,16 +1,15 @@
 'use client';
-
 import "./theme.scss";
 import "./globals.scss";
-import copy from "../assets/json/global.json";
-import { Footer, Toolbar } from "@courtneyring/components-library";
-import { GoogleAnalytics } from "@next/third-parties/google";
-import WeddingNavbar from '@/components/WeddingNavbar/WeddingNavbar';
 import overrides from './overrides.module.scss';
+
+
+import { GoogleAnalytics } from "@next/third-parties/google";
+
 
 export default function RootLayout({ children }) {
   const analyticsId = process.env.NEXT_PUBLIC_ANALYTICS_ID;
-  const devBuild = !!process.env.NEXT_PUBLIC_DEVELOPMENT;
+
 
   return (
     <html lang="en">
@@ -25,8 +24,8 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={overrides.root}>
-        {devBuild && <Toolbar />}
-        <WeddingNavbar />
+        {/* {devBuild && <Toolbar />}
+        <WeddingNavbar /> */}
         {children}
       </body>
       <GoogleAnalytics gaId={analyticsId} />

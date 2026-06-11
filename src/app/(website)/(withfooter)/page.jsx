@@ -1,9 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import "../theme.scss";
-import styles from "../page.module.css";
-import overrides from "../overrides.module.scss";
+import "../../theme.scss";
+import styles from "../../page.module.css";
+import overrides from "../../overrides.module.scss";
 import {
   OverlayHero,
   Banner,
