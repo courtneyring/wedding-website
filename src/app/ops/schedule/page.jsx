@@ -4,6 +4,7 @@ import { useNextCalendarApp, ScheduleXCalendar } from '@schedule-x/react'
 import { createViewDay, createViewList } from "@schedule-x/calendar";
 import { createEventsServicePlugin } from '@schedule-x/events-service'
 import schedule from "@/json/schedule.json";
+import contacts from '@/json/contacts.json'
 import 'temporal-polyfill/global'
 import '@schedule-x/theme-default/dist/index.css'
 import { useEffect, useState } from "react";
@@ -27,7 +28,7 @@ const SchedulePage = ({ params }) => {
    events: schedule.filter(s => s.start).map((event, idx) => ({
      id: idx,
      title: event.task,
-     people: event.assignees,
+     people: event.assignees.map(assignee => (contacts.find(contact => contact.id === assignee)).name),
      start: Temporal.ZonedDateTime.from(`${event.start}[America/New_York]`),
      end: event.end
        ? Temporal.ZonedDateTime.from(`${event.end}[America/New_York]`)
