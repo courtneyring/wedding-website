@@ -2,7 +2,7 @@ export default {
   hero: {
     title: "FAQs",
     image: "/images/jeans-piggyback.jpg",
-    pos:  "33% 26%",
+    pos: "33% 26%",
   },
   items: [
     {
@@ -24,11 +24,22 @@ export default {
           The Beekman Arms & Delamater Inn features several historic buildings,
           each offering a unique charm and character. Most rooms in our wedding
           block are clustered in the same area. You can view detailed
-          descriptions of each building on their{" "}<a
+          descriptions of each building on their{" "}
+          <a
             href="https://www.beekmandelamaterinn.com/accommodations"
-            target="_blank"> accommodations page </a>
-          and see the specific rooms available in our block on the 
-          <a href="https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430"target="_blank">reservation portal</a>.
+            target="_blank"
+          >
+            {" "}
+            accommodations page{" "}
+          </a>
+          and see the specific rooms available in our block on the
+          <a
+            href="https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430"
+            target="_blank"
+          >
+            reservation portal
+          </a>
+          .
         </p>
       ),
       category: "accommodations",
@@ -124,7 +135,9 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          The departure times will depend on the amount of guests opting for the shuttle. The times will be updated on the website at the beginning of August.
+          The departure times will depend on the amount of guests opting for the
+          shuttle. The times will be updated on the website at the beginning of
+          August.
         </p>
       ),
       category: "getting-around",
@@ -133,9 +146,9 @@ export default {
       title: "What time does the shuttle return to Rhinebeck?",
       body: (
         <p>
-          Return shuttles will depart Milea starting at 10:30 PM. Drop-offs will include
-          the afterparty at the American Legion, Mirbeau, and the Beekman-Delamater. A full
-          schedule is available on our
+          Return shuttles will depart Milea starting at 10:30 PM. Drop-offs will
+          include the afterparty at the American Legion, Mirbeau, and the
+          Beekman-Delamater. A full schedule is available on our
           <a href="/travel">transportation page</a>
         </p>
       ),
@@ -153,7 +166,7 @@ export default {
     },
     {
       title: "What is the dress code for the Welcome Party?",
-      body: "Cocktail Attire.",
+      body: "We recommend dressy casual meaning chic dresses, midis or tailored trousers for women, and trousers or chinos with a collared shirt or polo for men.",
       category: "welcome-party",
     },
     {
