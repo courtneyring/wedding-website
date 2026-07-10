@@ -21,10 +21,12 @@ const formatContacts = (arr) => {
   for (let entry of arr) {
     map.set(entry.id, {
       id: entry.id,
-      name: entry.properties.Name.title[0].plain_text,
-      alias: entry.properties.Alias.rich_text[0].plain_text,
+      name: entry.properties.Name.title[0]?.plain_text,
+      alias: entry.properties.Alias.rich_text[0]?.plain_text,
       email: entry.properties.Email.formula.string,
       phone: entry.properties["Phone Number"].formula.string,
+      image: entry.properties["Profile Picture"].files[0]?.file?.url,
+      title: entry.properties.Title.rich_text[0]?.plain_text,
       role: entry.properties["Role in Wedding"].select.name,
       schedule: [],
       notes: entry.children.map(
@@ -72,6 +74,7 @@ const getSchedule = async () => {
 const format = (schedule) => {
   const arr = [];
   for (let task of schedule) {
+    if (!task.properties) console.log(task)
     const opsObj = task.properties["Wedding Ops"].relation;
     const assignees = [];
     for (let assignee of opsObj) {
@@ -83,7 +86,7 @@ const format = (schedule) => {
       // });
     }
     arr.push({
-      task: task.properties.Name.title[0].plain_text,
+      task: task.properties.Name.title[0]?.plain_text,
       start: task.properties.Day.date?.start,
       end: task.properties.Day.date?.end,
       assignees,
@@ -96,10 +99,21 @@ const init = async () => {
   const contacts = [...formatContacts(await getContacts()).values()];
   const schedule = format(await getSchedule());
   // const ops = format(contacts, schedule);
-  const scheduleOutput = path.join(__dirname, "../src/json/schedule.json");
-  const contactsOutput = path.join(__dirname, "../src/json/contacts.json");
-  fs.writeFileSync(scheduleOutput, JSON.stringify(schedule, null, 2), "utf8");
-  fs.writeFileSync(contactsOutput, JSON.stringify(contacts, null, 2), "utf8");
+  const fileNames = [
+    {
+      data: schedule,
+      path: "../src/json/schedule.json",
+    },
+    { data: contacts, path: "../src/json/contacts.json" },
+  ];
+
+  fileNames.forEach((file) =>
+    fs.writeFileSync(
+      path.join(__dirname, file.path),
+      JSON.stringify(file.data, null, 2),
+      "utf8",
+    ),
+  );
 };
 
 init();

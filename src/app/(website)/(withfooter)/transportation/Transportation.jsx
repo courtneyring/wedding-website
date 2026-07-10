@@ -4,7 +4,7 @@ import {
   OverlayHero,
   ImageTextBlock,
   Container,
-  Schedule,
+  Schedule as Timeline,
   PromoGroup, 
   Map, 
   Background, 
@@ -29,26 +29,33 @@ export default function Transportation() {
         <Banner {...copy.intro} />
       </Container>
       {/* <Container color="color-white" style={{ height: "50vh" }}> */}
-        <Map {...copy.map}/>
+      <Map {...copy.map} />
       {/* </Container> */}
 
-      <Container color="color-primary-dark" maxWidth='lg'>
-        <h2 className={classNames(styles.shuttleTitle, 'typography--h2')}>Shuttle</h2>
-        <ImageTextBlock {...copy.shuttle.toMilea} >
-          <Schedule {...copy.shuttle.toMilea.schedule} />
+      <Container color="color-primary-dark" maxWidth="lg">
+        <h2 className={classNames(styles.shuttleTitle, "typography--h2")}>
+          Shuttle
+        </h2>
+        <ImageTextBlock {...copy.shuttle.toMilea}>
+          <Timeline {...copy.shuttle.toMilea.schedule} />
         </ImageTextBlock>
-        <Spacer className={styles.spacer}/>
-        <ImageTextBlock {...copy.shuttle.fromMilea} >
-          <Schedule {...copy.shuttle.fromMilea.schedule} />
+        <Spacer className={styles.spacer} />
+        <ImageTextBlock {...copy.shuttle.fromMilea}>
+          <Timeline {...copy.shuttle.fromMilea.schedule} />
         </ImageTextBlock>
       </Container>
       <Container styleless>
-        <Background image="/images/kissing-cheek.jpg" pos='74% 74%' />
+        <Background image="/images/kissing-cheek.jpg" pos="74% 74%" />
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...copy.car} />
       </Container>
-      <Container color="color-primary-medium" maxWidth="lg" backgroundImage='/images/kissing-shoulder.jpg' backgroundPosition='50% 25%'>
+      <Container
+        color="color-primary-medium"
+        maxWidth="lg"
+        backgroundImage="/images/kissing-shoulder.jpg"
+        backgroundPosition="50% 25%"
+      >
         <Banner {...copy.planYourStay} />
       </Container>
     </main>

@@ -30,7 +30,7 @@ const WeddingNavbar = () => {
   return (
     <Navbar
       links={[
-        { label: "Schedule", value: "/schedule" },
+        { label: "Schedule", value: "/weekend" },
         { label: "Transport", value: "/transportation" },
         { label: "Travel", value: "/travel" },
         { label: "Hotels", value: "/accommodations" },

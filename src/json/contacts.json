@@ -5,16 +5,19 @@
     "alias": "nancy",
     "email": "info@anntransportation.com",
     "phone": "  ",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/33a7174e-3ea7-4a5e-a358-8f257552ad23/Screenshot_2026-07-09_at_7.47.30_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=f3da6188a02bb18f8ae878443d03856dc96bc23f216a52c38d58f671ec7609ae&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Shuttle Coordinator",
     "role": "shuttle",
     "schedule": [],
     "notes": []
   },
   {
     "id": "36dde2a9-1181-801d-b1b9-f581b829f721",
-    "name": "Catherine Kendall",
-    "alias": "catherine",
+    "name": "Stuart Kendall",
+    "alias": "stuart",
     "email": null,
     "phone": null,
+    "title": "Uncle of the Groom, Ceremony Speaker",
     "role": "speaker",
     "schedule": [],
     "notes": []
@@ -25,6 +28,7 @@
     "alias": "gary",
     "email": null,
     "phone": null,
+    "title": "Officiant",
     "role": "officiant",
     "schedule": [],
     "notes": []
@@ -35,6 +39,8 @@
     "alias": "christine",
     "email": "peonydesignstudiollc@yahoo.com",
     "phone": "845-723-4600",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/132c8885-b6de-4106-867c-ed55204d3076/Screenshot_2026-07-09_at_7.46.14_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=8aeb30c8d86236d487a08a3ddb3c7e9cf820f0af06efa86970830def5aeed0e6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Florist",
     "role": "florist",
     "schedule": [],
     "notes": []
@@ -45,16 +51,20 @@
     "alias": "alexis",
     "email": "dorianstringquartet@gmail.com",
     "phone": "845-642-8785",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/27f4de03-b4cd-4796-aaeb-9b2f3987162b/Screenshot_2026-07-09_at_6.47.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=2b168e67c657fd9e5fbecddbe516241ead1fce6440cd5e0222a8108f436baa4c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Quartet Lead",
     "role": "musicians",
     "schedule": [],
     "notes": []
   },
   {
     "id": "300de2a9-1181-8065-8a5e-f03507318665",
-    "name": "Jamie Greene",
-    "alias": "jamie",
+    "name": "Mina Do",
+    "alias": "Mina",
     "email": "events@mileaestatevineyard.com",
     "phone": "845-392-2422",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/b1368e2a-8053-4adf-a793-9e2f93ebd9ec/Screenshot_2026-07-09_at_6.46.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=a740baf782d997075ecbc1b7128845ef42da9db38bcd74dbaac5c8087002f002&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Venue Director",
     "role": "venue",
     "schedule": [],
     "notes": []
@@ -65,6 +75,8 @@
     "alias": "sara",
     "email": "sarajuliannabeauty@gmail.com",
     "phone": "(203) 731-7319",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/e457042e-904b-46fe-b599-5fb2d8bd5d01/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=84695ae5b752b1f4a0bb488dff8c12d70cffc7847ac205aae6ab6d37645b4d8a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Makeup Artist",
     "role": "makeup",
     "schedule": [],
     "notes": []
@@ -75,6 +87,8 @@
     "alias": "laura",
     "email": "lauramoorebeauty@gmail.com",
     "phone": "(203)-885-3196",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/6d890321-d491-48b3-99c1-9c72fdd14176/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=4dd53bbf953ba5ff778d6e954869ce2f0ab09f18e7567474dee92428c83cadf4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Hair Stylist",
     "role": "hair",
     "schedule": [],
     "notes": []
@@ -85,6 +99,8 @@
     "alias": "jeff",
     "email": "support@conwayentertainment.com",
     "phone": "800-882-7216",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/2ef10aea-b12e-4e39-bee1-529bfea07012/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=2006b6625d79e46fa54be31eaa534cf90514961769758bf9a4feeab86d2c97b6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "DJ",
     "role": "dj",
     "schedule": [],
     "notes": []
@@ -95,6 +111,8 @@
     "alias": "lindsay",
     "email": "lindsayeileenphotography@gmail.com",
     "phone": "717-307-1321",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/3fd4c16c-36cf-4ae4-87f9-cff7c95e3381/Screenshot_2026-07-09_at_6.43.26_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=0f3885158c646e9d6583b4f2429b254a0a262bdb03d7b1e9e6783fe924002e72&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Photographer",
     "role": "photography",
     "schedule": [],
     "notes": []
@@ -105,6 +123,8 @@
     "alias": "barb",
     "email": null,
     "phone": "810-407-2884",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/9c186192-029b-4b48-a67c-e1bdea397316/Screenshot_2026-07-09_at_6.41.27_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=40a88db8541891cf2063391d3a07247141982f24b551577d081a6324b10c4367&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Day of Coordinator",
     "role": "aunt-of-the-bride",
     "schedule": [],
     "notes": []
@@ -115,6 +135,8 @@
     "alias": "howie",
     "email": "mrhjr@comcast.net",
     "phone": "248-321-0783",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/2cb40d5d-7786-4e4f-8471-07976300477d/Screenshot_2026-07-09_at_6.39.40_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=dbeb709c5464ad8897e35eca7ba9377e1f28e01148de595d54f015978ee9af15&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Father of the Bride",
     "role": "father-of-the-bride",
     "schedule": [],
     "notes": []
@@ -125,6 +147,8 @@
     "alias": "mj",
     "email": "mjrandhjr@comcast.net",
     "phone": "313-434-8702",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/161f6d9e-85eb-4cb8-93dc-bdb0749aa43c/Screenshot_2026-07-09_at_6.39.28_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=c51d8fd7a6d7c8b3d9b15a1236718db02228c279ca1ea2b50e7d169bf6d62ea1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Mother of the Bride",
     "role": "mother-of-the-bride",
     "schedule": [],
     "notes": []
@@ -135,6 +159,8 @@
     "alias": "matt",
     "email": "mhaberlach@me.com",
     "phone": "775-686-8979",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/44334b8b-8847-4645-af86-3be6681aec8e/Screenshot_2026-07-09_at_6.38.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=475fa8cff5984db621a1c04beb41abc32de951c837df519f9ff0fdc483c09c21&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Groom",
     "role": "groom",
     "schedule": [],
     "notes": []
@@ -145,6 +171,8 @@
     "alias": "court",
     "email": "courtneyring3@gmail.com",
     "phone": "248-924-5377",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/05a976bd-f30a-4f6e-b6bc-f71fac70fa23/Screenshot_2026-07-09_at_6.33.12_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=209632946304348a5248964ddcb13754fd16fb09c9133f2b8ed8e6994ccaaa5c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Bride",
     "role": "bride",
     "schedule": [],
     "notes": []
@@ -155,6 +183,8 @@
     "alias": "wes",
     "email": null,
     "phone": "828-674-2391",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/845b748a-7126-4e09-9bd8-7857fcd5b996/Screenshot_2026-07-09_at_6.31.36_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=7984fac33e695558f903c0806daf8aa509e72404e1cabfd9fc4c041ad38a4673&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Groomsman",
     "role": "groomsman",
     "schedule": [],
     "notes": []
@@ -165,6 +195,8 @@
     "alias": "austin",
     "email": null,
     "phone": null,
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/082c75d9-682d-4cb1-b1d2-f4f0f9eb9c7c/Screenshot_2026-07-09_at_6.30.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=e334a4109673869ff8cea4f72952c9f5219a8508c73414b0e44bc64735e74cd2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Groomsman",
     "role": "groomsman",
     "schedule": [],
     "notes": []
@@ -175,16 +207,20 @@
     "alias": "cj",
     "email": null,
     "phone": null,
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/263353b8-48ca-42d6-8acd-7d6c00c3cbe2/Screenshot_2026-07-09_at_6.27.47_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=f3a2c8dba110b8f7cc4c8e35571b6b1df471134af0645b0fb3bdd1e8a27b70e0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Best Man",
     "role": "best-man",
     "schedule": [],
     "notes": []
   },
   {
     "id": "300de2a9-1181-805c-baa6-c4c331099d70",
-    "name": "Alex Myers",
+    "name": "Alex Meyers",
     "alias": "alex",
     "email": null,
     "phone": null,
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/bffb2209-6ea3-4676-afa5-bca32cb080cf/Screenshot_2026-07-09_at_6.26.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=be589ca5c25b86f60e3cb5d8abd85ce2837d0b75b71fe629abac34ba81f21a20&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Groomsman",
     "role": "groomsman",
     "schedule": [],
     "notes": []
@@ -195,6 +231,8 @@
     "alias": "mackenzie",
     "email": null,
     "phone": "810-813-6466",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/f778f124-727d-47c5-8ab7-d20d30e04761/Screenshot_2026-07-09_at_6.25.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=8ba6ccf344e80524f2b6128500079452c9807fbf68eef435ae687b6d91063fb0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Bridesmaid",
     "role": "bridesmaid",
     "schedule": [],
     "notes": []
@@ -205,6 +243,8 @@
     "alias": "becky",
     "email": null,
     "phone": "206-200-8456",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/89416872-cb93-4341-a15b-ba3f26162437/Screenshot_2026-07-09_at_6.23.32_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=81c3ecf4e0d6369f24f04b476318b8972a6efd9a96d73153f0fbdfcc1e974ea0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Bridesmaid",
     "role": "bridesmaid",
     "schedule": [],
     "notes": []
@@ -215,7 +255,9 @@
     "alias": "ashley",
     "email": "ashleyleighslater@gmail.com",
     "phone": "248-412-3834",
-    "role": "maid-of-honor",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/cadce63d-390b-4aab-9abc-3dae19bf010e/Screenshot_2026-07-09_at_6.22.13_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=8f3ff5b9f158e15e0f3b976327096480fe904400f1fd4d97707fa14688dec6f2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Matron of Honor",
+    "role": "bridesmaid",
     "schedule": [],
     "notes": []
   },
@@ -225,6 +267,8 @@
     "alias": "dom",
     "email": "domenicapazmino3@gmail.com",
     "phone": "201-741-9514",
+    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/225a4596-3d0b-4b80-aa6f-470874fbf049/Screenshot_2026-07-09_at_6.05.05_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UW522ARI%2F20260710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260710T000136Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAP714Em14lSr3GRrydpRoUW75t8%2FM2gfPPMzDPwOGxMAiBSNOG5vNM7JljUeX3u5g4G0fU7UuRW8b6OZlI35%2FqdvCqIBAio%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMFdFv9YSOahtiDho%2BKtwD6I5P3rVBkns3ui0hsalrYIC%2BuT7cYyGXXcCa7lviVrLST63CvwyP07p%2BpBMI7MhWKYJk19DIVwjgekB%2BsIMbkoBGvWTS%2F%2FDVYebiQ7%2BmaE%2BLH4u73%2Fvn5gJlV4j7WHUStYXQR0mP9N1EthY59n4cFZ%2Bcpb8lmBlkh%2BNk%2B1Q8Zvw6LQhxSrHzhLUiPwPYndtScPRqLYcVdR7APVyTMLrOZoK6DAC2s48ZL9AuOaxnDy2dFLlCLAlH7XGfrBhqIKboTVvc1U8ONYLRQ152zAMTLWiOQfoV4ftrrdhUavKyA6xiQHUJvoT7NzZaAhykndq8D%2BnFxMPBBkVm3e%2BCKSTCuhI0nRLWtQ8Srv2ePzWOTJkh0kOjMJkC38Q4qoN0p6vmfLYUySTLhhIXcZI9SF0Ok3Jqi32VqqzhIG8y6wfwqc8Zcl1LQPPasbZG44tcjyA9orsVwUsepIutbtsB0ZP%2Bu%2Flya2nB1KUdY5bWES2NM%2FJM18AypPTcPCo4EWNPyRD%2BrG9DmE2DwOMDi5DAHfpwnEtsCfb%2B7nQFSyxfsJpJa4%2F6pKuqhgW1ZHVsPEr1pQhjJrp1KSFYaL2yYqosYmx9L5401O13OG0k0jPzPyBfXhax6%2F79E0hImCN%2BQ4IwrcLA0gY6pgH1W%2FPAQ%2F%2BfsfAHoJwdh2vp2wnN%2FlRPomADs3MU5%2Fp2SN0Tbk9je%2BWdZnqlXjfUZzlHPuT%2B9sraqcXQaJGfGBus8pvUyn4GfvbjLnohQ%2Fuir1FTX43AGAZXcubPHE57Cp39Y%2BJ4Io51M06TLAoqa97HCoKIF4lRmOMona%2Bi7H6IPmjlui8DXlH9A%2Bt1YFXv2tNj7Yl5OUOqSRwC89UFyduS1XPeyR7x&X-Amz-Signature=56cbf97317912e3d5cd3217c908cc52a1ee10b6ba643b5cc6a67c2ac3592695d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "title": "Bridesmaid",
     "role": "bridesmaid",
     "schedule": [],
     "notes": [
@@ -232,19 +276,6 @@
       "Here’s more notes",
       "and more notes",
       "some notes with a line break\nhere’s the line break",
-      null
-    ]
-  },
-  {
-    "id": "300de2a9-1181-805f-b40a-c82cc61f68e9",
-    "name": "Jessica Ronayne",
-    "alias": "jessie",
-    "email": null,
-    "phone": "248-767-6305",
-    "role": "bridesmaid",
-    "schedule": [],
-    "notes": [
-      null,
       null
     ]
   }

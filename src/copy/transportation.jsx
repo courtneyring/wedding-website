@@ -206,7 +206,7 @@ export default {
       {
         variation: "color-white",
         children: "Schedule",
-        href: "/schedule",
+        href: "/weekend",
         onClick: () => sendButtonEvent("navigate-rsvp"),
       },
       {

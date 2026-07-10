@@ -81,7 +81,7 @@ export default {
     primaryCta: {
       variation: "color-primary-dark",
       children: "View Schedule",
-      href: "/schedule",
+      href: "/weekend",
       onClick: () => sendButtonEvent("navigate-schedule"),
     },
   },
@@ -117,7 +117,7 @@ export default {
           label: "See the Schedule",
           variation: "link",
           icon: "east",
-          href: "/schedule",
+          href: "/weekend",
           onClick: () => sendButtonEvent("promos-schedule"),
         },
       },

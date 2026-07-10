@@ -1,5 +1,112 @@
 [
   {
+    "task": "Put cake on cake table",
+    "assignees": []
+  },
+  {
+    "task": "Cake Delivered, Store in Refrigerator",
+    "assignees": []
+  },
+  {
+    "task": "Cake Pickup at Pastry Garden",
+    "assignees": []
+  },
+  {
+    "task": "Take gifts and put on gifts table",
+    "start": "2026-08-29T15:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+    ]
+  },
+  {
+    "task": "Passing out programs, verbal no cell phone reminders",
+    "start": "2026-08-29T15:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+    ]
+  },
+  {
+    "task": "Sweetheart Table Setup",
+    "start": "2026-08-28",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Wedding Cake Table Setup",
+    "start": "2026-08-28",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Bar Table Setup",
+    "start": "2026-08-28",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Cocktail Table Setup",
+    "start": "2026-08-28",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "assignees": []
+  },
+  {
+    "task": "Drivers to Rehearsal leave",
+    "assignees": []
+  },
+  {
+    "task": "Court gets ready for rehearsal",
+    "assignees": []
+  },
+  {
+    "task": "Welcome Party Room Setup",
+    "assignees": []
+  },
+  {
+    "task": "Drop off Drinks and Snacks to house",
+    "assignees": []
+  },
+  {
+    "task": "Lunch for house Delivered",
+    "assignees": []
+  },
+  {
+    "task": "? Leaves to get Lunch for House",
+    "assignees": []
+  },
+  {
+    "task": "After Party chips, etc, set up",
+    "assignees": []
+  },
+  {
+    "task": "Pizza Arrives at Legion",
+    "assignees": []
+  },
+  {
+    "task": "Rehearsal Dinner Speeches & Gifts",
+    "start": "2026-08-28T19:00:00.000-04:00",
+    "end": null,
+    "assignees": []
+  },
+  {
+    "task": "Rehearsal Group Picture Outside",
+    "start": "2026-08-28T19:45:00.000-04:00",
+    "end": null,
+    "assignees": []
+  },
+  {
     "task": "Matt’s gift goes to Court",
     "assignees": []
   },
@@ -96,7 +203,7 @@
     ]
   },
   {
-    "task": "Table Numbers put on Tables",
+    "task": "Candy Table Setup",
     "start": "2026-08-28",
     "end": null,
     "assignees": [
@@ -104,7 +211,7 @@
     ]
   },
   {
-    "task": "Place cards put on Tables",
+    "task": "Cork Table Setup",
     "start": "2026-08-28",
     "end": null,
     "assignees": [
@@ -112,7 +219,7 @@
     ]
   },
   {
-    "task": "Menus Placed on Tables",
+    "task": "Reception Table Setup",
     "start": "2026-08-28",
     "end": null,
     "assignees": [
@@ -404,7 +511,12 @@
       "300de2a9-1181-8024-bea5-e67cf3ec00ea",
       "300de2a9-1181-809f-b7f2-c8b6c54639a5",
       "36dde2a9-1181-8001-8d03-e452c5598c89",
-      "36dde2a9-1181-801d-b1b9-f581b829f721"
+      "36dde2a9-1181-801d-b1b9-f581b829f721",
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-80c4-b498-ce77d077924a"
     ]
   },
   {

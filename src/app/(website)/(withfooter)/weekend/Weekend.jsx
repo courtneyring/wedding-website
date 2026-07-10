@@ -1,6 +1,6 @@
 'use client';
 
-import content from "@/copy/schedule";
+import content from "@/copy/weekend";
 import {
   OverlayHero,
   Fifty,
@@ -12,7 +12,7 @@ import {
 } from "@courtneyring/components-library";
 import { Fragment } from "react";
 
-export default function SchedulePage() {
+export default function WeekendPage() {
   return (
     <div>
       <main>

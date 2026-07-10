@@ -11,7 +11,7 @@ const URL = "http://localhost:3000";
 
 const paths = [
   "/",
-  "/schedule",
+  "/weekend",
   "/transportation",
   "/travel",
   "/accommodations",

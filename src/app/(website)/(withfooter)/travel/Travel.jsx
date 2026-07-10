@@ -5,12 +5,8 @@ import {
   ImageTextBlock,
   Banner,
   Container,
-  Promo,
   PromoGroup,
   Background,
-  PinnedImage,
-  TextBlock,
-  Schedule,
 } from "@courtneyring/components-library";
 import copy from "@/copy/travel";
 import styles from './travel.module.scss';
@@ -32,12 +28,6 @@ export default function TravelPage() {
       <Container color="color-white" maxWidth="lg">
         <PromoGroup {...copy.tracks} />
       </Container>
-      {/* <Container color="color-neutral-light" maxWidth="lg">
-=        <PinnedImage {...copy.road} />
-      </Container> */}
-      {/* <Container color="color-neutral-light" maxWidth="sm">
-        <TextBlock {...copy.road} />
-      </Container> */}
       <Container color="color-neutral-light" maxWidth='lg'>
         <ImageTextBlock {...copy.road.parent}>
           {copy.road.body.map((block, idx) => (

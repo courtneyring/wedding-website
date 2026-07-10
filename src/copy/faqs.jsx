@@ -109,7 +109,7 @@ export default {
         <p>
           We highly recommend using our guest shuttles, as rideshares can be
           difficult to secure in this area. If you prefer to drive, the venue
-          address is listed on the <a href="/schedule">schedule page</a> —
+          address is listed on the <a href="/weekend">schedule page</a> —
           please allow extra time for traffic to ensure arrival by 4:00 PM.
         </p>
       ),
