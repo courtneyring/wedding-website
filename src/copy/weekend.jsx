@@ -28,7 +28,7 @@ export default {
           icon: "schedule",
           text: ["Friday August 28, 8-10pm"],
         },
-        { icon: "apparel", text: "Cocktail Attire" },
+        { icon: "apparel", text: "Dressy Casual Attire" },
       ],
     },
     {
