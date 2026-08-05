@@ -19,19 +19,19 @@ export default {
     ctas: [
       {
         variation: "color-primary-dark",
-        children: "RSVP",
-        href: "/rsvp",
+        children: "Hotels",
+        href: "/accommodations",
         onClick: () => sendButtonEvent("navigate-rsvp"),
       },
       {
         variation: "color-primary-dark",
-        children: "Details",
-        // href: "/rsvp",
+        children: "Schedule",
+        href: "/schedule",
         hollow: true,
-        onClick: () => {
-          const noteEl = document.querySelector("#note");
-          noteEl.scrollIntoView({ behavior: "smooth" });
-        },
+        // onClick: () => {
+        //   const noteEl = document.querySelector("#note");
+        //   noteEl.scrollIntoView({ behavior: "smooth" });
+        // },
       },
     ],
   },

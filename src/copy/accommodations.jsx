@@ -78,10 +78,8 @@ export default {
         <p>
           Beekman Arms Delamater Inn is a historic property made up of several
           distinct buildings, each offering its own character and atmosphere.{" "}
-          <br />
-          <strong style={{ fontSize: "24px", fontWeight: 700 }}>
-            The block is closed, the generic booking page is linked below. We
-            recommend you book ASAP as these rooms sell out quickly. You may be
+          <strong className='typography--body' style={{  fontWeight: 700 }}>
+            The block is closed, the generic booking page is linked below. You may be
             able to call the hotel to get the block rate.
           </strong>
         </p>
