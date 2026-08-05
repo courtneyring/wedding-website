@@ -74,13 +74,27 @@ export default {
     },
     {
       heading: "Beekman Arms Delamater Inn",
-      body: "Beekman Arms Delamater Inn is a historic property made up of several distinct buildings, each offering its own character and atmosphere. We have a block that will be available until July 27.",
+      body: (
+        <p>
+          Beekman Arms Delamater Inn is a historic property made up of several
+          distinct buildings, each offering its own character and atmosphere.{" "}
+          <br />
+          <strong style={{ fontSize: "24px", fontWeight: 700 }}>
+            The block is closed, the generic booking page is linked below. We
+            recommend you book ASAP as these rooms sell out quickly. You may be
+            able to call the hotel to get the block rate.
+          </strong>
+        </p>
+      ),
       image: "/images/beekman-arms.jpg",
       reverse: true,
       color: "color-white",
       contentFirst: false,
       ctas: [
-        { children: "Book Online" },
+        {
+          children: "Book Online",
+          href: "https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0",
+        },
         {
           varation: "primaryDark",
           hollow: true,
@@ -98,20 +112,24 @@ export default {
           "Each room is a little different so take a look at the room types to see some pictures and where they are located.",
           "When you are ready to book, use the link below or enter the group code with August 28-30 selected: HOWAR260828-151430",
 
-          <p><strong>
-            No matter how many are staying in your room, please select
-            1&nbsp;Adult.
-          </strong></p>,
+          <p>
+            <strong>
+              No matter how many are staying in your room, please select
+              1&nbsp;Adult.
+            </strong>
+          </p>,
 
-          <p><small style={{ marginBottom: '10px' }}>
-            The software engineer bride is trying to find humor in these fun
-            quirks…
-          </small> </p>,
+          <p>
+            <small style={{ marginBottom: "10px" }}>
+              The software engineer bride is trying to find humor in these fun
+              quirks…
+            </small>{" "}
+          </p>,
         ],
         primaryCta: {
           varation: "primaryDark",
           children: "Continue to Book",
-          href: "https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0&groupCode=HOWAR260828-151430",
+          href: "https://beekmandelamaterinn.ibe.stayntouch.com/search-results?checkin=08-28-2026&checkout=08-30-2026&adults=1&kids=0",
           target: "_blank",
           onClick: () => sendButtonEvent("beekman-book"),
         },
@@ -137,13 +155,13 @@ export default {
     header: "Getting There & Around",
     ctas: [
       {
-        variation: 'color-white',
+        variation: "color-white",
         label: "Travel",
         href: "/travel",
       },
       {
         label: "Transport",
-        variation: 'color-white',
+        variation: "color-white",
         hollow: true,
         href: "/transportation",
       },
