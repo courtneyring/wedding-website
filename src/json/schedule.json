@@ -1,14 +1,422 @@
 [
   {
+    "task": "Photographer Look over property",
+    "start": "2026-08-29T11:45:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "3afde2a9-1181-80f2-88f0-faba95602902",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Groomsmen done showering",
+    "start": "2026-08-29T12:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Groomsmen Put on their stuff",
+    "start": "2026-08-29T12:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Groomsmen Photos - before or after first look tbd",
+    "start": "2026-08-29T13:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Nathan Does Details",
+    "start": "2026-08-29T12:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Matt Get Dressed",
+    "start": "2026-08-29T12:45:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Lindsay Does Details",
+    "start": "2026-08-29T12:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Bridesmaid athleisure photos",
+    "start": "2026-08-29T12:55:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Courtney Gets Dressed",
+    "start": "2026-08-29T13:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "First Look - Dad",
+    "start": "2026-08-29T13:50:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Reception Space Photos",
+    "start": "2026-08-29T15:45:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Family Portraits - Ring",
+    "start": "2026-08-29T15:20:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Special portrait groups - confirmed (1)",
+    "start": "2026-08-03T17:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+    ]
+  },
+  {
+    "task": "Courtney Gives Florist Ribbons to Dad",
+    "start": "2026-08-27",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Drop Chips and Food with John",
+    "start": "2026-08-27",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Signs go into frames",
+    "start": "2026-08-27",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Finish Seating Chart - Wax Seals and Paper sticking on",
+    "start": "2026-08-27",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Put Pizza Order In",
+    "start": "2026-08-27",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Dad Leaves for Ash",
+    "start": "2026-08-27T13:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Ash & Co Land",
+    "start": "2026-08-27T16:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Drop Ribbons to Florist",
+    "start": "2026-08-27T14:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Megan Sets up Greens at Beekman",
+    "start": "2026-08-28T17:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Dad gets flowers from Adams Family Green Market",
+    "start": "2026-08-27T18:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Staatsburg House Check In",
+    "start": "2026-08-28T10:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
+  },
+  {
+    "task": "Bar Opens",
+    "start": "2026-08-29T17:00:00.000-04:00",
+    "end": "2026-08-29T18:00:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+      "300de2a9-1181-8065-8a5e-f03507318665"
+    ]
+  },
+  {
+    "task": "Shuttles Arrive at Milea",
+    "start": "2026-08-29T16:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "36dde2a9-1181-8066-a2ac-d4b00b605273"
+    ]
+  },
+  {
+    "task": "Shuttle Leaves Beekman",
+    "start": "2026-08-29T15:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "36dde2a9-1181-8066-a2ac-d4b00b605273"
+    ]
+  },
+  {
+    "task": "Shuttle Leaves Mirbeau",
+    "start": "2026-08-29T15:30:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "36dde2a9-1181-8066-a2ac-d4b00b605273"
+    ]
+  },
+  {
+    "task": "Passing Water & Lemonade",
+    "start": "2026-08-29T16:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8065-8a5e-f03507318665",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Pillow to Cameron",
+    "assignees": []
+  },
+  {
+    "task": "Staatsburg Checkout ",
+    "start": "2026-08-30T16:00:00.000-04:00",
+    "end": null,
+    "assignees": []
+  },
+  {
+    "task": "Courtney’s Bouquet goes to ?",
+    "assignees": []
+  },
+  {
+    "task": "Ashley Does Chloe’s Hair",
+    "start": "2026-08-29T11:15:00.000-04:00",
+    "end": "2026-08-29T12:00:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-80c8-9596-f22327f25eab",
+      "3aede2a9-1181-8091-a3fb-d7fd143f1068"
+    ]
+  },
+  {
+    "task": "Bobby Arrives with Cameron",
+    "start": "2026-08-29T15:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-80c8-9596-f22327f25eab",
+      "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+      "3aede2a9-1181-80f3-8449-e9a2dfa0a544",
+      "3afde2a9-1181-80f2-88f0-faba95602902",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
+  },
+  {
+    "task": "Drop off marriage license into mail",
+    "assignees": []
+  },
+  {
+    "task": "Mackenzie Hair",
+    "start": "2026-08-29T08:45:00.000-04:00",
+    "end": "2026-08-29T09:30:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "3afde2a9-1181-80f2-88f0-faba95602902",
+      "300de2a9-1181-804a-aeb3-da17945f356d"
+    ]
+  },
+  {
+    "task": "Makeup Touch Ups",
+    "start": "2026-08-29T12:00:00.000-04:00",
+    "end": "2026-08-29T12:30:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Hair Touch Ups",
+    "start": "2026-08-29T12:00:00.000-04:00",
+    "end": "2026-08-29T12:30:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Court Makeup",
+    "start": "2026-08-29T11:00:00.000-04:00",
+    "end": "2026-08-29T12:00:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "3afde2a9-1181-80f2-88f0-faba95602902",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+    ]
+  },
+  {
+    "task": "Mackenzie Makeup",
+    "start": "2026-08-29T10:15:00.000-04:00",
+    "end": "2026-08-29T11:00:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "300de2a9-1181-804a-aeb3-da17945f356d",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Ashley Makeup",
+    "start": "2026-08-29T09:30:00.000-04:00",
+    "end": "2026-08-29T10:15:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "300de2a9-1181-80c8-9596-f22327f25eab",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Domenica Makeup",
+    "start": "2026-08-29T08:45:00.000-04:00",
+    "end": "2026-08-29T09:30:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "3afde2a9-1181-80f2-88f0-faba95602902",
+      "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+    ]
+  },
+  {
+    "task": "Mom Hair",
+    "start": "2026-08-29T11:15:00.000-04:00",
+    "end": "2026-08-29T12:00:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "300de2a9-1181-80c1-8998-e898d9766e4b",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Ashley Hair",
+    "start": "2026-08-29T10:30:00.000-04:00",
+    "end": "2026-08-29T11:15:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "300de2a9-1181-80c8-9596-f22327f25eab",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Court Hair",
+    "start": "2026-08-29T09:30:00.000-04:00",
+    "end": "2026-08-29T10:30:00.000-04:00",
+    "assignees": [
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Bags out of the way in the getting ready room",
+    "assignees": []
+  },
+  {
     "task": "Put cake on cake table",
     "assignees": []
   },
   {
-    "task": "Cake Delivered, Store in Refrigerator",
-    "assignees": []
-  },
-  {
     "task": "Cake Pickup at Pastry Garden",
+    "start": "2026-08-28T18:00:00.000-04:00",
+    "end": null,
     "assignees": []
   },
   {
@@ -16,7 +424,7 @@
     "start": "2026-08-29T15:30:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+      "3afde2a9-1181-80f2-88f0-faba95602902"
     ]
   },
   {
@@ -24,43 +432,24 @@
     "start": "2026-08-29T15:30:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+      "3afde2a9-1181-80f2-88f0-faba95602902"
     ]
   },
   {
-    "task": "Sweetheart Table Setup",
-    "start": "2026-08-28",
+    "task": "Milea Set Up Starts",
+    "start": "2026-08-28T12:00:00.000-04:00",
     "end": null,
     "assignees": [
       "300de2a9-1181-80c1-8998-e898d9766e4b"
     ]
   },
   {
-    "task": "Wedding Cake Table Setup",
-    "start": "2026-08-28",
+    "task": "Beekman Set Up",
+    "start": "2026-08-27",
     "end": null,
     "assignees": [
       "300de2a9-1181-80c1-8998-e898d9766e4b"
     ]
-  },
-  {
-    "task": "Bar Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Cocktail Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "assignees": []
   },
   {
     "task": "Drivers to Rehearsal leave",
@@ -68,22 +457,18 @@
   },
   {
     "task": "Court gets ready for rehearsal",
-    "assignees": []
-  },
-  {
-    "task": "Welcome Party Room Setup",
+    "start": "2026-08-28T14:00:00.000-04:00",
+    "end": null,
     "assignees": []
   },
   {
     "task": "Drop off Drinks and Snacks to house",
+    "start": "2026-08-27",
+    "end": null,
     "assignees": []
   },
   {
     "task": "Lunch for house Delivered",
-    "assignees": []
-  },
-  {
-    "task": "? Leaves to get Lunch for House",
     "assignees": []
   },
   {
@@ -92,38 +477,55 @@
   },
   {
     "task": "Pizza Arrives at Legion",
+    "start": "2026-08-29T22:45:00.000-04:00",
+    "end": null,
     "assignees": []
   },
   {
     "task": "Rehearsal Dinner Speeches & Gifts",
     "start": "2026-08-28T19:00:00.000-04:00",
     "end": null,
-    "assignees": []
+    "assignees": [
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+    ]
   },
   {
     "task": "Rehearsal Group Picture Outside",
     "start": "2026-08-28T19:45:00.000-04:00",
     "end": null,
-    "assignees": []
+    "assignees": [
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "300de2a9-1181-80c1-8998-e898d9766e4b"
+    ]
   },
   {
     "task": "Matt’s gift goes to Court",
-    "assignees": []
+    "start": "2026-08-29T13:15:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+    ]
   },
   {
     "task": "Court’s gift goes to Matt",
-    "assignees": []
+    "start": "2026-08-29T13:15:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+    ]
   },
   {
     "task": "Court changes into after party dress",
     "assignees": []
   },
   {
-    "task": "Hair and Makeup Leave",
-    "assignees": []
-  },
-  {
-    "task": "Bridesmaid at house to start getting ready",
+    "task": "Bridesmaid Arrival",
+    "start": "2026-08-29T08:15:00.000-04:00",
+    "end": null,
     "assignees": []
   },
   {
@@ -137,7 +539,8 @@
     "assignees": [
       "300de2a9-1181-803f-a8fb-f24f2426e1fd",
       "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5"
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
     ]
   },
   {
@@ -145,15 +548,17 @@
     "start": "2026-08-29T15:45:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-8065-8a5e-f03507318665"
+      "300de2a9-1181-8065-8a5e-f03507318665",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
     "task": "Courtney Staged in Bar Area",
-    "start": "2026-08-29T15:30:00.000-04:00",
+    "start": "2026-08-29T15:45:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
@@ -177,15 +582,9 @@
     ]
   },
   {
-    "task": "Welcome Party Ends",
-    "start": "2026-08-28T22:00:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Rehearsal Dinner Begins",
+    "task": "Rehearsal Dinner",
     "start": "2026-08-28T18:00:00.000-04:00",
-    "end": null,
+    "end": "2026-08-28T20:00:00.000-04:00",
     "assignees": [
       "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
       "300de2a9-1181-80d8-ad32-fa3d87421a2e",
@@ -199,54 +598,11 @@
       "300de2a9-1181-8024-bea5-e67cf3ec00ea",
       "300de2a9-1181-809f-b7f2-c8b6c54639a5",
       "36dde2a9-1181-8001-8d03-e452c5598c89",
-      "36dde2a9-1181-801d-b1b9-f581b829f721"
-    ]
-  },
-  {
-    "task": "Candy Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Cork Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Reception Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Cabinet Decoration",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Gifts Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Memories Table Setup",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
+      "36dde2a9-1181-801d-b1b9-f581b829f721",
+      "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+      "3aede2a9-1181-80f3-8449-e9a2dfa0a544",
+      "3aede2a9-1181-8091-a3fb-d7fd143f1068",
+      "300de2a9-1181-8009-84b9-f3021e97e700",
       "300de2a9-1181-80c1-8998-e898d9766e4b"
     ]
   },
@@ -264,28 +620,40 @@
   },
   {
     "task": "Quick Arch Review Before Florist Leaves",
-    "assignees": []
+    "assignees": [
+      "300de2a9-1181-80c1-8998-e898d9766e4b",
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
   },
   {
     "task": "Florist Leaves",
     "start": "2026-08-29T16:00:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-8064-9891-df4314ea7fad"
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
-    "task": "Bridesmaid 1 and 2 Hair",
-    "assignees": []
+    "task": "Hair & Makeup Arrive",
+    "start": "2026-08-29T08:45:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+      "300de2a9-1181-80ea-bff2-c1e5d156f770",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
   },
   {
     "task": "Golden Hour Photos",
-    "start": "2026-08-29T18:45:00.000-04:00",
+    "start": "2026-08-29T19:45:00.000-04:00",
     "end": null,
     "assignees": [
       "300de2a9-1181-803f-a8fb-f24f2426e1fd",
       "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
@@ -294,12 +662,18 @@
     "end": null,
     "assignees": [
       "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
-    "task": "Family Photos",
-    "assignees": []
+    "task": "Groom Family Photos - confirmed",
+    "start": "2026-08-03T17:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+    ]
   },
   {
     "task": "Transfer Wedding Party to Vineyard",
@@ -311,36 +685,53 @@
   },
   {
     "task": "Get Rings for Photos",
-    "assignees": []
-  },
-  {
-    "task": "Wedding Party Photos",
-    "assignees": []
-  },
-  {
-    "task": "Portraits",
-    "assignees": []
-  },
-  {
-    "task": "First Look",
-    "start": "2026-08-29T13:45:00.000-04:00",
+    "start": "2026-08-29T13:20:00.000-04:00",
     "end": null,
     "assignees": [
       "300de2a9-1181-803f-a8fb-f24f2426e1fd",
       "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
     ]
   },
   {
-    "task": "Getting Ready Photos",
+    "task": "Wedding Party Photos",
+    "start": "2026-08-29T14:45:00.000-04:00",
+    "end": null,
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-    ]
-  },
-  {
-    "task": "Court gets Dressed",
-    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
       "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Portraits",
+    "start": "2026-08-29T14:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "First Look",
+    "start": "2026-08-29T14:00:00.000-04:00",
+    "end": null,
+    "assignees": [
+      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+      "3afde2a9-1181-80f2-88f0-faba95602902"
+    ]
+  },
+  {
+    "task": "Getting Ready Photos - Bride & Groom?",
+    "start": "2026-08-29T12:30:00.000-04:00",
+    "end": null,
+    "assignees": [
       "300de2a9-1181-803f-a8fb-f24f2426e1fd"
     ]
   },
@@ -349,31 +740,32 @@
     "start": "2026-08-29T11:00:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-8064-9891-df4314ea7fad"
+      "300de2a9-1181-8064-9891-df4314ea7fad",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
     "task": "Strings Arrive",
+    "start": "2026-08-29T15:15:00.000-04:00",
+    "end": null,
     "assignees": []
   },
   {
-    "task": "Wedding Party, Bride Groom Intros",
-    "assignees": []
-  },
-  {
-    "task": "DJ Leaves",
-    "start": "2026-08-29T22:30:00.000-04:00",
+    "task": "Bride Groom Intros",
+    "start": "2026-08-29T18:05:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
-    "task": "Chandelier Setup",
-    "start": "2026-08-28",
+    "task": "DJ Ends",
+    "start": "2026-08-29T22:30:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
@@ -381,15 +773,12 @@
     "start": "2026-08-29T15:00:00.000-04:00",
     "end": null,
     "assignees": [
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
     "task": "Start Reception Dancing",
-    "assignees": []
-  },
-  {
-    "task": "Mother / Son",
     "assignees": []
   },
   {
@@ -402,9 +791,12 @@
   },
   {
     "task": "Dinner Starts",
-    "start": "2026-08-29T18:30:00.000-04:00",
+    "start": "2026-08-29T18:15:00.000-04:00",
     "end": null,
-    "assignees": []
+    "assignees": [
+      "300de2a9-1181-8065-8a5e-f03507318665",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+    ]
   },
   {
     "task": "CJ (BM) Speech",
@@ -412,7 +804,8 @@
     "end": null,
     "assignees": [
       "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
@@ -421,7 +814,8 @@
     "end": null,
     "assignees": [
       "300de2a9-1181-80c8-9596-f22327f25eab",
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
+      "300de2a9-1181-804b-b266-cdd24fd63e39",
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
   },
   {
@@ -431,170 +825,8 @@
     "assignees": [
       "300de2a9-1181-80c1-8998-e898d9766e4b",
       "300de2a9-1181-8009-84b9-f3021e97e700",
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
-    ]
-  },
-  {
-    "task": "Welcome/Thank you Speech",
-    "start": "2026-08-29T18:10:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
-    ]
-  },
-  {
-    "task": "DJ MC-ing Starts",
-    "start": "2026-08-29T18:00:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-804b-b266-cdd24fd63e39"
-    ]
-  },
-  {
-    "task": "Cake Cutting",
-    "assignees": []
-  },
-  {
-    "task": "Reception Ends",
-    "start": "2026-08-29T22:30:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Photographer Leaves",
-    "start": "2026-08-29T22:00:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-    ]
-  },
-  {
-    "task": "Strings Leave",
-    "start": "2026-08-29T18:00:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c4-b498-ce77d077924a"
-    ]
-  },
-  {
-    "task": "Processional In Bar Area + Denise",
-    "assignees": []
-  },
-  {
-    "task": "Reception Starts",
-    "start": "2026-08-29T18:00:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Cocktail Hour Starts",
-    "start": "2026-08-29T17:00:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Rehearsal Begins",
-    "start": "2026-08-28T16:00:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
-      "300de2a9-1181-80d8-ad32-fa3d87421a2e",
-      "300de2a9-1181-804a-aeb3-da17945f356d",
-      "300de2a9-1181-807c-906b-d8c1f1d72667",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-809e-96c3-da3e34e95806",
-      "300de2a9-1181-805c-baa6-c4c331099d70",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-      "36dde2a9-1181-8001-8d03-e452c5598c89",
-      "36dde2a9-1181-801d-b1b9-f581b829f721",
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
       "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-8064-9891-df4314ea7fad",
-      "300de2a9-1181-80c4-b498-ce77d077924a"
+      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
     ]
-  },
-  {
-    "task": "Welcome Party Begins",
-    "start": "2026-08-28T20:00:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Ceremony Start",
-    "start": "2026-08-29T16:30:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Guests Start Arriving",
-    "start": "2026-08-29T16:00:00.000-04:00",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Strings Start playing",
-    "start": "2026-08-29T16:10:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c4-b498-ce77d077924a"
-    ]
-  },
-  {
-    "task": "Driveway is Blocked, Gate Closed",
-    "assignees": []
-  },
-  {
-    "task": "Photographer Arrives",
-    "start": "2026-08-29T11:15:00.000-04:00",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-    ]
-  },
-  {
-    "task": "Court Makeup",
-    "assignees": []
-  },
-  {
-    "task": "Bridesmaid 4 and 5",
-    "assignees": []
-  },
-  {
-    "task": "Bridesmaid 3 and Court Hair",
-    "assignees": []
-  },
-  {
-    "task": "Quick Morning Jog",
-    "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-    ]
-  },
-  {
-    "task": "DIY Florals at Clubhouse",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
-    ]
-  },
-  {
-    "task": "Pick up Stems from Peony",
-    "start": "2026-08-28",
-    "end": null,
-    "assignees": []
-  },
-  {
-    "task": "Ironing",
-    "assignees": []
-  },
-  {
-    "task": "Get Catering for House",
-    "assignees": []
   }
 ]

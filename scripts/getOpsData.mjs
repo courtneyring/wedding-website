@@ -27,7 +27,7 @@ const formatContacts = (arr) => {
       phone: entry.properties["Phone Number"].formula.string,
       image: entry.properties["Profile Picture"].files[0]?.file?.url,
       title: entry.properties.Title.rich_text[0]?.plain_text,
-      role: entry.properties["Role in Wedding"].select.name,
+      role: entry.properties["Role in Wedding"].select?.name || 'Unset',
       schedule: [],
       notes: entry.children.map(
         (child) => child.paragraph?.rich_text[0]?.text.content,
