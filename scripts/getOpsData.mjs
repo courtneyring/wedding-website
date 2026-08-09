@@ -16,22 +16,56 @@ const getDatabaseById = async (database_id) => {
   return await notion.dataSources.query({ data_source_id: data_sources[0].id });
 };
 
+async function getPageContent(pageId) {
+  // Get page properties (metadata)
+  const page = await notion.pages.retrieve({ page_id: pageId });
+
+  // Get the actual content blocks (paragraphs, headings, lists, etc.)
+  const blocks = await getAllBlocks(pageId);
+
+  return blocks;
+}
+
+// Notion paginates block children, so this handles that
+async function getAllBlocks(blockId) {
+  const blocks = [];
+  let cursor;
+
+  do {
+    const response = await notion.blocks.children.list({
+      block_id: blockId,
+      start_cursor: cursor,
+      page_size: 100,
+    });
+
+    blocks.push(...response.results);
+    cursor = response.has_more ? response.next_cursor : undefined;
+  } while (cursor);
+
+  // Recursively fetch children of nested blocks (toggles, nested lists, etc.)
+  for (const block of blocks) {
+    if (block.has_children) {
+      block.children = await getAllBlocks(block.id);
+    }
+  }
+  return blocks.map((child) => child.paragraph?.rich_text[0]?.text.content);
+}
+
 const formatContacts = (arr) => {
   const map = new Map();
   for (let entry of arr) {
+    const alias = entry.properties.Alias.rich_text[0]?.plain_text;
     map.set(entry.id, {
       id: entry.id,
-      name: entry.properties.Name.title[0]?.plain_text,
-      alias: entry.properties.Alias.rich_text[0]?.plain_text,
+      name: entry.properties.Name.title[0]?.text.content,
+      alias,
       email: entry.properties.Email.formula.string,
       phone: entry.properties["Phone Number"].formula.string,
-      image: entry.properties["Profile Picture"].files[0]?.file?.url,
+      image: `/images/ops/${alias}.png`,
       title: entry.properties.Title.rich_text[0]?.plain_text,
-      role: entry.properties["Role in Wedding"].select?.name || 'Unset',
+      role: entry.properties["Role in Wedding"].select?.name || "Unset",
+      // role: entry.properties.Groups.select?.name || "",
       schedule: [],
-      notes: entry.children.map(
-        (child) => child.paragraph?.rich_text[0]?.text.content,
-      ),
     });
   }
   return map;
@@ -63,6 +97,8 @@ const getContacts = async () => {
   const { results } = await getDatabaseById(databaseId);
   const contacts = await getChildren(results);
   return contacts;
+  // const map = new Map(contacts.map((val) => [val.id, val]));
+  // return map;
 };
 
 const getSchedule = async () => {
@@ -71,10 +107,9 @@ const getSchedule = async () => {
   return results;
 };
 
-const format = (schedule) => {
+const format = async (schedule) => {
   const arr = [];
   for (let task of schedule) {
-    if (!task.properties) console.log(task)
     const opsObj = task.properties["Wedding Ops"].relation;
     const assignees = [];
     for (let assignee of opsObj) {
@@ -85,26 +120,47 @@ const format = (schedule) => {
       //   end: task.properties.Day.date?.end,
       // });
     }
+
     arr.push({
-      task: task.properties.Name.title[0]?.plain_text,
-      start: task.properties.Day.date?.start,
-      end: task.properties.Day.date?.end,
+      title: task.properties.Name.title[0]?.plain_text,
+      startTime: task.properties.Day.date?.start,
+      endTime: task.properties.Day.date?.end,
+      location: task.properties.Location.rich_text[0]?.text.content,
+      notes: await getPageContent(task.id),
       assignees,
     });
   }
   return arr;
 };
 
+const connectSchedules = (contacts, schedule) => {
+  for (let event of schedule) {
+    const { assignees } = event;
+    for (let assignee of assignees) {
+      contacts.get(assignee).schedule.push(event);
+    }
+  }
+  return [...contacts.values()];
+};
+
 const init = async () => {
-  const contacts = [...formatContacts(await getContacts()).values()];
-  const schedule = format(await getSchedule());
+  const contacts = formatContacts(await getContacts());
+
+  const scheduleRaw = await getSchedule();
+  const schedule = await format(scheduleRaw);
+  const contactsWithSchedules = connectSchedules(contacts, schedule);
+  // console.log(contactsWithSchedules)
   // const ops = format(contacts, schedule);
   const fileNames = [
     {
       data: schedule,
       path: "../src/json/schedule.json",
     },
-    { data: contacts, path: "../src/json/contacts.json" },
+    {
+      data: scheduleRaw,
+      path: "../src/json/scheduleRaw.json",
+    },
+    { data: contactsWithSchedules, path: "../src/json/contacts.json" },
   ];
 
   fileNames.forEach((file) =>

@@ -1,0 +1,17 @@
+@use "@courtneyring/components-library/styles" as lib;
+
+.root {
+  --container-padding: 20px ;
+}
+
+.block {
+  margin-bottom: 50px;
+
+  h2 {
+    text-align: center;
+  }
+}
+
+.material-symbols-outlined {
+  margin-left: 0;
+}

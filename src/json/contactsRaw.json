@@ -1,9 +1,744 @@
 [
   {
     "object": "page",
+    "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+    "created_time": "2026-08-05T19:37:00.000Z",
+    "last_edited_time": "2026-08-05T19:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+      "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Company": {
+        "id": "%3AMFw",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Email": {
+        "id": "%3B%3B%7Cm",
+        "type": "email",
+        "email": null
+      },
+      "rollup": {
+        "id": "%3BXF%7B",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Role in Wedding": {
+        "id": "%3DK%40S",
+        "type": "select",
+        "select": null
+      },
+      "Phone Number": {
+        "id": "Hhas",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Profile Picture": {
+        "id": "MiVh",
+        "type": "files",
+        "files": []
+      },
+      "Category": {
+        "id": "SONO",
+        "type": "select",
+        "select": null
+      },
+      "Email": {
+        "id": "Tn%3F%5E",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
+      "Alias": {
+        "id": "Y%7B%3BF",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
+      "Title": {
+        "id": "no~~",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Linked Phone": {
+        "id": "uRpM",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Phone": {
+        "id": "x%3Fkw",
+        "type": "phone_number",
+        "phone_number": null
+      },
+      "Linked Email": {
+        "id": "yNqX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shirley",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shirley",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Shirley-3b3de2a9118180038eaeefa4058f44c8",
+    "public_url": null,
+    "archived": false,
+    "children": []
+  },
+  {
+    "object": "page",
+    "id": "3b3de2a9-1181-8022-b291-e5d1139883f0",
+    "created_time": "2026-08-05T19:31:00.000Z",
+    "last_edited_time": "2026-08-05T19:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+      "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Company": {
+        "id": "%3AMFw",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Email": {
+        "id": "%3B%3B%7Cm",
+        "type": "email",
+        "email": null
+      },
+      "rollup": {
+        "id": "%3BXF%7B",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Role in Wedding": {
+        "id": "%3DK%40S",
+        "type": "select",
+        "select": null
+      },
+      "Phone Number": {
+        "id": "Hhas",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Profile Picture": {
+        "id": "MiVh",
+        "type": "files",
+        "files": []
+      },
+      "Category": {
+        "id": "SONO",
+        "type": "select",
+        "select": null
+      },
+      "Email": {
+        "id": "Tn%3F%5E",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
+      "Alias": {
+        "id": "Y%7B%3BF",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
+      "Title": {
+        "id": "no~~",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Linked Phone": {
+        "id": "uRpM",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Phone": {
+        "id": "x%3Fkw",
+        "type": "phone_number",
+        "phone_number": null
+      },
+      "Linked Email": {
+        "id": "yNqX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mary",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mary",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Mary-3b3de2a911818022b291e5d1139883f0",
+    "public_url": null,
+    "archived": false,
+    "children": []
+  },
+  {
+    "object": "page",
+    "id": "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
+    "created_time": "2026-08-05T19:31:00.000Z",
+    "last_edited_time": "2026-08-05T19:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+      "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Company": {
+        "id": "%3AMFw",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Email": {
+        "id": "%3B%3B%7Cm",
+        "type": "email",
+        "email": null
+      },
+      "rollup": {
+        "id": "%3BXF%7B",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Role in Wedding": {
+        "id": "%3DK%40S",
+        "type": "select",
+        "select": null
+      },
+      "Phone Number": {
+        "id": "Hhas",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Profile Picture": {
+        "id": "MiVh",
+        "type": "files",
+        "files": []
+      },
+      "Category": {
+        "id": "SONO",
+        "type": "select",
+        "select": null
+      },
+      "Email": {
+        "id": "Tn%3F%5E",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
+      "Alias": {
+        "id": "Y%7B%3BF",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
+      "Title": {
+        "id": "no~~",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Linked Phone": {
+        "id": "uRpM",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Phone": {
+        "id": "x%3Fkw",
+        "type": "phone_number",
+        "phone_number": null
+      },
+      "Linked Email": {
+        "id": "yNqX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ed Tafur",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ed Tafur",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Ed-Tafur-3b3de2a9118180c8a35dc17004e6abf5",
+    "public_url": null,
+    "archived": false,
+    "children": []
+  },
+  {
+    "object": "page",
+    "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+    "created_time": "2026-08-01T17:15:00.000Z",
+    "last_edited_time": "2026-08-01T17:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+      "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Company": {
+        "id": "%3AMFw",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Email": {
+        "id": "%3B%3B%7Cm",
+        "type": "email",
+        "email": null
+      },
+      "rollup": {
+        "id": "%3BXF%7B",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Role in Wedding": {
+        "id": "%3DK%40S",
+        "type": "select",
+        "select": null
+      },
+      "Phone Number": {
+        "id": "Hhas",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Profile Picture": {
+        "id": "MiVh",
+        "type": "files",
+        "files": []
+      },
+      "Category": {
+        "id": "SONO",
+        "type": "select",
+        "select": null
+      },
+      "Email": {
+        "id": "Tn%3F%5E",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
+      "Alias": {
+        "id": "Y%7B%3BF",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
+      "Title": {
+        "id": "no~~",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Linked Phone": {
+        "id": "uRpM",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Phone": {
+        "id": "x%3Fkw",
+        "type": "phone_number",
+        "phone_number": null
+      },
+      "Linked Email": {
+        "id": "yNqX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sam Landreth",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sam Landreth",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Sam-Landreth-3afde2a9118180f288f0faba95602902",
+    "public_url": null,
+    "archived": false,
+    "children": []
+  },
+  {
+    "object": "page",
+    "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+    "created_time": "2026-07-31T00:28:00.000Z",
+    "last_edited_time": "2026-07-31T00:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "300de2a9-1181-80ef-a0eb-000bf6588e59",
+      "database_id": "300de2a9-1181-8014-a917-d25b5b0ab5ee"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Company": {
+        "id": "%3AMFw",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Email": {
+        "id": "%3B%3B%7Cm",
+        "type": "email",
+        "email": null
+      },
+      "rollup": {
+        "id": "%3BXF%7B",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Role in Wedding": {
+        "id": "%3DK%40S",
+        "type": "select",
+        "select": null
+      },
+      "Phone Number": {
+        "id": "Hhas",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Profile Picture": {
+        "id": "MiVh",
+        "type": "files",
+        "files": []
+      },
+      "Category": {
+        "id": "SONO",
+        "type": "select",
+        "select": null
+      },
+      "Email": {
+        "id": "Tn%3F%5E",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
+      "Alias": {
+        "id": "Y%7B%3BF",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
+      "Title": {
+        "id": "no~~",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Linked Phone": {
+        "id": "uRpM",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Manual Phone": {
+        "id": "x%3Fkw",
+        "type": "phone_number",
+        "phone_number": null
+      },
+      "Linked Email": {
+        "id": "yNqX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bobby",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bobby",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Bobby-3aede2a9118180918fe3e8c7b1d60d21",
+    "public_url": null,
+    "archived": false,
+    "children": []
+  },
+  {
+    "object": "page",
     "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
     "created_time": "2026-05-27T20:21:00.000Z",
-    "last_edited_time": "2026-05-27T20:21:00.000Z",
+    "last_edited_time": "2026-07-09T23:47:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -90,7 +825,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 7.47.30 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/33a7174e-3ea7-4a5e-a358-8f257552ad23/Screenshot_2026-07-09_at_7.47.30_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=7eb453d611a66649ee1451bb06567b79b96be4bf73bc967437e09d25f1125874&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -108,6 +852,11 @@
           "type": "string",
           "string": "info@anntransportation.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -132,10 +881,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shuttle Coordinator",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shuttle Coordinator",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -203,7 +975,7 @@
     "object": "page",
     "id": "36dde2a9-1181-801d-b1b9-f581b829f721",
     "created_time": "2026-05-27T19:44:00.000Z",
-    "last_edited_time": "2026-05-27T19:45:00.000Z",
+    "last_edited_time": "2026-07-10T10:42:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -282,6 +1054,11 @@
           "string": null
         }
       },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
       "Alias": {
         "id": "Y%7B%3BF",
         "type": "rich_text",
@@ -289,7 +1066,7 @@
           {
             "type": "text",
             "text": {
-              "content": "catherine",
+              "content": "stuart",
               "link": null
             },
             "annotations": {
@@ -300,15 +1077,38 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "catherine",
+            "plain_text": "stuart",
             "href": null
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ceremony Speaker",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ceremony Speaker",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -340,7 +1140,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Catherine Kendall",
+              "content": "Stuart Kendall",
               "link": null
             },
             "annotations": {
@@ -351,13 +1151,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Catherine Kendall",
+            "plain_text": "Stuart Kendall",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Catherine-Kendall-36dde2a91181801db1b9f581b829f721",
+    "url": "https://app.notion.com/p/Stuart-Kendall-36dde2a91181801db1b9f581b829f721",
     "public_url": null,
     "archived": false,
     "children": []
@@ -366,7 +1166,7 @@
     "object": "page",
     "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
     "created_time": "2026-05-27T19:44:00.000Z",
-    "last_edited_time": "2026-05-27T19:44:00.000Z",
+    "last_edited_time": "2026-07-10T00:00:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -445,6 +1245,11 @@
           "string": null
         }
       },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
       "Alias": {
         "id": "Y%7B%3BF",
         "type": "rich_text",
@@ -468,10 +1273,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Officiant",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Officiant",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -529,7 +1357,7 @@
     "object": "page",
     "id": "300de2a9-1181-8064-9891-df4314ea7fad",
     "created_time": "2026-02-07T20:32:00.000Z",
-    "last_edited_time": "2026-02-07T21:37:00.000Z",
+    "last_edited_time": "2026-07-09T23:46:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -616,7 +1444,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 7.46.14 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/132c8885-b6de-4106-867c-ed55204d3076/Screenshot_2026-07-09_at_7.46.14_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=ffd9e510873c20a8c5b3be39a0af46bf48388bab1cd95a17243a19e08a5559e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -634,6 +1471,11 @@
           "type": "string",
           "string": "peonydesignstudiollc@yahoo.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -658,10 +1500,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Florist",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Florist",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -729,7 +1594,7 @@
     "object": "page",
     "id": "300de2a9-1181-80c4-b498-ce77d077924a",
     "created_time": "2026-02-07T20:31:00.000Z",
-    "last_edited_time": "2026-02-07T21:37:00.000Z",
+    "last_edited_time": "2026-07-09T22:48:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -816,7 +1681,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.47.11 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/27f4de03-b4cd-4796-aaeb-9b2f3987162b/Screenshot_2026-07-09_at_6.47.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=ee8a0a8a012c43bfdc46fadace9f104fd8f3266303067b503d2957fa0e4f7cb0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -834,6 +1708,11 @@
           "type": "string",
           "string": "dorianstringquartet@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -858,10 +1737,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quartet Lead",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quartet Lead",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -929,7 +1831,7 @@
     "object": "page",
     "id": "300de2a9-1181-8065-8a5e-f03507318665",
     "created_time": "2026-02-07T20:30:00.000Z",
-    "last_edited_time": "2026-02-07T21:37:00.000Z",
+    "last_edited_time": "2026-07-09T22:48:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1016,7 +1918,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.46.20 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/b1368e2a-8053-4adf-a793-9e2f93ebd9ec/Screenshot_2026-07-09_at_6.46.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=eb9a9c72da8d62db314c380df1052a29de1c9d5910653a22d8c5d645f76b8211&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -1035,6 +1946,11 @@
           "string": "events@mileaestatevineyard.com"
         }
       },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
       "Alias": {
         "id": "Y%7B%3BF",
         "type": "rich_text",
@@ -1042,7 +1958,7 @@
           {
             "type": "text",
             "text": {
-              "content": "jamie",
+              "content": "Mina",
               "link": null
             },
             "annotations": {
@@ -1053,15 +1969,38 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "jamie",
+            "plain_text": "Mina",
             "href": null
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Venue Director",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Venue Director",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -1103,7 +2042,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Jamie Greene",
+              "content": "Mina Do",
               "link": null
             },
             "annotations": {
@@ -1114,13 +2053,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Jamie Greene",
+            "plain_text": "Mina Do",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Jamie-Greene-300de2a9118180658a5ef03507318665",
+    "url": "https://app.notion.com/p/Mina-Do-300de2a9118180658a5ef03507318665",
     "public_url": null,
     "archived": false,
     "children": []
@@ -1129,7 +2068,7 @@
     "object": "page",
     "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
     "created_time": "2026-02-07T20:27:00.000Z",
-    "last_edited_time": "2026-02-07T20:28:00.000Z",
+    "last_edited_time": "2026-07-09T22:48:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1216,7 +2155,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "image.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/e457042e-904b-46fe-b599-5fb2d8bd5d01/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=de098d226684a74199971228c04d13ca4fcd3b0b683a29a90a1d9c449fc0f9d3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -1234,6 +2182,11 @@
           "type": "string",
           "string": "sarajuliannabeauty@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -1258,10 +2211,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Makeup Artist",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Makeup Artist",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -1329,7 +2305,7 @@
     "object": "page",
     "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
     "created_time": "2026-02-07T20:25:00.000Z",
-    "last_edited_time": "2026-02-07T20:28:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1416,7 +2392,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "image.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/6d890321-d491-48b3-99c1-9c72fdd14176/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=ede5da622910b0ce2a570c7c4e8c232492f3cd4300fa2154738e4376c4bf5108&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -1434,6 +2419,11 @@
           "type": "string",
           "string": "lauramoorebeauty@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -1458,10 +2448,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hair Stylist",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hair Stylist",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -1529,7 +2542,7 @@
     "object": "page",
     "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
     "created_time": "2026-02-07T20:21:00.000Z",
-    "last_edited_time": "2026-02-07T20:23:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1616,7 +2629,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "image.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/2ef10aea-b12e-4e39-bee1-529bfea07012/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=f560dc91ca59aea28bc795042454ab1cfeefbeafdd8ed102491a96bd696c603c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -1634,6 +2656,11 @@
           "type": "string",
           "string": "support@conwayentertainment.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -1658,10 +2685,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DJ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DJ",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -1729,7 +2779,7 @@
     "object": "page",
     "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
     "created_time": "2026-02-07T19:45:00.000Z",
-    "last_edited_time": "2026-02-07T20:28:00.000Z",
+    "last_edited_time": "2026-07-10T10:43:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1816,7 +2866,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.43.26 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/3fd4c16c-36cf-4ae4-87f9-cff7c95e3381/Screenshot_2026-07-09_at_6.43.26_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=a6535e94708ee31f6ca15a42af26ab8f4d9d37fc02af14f67c89bf557aa7a0b3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -1834,6 +2893,11 @@
           "type": "string",
           "string": "lindsayeileenphotography@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -1858,10 +2922,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Photographer & Videographer",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Photographer & Videographer",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -1903,7 +2990,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Lindsay Varner",
+              "content": "Lindsay & Nathan Varner",
               "link": null
             },
             "annotations": {
@@ -1914,13 +3001,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Lindsay Varner",
+            "plain_text": "Lindsay & Nathan Varner",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Lindsay-Varner-300de2a91181803fa8fbf24f2426e1fd",
+    "url": "https://app.notion.com/p/Lindsay-Nathan-Varner-300de2a91181803fa8fbf24f2426e1fd",
     "public_url": null,
     "archived": false,
     "children": []
@@ -1929,7 +3016,7 @@
     "object": "page",
     "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
     "created_time": "2026-02-07T19:43:00.000Z",
-    "last_edited_time": "2026-02-07T20:21:00.000Z",
+    "last_edited_time": "2026-07-10T00:00:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1989,7 +3076,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.41.27 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/9c186192-029b-4b48-a67c-e1bdea397316/Screenshot_2026-07-09_at_6.41.27_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=d39239c10a19330158ea02f7f0624bd1968717d1e9e7692d24171691d6b99a4d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2007,6 +3103,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -2031,10 +3132,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Day of Coordinator",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Day of Coordinator",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -2092,7 +3216,7 @@
     "object": "page",
     "id": "300de2a9-1181-8009-84b9-f3021e97e700",
     "created_time": "2026-02-07T19:43:00.000Z",
-    "last_edited_time": "2026-02-07T20:30:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2152,7 +3276,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.39.40 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/2cb40d5d-7786-4e4f-8471-07976300477d/Screenshot_2026-07-09_at_6.39.40_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=f8d717c3d0c1f4b0410246c46d8a9c757cb334b7168ba701cfa0815d614c14f2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2170,6 +3303,11 @@
           "type": "string",
           "string": "mrhjr@comcast.net"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -2194,10 +3332,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Father of the Bride",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Father of the Bride",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -2255,7 +3416,7 @@
     "object": "page",
     "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
     "created_time": "2026-02-07T19:43:00.000Z",
-    "last_edited_time": "2026-02-07T20:29:00.000Z",
+    "last_edited_time": "2026-07-10T10:43:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2315,7 +3476,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.39.28 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/161f6d9e-85eb-4cb8-93dc-bdb0749aa43c/Screenshot_2026-07-09_at_6.39.28_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=e16b9903ff9fe2bb084a5164c6a78ac021b857eee54830e2eb08ea242a9da728&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2334,6 +3504,11 @@
           "string": "mjrandhjr@comcast.net"
         }
       },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
+      },
       "Alias": {
         "id": "Y%7B%3BF",
         "type": "rich_text",
@@ -2341,7 +3516,7 @@
           {
             "type": "text",
             "text": {
-              "content": "mj",
+              "content": "maryjo",
               "link": null
             },
             "annotations": {
@@ -2352,15 +3527,38 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "mj",
+            "plain_text": "maryjo",
             "href": null
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mother of the Bride",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mother of the Bride",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -2418,7 +3616,7 @@
     "object": "page",
     "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
     "created_time": "2026-02-07T19:39:00.000Z",
-    "last_edited_time": "2026-02-07T20:20:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2478,7 +3676,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.38.11 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/44334b8b-8847-4645-af86-3be6681aec8e/Screenshot_2026-07-09_at_6.38.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=f63b1123dcf539396fc7e7564675c36e38ee0c950f1fb4772285c1265fef5369&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2496,6 +3703,11 @@
           "type": "string",
           "string": "mhaberlach@me.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -2520,10 +3732,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Groom",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Groom",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -2581,7 +3816,7 @@
     "object": "page",
     "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
     "created_time": "2026-02-07T19:39:00.000Z",
-    "last_edited_time": "2026-02-07T20:20:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2641,7 +3876,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.33.12 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/05a976bd-f30a-4f6e-b6bc-f71fac70fa23/Screenshot_2026-07-09_at_6.33.12_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=1a218760900c213e0d9e5452107629cc3d8593385bdc60121f7fa67c89867f67&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.090Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2659,6 +3903,11 @@
           "type": "string",
           "string": "courtneyring3@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -2683,10 +3932,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bride",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bride",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -2744,7 +4016,7 @@
     "object": "page",
     "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
     "created_time": "2026-02-07T19:37:00.000Z",
-    "last_edited_time": "2026-02-07T20:20:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2804,7 +4076,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.31.36 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/845b748a-7126-4e09-9bd8-7857fcd5b996/Screenshot_2026-07-09_at_6.31.36_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=f01fc655149859a38d1dd2513dd00120db11df38615a201573a274d3efb7d9f3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.091Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2822,6 +4103,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -2846,10 +4132,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Groomsman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Groomsman",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -2907,7 +4216,7 @@
     "object": "page",
     "id": "300de2a9-1181-809e-96c3-da3e34e95806",
     "created_time": "2026-02-07T19:37:00.000Z",
-    "last_edited_time": "2026-02-07T19:46:00.000Z",
+    "last_edited_time": "2026-07-09T22:49:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2967,7 +4276,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.30.06 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/082c75d9-682d-4cb1-b1d2-f4f0f9eb9c7c/Screenshot_2026-07-09_at_6.30.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=d646a3476d2e24c07863a093dcac42d52badd3cb69214906413ee8070b352aa7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.091Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -2985,6 +4303,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -3009,10 +4332,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Groomsman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Groomsman",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -3070,7 +4416,7 @@
     "object": "page",
     "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
     "created_time": "2026-02-07T19:37:00.000Z",
-    "last_edited_time": "2026-02-07T19:46:00.000Z",
+    "last_edited_time": "2026-07-09T23:48:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3130,7 +4476,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.27.47 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/263353b8-48ca-42d6-8acd-7d6c00c3cbe2/Screenshot_2026-07-09_at_6.27.47_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=90ee4f27b11a3a03c8f4aa469526bcaa54560c92f3318242ef9ff04c6f29a70e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.091Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -3148,6 +4503,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -3172,10 +4532,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Best Man",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Best Man",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -3233,7 +4616,7 @@
     "object": "page",
     "id": "300de2a9-1181-805c-baa6-c4c331099d70",
     "created_time": "2026-02-07T19:37:00.000Z",
-    "last_edited_time": "2026-02-07T19:46:00.000Z",
+    "last_edited_time": "2026-07-09T22:50:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3293,7 +4676,16 @@
       "Profile Picture": {
         "id": "MiVh",
         "type": "files",
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-07-09 at 6.26.06 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/bffb2209-6ea3-4676-afa5-bca32cb080cf/Screenshot_2026-07-09_at_6.26.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=9fa3580173c6af11cc36cde9b4abe07be510d6ae91725d34886ffb73d01154d3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.091Z"
+            }
+          }
+        ]
       },
       "Category": {
         "id": "SONO",
@@ -3311,6 +4703,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -3335,10 +4732,33 @@
           }
         ]
       },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
+      },
       "Title": {
         "id": "no~~",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Groomsman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Groomsman",
+            "href": null
+          }
+        ]
       },
       "Linked Phone": {
         "id": "uRpM",
@@ -3370,7 +4790,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Alex Myers",
+              "content": "Alex Meyers",
               "link": null
             },
             "annotations": {
@@ -3381,13 +4801,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Alex Myers",
+            "plain_text": "Alex Meyers",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Alex-Myers-300de2a91181805cbaa6c4c331099d70",
+    "url": "https://app.notion.com/p/Alex-Meyers-300de2a91181805cbaa6c4c331099d70",
     "public_url": null,
     "archived": false,
     "children": []
@@ -3396,7 +4816,7 @@
     "object": "page",
     "id": "300de2a9-1181-804a-aeb3-da17945f356d",
     "created_time": "2026-02-07T19:36:00.000Z",
-    "last_edited_time": "2026-07-09T22:00:00.000Z",
+    "last_edited_time": "2026-07-09T22:25:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3458,10 +4878,11 @@
         "type": "files",
         "files": [
           {
-            "name": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/557581948_18536808877041223_1907535782224731730_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE73Lk5vIeDf4E3XTqX7DmOVT2JdZ6XDz6iQmKdbkVrJ5XBlWx7WYwHMvIW5j8E6TI&_nc_ohc=xcXwby375VcQ7kNvwHttFml&_nc_gid=xESwKrcsntE4ifU46SHdWg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQCp6FXp8kTZpQHZD9eVOPyrU6DxaCuHzLyZBbzWZIVe8A&oe=6A55FDB2&_nc_sid=7a9f4b",
-            "type": "external",
-            "external": {
-              "url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/557581948_18536808877041223_1907535782224731730_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE73Lk5vIeDf4E3XTqX7DmOVT2JdZ6XDz6iQmKdbkVrJ5XBlWx7WYwHMvIW5j8E6TI&_nc_ohc=xcXwby375VcQ7kNvwHttFml&_nc_gid=xESwKrcsntE4ifU46SHdWg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQCp6FXp8kTZpQHZD9eVOPyrU6DxaCuHzLyZBbzWZIVe8A&oe=6A55FDB2&_nc_sid=7a9f4b"
+            "name": "Screenshot 2026-07-09 at 6.25.20 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/f778f124-727d-47c5-8ab7-d20d30e04761/Screenshot_2026-07-09_at_6.25.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=6e524a995ff2389e719f873be82a0df6e41bf9c1a89fbd4f64704f2d9c35d840&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.091Z"
             }
           }
         ]
@@ -3482,6 +4903,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -3505,6 +4931,11 @@
             "href": null
           }
         ]
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
       },
       "Title": {
         "id": "no~~",
@@ -3585,7 +5016,7 @@
     "object": "page",
     "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
     "created_time": "2026-02-07T19:36:00.000Z",
-    "last_edited_time": "2026-07-09T21:59:00.000Z",
+    "last_edited_time": "2026-07-10T00:00:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3647,10 +5078,11 @@
         "type": "files",
         "files": [
           {
-            "name": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/345234097_742976844191801_6568361172701245773_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEMb40VaGfrqOCajfNtTn7U3RU5KPcx6R3SXagv3zKqQvr9CtA3w4soFohLxADOeNk&_nc_ohc=Agc2qB3fAhoQ7kNvwE27XwL&_nc_gid=Bn1WuBJ1WvD18BkzhEBUNg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQA42CuGNl7C8pwtlERWcL_IdvRUZ12eRD8OnEVyovzF1g&oe=6A55F2C0&_nc_sid=7a9f4b",
-            "type": "external",
-            "external": {
-              "url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/345234097_742976844191801_6568361172701245773_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEMb40VaGfrqOCajfNtTn7U3RU5KPcx6R3SXagv3zKqQvr9CtA3w4soFohLxADOeNk&_nc_ohc=Agc2qB3fAhoQ7kNvwE27XwL&_nc_gid=Bn1WuBJ1WvD18BkzhEBUNg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQA42CuGNl7C8pwtlERWcL_IdvRUZ12eRD8OnEVyovzF1g&oe=6A55F2C0&_nc_sid=7a9f4b"
+            "name": "Screenshot 2026-07-09 at 6.23.32 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/89416872-cb93-4341-a15b-ba3f26162437/Screenshot_2026-07-09_at_6.23.32_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=d9db0aae7495e101df31d229f5e19f019300a67a8d060b53cf29d4d1870b63db&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.162Z"
             }
           }
         ]
@@ -3671,6 +5103,11 @@
           "type": "string",
           "string": null
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -3694,6 +5131,11 @@
             "href": null
           }
         ]
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
       },
       "Title": {
         "id": "no~~",
@@ -3774,7 +5216,7 @@
     "object": "page",
     "id": "300de2a9-1181-80c8-9596-f22327f25eab",
     "created_time": "2026-02-07T19:36:00.000Z",
-    "last_edited_time": "2026-07-09T21:59:00.000Z",
+    "last_edited_time": "2026-07-10T00:00:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3836,10 +5278,11 @@
         "type": "files",
         "files": [
           {
-            "name": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/451088731_1220740285605876_7405850045978929869_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=bkdGp707icwQ7kNvwHt7NJI&_nc_oc=AdoX4US_23vbID_qZ1QupqKRH2-jXB3KV2Bdr8JUSEZW4qOm-h0edl0bTCSMJvGgClo&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7b6a8&oh=00_AQDLdZiWEAg1XZYZ2WFC2awEZBzjjFpsorGjnD7M0JyQ3g&oe=6A55F217",
-            "type": "external",
-            "external": {
-              "url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/451088731_1220740285605876_7405850045978929869_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=bkdGp707icwQ7kNvwHt7NJI&_nc_oc=AdoX4US_23vbID_qZ1QupqKRH2-jXB3KV2Bdr8JUSEZW4qOm-h0edl0bTCSMJvGgClo&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7b6a8&oh=00_AQDLdZiWEAg1XZYZ2WFC2awEZBzjjFpsorGjnD7M0JyQ3g&oe=6A55F217"
+            "name": "Screenshot 2026-07-09 at 6.22.13 PM.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/cadce63d-390b-4aab-9abc-3dae19bf010e/Screenshot_2026-07-09_at_6.22.13_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=f2ca2602d9f3ce624754371cf52430dfe5b49887063ea686025e9cc0168f48d2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.162Z"
             }
           }
         ]
@@ -3860,6 +5303,11 @@
           "type": "string",
           "string": "ashleyleighslater@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -3883,6 +5331,11 @@
             "href": null
           }
         ]
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
       },
       "Title": {
         "id": "no~~",
@@ -4028,8 +5481,8 @@
             "name": "Screenshot 2026-07-09 at 6.05.05 PM.png",
             "type": "file",
             "file": {
-              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/225a4596-3d0b-4b80-aa6f-470874fbf049/Screenshot_2026-07-09_at_6.05.05_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664R624SLW%2F20260709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260709T220940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDw9ZUePG5Qd3ecipCNy1mHGMCSYLfBt4BCDwau34i1HQIhAIFOEGQn435KRXDqUmXMUwOdzgSPMKQjF%2FW5rknP3b2XKogECKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyRtHyR9A4lx5vsycAq3AON2KBgQlGgAzwJw2Ov87Fx1lyouFPJQWgUz8y9RRci3HXVgovCevaXyk7MDbhFYKWISli%2B55NDPDixflMopOzta4O%2BBBWl2POoC0oyz3FIkNzhIHa2FqGTjvhOd7XlgWYPwRuRdgo2Ap3VNtzzWdq65xTFOCIzlm2LXyNznaut4%2Fbbv9oECTADkWlN3O6p1Lm24ExzjdCEfRcm1OzwmTlnDmMaatypXKdzvxIz%2FgKanCJhRkLxBsJJy4QK7i6S8RkaZgqJv0ME7aZmXlwBFauzn5joGq0PYBZPMwmVfbUXmL0njGuG7r%2B%2BgF%2Fh0XJfbU5fP8XsED%2F%2FdBKA1TCTwgQH66YVvZs1C95iGzLmsh0XMiFDB3irMyzOd7auBBKZH%2BO5IT%2BI1Yg5yErzoVtwVMldR9HOWYzCePjWJ1Suv%2B2RU5URhUFIs12Hx9J%2FZrBnwsHaFQtF6AIIHChoeyCcx1%2FVAK3Qa7FMfcL%2F5BAmJCeiEBOdiwu7zMhE2zxKuQ%2F4MeYOmBYJ9WW5b3q5k%2B1c7iq7F5QiLPs%2F2sC46vSy5AD2Qi3%2B4D6%2FHyNQAfSBXP4io2EtFZrZhvay1CKQ7I5wipGZgVPaFi8naeS22SlEbQb%2BZHe7HSjclZUpWKXCWjCxjcDSBjqkAfnE1y8dvB8a%2BnkZ0jPgD9Msf3SsPVKpucTzaNZVrvAUZYD%2BWFXL8hAU7qRgjADIFRhqIrPxa8sgnyqvRnQF0fuMXyWF5lJ45FekYck44HnMHpqfo%2BuuLXJH%2B%2BAQNd%2BXinVkIKst9HmqioN9FcsLdWgjdxh60H6i8pwzm9c0A5oCD%2F6hQoIT7XZdyehSD%2BcooHbtXvi4tqFoEoVrnPYQ4OiZXDrJ&X-Amz-Signature=dfe7250d6d439fea382c9ed39fda0dd73f64df5d3e8185fa70a26e736b1e60e4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-              "expiry_time": "2026-07-09T23:09:40.314Z"
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/225a4596-3d0b-4b80-aa6f-470874fbf049/Screenshot_2026-07-09_at_6.05.05_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QEKTVCGK%2F20260809%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260809T011838Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCzXuoPHhYYSOuHN3cWZ1uFzYVrr0JTmuv9Jm0RR4l6MgIhAKTCC3GOWsUZFTS6V30w0tEjRXMBMoycdEaL7qsn04SJKv8DCHcQABoMNjM3NDIzMTgzODA1Igzq5%2FapEhxhmNzZBIQq3AO2RmhNUmvXfG8e6PLzU1W0hA8W8FrZNE2Nu8ME%2BpzHR3vHpB2Nb5%2BEZGGnrVp381lh20C3rZ1Hz4PgQsbwLtN2lvM1ZEkyivxc6JLN7uvwEYx9xDmHjXAYKlBGvopwTAf50BJC%2Br0W2O%2FplaY1STDW2J87y8QNimZSJx8q3ep59Q1nZG2LYjJBpjWXIfXA3ql9npZv4fG6S4LT5Y9wlg4CzLxkwCyVU%2BpU2t00mm2baqWtVj6tl3p1jv6AgRQ1qClAmVGmS7admPuPqPH%2FxRupc%2BYKZwtwSdN8Ecftbny9V7Id2odNAd1ULvvedHAaV5GoIY1470d40QR2VFT9KagXnb7yxsstnB65Wo0nSvuJcZ4%2BIfgX89f3jJiFeNQ0d0EhqQ04vjjUvGJUu5yvphelbixpqmjI0xQPELcekNkWJAXuWkHLM%2FXjaP0iIUmvv4%2FlIr7sfxtcDGle5kBQN9pvfjf%2BkjjIRrNNND2MbDQ7cWxEY6r6PTj3pZNvVf2TgHB0G0W6qgRaZj0vtAItapOOpTWSxoShRJcE33Vt3V5SxHS%2BPkOSSqt%2ByCy4NthPZ2%2Fpnym%2FePi8nQydQ24Ck2vtZdTaopiuuGEKhfsoN5m86ykOslvZ5dYJthUeRjDB1d7TBjqkAe0IOsF3zOWgQaNj8MWXFoMdYhKySUmu87cJUIizI8a33ocRM%2B5kgCm0TNn%2BdlDsBmXp3Jz3rRipyO8Bs2atsRsFOHYioOtOSp75MD%2BKJxP7qRdOXlKHdimgJ82U9offbrGdHUFGckI%2FvBfHPDE5ufg6tn696o1DrYxHFACAE8flCDyTgJ4Vk6e%2FF1HgJEX%2FSJ7rStvEbuZ%2B%2BHRI%2BHqEYn4frv%2Bz&X-Amz-Signature=6e8e87f2a3613630958b2d37c0aae1e3b14b153f1b5ba24857a053753559563d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-08-09T02:18:38.162Z"
             }
           }
         ]
@@ -4050,6 +5503,11 @@
           "type": "string",
           "string": "domenicapazmino3@gmail.com"
         }
+      },
+      "Date": {
+        "id": "Y%3EAS",
+        "type": "date",
+        "date": null
       },
       "Alias": {
         "id": "Y%7B%3BF",
@@ -4073,6 +5531,11 @@
             "href": null
           }
         ]
+      },
+      "Place": {
+        "id": "e%5C%7DZ",
+        "type": "place",
+        "place": null
       },
       "Title": {
         "id": "no~~",

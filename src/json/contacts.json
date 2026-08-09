@@ -1,39 +1,576 @@
 [
   {
+    "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+    "name": "Shirley",
+    "email": null,
+    "phone": null,
+    "image": "/images/ops/undefined.png",
+    "role": "Unset",
+    "schedule": [
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3b3de2a9-1181-8022-b291-e5d1139883f0",
+    "name": "Mary",
+    "email": null,
+    "phone": null,
+    "image": "/images/ops/undefined.png",
+    "role": "Unset",
+    "schedule": [
+      {
+        "title": "Cake Pickup at Pastry Garden",
+        "startTime": "2026-08-28T17:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
+          "3b3de2a9-1181-8022-b291-e5d1139883f0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
+    "name": "Ed Tafur",
+    "email": null,
+    "phone": null,
+    "image": "/images/ops/undefined.png",
+    "role": "Unset",
+    "schedule": [
+      {
+        "title": "Cake Pickup at Pastry Garden",
+        "startTime": "2026-08-28T17:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
+          "3b3de2a9-1181-8022-b291-e5d1139883f0"
+        ]
+      }
+    ]
+  },
+  {
     "id": "3afde2a9-1181-80f2-88f0-faba95602902",
     "name": "Sam Landreth",
     "email": null,
     "phone": null,
+    "image": "/images/ops/undefined.png",
     "role": "Unset",
-    "schedule": [],
-    "notes": []
-  },
-  {
-    "id": "3aede2a9-1181-8091-a3fb-d7fd143f1068",
-    "name": "Chloe",
-    "email": null,
-    "phone": null,
-    "role": "Unset",
-    "schedule": [],
-    "notes": []
-  },
-  {
-    "id": "3aede2a9-1181-80f3-8449-e9a2dfa0a544",
-    "name": "Cameron",
-    "email": null,
-    "phone": null,
-    "role": "Unset",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Photographer Look over property",
+        "startTime": "2026-08-29T11:45:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
+          null
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Groomsmen done showering",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Nathan Does Guys Details",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Matt Get Dressed",
+        "startTime": "2026-08-29T12:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Lindsay Does Girls Details",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Courtney Gets Dressed",
+        "startTime": "2026-08-29T13:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look - Dad",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Ashley Does Chloe’s Hair",
+        "startTime": "2026-08-29T11:15:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bobby Arrives with Cameron",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Mackenzie Hair",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": "2026-08-29T09:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d"
+        ]
+      },
+      {
+        "title": "Makeup Touch Ups",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": "2026-08-29T12:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Hair Touch Ups",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": "2026-08-29T12:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court Makeup",
+        "startTime": "2026-08-29T11:00:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Mackenzie Makeup",
+        "startTime": "2026-08-29T10:15:00.000-04:00",
+        "endTime": "2026-08-29T11:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Ashley Makeup",
+        "startTime": "2026-08-29T09:30:00.000-04:00",
+        "endTime": "2026-08-29T10:15:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Domenica Makeup",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": "2026-08-29T09:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Mom Hair",
+        "startTime": "2026-08-29T11:15:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Ashley Hair",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
+        "endTime": "2026-08-29T11:15:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court Hair",
+        "startTime": "2026-08-29T09:30:00.000-04:00",
+        "endTime": "2026-08-29T10:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Take gifts and put on gifts table",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Passing out programs, verbal no cell phone reminders",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Lunch for house Delivered",
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Hair & Makeup Arrive",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Family Portraits - Haberlach",
+        "startTime": "2026-08-03T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Rings to CJ",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Get Rings for Photos",
+        "startTime": "2026-08-29T13:20:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      }
+    ]
   },
   {
     "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
     "name": "Bobby",
     "email": null,
     "phone": null,
+    "image": "/images/ops/undefined.png",
     "role": "Unset",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Ash & Co Land",
+        "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+        ]
+      },
+      {
+        "title": "Bobby Arrives with Cameron",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      }
+    ]
   },
   {
     "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
@@ -41,11 +578,50 @@
     "alias": "nancy",
     "email": "info@anntransportation.com",
     "phone": "  ",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/33a7174e-3ea7-4a5e-a358-8f257552ad23/Screenshot_2026-07-09_at_7.47.30_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=d59b4fdae5d8b40a825765de6d456345c7c5da3d3c0d0ecd4c4b2a5ad83a7c22&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/nancy.png",
     "title": "Shuttle Coordinator",
     "role": "shuttle",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Shuttles Arrive at Milea",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Shuttle Leaves Beekman",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Shuttle Leaves Mirbeau",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Shuttle to After Party",
+        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273"
+        ]
+      }
+    ]
   },
   {
     "id": "36dde2a9-1181-801d-b1b9-f581b829f721",
@@ -53,10 +629,35 @@
     "alias": "stuart",
     "email": null,
     "phone": null,
+    "image": "/images/ops/stuart.png",
     "title": "Ceremony Speaker",
     "role": "speaker",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      }
+    ]
   },
   {
     "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
@@ -64,10 +665,35 @@
     "alias": "gary",
     "email": null,
     "phone": null,
+    "image": "/images/ops/gary.png",
     "title": "Officiant",
     "role": "officiant",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8064-9891-df4314ea7fad",
@@ -75,11 +701,52 @@
     "alias": "christine",
     "email": "peonydesignstudiollc@yahoo.com",
     "phone": "845-723-4600",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/132c8885-b6de-4106-867c-ed55204d3076/Screenshot_2026-07-09_at_7.46.14_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=0d168e4e1a181345b09c4733171bc969dff7f6fa11d6bc2decaeaaee6dc83178&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/christine.png",
     "title": "Florist",
     "role": "florist",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Drop Ribbons to Florist",
+        "startTime": "2026-08-27T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Quick Arch Review Before Florist Leaves",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Florist Leaves",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "If you could let Barb (Day of Coordinator) know before you leave. She should be in the clubhouse all day."
+        ],
+        "assignees": [
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Florist Arrives",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-80c4-b498-ce77d077924a",
@@ -87,11 +754,20 @@
     "alias": "alexis",
     "email": "dorianstringquartet@gmail.com",
     "phone": "845-642-8785",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/27f4de03-b4cd-4796-aaeb-9b2f3987162b/Screenshot_2026-07-09_at_6.47.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=8ad052953938b8e00255526fcf4acd8d2835c2e505b3333d3215b869a7ab3c18&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/alexis.png",
     "title": "Quartet Lead",
     "role": "musicians",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Strings Arrive",
+        "startTime": "2026-08-29T15:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c4-b498-ce77d077924a"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8065-8a5e-f03507318665",
@@ -99,11 +775,51 @@
     "alias": "Mina",
     "email": "events@mileaestatevineyard.com",
     "phone": "845-392-2422",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/b1368e2a-8053-4adf-a793-9e2f93ebd9ec/Screenshot_2026-07-09_at_6.46.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=d8cc7e52c0dcd9fa126dce5bd737346b600d680ecdd1fb403c9b65c3c66953d6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/Mina.png",
     "title": "Venue Director",
     "role": "venue",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Bar Opens",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "300de2a9-1181-8065-8a5e-f03507318665"
+        ]
+      },
+      {
+        "title": "Passing Water & Lemonade",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8065-8a5e-f03507318665",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Open Gate to Clubhouse",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8065-8a5e-f03507318665",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Dinner Starts",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8065-8a5e-f03507318665",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
@@ -111,11 +827,88 @@
     "alias": "sara",
     "email": "sarajuliannabeauty@gmail.com",
     "phone": "(203) 731-7319",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/e457042e-904b-46fe-b599-5fb2d8bd5d01/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=ce4d0e5109b8c17d8f9817de9a2331e5b39067f01c432e5ee26d4c4ff7f0a459&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/sara.png",
     "title": "Makeup Artist",
     "role": "makeup",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Makeup Touch Ups",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": "2026-08-29T12:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court Makeup",
+        "startTime": "2026-08-29T11:00:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Mackenzie Makeup",
+        "startTime": "2026-08-29T10:15:00.000-04:00",
+        "endTime": "2026-08-29T11:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Ashley Makeup",
+        "startTime": "2026-08-29T09:30:00.000-04:00",
+        "endTime": "2026-08-29T10:15:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Domenica Makeup",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": "2026-08-29T09:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Hair & Makeup Arrive",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
@@ -123,11 +916,88 @@
     "alias": "laura",
     "email": "lauramoorebeauty@gmail.com",
     "phone": "(203)-885-3196",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/6d890321-d491-48b3-99c1-9c72fdd14176/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=b63f45f21e0829bfe81a3930c3c29409f5a06f3b6d9844e169ca627ae37777e6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/laura.png",
     "title": "Hair Stylist",
     "role": "hair",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Mackenzie Hair",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": "2026-08-29T09:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d"
+        ]
+      },
+      {
+        "title": "Hair Touch Ups",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": "2026-08-29T12:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Mom Hair",
+        "startTime": "2026-08-29T11:15:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Ashley Hair",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
+        "endTime": "2026-08-29T11:15:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court Hair",
+        "startTime": "2026-08-29T09:30:00.000-04:00",
+        "endTime": "2026-08-29T10:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Hair & Makeup Arrive",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
@@ -135,11 +1005,89 @@
     "alias": "jeff",
     "email": "support@conwayentertainment.com",
     "phone": "800-882-7216",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/2ef10aea-b12e-4e39-bee1-529bfea07012/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=c444f0c8c6211faefd6a16f37ec00311ca0853f1d43de168d156a95ef78462bb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/jeff.png",
     "title": "DJ",
     "role": "dj",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Bride Groom Intros",
+        "startTime": "2026-08-29T18:05:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "DJ Ends",
+        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "DJ Arrives for Setup",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Welcome/Thank you Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -147,11 +1095,278 @@
     "alias": "lindsay",
     "email": "lindsayeileenphotography@gmail.com",
     "phone": "717-307-1321",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/3fd4c16c-36cf-4ae4-87f9-cff7c95e3381/Screenshot_2026-07-09_at_6.43.26_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=e0c68254d10e92a76b58fe727edd709711956f38116d195284bc4f48d6156190&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/lindsay.png",
     "title": "Photographer & Videographer",
     "role": "photography",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Photographer Look over property",
+        "startTime": "2026-08-29T11:45:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
+          null
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Nathan Does Guys Details",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Matt Get Dressed",
+        "startTime": "2026-08-29T12:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Lindsay Does Girls Details",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Courtney Gets Dressed",
+        "startTime": "2026-08-29T13:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look - Dad",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Reception Space Photos",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Extended Family & Groups",
+        "startTime": "2026-08-03T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Family Portraits - Haberlach",
+        "startTime": "2026-08-03T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Getting Ready Photos - Bride & Groom?",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -159,11 +1374,330 @@
     "alias": "barb",
     "email": null,
     "phone": "810-407-2884",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/9c186192-029b-4b48-a67c-e1bdea397316/Screenshot_2026-07-09_at_6.41.27_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=8cffde862b095af5329d91ff00db6ed7d39780a3091bcf60035a10fe2588e9d0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/barb.png",
     "title": "Day of Coordinator",
     "role": "aunt-of-the-bride",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Photographer Look over property",
+        "startTime": "2026-08-29T11:45:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
+          null
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Reception Space Photos",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Extended Family & Groups",
+        "startTime": "2026-08-03T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+        ]
+      },
+      {
+        "title": "Megan Sets up Greens at Beekman",
+        "startTime": "2026-08-28T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Bar Opens",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "300de2a9-1181-8065-8a5e-f03507318665"
+        ]
+      },
+      {
+        "title": "Shuttles Arrive at Milea",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Shuttle Leaves Beekman",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Shuttle Leaves Mirbeau",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "36dde2a9-1181-8066-a2ac-d4b00b605273",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Passing Water & Lemonade",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8065-8a5e-f03507318665",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Bobby Arrives with Cameron",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Milea Set Up Starts",
+        "startTime": "2026-08-28T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Court gets ready for rehearsal",
+        "startTime": "2026-08-28T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Open Gate to Clubhouse",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8065-8a5e-f03507318665",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Courtney Staged in Bar Area",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Petals to go into Chloe’s basket",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Quick Arch Review Before Florist Leaves",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Florist Leaves",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "If you could let Barb (Day of Coordinator) know before you leave. She should be in the clubhouse all day."
+        ],
+        "assignees": [
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Court Bustled",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Florist Arrives",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Bride Groom Intros",
+        "startTime": "2026-08-29T18:05:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "DJ Ends",
+        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "DJ Arrives for Setup",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Dinner Starts",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8065-8a5e-f03507318665",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Welcome/Thank you Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8009-84b9-f3021e97e700",
@@ -171,11 +1705,127 @@
     "alias": "howie",
     "email": "mrhjr@comcast.net",
     "phone": "248-321-0783",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/2cb40d5d-7786-4e4f-8471-07976300477d/Screenshot_2026-07-09_at_6.39.40_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=29c8bdcb09d6b1e86d0653ece0f73fd2a462822cb7730da2fb7b4db4cb93d207&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/howie.png",
     "title": "Father of the Bride",
     "role": "father-of-the-bride",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "First Look - Dad",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Courtney Gives Florist Ribbons to Dad",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Dad Leaves for Ash",
+        "startTime": "2026-08-27T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Ash & Co Land",
+        "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+        ]
+      },
+      {
+        "title": "Drop Ribbons to Florist",
+        "startTime": "2026-08-27T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Dad gets flowers from Adams Family Green Market",
+        "startTime": "2026-08-27T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -183,11 +1833,155 @@
     "alias": "maryjo",
     "email": "mjrandhjr@comcast.net",
     "phone": "313-434-8702",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/161f6d9e-85eb-4cb8-93dc-bdb0749aa43c/Screenshot_2026-07-09_at_6.39.28_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=b5ccaaf62e9b4d9401a87fe399f6776428107580928c61976ed267762631b55a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/maryjo.png",
     "title": "Mother of the Bride",
     "role": "mother-of-the-bride",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Signs go into frames",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Finish Seating Chart - Wax Seals and Paper sticking on",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Megan Sets up Greens at Beekman",
+        "startTime": "2026-08-28T17:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Mom Hair",
+        "startTime": "2026-08-29T11:15:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Milea Set Up Starts",
+        "startTime": "2026-08-28T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Beekman Set Up",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Rehearsal Group Picture Outside",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Quick Arch Review Before Florist Leaves",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8064-9891-df4314ea7fad",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Court Bustled",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
@@ -195,11 +1989,265 @@
     "alias": "matt",
     "email": "mhaberlach@me.com",
     "phone": "775-686-8979",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/44334b8b-8847-4645-af86-3be6681aec8e/Screenshot_2026-07-09_at_6.38.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=18af98c3b49964cd6f0fd0e8c7e1692b52d729649cca6ce5a24bc45b450b80a0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/matt.png",
     "title": "Groom",
     "role": "groom",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Groomsmen done showering",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Nathan Does Guys Details",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Matt Get Dressed",
+        "startTime": "2026-08-29T12:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner Speeches & Gifts",
+        "startTime": "2026-08-28T19:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+        ]
+      },
+      {
+        "title": "Rehearsal Group Picture Outside",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Rings to CJ",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Get Rings for Photos",
+        "startTime": "2026-08-29T13:20:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Getting Ready Photos - Bride & Groom?",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Welcome/Thank you Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
@@ -207,11 +2255,349 @@
     "alias": "court",
     "email": "courtneyring3@gmail.com",
     "phone": "248-924-5377",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/05a976bd-f30a-4f6e-b6bc-f71fac70fa23/Screenshot_2026-07-09_at_6.33.12_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=1e92b188dcedf163d22bea839a88c6368bfd88233025e0e67471c5de9657345f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/court.png",
     "title": "Bride",
     "role": "bride",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Lindsay Does Girls Details",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Courtney Gets Dressed",
+        "startTime": "2026-08-29T13:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look - Dad",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Courtney Gives Florist Ribbons to Dad",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Signs go into frames",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Court Makeup",
+        "startTime": "2026-08-29T11:00:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Court Hair",
+        "startTime": "2026-08-29T09:30:00.000-04:00",
+        "endTime": "2026-08-29T10:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court gets ready for rehearsal",
+        "startTime": "2026-08-28T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner Speeches & Gifts",
+        "startTime": "2026-08-28T19:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+        ]
+      },
+      {
+        "title": "Rehearsal Group Picture Outside",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Courtney Staged in Bar Area",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Court Bustled",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Rings to CJ",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Get Rings for Photos",
+        "startTime": "2026-08-29T13:20:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Getting Ready Photos - Bride & Groom?",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+        ]
+      },
+      {
+        "title": "Welcome/Thank you Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
@@ -219,11 +2605,100 @@
     "alias": "wes",
     "email": null,
     "phone": "828-674-2391",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/845b748a-7126-4e09-9bd8-7857fcd5b996/Screenshot_2026-07-09_at_6.31.36_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=3ce130ef322366e81018d7de0d69a8c3f56e7157b2bef98480cd45df1df03e76&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/wes.png",
     "title": "Groomsman",
     "role": "groomsman",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Groomsmen done showering",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-809e-96c3-da3e34e95806",
@@ -231,11 +2706,100 @@
     "alias": "austin",
     "email": null,
     "phone": null,
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/082c75d9-682d-4cb1-b1d2-f4f0f9eb9c7c/Screenshot_2026-07-09_at_6.30.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=ae55c122597e80a20a3824d2032fbdb9e5b0583b68275b78ca8a7f645f568a16&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/austin.png",
     "title": "Groomsman",
     "role": "groomsman",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Groomsmen done showering",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
@@ -243,11 +2807,121 @@
     "alias": "cj",
     "email": null,
     "phone": null,
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/263353b8-48ca-42d6-8acd-7d6c00c3cbe2/Screenshot_2026-07-09_at_6.27.47_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=c501ace0b37eb782509c85dcb949f90d20dcad004e6cd910f738718335780cc7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/cj.png",
     "title": "Best Man",
     "role": "best-man",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Groomsmen done showering",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Rings to CJ",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-805c-baa6-c4c331099d70",
@@ -255,11 +2929,100 @@
     "alias": "alex",
     "email": null,
     "phone": null,
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/bffb2209-6ea3-4676-afa5-bca32cb080cf/Screenshot_2026-07-09_at_6.26.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=8430c4fd0b88502425778fb0df6019f4a5f0198d911b33a52cabd551f43ad645&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/alex.png",
     "title": "Groomsman",
     "role": "groomsman",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Groomsmen done showering",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806"
+        ]
+      },
+      {
+        "title": "Groomsmen Put on their stuff",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+        ]
+      },
+      {
+        "title": "Groomsmen Photos - TBD might be after first look",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8030-8d3c-da6c337ae361"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-804a-aeb3-da17945f356d",
@@ -267,11 +3030,105 @@
     "alias": "mackenzie",
     "email": null,
     "phone": "810-813-6466",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/f778f124-727d-47c5-8ab7-d20d30e04761/Screenshot_2026-07-09_at_6.25.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=8a7b97a385f3c75606609f893c44a8f78db55e3213600a3746eeee1c6412d9b4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/mackenzie.png",
     "title": "Bridesmaid",
     "role": "bridesmaid",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Mackenzie Hair",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": "2026-08-29T09:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d"
+        ]
+      },
+      {
+        "title": "Mackenzie Makeup",
+        "startTime": "2026-08-29T10:15:00.000-04:00",
+        "endTime": "2026-08-29T11:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
@@ -279,11 +3136,83 @@
     "alias": "becky",
     "email": null,
     "phone": "206-200-8456",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/89416872-cb93-4341-a15b-ba3f26162437/Screenshot_2026-07-09_at_6.23.32_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=4c9886941fa7427e6a0c44baa053e5fe8d4a9a17a0797f7135909a76223b30f9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/becky.png",
     "title": "Bridesmaid",
     "role": "bridesmaid",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -291,11 +3220,175 @@
     "alias": "ashley",
     "email": "ashleyleighslater@gmail.com",
     "phone": "248-412-3834",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/cadce63d-390b-4aab-9abc-3dae19bf010e/Screenshot_2026-07-09_at_6.22.13_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=d925c5545a58bc594a54267c4066a1c3b9424c075fae230887b992a1ce87d001&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/ashley.png",
     "title": "Matron of Honor",
     "role": "bridesmaid",
-    "schedule": [],
-    "notes": []
+    "schedule": [
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Family Portraits - Ring",
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null,
+        "notes": [
+          "In the contract. He may be earlier, 3pm is the very latest"
+        ],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-80c1-8998-e898d9766e4b",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+        ]
+      },
+      {
+        "title": "Put Pizza Order In",
+        "startTime": "2026-08-27",
+        "endTime": null,
+        "notes": [
+          "test"
+        ],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Ash & Co Land",
+        "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+        ]
+      },
+      {
+        "title": "Dad gets flowers from Adams Family Green Market",
+        "startTime": "2026-08-27T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8009-84b9-f3021e97e700"
+        ]
+      },
+      {
+        "title": "Ashley Does Chloe’s Hair",
+        "startTime": "2026-08-29T11:15:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Bobby Arrives with Cameron",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      },
+      {
+        "title": "Ashley Makeup",
+        "startTime": "2026-08-29T09:30:00.000-04:00",
+        "endTime": "2026-08-29T10:15:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Ashley Hair",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
+        "endTime": "2026-08-29T11:15:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-804b-b266-cdd24fd63e39",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+        ]
+      }
+    ]
   },
   {
     "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
@@ -303,16 +3396,93 @@
     "alias": "dom",
     "email": "domenicapazmino3@gmail.com",
     "phone": "201-741-9514",
-    "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d28fa786-9728-4593-a1b4-027f473c5c64/225a4596-3d0b-4b80-aa6f-470874fbf049/Screenshot_2026-07-09_at_6.05.05_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625KXANHW%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T223833Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLXdlc3QtMiJGMEQCIFUnKv3tGv0qRUrCivGvLUbpLQXqejSG%2B9Vt49i4qKtfAiB7gespn9vfzJFU4Romi%2BAXGWZeWmOnbm4KiAXkdum3oCqIBAj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMVu6XNhSwBJlkTybrKtwDWHkDGpSEWMCcNzWzO7coaEVznnDmHC0QneylfyoS3prPF%2FDEDPxWGHUWb6Q8bvLXjJcffylQ8IycHtmTRybTLaRBoQl6mH38OMY0xWRxccUzZPw%2FST4jJuC8GXZd4S5Yxa5t%2F3MXtQu5PVXoKXf%2BwtfW6lcHXvzG4fKgAyFLlrtTDTeZdk%2F5VOgRJ5Dx3%2FspSx%2Fjr%2F1%2BFvLsBWqqS03pX%2FUMlhmcNdQUtRzTB9YcOlHAEd%2BQrT%2F8IraLTMKqU24ZOej1xjcErrvOtSp2gNEyF5GgmZJYxx1f7Pk0pqPuubmWJGIc4Qq4suwhoFHVnzXSqKKZnfURbX%2BEJv9RzZ26bBVf4MNJWaUOM7%2B2D5NHH9gx2Ow%2BAB8yxsSUmSkXB9xN%2BA7OnqIcIvo7E8KBBtKedYMV%2B%2Fdy04pVRbDMBommC9nkTa4nXOBY%2B8GeSojOwYKgfoBp%2F2JQiA374ASuIzCCV2Y5RQejIZ3dyLAGNg1RAbsW5kQ1RU3Ys0PK2RNr5UjO3B84BpqTEBjlWXqjrAxqtnXsKdMYGxyzR2OTr17iB91PKcRAXJ7iRYRpuRndKwBFlswr2tWvktkoWWDskXA3RFCasL7NzrbNuxHtS9ejfiJO7jJW7i504ptRiwUwpo7E0wY6pgELb9yOgDMyULgncaVjWUAObGswByccveB39iCxniafwzvrEI67qiffvgzqQjYN08HGJDAyCjheMLUVrMLxZq14dYbXbvRFxzodqHnfWrmrELn5Mhtn76FeDzVUm5iLqv%2BbBZoxcOodrXQHfF3lk%2BRyHWvYCynEF3PrQu8Pb00nssKmsH2hzAj32AtKuSMmlZGjP3op0c9%2BVNHBV%2BdkyAAgiljJ3pyB&X-Amz-Signature=4b1eee28d678dfcaf40ab51be9efac37689cd742d76193725b1a74f241d52552&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "image": "/images/ops/dom.png",
     "title": "Bridesmaid",
     "role": "bridesmaid",
-    "schedule": [],
-    "notes": [
-      "Steam Dress beforehand",
-      "Here’s more notes",
-      "and more notes",
-      "some notes with a line break\nhere’s the line break",
-      null
+    "schedule": [
+      {
+        "title": "Bridesmaid Photo in Athleisure",
+        "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80c8-9596-f22327f25eab"
+        ]
+      },
+      {
+        "title": "Domenica Makeup",
+        "startTime": "2026-08-29T08:45:00.000-04:00",
+        "endTime": "2026-08-29T09:30:00.000-04:00",
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-80ea-bff2-c1e5d156f770",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "3afde2a9-1181-80f2-88f0-faba95602902"
+        ]
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+          "36dde2a9-1181-8001-8d03-e452c5598c89",
+          "36dde2a9-1181-801d-b1b9-f581b829f721",
+          "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+          "300de2a9-1181-8009-84b9-f3021e97e700",
+          "300de2a9-1181-80c1-8998-e898d9766e4b"
+        ]
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null,
+        "notes": [],
+        "assignees": [
+          "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+          "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+          "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+          "3afde2a9-1181-80f2-88f0-faba95602902",
+          "300de2a9-1181-809e-96c3-da3e34e95806",
+          "300de2a9-1181-8030-8d3c-da6c337ae361",
+          "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+          "300de2a9-1181-805c-baa6-c4c331099d70",
+          "300de2a9-1181-807c-906b-d8c1f1d72667",
+          "300de2a9-1181-804a-aeb3-da17945f356d",
+          "300de2a9-1181-80c8-9596-f22327f25eab",
+          "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+        ]
+      }
     ]
   }
 ]
