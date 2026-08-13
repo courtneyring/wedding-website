@@ -2,7 +2,7 @@
 
 import copy from '@/copy/registry';
 import {Banner, Button, Container, ImageTextBlock, OverlayHero, PromoGroup} from '@courtneyring/components-library';
-import overrides from '../../overrides.module.scss';
+import overrides from '../../../overrides.module.scss';
 import styles from './page.module.scss';
 
 const RegistryPage = ()=> {

@@ -1,6 +1,2949 @@
 [
   {
     "object": "page",
+    "id": "3bbde2a9-1181-80c9-aa2b-e782f6542dc1",
+    "created_time": "2026-08-13T20:03:00.000Z",
+    "last_edited_time": "2026-08-13T20:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "8:10 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 20
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "4bb2f202-dd24-4354-8a26-831e11b0cf42",
+          "name": "Afterparty",
+          "color": "default"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-13T16:10:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TEST",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TEST",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/TEST-3bbde2a9118180c9aa2be782f6542dc1",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-809b-b029-ca7b4eaf754a",
+    "created_time": "2026-08-12T20:58:00.000Z",
+    "last_edited_time": "2026-08-12T20:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "8:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 20
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "0276c40e-0b0d-4d16-be94-64dc94eaa233",
+          "name": "4:30 pm",
+          "color": "brown"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1630"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T16:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cell Phone Announcement from DJ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cell Phone Announcement from DJ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Cell-Phone-Announcement-from-DJ-3bade2a91181809bb029ca7b4eaf754a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-802a-833c-ea04b09e9450",
+    "created_time": "2026-08-12T20:57:00.000Z",
+    "last_edited_time": "2026-08-12T21:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "8:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "3bade2a9-1181-8066-ac18-c030c38599e9"
+          },
+          {
+            "id": "300de2a9-1181-80c4-b498-ce77d077924a"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 20
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "0276c40e-0b0d-4d16-be94-64dc94eaa233",
+          "name": "4:30 pm",
+          "color": "brown"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wait a little for string to play. Double doors opened by Barb & TBD",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wait a little for string to play. Double doors opened by Barb & TBD",
+            "href": null
+          }
+        ]
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1630"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T16:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Courtney Processional",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Courtney Processional",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Courtney-Processional-3bade2a91181802a833cea04b09e9450",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-80ab-aa41-ecd74d9c4bfd",
+    "created_time": "2026-08-12T20:56:00.000Z",
+    "last_edited_time": "2026-08-12T21:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "8:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          },
+          {
+            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
+          },
+          {
+            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
+          },
+          {
+            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          },
+          {
+            "id": "36dde2a9-1181-8001-8d03-e452c5598c89"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          },
+          {
+            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+          },
+          {
+            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+          },
+          {
+            "id": "300de2a9-1181-80c4-b498-ce77d077924a"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 20
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "0276c40e-0b0d-4d16-be94-64dc94eaa233",
+          "name": "4:30 pm",
+          "color": "brown"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together",
+            "href": null
+          }
+        ]
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1630"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T16:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wedding Party Processional",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wedding Party Processional",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Wedding-Party-Processional-3bade2a9118180abaa41ecd74d9c4bfd",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-80ea-834f-e3f1fff600b3",
+    "created_time": "2026-08-12T20:42:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "6:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "3bade2a9-1181-802d-b77d-ed01b186de83"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 18
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T14:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Transfer Courtney & Matt to Vineyard",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Transfer Courtney & Matt to Vineyard",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Transfer-Courtney-Matt-to-Vineyard-3bade2a9118180ea834fe3f1fff600b3",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-8097-b88f-d4799745a86d",
+    "created_time": "2026-08-12T20:41:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "5:45 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "3bade2a9-1181-802d-b77d-ed01b186de83"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 17
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T13:45:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Transfer Matt to Residence",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Transfer Matt to Residence",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Transfer-Matt-to-Residence-3bade2a911818097b88fd4799745a86d",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-8043-929a-c503846a6945",
+    "created_time": "2026-08-12T20:41:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "5:45 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "3bade2a9-1181-8066-ac18-c030c38599e9"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 17
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T13:45:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Transfer Courtney to Residence",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Transfer Courtney to Residence",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Transfer-Courtney-to-Residence-3bade2a911818043929ac503846a6945",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-80fd-9753-ca2330e86b8f",
+    "created_time": "2026-08-12T20:36:00.000Z",
+    "last_edited_time": "2026-08-12T20:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T15:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Kris, Bill and Rick Arrive",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Kris, Bill and Rick Arrive",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Kris-Bill-and-Rick-Arrive-3bade2a9118180fd9753ca2330e86b8f",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bade2a9-1181-80fe-b403-e3f3d51aafc6",
+    "created_time": "2026-08-12T20:28:00.000Z",
+    "last_edited_time": "2026-08-12T20:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "3:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 15
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "558ca814-2da5-46af-8fef-c3cabe7b51c0",
+          "name": "Florist",
+          "color": "purple"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T11:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Barb / Tanya Flower Set Up",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Barb / Tanya Flower Set Up",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Barb-Tanya-Flower-Set-Up-3bade2a9118180feb403e3f3d51aafc6",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b9de2a9-1181-809f-885a-f65feaea8e5a",
+    "created_time": "2026-08-11T13:21:00.000Z",
+    "last_edited_time": "2026-08-12T20:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:20 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+          },
+          {
+            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
+          },
+          {
+            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
+          },
+          {
+            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
+          },
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "36dde2a9-1181-8001-8d03-e452c5598c89"
+          },
+          {
+            "id": "36dde2a9-1181-801d-b1b9-f581b829f721"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "542ded1c-e743-46da-a0c1-e1867abfbe72",
+          "name": "5:00 pm",
+          "color": "pink"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1700"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T17:20:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Leave for Beekman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Leave for Beekman",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Leave-for-Beekman-3b9de2a91181809f885af65feaea8e5a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b9de2a9-1181-80ba-b657-d7f865bc9991",
+    "created_time": "2026-08-11T13:18:00.000Z",
+    "last_edited_time": "2026-08-12T20:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "8:40 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8065-8a5e-f03507318665"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 20
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Once Courtney is down the aisle",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Once Courtney is down the aisle",
+            "href": null
+          }
+        ]
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T16:40:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Milea Opens Gate to Clubhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Milea Opens Gate to Clubhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Milea-Opens-Gate-to-Clubhouse-3b9de2a9118180bab657d7f865bc9991",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b9de2a9-1181-803e-be4b-d97bd00ff842",
+    "created_time": "2026-08-11T13:18:00.000Z",
+    "last_edited_time": "2026-08-12T20:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "8:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8065-8a5e-f03507318665"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 20
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This is because processional is walking through the only way in ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This is because processional is walking through the only way in ",
+            "href": null
+          }
+        ]
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T16:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Milea Closes Gate to Clubhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Milea Closes Gate to Clubhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Milea-Closes-Gate-to-Clubhouse-3b9de2a91181803ebe4bd97bd00ff842",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b9de2a9-1181-8086-9fd2-d2543a4fd811",
+    "created_time": "2026-08-11T13:17:00.000Z",
+    "last_edited_time": "2026-08-12T20:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8065-8a5e-f03507318665"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T15:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Milea Closes Gate to Clubhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Milea Closes Gate to Clubhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Milea-Closes-Gate-to-Clubhouse-3b9de2a9118180869fd2d2543a4fd811",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b9de2a9-1181-805f-8cdd-cd11fd99e840",
+    "created_time": "2026-08-11T13:10:00.000Z",
+    "last_edited_time": "2026-08-11T13:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "5:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 17
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T13:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Courtney Goes to Staatsburg House",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Courtney Goes to Staatsburg House",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Courtney-Goes-to-Staatsburg-House-3b9de2a91181805f8cddcd11fd99e840",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b9de2a9-1181-8092-9902-fba740f166c4",
+    "created_time": "2026-08-11T00:53:00.000Z",
+    "last_edited_time": "2026-08-11T00:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "12:00 am"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "4bb2f202-dd24-4354-8a26-831e11b0cf42",
+          "name": "Afterparty",
+          "color": "default"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-27",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pick Up Krause’s Chocolates for Grandma",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pick Up Krause’s Chocolates for Grandma",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Pick-Up-Krause-s-Chocolates-for-Grandma-3b9de2a9118180929902fba740f166c4",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-805a-92ae-c37c7adf853c",
+    "created_time": "2026-08-10T17:52:00.000Z",
+    "last_edited_time": "2026-08-12T21:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:00:00.000-04:00",
+          "end": "2026-08-29T18:00:00.000-04:00",
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ring Family Photo",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ring Family Photo",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Ring-Family-Photo-3b8de2a91181805a92aec37c7adf853c",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-80ee-8015-c6957ee877d2",
+    "created_time": "2026-08-10T17:52:00.000Z",
+    "last_edited_time": "2026-08-12T21:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "36dde2a9-1181-8001-8d03-e452c5598c89"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "3bade2a9-1181-802d-b77d-ed01b186de83"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          },
+          {
+            "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:00:00.000-04:00",
+          "end": "2026-08-29T18:00:00.000-04:00",
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Young Family Photo",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Young Family Photo",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Young-Family-Photo-3b8de2a9118180ee8015c6957ee877d2",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-808b-90c6-f3a00fb003f6",
+    "created_time": "2026-08-10T17:51:00.000Z",
+    "last_edited_time": "2026-08-12T21:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:00:00.000-04:00",
+          "end": "2026-08-29T18:00:00.000-04:00",
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Haberlach Family Photo",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Haberlach Family Photo",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Haberlach-Family-Photo-3b8de2a91181808b90c6f3a00fb003f6",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-8083-8283-f8eb96325a01",
+    "created_time": "2026-08-10T17:51:00.000Z",
+    "last_edited_time": "2026-08-12T21:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": null
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:00:00.000-04:00",
+          "end": "2026-08-29T18:00:00.000-04:00",
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wetzler Family Photo",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wetzler Family Photo",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Wetzler-Family-Photo-3b8de2a9118180838283f8eb96325a01",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-80cd-8e58-f011c35c8800",
+    "created_time": "2026-08-10T16:57:00.000Z",
+    "last_edited_time": "2026-08-12T20:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "5:15 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 17
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T13:15:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Parents get corsage and boutonnieres",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Parents get corsage and boutonnieres",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Parents-get-corsage-and-boutonnieres-3b8de2a9118180cd8e58f011c35c8800",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-805c-82e8-d0d311fe4c3d",
+    "created_time": "2026-08-10T16:56:00.000Z",
+    "last_edited_time": "2026-08-12T20:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "5:15 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 17
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T13:15:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridesmaids Get Bouquets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridesmaids Get Bouquets",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Bridesmaids-Get-Bouquets-3b8de2a91181805c82e8d0d311fe4c3d",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3b8de2a9-1181-80d5-a490-ca4d6aad8b09",
+    "created_time": "2026-08-10T16:56:00.000Z",
+    "last_edited_time": "2026-08-12T20:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "5:15 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+          },
+          {
+            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
+          },
+          {
+            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
+          },
+          {
+            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 17
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T13:15:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Groomsmen pin on Boutonnieres",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Groomsmen pin on Boutonnieres",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Groomsmen-pin-on-Boutonnieres-3b8de2a9118180d5a490ca4d6aad8b09",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
     "id": "3b1de2a9-1181-8010-b9dd-e2d09da73da4",
     "created_time": "2026-08-03T17:17:00.000Z",
     "last_edited_time": "2026-08-03T18:11:00.000Z",
@@ -69,6 +3012,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -127,7 +3075,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-80fb-be19-f29d072b8922",
     "created_time": "2026-08-03T17:16:00.000Z",
-    "last_edited_time": "2026-08-05T19:35:00.000Z",
+    "last_edited_time": "2026-08-12T20:30:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -198,6 +3146,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -231,7 +3184,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Groomsmen done showering",
+              "content": "Groomsmen Getting Ready",
               "link": null
             },
             "annotations": {
@@ -242,13 +3195,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Groomsmen done showering",
+            "plain_text": "Groomsmen Getting Ready",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Groomsmen-done-showering-3b1de2a9118180fbbe19f29d072b8922",
+    "url": "https://app.notion.com/p/Groomsmen-Getting-Ready-3b1de2a9118180fbbe19f29d072b8922",
     "public_url": null,
     "archived": false
   },
@@ -333,6 +3286,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -384,138 +3342,6 @@
       }
     },
     "url": "https://app.notion.com/p/Groomsmen-Put-on-their-stuff-3b1de2a9118180d1933dcd8122d6b758",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "3b1de2a9-1181-8024-a1e2-dc0b9269a7bd",
-    "created_time": "2026-08-03T17:14:00.000Z",
-    "last_edited_time": "2026-08-05T19:36:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "5:30 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
-          },
-          {
-            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
-          },
-          {
-            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
-          },
-          {
-            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 17
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T13:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Groomsmen Photos - TBD might be after first look",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Groomsmen Photos - TBD might be after first look",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Groomsmen-Photos-TBD-might-be-after-first-look-3b1de2a911818024a1e2dc0b9269a7bd",
     "public_url": null,
     "archived": false
   },
@@ -582,6 +3408,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -705,6 +3536,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -822,6 +3658,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -957,6 +3798,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1077,6 +3923,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1135,7 +3986,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-802e-83eb-c5c874fcbd87",
     "created_time": "2026-08-03T17:12:00.000Z",
-    "last_edited_time": "2026-08-05T19:36:00.000Z",
+    "last_edited_time": "2026-08-12T20:46:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1160,7 +4011,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "5:50 pm"
+          "string": "5:30 pm"
         }
       },
       "Wedding Ops": {
@@ -1200,6 +4051,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1221,7 +4077,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T13:50:00.000-04:00",
+          "start": "2026-08-29T13:30:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -1317,6 +4173,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1375,7 +4236,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-80b6-8c03-db63924ccac4",
     "created_time": "2026-08-03T17:09:00.000Z",
-    "last_edited_time": "2026-08-05T19:37:00.000Z",
+    "last_edited_time": "2026-08-12T20:50:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1400,7 +4261,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "7:20 pm"
+          "string": "7:15 pm"
         }
       },
       "Wedding Ops": {
@@ -1430,6 +4291,9 @@
           },
           {
             "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
           }
         ],
         "has_more": false
@@ -1449,6 +4313,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1473,7 +4342,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T15:20:00.000-04:00",
+          "start": "2026-08-29T15:15:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -1510,7 +4379,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-80bc-b49b-d51d3b400e7e",
     "created_time": "2026-08-03T17:08:00.000Z",
-    "last_edited_time": "2026-08-05T19:22:00.000Z",
+    "last_edited_time": "2026-08-12T21:03:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1569,6 +4438,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1602,7 +4476,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Extended Family & Groups",
+              "content": "Other Groups TBD",
               "link": null
             },
             "annotations": {
@@ -1613,13 +4487,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Extended Family & Groups",
+            "plain_text": "Other Groups TBD",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Extended-Family-Groups-3b1de2a9118180bcb49bd51d3b400e7e",
+    "url": "https://app.notion.com/p/Other-Groups-TBD-3b1de2a9118180bcb49bd51d3b400e7e",
     "public_url": null,
     "archived": false
   },
@@ -1686,6 +4560,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1744,7 +4623,7 @@
     "object": "page",
     "id": "3afde2a9-1181-80e1-be43-fd3d6ac9627b",
     "created_time": "2026-08-01T19:27:00.000Z",
-    "last_edited_time": "2026-08-05T19:29:00.000Z",
+    "last_edited_time": "2026-08-12T20:22:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1775,7 +4654,11 @@
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
-        "relation": [],
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
         "has_more": false
       },
       "Rounded to Hour": {
@@ -1793,6 +4676,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1913,6 +4801,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -1971,7 +4864,7 @@
     "object": "page",
     "id": "3afde2a9-1181-80fb-8596-cfb64fb643ea",
     "created_time": "2026-08-01T19:19:00.000Z",
-    "last_edited_time": "2026-08-01T19:19:00.000Z",
+    "last_edited_time": "2026-08-12T20:23:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2005,6 +4898,9 @@
         "relation": [
           {
             "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
           }
         ],
         "has_more": false
@@ -2024,6 +4920,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2141,6 +5042,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -2199,7 +5105,7 @@
     "object": "page",
     "id": "3afde2a9-1181-80dd-afd2-d9f271cb7512",
     "created_time": "2026-08-01T19:18:00.000Z",
-    "last_edited_time": "2026-08-05T19:30:00.000Z",
+    "last_edited_time": "2026-08-12T20:23:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2233,6 +5139,9 @@
         "relation": [
           {
             "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
           }
         ],
         "has_more": false
@@ -2252,6 +5161,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2375,6 +5289,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -2489,6 +5408,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2609,6 +5533,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -2726,6 +5655,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -2784,7 +5718,7 @@
     "object": "page",
     "id": "3afde2a9-1181-80b5-a9f8-d3d5d847ed9d",
     "created_time": "2026-08-01T18:35:00.000Z",
-    "last_edited_time": "2026-08-05T19:30:00.000Z",
+    "last_edited_time": "2026-08-12T20:23:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2815,7 +5749,17 @@
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
-        "relation": [],
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          }
+        ],
         "has_more": false
       },
       "Rounded to Hour": {
@@ -2833,6 +5777,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2894,7 +5843,7 @@
     "object": "page",
     "id": "3afde2a9-1181-8059-87a7-fc3ebd9e9a5e",
     "created_time": "2026-08-01T17:43:00.000Z",
-    "last_edited_time": "2026-08-05T19:18:00.000Z",
+    "last_edited_time": "2026-08-12T21:01:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2953,6 +5902,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -2986,7 +5940,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Bar Opens",
+              "content": "Bar Opens, Staff is Floating with Wine",
               "link": null
             },
             "annotations": {
@@ -2997,13 +5951,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Bar Opens",
+            "plain_text": "Bar Opens, Staff is Floating with Wine",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Bar-Opens-3afde2a91181805987a7fc3ebd9e9a5e",
+    "url": "https://app.notion.com/p/Bar-Opens-Staff-is-Floating-with-Wine-3afde2a91181805987a7fc3ebd9e9a5e",
     "public_url": null,
     "archived": false
   },
@@ -3067,6 +6021,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3187,6 +6146,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -3245,7 +6209,7 @@
     "object": "page",
     "id": "3afde2a9-1181-801d-bccb-e1203fd2b82b",
     "created_time": "2026-08-01T17:39:00.000Z",
-    "last_edited_time": "2026-08-05T19:38:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3304,6 +6268,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -3337,7 +6306,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Shuttle Leaves Mirbeau",
+              "content": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
               "link": null
             },
             "annotations": {
@@ -3348,13 +6317,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Shuttle Leaves Mirbeau",
+            "plain_text": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Shuttle-Leaves-Mirbeau-3afde2a91181801dbccbe1203fd2b82b",
+    "url": "https://app.notion.com/p/Shuttle-Leaves-Mirbeau-One-to-Milea-one-to-Beekman-3afde2a91181801dbccbe1203fd2b82b",
     "public_url": null,
     "archived": false
   },
@@ -3425,6 +6394,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -3483,7 +6457,7 @@
     "object": "page",
     "id": "3afde2a9-1181-8088-bf06-ead2fa739255",
     "created_time": "2026-08-01T17:27:00.000Z",
-    "last_edited_time": "2026-08-05T19:12:00.000Z",
+    "last_edited_time": "2026-08-12T20:55:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3514,7 +6488,14 @@
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
-        "relation": [],
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          }
+        ],
         "has_more": false
       },
       "Rounded to Hour": {
@@ -3532,6 +6513,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3645,6 +6631,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -3699,7 +6690,7 @@
     "object": "page",
     "id": "3aede2a9-1181-801b-af1f-d79fd5e8b737",
     "created_time": "2026-07-31T00:30:00.000Z",
-    "last_edited_time": "2026-07-31T00:30:00.000Z",
+    "last_edited_time": "2026-08-13T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3748,6 +6739,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3864,6 +6860,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -3922,7 +6923,7 @@
     "object": "page",
     "id": "3aede2a9-1181-8019-87fb-f62677f45c91",
     "created_time": "2026-07-31T00:27:00.000Z",
-    "last_edited_time": "2026-08-05T19:37:00.000Z",
+    "last_edited_time": "2026-08-12T20:36:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3962,9 +6963,6 @@
           },
           {
             "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
           }
         ],
         "has_more": false
@@ -3988,6 +6986,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4049,7 +7052,7 @@
     "object": "page",
     "id": "3abde2a9-1181-8056-98dc-cfb48a7ff390",
     "created_time": "2026-07-28T02:43:00.000Z",
-    "last_edited_time": "2026-07-28T02:44:00.000Z",
+    "last_edited_time": "2026-08-13T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -4098,6 +7101,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4214,6 +7222,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4338,6 +7351,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -4456,6 +7474,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4583,6 +7606,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -4704,6 +7732,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4831,6 +7864,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -4952,6 +7990,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5079,6 +8122,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -5200,6 +8248,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5327,6 +8380,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -5385,7 +8443,7 @@
     "object": "page",
     "id": "39fde2a9-1181-8019-8926-cdefd2bff911",
     "created_time": "2026-07-16T16:06:00.000Z",
-    "last_edited_time": "2026-07-16T16:06:00.000Z",
+    "last_edited_time": "2026-08-13T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -5434,6 +8492,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5539,6 +8602,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -5589,7 +8657,7 @@
     "object": "page",
     "id": "398de2a9-1181-809c-bfdf-d000be834ad3",
     "created_time": "2026-07-09T17:46:00.000Z",
-    "last_edited_time": "2026-08-05T19:31:00.000Z",
+    "last_edited_time": "2026-08-12T20:24:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -5626,6 +8694,9 @@
           },
           {
             "id": "3b3de2a9-1181-8022-b291-e5d1139883f0"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
           }
         ],
         "has_more": false
@@ -5645,6 +8716,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5762,6 +8838,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -5818,123 +8899,9 @@
   },
   {
     "object": "page",
-    "id": "398de2a9-1181-8088-b27a-f902f1f83fc1",
-    "created_time": "2026-07-09T17:45:00.000Z",
-    "last_edited_time": "2026-08-05T19:13:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "8:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 20
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T16:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Passing out programs, verbal no cell phone reminders",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Passing out programs, verbal no cell phone reminders",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Passing-out-programs-verbal-no-cell-phone-reminders-398de2a911818088b27af902f1f83fc1",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
     "id": "398de2a9-1181-80b1-9a2f-e66f866c06f3",
     "created_time": "2026-07-09T17:43:00.000Z",
-    "last_edited_time": "2026-08-05T19:31:00.000Z",
+    "last_edited_time": "2026-08-11T13:10:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -5959,7 +8926,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "4:00 pm"
+          "string": "2:00 am"
         }
       },
       "Wedding Ops": {
@@ -5980,7 +8947,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": 16
+          "number": 2
         }
       },
       "Time": {
@@ -5990,6 +8957,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6014,7 +8986,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-28T12:00:00.000-04:00",
+          "start": "2026-08-28T22:00:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -6051,7 +9023,7 @@
     "object": "page",
     "id": "398de2a9-1181-8014-8493-c9b00f0cf4f3",
     "created_time": "2026-07-09T17:43:00.000Z",
-    "last_edited_time": "2026-08-01T19:02:00.000Z",
+    "last_edited_time": "2026-08-12T20:23:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -6085,6 +9057,9 @@
         "relation": [
           {
             "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
           }
         ],
         "has_more": false
@@ -6104,6 +9079,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6165,7 +9145,7 @@
     "object": "page",
     "id": "382de2a9-1181-806d-9f4a-f80c43e4d3b6",
     "created_time": "2026-06-17T22:27:00.000Z",
-    "last_edited_time": "2026-06-17T22:27:00.000Z",
+    "last_edited_time": "2026-08-13T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -6217,6 +9197,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -6265,126 +9250,9 @@
   },
   {
     "object": "page",
-    "id": "382de2a9-1181-803b-8aa9-ee784947d593",
-    "created_time": "2026-06-17T22:27:00.000Z",
-    "last_edited_time": "2026-08-05T19:31:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "6:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 18
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-28T14:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Court gets ready for rehearsal",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Court gets ready for rehearsal",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Court-gets-ready-for-rehearsal-382de2a91181803b8aa9ee784947d593",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
     "id": "382de2a9-1181-80c8-8e6f-fd7b161dcc97",
     "created_time": "2026-06-17T22:26:00.000Z",
-    "last_edited_time": "2026-08-05T19:30:00.000Z",
+    "last_edited_time": "2026-08-12T20:23:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -6415,7 +9283,11 @@
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
-        "relation": [],
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
         "has_more": false
       },
       "Rounded to Hour": {
@@ -6433,6 +9305,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6494,7 +9371,7 @@
     "object": "page",
     "id": "382de2a9-1181-8037-b3f6-daf3636f1605",
     "created_time": "2026-06-17T22:26:00.000Z",
-    "last_edited_time": "2026-08-05T19:33:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -6519,7 +9396,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": null
+          "string": "12:00 am"
         }
       },
       "Wedding Ops": {
@@ -6537,7 +9414,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": null
+          "number": 0
         }
       },
       "Time": {
@@ -6547,6 +9424,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6570,7 +9452,11 @@
       "Day": {
         "id": "ir%5DW",
         "type": "date",
-        "date": null
+        "date": {
+          "start": "2026-08-29",
+          "end": null,
+          "time_zone": null
+        }
       },
       "Name": {
         "id": "title",
@@ -6653,6 +9539,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6755,6 +9646,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6875,6 +9771,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -6933,7 +9834,7 @@
     "object": "page",
     "id": "382de2a9-1181-8026-8e4f-e1447de7ec25",
     "created_time": "2026-06-17T22:21:00.000Z",
-    "last_edited_time": "2026-08-01T17:40:00.000Z",
+    "last_edited_time": "2026-08-12T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -6969,10 +9870,10 @@
             "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
           },
           {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
           },
           {
-            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
           }
         ],
         "has_more": false
@@ -6992,6 +9893,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7118,6 +10024,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -7241,6 +10152,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -7351,6 +10267,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -7401,7 +10322,7 @@
     "object": "page",
     "id": "374de2a9-1181-8028-8de7-e85cecfd5d98",
     "created_time": "2026-06-03T21:03:00.000Z",
-    "last_edited_time": "2026-08-05T19:32:00.000Z",
+    "last_edited_time": "2026-08-12T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -7447,6 +10368,9 @@
           },
           {
             "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
           }
         ],
         "has_more": false
@@ -7466,6 +10390,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7592,6 +10521,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -7650,7 +10584,7 @@
     "object": "page",
     "id": "36dde2a9-1181-80b3-aa8e-ece5fee345d2",
     "created_time": "2026-05-27T20:11:00.000Z",
-    "last_edited_time": "2026-08-01T17:33:00.000Z",
+    "last_edited_time": "2026-08-12T20:48:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -7708,6 +10642,29 @@
         "id": "ZW%7CG",
         "type": "rich_text",
         "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This can’t happen until Courtney’s Inside",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This can’t happen until Courtney’s Inside",
+            "href": null
+          }
+        ]
       },
       "Category": {
         "id": "fupT",
@@ -7826,6 +10783,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -7936,6 +10898,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -8039,6 +11006,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8149,6 +11121,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8311,6 +11288,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -8369,7 +11351,7 @@
     "object": "page",
     "id": "284de2a9-1181-8031-afc9-f9d7786506a7",
     "created_time": "2025-10-06T21:50:00.000Z",
-    "last_edited_time": "2026-08-05T19:32:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -8394,7 +11376,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": null
+          "string": "3:30 am"
         }
       },
       "Wedding Ops": {
@@ -8412,7 +11394,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": null
+          "number": 3
         }
       },
       "Time": {
@@ -8422,6 +11404,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8445,7 +11432,11 @@
       "Day": {
         "id": "ir%5DW",
         "type": "date",
-        "date": null
+        "date": {
+          "start": "2026-08-29T23:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
       },
       "Name": {
         "id": "title",
@@ -8479,7 +11470,7 @@
     "object": "page",
     "id": "284de2a9-1181-8078-bc0c-e7be74e29e33",
     "created_time": "2025-10-06T21:50:00.000Z",
-    "last_edited_time": "2026-08-05T19:12:00.000Z",
+    "last_edited_time": "2026-08-12T20:56:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -8510,7 +11501,14 @@
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
-        "relation": [],
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          }
+        ],
         "has_more": false
       },
       "Rounded to Hour": {
@@ -8528,6 +11526,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8589,7 +11592,7 @@
     "object": "page",
     "id": "284de2a9-1181-802c-978e-e8d707647448",
     "created_time": "2025-10-06T21:49:00.000Z",
-    "last_edited_time": "2026-02-08T13:01:00.000Z",
+    "last_edited_time": "2026-08-13T20:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -8645,6 +11648,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -8693,9 +11701,9 @@
   },
   {
     "object": "page",
-    "id": "284de2a9-1181-8057-a465-c16bb0ff60b3",
-    "created_time": "2025-10-06T21:00:00.000Z",
-    "last_edited_time": "2026-08-01T17:42:00.000Z",
+    "id": "284de2a9-1181-8061-a5b4-db7d5a6b120a",
+    "created_time": "2025-10-06T20:59:00.000Z",
+    "last_edited_time": "2026-08-12T20:53:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -8720,16 +11728,13 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": null
+          "string": "7:30 pm"
         }
       },
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
         "relation": [
-          {
-            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
-          },
           {
             "id": "300de2a9-1181-8064-9891-df4314ea7fad"
           },
@@ -8744,7 +11749,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": null
+          "number": 19
         }
       },
       "Time": {
@@ -8757,116 +11762,8 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "558ca814-2da5-46af-8fef-c3cabe7b51c0",
-          "name": "Florist",
-          "color": "purple"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Quick Arch Review Before Florist Leaves",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Quick Arch Review Before Florist Leaves",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Quick-Arch-Review-Before-Florist-Leaves-284de2a911818057a465c16bb0ff60b3",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8061-a5b4-db7d5a6b120a",
-    "created_time": "2025-10-06T20:59:00.000Z",
-    "last_edited_time": "2026-08-01T17:33:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "8:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8064-9891-df4314ea7fad"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 20
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8891,7 +11788,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T16:00:00.000-04:00",
+          "start": "2026-08-29T15:30:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -8994,6 +11891,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -9052,7 +11954,7 @@
     "object": "page",
     "id": "284de2a9-1181-8063-acbf-c0580b690272",
     "created_time": "2025-10-06T20:55:00.000Z",
-    "last_edited_time": "2026-08-03T17:21:00.000Z",
+    "last_edited_time": "2026-08-12T16:34:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -9077,7 +11979,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "11:45 pm"
+          "string": "10:45 pm"
         }
       },
       "Wedding Ops": {
@@ -9104,7 +12006,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": 23
+          "number": 22
         }
       },
       "Time": {
@@ -9114,6 +12016,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9138,7 +12045,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T19:45:00.000-04:00",
+          "start": "2026-08-29T18:45:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -9237,6 +12144,11 @@
         "type": "rich_text",
         "rich_text": []
       },
+      "Text": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
       "Category": {
         "id": "fupT",
         "type": "select",
@@ -9291,7 +12203,7 @@
     "object": "page",
     "id": "284de2a9-1181-80d9-bd0a-d158bdc29737",
     "created_time": "2025-10-06T20:54:00.000Z",
-    "last_edited_time": "2026-08-05T19:38:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -9316,7 +12228,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "9:00 pm"
+          "string": "7:25 pm"
         }
       },
       "Wedding Ops": {
@@ -9328,6 +12240,12 @@
           },
           {
             "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
           }
         ],
         "has_more": false
@@ -9337,7 +12255,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": 21
+          "number": 19
         }
       },
       "Time": {
@@ -9347,6 +12265,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9371,7 +12294,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-03T17:00:00.000-04:00",
+          "start": "2026-08-29T15:25:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -9408,7 +12331,7 @@
     "object": "page",
     "id": "284de2a9-1181-802e-92c5-e363aa107c9e",
     "created_time": "2025-10-06T20:53:00.000Z",
-    "last_edited_time": "2026-08-01T17:33:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -9433,13 +12356,38 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": null
+          "string": "6:30 pm"
         }
       },
       "Wedding Ops": {
         "id": "NX%3DX",
         "type": "relation",
-        "relation": [],
+        "relation": [
+          {
+            "id": "3bade2a9-1181-802d-b77d-ed01b186de83"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
+          },
+          {
+            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
+          },
+          {
+            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
+          },
+          {
+            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
+          },
+          {
+            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          }
+        ],
         "has_more": false
       },
       "Rounded to Hour": {
@@ -9447,7 +12395,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": null
+          "number": 18
         }
       },
       "Time": {
@@ -9457,6 +12405,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9480,7 +12433,11 @@
       "Day": {
         "id": "ir%5DW",
         "type": "date",
-        "date": null
+        "date": {
+          "start": "2026-08-29T14:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
       },
       "Name": {
         "id": "title",
@@ -9514,7 +12471,7 @@
     "object": "page",
     "id": "284de2a9-1181-80c2-8db1-f0e8d5661827",
     "created_time": "2025-10-06T20:51:00.000Z",
-    "last_edited_time": "2026-08-05T19:38:00.000Z",
+    "last_edited_time": "2026-08-13T20:08:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -9539,7 +12496,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": null
+          "string": "7:30 pm"
         }
       },
       "Wedding Ops": {
@@ -9566,7 +12523,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": null
+          "number": 19
         }
       },
       "Time": {
@@ -9576,6 +12533,11 @@
       },
       "Location": {
         "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Text": {
+        "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9599,7 +12561,11 @@
       "Day": {
         "id": "ir%5DW",
         "type": "date",
-        "date": null
+        "date": {
+          "start": "2026-08-29T15:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
       },
       "Name": {
         "id": "title",
@@ -9626,2110 +12592,6 @@
       }
     },
     "url": "https://app.notion.com/p/Rings-to-CJ-284de2a9118180c28db1f0e8d5661827",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8043-a025-cdecf28644a1",
-    "created_time": "2025-10-06T20:51:00.000Z",
-    "last_edited_time": "2026-08-05T19:35:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "5:20 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 17
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T13:20:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Get Rings for Photos",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Get Rings for Photos",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Get-Rings-for-Photos-284de2a911818043a025cdecf28644a1",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80eb-8db5-daaf645142d9",
-    "created_time": "2025-10-06T17:26:00.000Z",
-    "last_edited_time": "2026-08-05T19:37:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "6:45 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
-          },
-          {
-            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
-          },
-          {
-            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
-          },
-          {
-            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
-          },
-          {
-            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
-          },
-          {
-            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
-          },
-          {
-            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
-          },
-          {
-            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 18
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T14:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Wedding Party Photos",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Wedding Party Photos",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Wedding-Party-Photos-284de2a9118180eb8db5daaf645142d9",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8024-88d5-f8beb410bfba",
-    "created_time": "2025-10-06T17:26:00.000Z",
-    "last_edited_time": "2026-08-03T18:53:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "6:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 18
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T14:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Portraits",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Portraits",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Portraits-284de2a91181802488d5f8beb410bfba",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80bd-a003-e5be31756b93",
-    "created_time": "2025-10-06T17:25:00.000Z",
-    "last_edited_time": "2026-08-03T17:11:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "6:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 18
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T14:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "First Look",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "First Look",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/First-Look-284de2a9118180bda003e5be31756b93",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-804a-9bc0-fd5bc593fb9c",
-    "created_time": "2025-10-06T17:25:00.000Z",
-    "last_edited_time": "2026-08-05T19:34:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "4:30 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 16
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T12:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Getting Ready Photos - Bride & Groom?",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Getting Ready Photos - Bride & Groom?",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Getting-Ready-Photos-Bride-Groom-284de2a91181804a9bc0fd5bc593fb9c",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80e9-b075-e98542ab390b",
-    "created_time": "2025-10-06T17:21:00.000Z",
-    "last_edited_time": "2026-08-07T20:27:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "1:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8064-9891-df4314ea7fad"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 13
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "558ca814-2da5-46af-8fef-c3cabe7b51c0",
-          "name": "Florist",
-          "color": "purple"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T09:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Florist Arrives",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Florist Arrives",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Florist-Arrives-284de2a9118180e9b075e98542ab390b",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-809f-922c-fae5028cb7c2",
-    "created_time": "2025-10-06T17:19:00.000Z",
-    "last_edited_time": "2026-08-05T19:37:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "7:15 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-80c4-b498-ce77d077924a"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 19
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "1a5a9328-cdb6-48bc-a436-01bb7a4ecf9e",
-          "name": "Strings",
-          "color": "gray"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T15:15:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Strings Arrive",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Strings Arrive",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Strings-Arrive-284de2a91181809f922cfae5028cb7c2",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-808c-9459-f17bc71fad0c",
-    "created_time": "2025-10-06T17:17:00.000Z",
-    "last_edited_time": "2026-08-03T19:18:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "10:05 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 22
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "af8ee5f9-bd6f-4346-8cf9-966fa753557c",
-          "name": "DJ",
-          "color": "blue"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T18:05:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Bride Groom Intros",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Bride Groom Intros",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Bride-Groom-Intros-284de2a91181808c9459f17bc71fad0c",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8087-a4f0-ecf6dfeef4f2",
-    "created_time": "2025-10-06T17:17:00.000Z",
-    "last_edited_time": "2026-08-03T19:18:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "2:30 am"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 2
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "af8ee5f9-bd6f-4346-8cf9-966fa753557c",
-          "name": "DJ",
-          "color": "blue"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T22:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "DJ Ends",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "DJ Ends",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/DJ-Ends-284de2a911818087a4f0ecf6dfeef4f2",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-806c-9027-db95be2c5e55",
-    "created_time": "2025-10-06T17:15:00.000Z",
-    "last_edited_time": "2026-08-01T17:33:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "7:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 19
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "af8ee5f9-bd6f-4346-8cf9-966fa753557c",
-          "name": "DJ",
-          "color": "blue"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T15:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "DJ Arrives for Setup",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "DJ Arrives for Setup",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/DJ-Arrives-for-Setup-284de2a91181806c9027db95be2c5e55",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-808b-aa9d-c4c4b8de7682",
-    "created_time": "2025-10-06T17:09:00.000Z",
-    "last_edited_time": "2026-02-08T13:01:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": null
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": null
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Start Reception Dancing",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Start Reception Dancing",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Start-Reception-Dancing-284de2a91181808baa9dc4c4b8de7682",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80fb-af21-d8691db5f2ca",
-    "created_time": "2025-10-06T17:08:00.000Z",
-    "last_edited_time": "2026-02-08T13:01:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": null
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": null
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Father / Daughter",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Father / Daughter",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Father-Daughter-284de2a9118180fbaf21d8691db5f2ca",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80db-bd36-fd04c63720d4",
-    "created_time": "2025-10-06T17:07:00.000Z",
-    "last_edited_time": "2026-02-08T13:01:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": null
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": null
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "First Dance",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "First Dance",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/First-Dance-284de2a9118180dbbd36fd04c63720d4",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8086-a634-d0ec1af94de0",
-    "created_time": "2025-10-06T17:04:00.000Z",
-    "last_edited_time": "2026-08-03T17:51:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "10:15 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8065-8a5e-f03507318665"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 22
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T18:15:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Dinner Starts",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Dinner Starts",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Dinner-Starts-284de2a911818086a634d0ec1af94de0",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8063-9079-cbc9346bc8d1",
-    "created_time": "2025-10-06T17:03:00.000Z",
-    "last_edited_time": "2026-08-01T17:19:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "11:30 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
-          },
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 23
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T19:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "CJ (BM) Speech",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "CJ (BM) Speech",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/CJ-BM-Speech-284de2a9118180639079cbc9346bc8d1",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8046-8d1e-dc672abb0d8d",
-    "created_time": "2025-10-06T17:02:00.000Z",
-    "last_edited_time": "2026-08-01T17:19:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "11:35 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
-          },
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 23
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T19:35:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Ashley (MOH) Speech",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Ashley (MOH) Speech",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Ashley-MOH-Speech-284de2a9118180468d1edc672abb0d8d",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80f2-b555-ed698a183038",
-    "created_time": "2025-10-06T17:02:00.000Z",
-    "last_edited_time": "2026-08-01T17:19:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "10:15 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
-          },
-          {
-            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
-          },
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 22
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T18:15:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Parents Speech",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Parents Speech",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Parents-Speech-284de2a9118180f2b555ed698a183038",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80cc-87d9-d5ae8cea50c4",
-    "created_time": "2025-10-06T17:01:00.000Z",
-    "last_edited_time": "2026-08-01T17:19:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "10:10 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 22
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T18:10:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Welcome/Thank you Speech",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Welcome/Thank you Speech",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Welcome-Thank-you-Speech-284de2a9118180cc87d9d5ae8cea50c4",
     "public_url": null,
     "archived": false
   }

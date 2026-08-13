@@ -1,5 +1,689 @@
 [
   {
+    "title": "TEST",
+    "startTime": "2026-08-13T16:10:00.000-04:00",
+    "endTime": null,
+    "notes": [
+      "test"
+    ],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
+    "title": "Cell Phone Announcement from DJ",
+    "startTime": "2026-08-29T16:30:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+        "name": "Jeff Richards",
+        "alias": "jeff"
+      }
+    ]
+  },
+  {
+    "title": "Courtney Processional",
+    "startTime": "2026-08-29T16:30:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "3bade2a9-1181-8066-ac18-c030c38599e9",
+        "name": "TBD"
+      },
+      {
+        "id": "300de2a9-1181-80c4-b498-ce77d077924a",
+        "name": "Alexis Koutrouvelis",
+        "alias": "alexis"
+      }
+    ]
+  },
+  {
+    "title": "Wedding Party Processional",
+    "startTime": "2026-08-29T16:30:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill"
+      },
+      {
+        "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
+        "name": "Gary Young",
+        "alias": "gary"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      },
+      {
+        "id": "300de2a9-1181-80c4-b498-ce77d077924a",
+        "name": "Alexis Koutrouvelis",
+        "alias": "alexis"
+      }
+    ]
+  },
+  {
+    "title": "Transfer Courtney & Matt to Vineyard",
+    "startTime": "2026-08-29T14:30:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      }
+    ]
+  },
+  {
+    "title": "Transfer Matt to Residence",
+    "startTime": "2026-08-29T13:45:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
+    "title": "Transfer Courtney to Residence",
+    "startTime": "2026-08-29T13:45:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3bade2a9-1181-8066-ac18-c030c38599e9",
+        "name": "TBD"
+      }
+    ]
+  },
+  {
+    "title": "Kris, Bill and Rick Arrive",
+    "startTime": "2026-08-29T15:00:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill"
+      }
+    ]
+  },
+  {
+    "title": "Barb / Tanya Flower Set Up",
+    "startTime": "2026-08-29T11:30:00.000-04:00",
+    "endTime": null,
+    "notes": [
+      "Is it worth doing this the day before"
+    ],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Leave for Beekman",
+    "startTime": "2026-08-28T17:20:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
+        "name": "Gary Young",
+        "alias": "gary"
+      },
+      {
+        "id": "36dde2a9-1181-801d-b1b9-f581b829f721",
+        "name": "Stuart Kendall",
+        "alias": "stuart"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      }
+    ]
+  },
+  {
+    "title": "Milea Opens Gate to Clubhouse",
+    "startTime": "2026-08-29T16:40:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      }
+    ]
+  },
+  {
+    "title": "Milea Closes Gate to Clubhouse",
+    "startTime": "2026-08-29T16:30:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      }
+    ]
+  },
+  {
+    "title": "Milea Closes Gate to Clubhouse",
+    "startTime": "2026-08-29T15:00:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      }
+    ]
+  },
+  {
+    "title": "Courtney Goes to Staatsburg House",
+    "startTime": "2026-08-28T13:00:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Pick Up Krause’s Chocolates for Grandma",
+    "startTime": "2026-08-27",
+    "endTime": null,
+    "notes": [
+      "test"
+    ],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
+    "title": "Ring Family Photo",
+    "startTime": "2026-08-29T17:00:00.000-04:00",
+    "endTime": "2026-08-29T18:00:00.000-04:00",
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Young Family Photo",
+    "startTime": "2026-08-29T17:00:00.000-04:00",
+    "endTime": "2026-08-29T18:00:00.000-04:00",
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
+        "name": "Gary Young",
+        "alias": "gary"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      }
+    ]
+  },
+  {
+    "title": "Haberlach Family Photo",
+    "startTime": "2026-08-29T17:00:00.000-04:00",
+    "endTime": "2026-08-29T18:00:00.000-04:00",
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      }
+    ]
+  },
+  {
+    "title": "Wetzler Family Photo",
+    "startTime": "2026-08-29T17:00:00.000-04:00",
+    "endTime": "2026-08-29T18:00:00.000-04:00",
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      }
+    ]
+  },
+  {
+    "title": "Parents get corsage and boutonnieres",
+    "startTime": "2026-08-29T13:15:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley"
+      }
+    ]
+  },
+  {
+    "title": "Bridesmaids Get Bouquets",
+    "startTime": "2026-08-29T13:15:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
+    ]
+  },
+  {
+    "title": "Groomsmen pin on Boutonnieres",
+    "startTime": "2026-08-29T13:15:00.000-04:00",
+    "endTime": null,
+    "notes": [],
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      }
+    ]
+  },
+  {
     "title": "Photographer Look over property",
     "startTime": "2026-08-29T11:45:00.000-04:00",
     "endTime": null,
@@ -8,23 +692,57 @@
       null
     ],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
-    "title": "Groomsmen done showering",
+    "title": "Groomsmen Getting Ready",
     "startTime": "2026-08-29T12:00:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-80d8-ad32-fa3d87421a2e",
-      "300de2a9-1181-805c-baa6-c4c331099d70",
-      "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-809e-96c3-da3e34e95806"
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      }
     ]
   },
   {
@@ -33,29 +751,45 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-809e-96c3-da3e34e95806",
-      "300de2a9-1181-805c-baa6-c4c331099d70",
-      "300de2a9-1181-80d8-ad32-fa3d87421a2e"
-    ]
-  },
-  {
-    "title": "Groomsmen Photos - TBD might be after first look",
-    "startTime": "2026-08-29T13:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-809e-96c3-da3e34e95806",
-      "300de2a9-1181-80d8-ad32-fa3d87421a2e",
-      "300de2a9-1181-805c-baa6-c4c331099d70",
-      "300de2a9-1181-8030-8d3c-da6c337ae361"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      }
     ]
   },
   {
@@ -64,9 +798,20 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -75,9 +820,20 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -86,9 +842,20 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -97,13 +864,40 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-804a-aeb3-da17945f356d",
-      "300de2a9-1181-807c-906b-d8c1f1d72667",
-      "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
-      "300de2a9-1181-80c8-9596-f22327f25eab"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
     ]
   },
   {
@@ -112,21 +906,47 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
     "title": "First Look - Dad",
-    "startTime": "2026-08-29T13:50:00.000-04:00",
+    "startTime": "2026-08-29T13:30:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-8009-84b9-f3021e97e700"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      }
     ]
   },
   {
@@ -135,36 +955,86 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      }
     ]
   },
   {
     "title": "Family Portraits - Ring",
-    "startTime": "2026-08-29T15:20:00.000-04:00",
+    "startTime": "2026-08-29T15:15:00.000-04:00",
     "endTime": null,
     "notes": [
       "In the contract. He may be earlier, 3pm is the very latest"
     ],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-8009-84b9-f3021e97e700",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
-      "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
-    "title": "Extended Family & Groups",
+    "title": "Other Groups TBD",
     "startTime": "2026-08-03T17:00:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      }
     ]
   },
   {
@@ -173,8 +1043,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8009-84b9-f3021e97e700"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      }
     ]
   },
   {
@@ -182,7 +1060,13 @@
     "startTime": "2026-08-27",
     "endTime": null,
     "notes": [],
-    "assignees": []
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      }
+    ]
   },
   {
     "title": "Signs go into frames",
@@ -190,8 +1074,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
     ]
   },
   {
@@ -200,7 +1092,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
     ]
   },
   {
@@ -211,7 +1112,11 @@
       "test"
     ],
     "assignees": [
-      "300de2a9-1181-80c8-9596-f22327f25eab"
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
     ]
   },
   {
@@ -220,7 +1125,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8009-84b9-f3021e97e700"
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
     ]
   },
   {
@@ -229,9 +1143,20 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8009-84b9-f3021e97e700",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      }
     ]
   },
   {
@@ -240,8 +1165,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8064-9891-df4314ea7fad",
-      "300de2a9-1181-8009-84b9-f3021e97e700"
+      {
+        "id": "300de2a9-1181-8064-9891-df4314ea7fad",
+        "name": "Christine Fontana",
+        "alias": "christine"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      }
     ]
   },
   {
@@ -250,8 +1183,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -260,8 +1201,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "300de2a9-1181-8009-84b9-f3021e97e700"
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      }
     ]
   },
   {
@@ -269,16 +1218,40 @@
     "startTime": "2026-08-28T10:00:00.000-04:00",
     "endTime": null,
     "notes": [],
-    "assignees": []
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
   },
   {
-    "title": "Bar Opens",
+    "title": "Bar Opens, Staff is Floating with Wine",
     "startTime": "2026-08-29T17:00:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-      "300de2a9-1181-8065-8a5e-f03507318665"
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      }
     ]
   },
   {
@@ -287,8 +1260,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "36dde2a9-1181-8066-a2ac-d4b00b605273",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
+        "name": "Nancy",
+        "alias": "nancy"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -297,18 +1278,34 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "36dde2a9-1181-8066-a2ac-d4b00b605273",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
+        "name": "Nancy",
+        "alias": "nancy"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
-    "title": "Shuttle Leaves Mirbeau",
+    "title": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
     "startTime": "2026-08-29T15:30:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "36dde2a9-1181-8066-a2ac-d4b00b605273",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
+        "name": "Nancy",
+        "alias": "nancy"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -317,8 +1314,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8065-8a5e-f03507318665",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -326,7 +1331,18 @@
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
     "notes": [],
-    "assignees": []
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
+    ]
   },
   {
     "title": "Staatsburg Checkout ",
@@ -346,8 +1362,15 @@
     "endTime": "2026-08-29T12:00:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -356,10 +1379,19 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -373,9 +1405,20 @@
     "endTime": "2026-08-29T09:30:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-804a-aeb3-da17945f356d"
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      }
     ]
   },
   {
@@ -384,8 +1427,15 @@
     "endTime": "2026-08-29T12:30:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -394,8 +1444,15 @@
     "endTime": "2026-08-29T12:30:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -404,9 +1461,20 @@
     "endTime": "2026-08-29T12:00:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
     ]
   },
   {
@@ -415,9 +1483,20 @@
     "endTime": "2026-08-29T11:00:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "300de2a9-1181-804a-aeb3-da17945f356d",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -426,9 +1505,20 @@
     "endTime": "2026-08-29T10:15:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -437,9 +1527,20 @@
     "endTime": "2026-08-29T09:30:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      }
     ]
   },
   {
@@ -448,9 +1549,20 @@
     "endTime": "2026-08-29T12:00:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -459,9 +1571,20 @@
     "endTime": "2026-08-29T11:15:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -470,9 +1593,20 @@
     "endTime": "2026-08-29T10:30:00.000-04:00",
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -491,8 +1625,19 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
-      "3b3de2a9-1181-8022-b291-e5d1139883f0"
+      {
+        "id": "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
+        "name": "Ed Tafur"
+      },
+      {
+        "id": "3b3de2a9-1181-8022-b291-e5d1139883f0",
+        "name": "Mary"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -501,26 +1646,28 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "3afde2a9-1181-80f2-88f0-faba95602902"
-    ]
-  },
-  {
-    "title": "Passing out programs, verbal no cell phone reminders",
-    "startTime": "2026-08-29T16:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
     "title": "Milea Set Up Starts",
-    "startTime": "2026-08-28T12:00:00.000-04:00",
+    "startTime": "2026-08-28T22:00:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -529,7 +1676,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -538,27 +1694,28 @@
     "assignees": []
   },
   {
-    "title": "Court gets ready for rehearsal",
-    "startTime": "2026-08-28T14:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
     "title": "Drop off Drinks and Snacks to Staatsburg House",
     "startTime": "2026-08-27",
     "endTime": null,
     "notes": [],
-    "assignees": []
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      }
+    ]
   },
   {
     "title": "Lunch for house Delivered",
+    "startTime": "2026-08-29",
+    "endTime": null,
     "notes": [],
     "assignees": [
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -579,8 +1736,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      }
     ]
   },
   {
@@ -589,9 +1754,21 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -600,10 +1777,25 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -612,10 +1804,25 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
@@ -629,11 +1836,35 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
-      "300de2a9-1181-804a-aeb3-da17945f356d",
-      "300de2a9-1181-807c-906b-d8c1f1d72667",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
     ]
   },
   {
@@ -642,10 +1873,25 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      }
     ]
   },
   {
@@ -654,8 +1900,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8065-8a5e-f03507318665",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -664,8 +1918,16 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -688,7 +1950,11 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "36dde2a9-1181-8066-a2ac-d4b00b605273"
+      {
+        "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
+        "name": "Nancy",
+        "alias": "nancy"
+      }
     ]
   },
   {
@@ -697,29 +1963,98 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
-      "300de2a9-1181-80d8-ad32-fa3d87421a2e",
-      "300de2a9-1181-804a-aeb3-da17945f356d",
-      "300de2a9-1181-807c-906b-d8c1f1d72667",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-809e-96c3-da3e34e95806",
-      "300de2a9-1181-805c-baa6-c4c331099d70",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-      "36dde2a9-1181-8001-8d03-e452c5598c89",
-      "36dde2a9-1181-801d-b1b9-f581b829f721",
-      "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
-      "300de2a9-1181-8009-84b9-f3021e97e700",
-      "300de2a9-1181-80c1-8998-e898d9766e4b"
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
+        "name": "Gary Young",
+        "alias": "gary"
+      },
+      {
+        "id": "36dde2a9-1181-801d-b1b9-f581b829f721",
+        "name": "Stuart Kendall",
+        "alias": "stuart"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howie"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      }
     ]
   },
   {
     "title": "Petals to go into Chloe’s basket",
+    "startTime": "2026-08-29T23:30:00.000-04:00",
+    "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -727,7 +2062,18 @@
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
     "notes": [],
-    "assignees": []
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
+    ]
   },
   {
     "title": "Mic Practice",
@@ -735,24 +2081,21 @@
     "assignees": []
   },
   {
-    "title": "Quick Arch Review Before Florist Leaves",
+    "title": "Florist Leaves",
+    "startTime": "2026-08-29T15:30:00.000-04:00",
+    "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-8064-9891-df4314ea7fad",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "Florist Leaves",
-    "startTime": "2026-08-29T16:00:00.000-04:00",
-    "endTime": null,
-    "notes": [
-      "If you could let Barb (Day of Coordinator) know before you leave. She should be in the clubhouse all day."
-    ],
-    "assignees": [
-      "300de2a9-1181-8064-9891-df4314ea7fad",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-8064-9891-df4314ea7fad",
+        "name": "Christine Fontana",
+        "alias": "christine"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -761,21 +2104,48 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-      "300de2a9-1181-80ea-bff2-c1e5d156f770",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
+        "name": "Laura Moore",
+        "alias": "laura"
+      },
+      {
+        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
+        "name": "Sara Julianna",
+        "alias": "sara"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      }
     ]
   },
   {
     "title": "Golden Hour Photos",
-    "startTime": "2026-08-29T19:45:00.000-04:00",
+    "startTime": "2026-08-29T18:45:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
@@ -784,222 +2154,120 @@
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
     ]
   },
   {
     "title": "Family Portraits - Haberlach",
-    "startTime": "2026-08-03T17:00:00.000-04:00",
+    "startTime": "2026-08-29T15:25:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      }
     ]
   },
   {
     "title": "Transfer Wedding Party to Vineyard",
+    "startTime": "2026-08-29T14:30:00.000-04:00",
+    "endTime": null,
     "notes": [],
-    "assignees": []
+    "assignees": [
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
+        "name": "Austin Michel",
+        "alias": "austin"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      },
+      {
+        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
+        "name": "Alex Meyers",
+        "alias": "alex"
+      },
+      {
+        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
+        "name": "Wes Landreth",
+        "alias": "wes"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      }
+    ]
   },
   {
     "title": "Rings to CJ",
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-8030-8d3c-da6c337ae361"
-    ]
-  },
-  {
-    "title": "Get Rings for Photos",
-    "startTime": "2026-08-29T13:20:00.000-04:00",
+    "startTime": "2026-08-29T15:30:00.000-04:00",
     "endTime": null,
     "notes": [],
     "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
-    ]
-  },
-  {
-    "title": "Wedding Party Photos",
-    "startTime": "2026-08-29T14:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902",
-      "300de2a9-1181-809e-96c3-da3e34e95806",
-      "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-80d8-ad32-fa3d87421a2e",
-      "300de2a9-1181-805c-baa6-c4c331099d70",
-      "300de2a9-1181-807c-906b-d8c1f1d72667",
-      "300de2a9-1181-804a-aeb3-da17945f356d",
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
-    ]
-  },
-  {
-    "title": "Portraits",
-    "startTime": "2026-08-29T14:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
-    ]
-  },
-  {
-    "title": "First Look",
-    "startTime": "2026-08-29T14:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "3afde2a9-1181-80f2-88f0-faba95602902"
-    ]
-  },
-  {
-    "title": "Getting Ready Photos - Bride & Groom?",
-    "startTime": "2026-08-29T12:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-    ]
-  },
-  {
-    "title": "Florist Arrives",
-    "startTime": "2026-08-29T09:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-8064-9891-df4314ea7fad",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "Strings Arrive",
-    "startTime": "2026-08-29T15:15:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-80c4-b498-ce77d077924a"
-    ]
-  },
-  {
-    "title": "Bride Groom Intros",
-    "startTime": "2026-08-29T18:05:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "DJ Ends",
-    "startTime": "2026-08-29T22:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "DJ Arrives for Setup",
-    "startTime": "2026-08-29T15:00:00.000-04:00",
-    "endTime": null,
-    "notes": [
-      "In the contract. He may be earlier, 3pm is the very latest"
-    ],
-    "assignees": [
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "Start Reception Dancing",
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Father / Daughter",
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "First Dance",
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Dinner Starts",
-    "startTime": "2026-08-29T18:15:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-8065-8a5e-f03507318665",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "CJ (BM) Speech",
-    "startTime": "2026-08-29T19:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-8030-8d3c-da6c337ae361",
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "Ashley (MOH) Speech",
-    "startTime": "2026-08-29T19:35:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-80c8-9596-f22327f25eab",
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "Parents Speech",
-    "startTime": "2026-08-29T18:15:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-80c1-8998-e898d9766e4b",
-      "300de2a9-1181-8009-84b9-f3021e97e700",
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-    ]
-  },
-  {
-    "title": "Welcome/Thank you Speech",
-    "startTime": "2026-08-29T18:10:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-      "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-      "300de2a9-1181-804b-b266-cdd24fd63e39",
-      "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
+        "name": "CJ Douty",
+        "alias": "cj"
+      }
     ]
   }
 ]

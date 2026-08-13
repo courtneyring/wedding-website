@@ -10,6 +10,7 @@ import {
 } from "@courtneyring/components-library";
 import classNames from "classnames";
 import ScheduleBlock from "@/components/ScheduleBlock/ScheduleBlock";
+import OpsWrapper from "@/components/OpsWrapper/OpsWrapper";
 
 export async function generateStaticParams() {
   return contacts.map((c) => ({ id: String(c.alias) }));
@@ -22,32 +23,46 @@ const ContactPage = async ({ params }) => {
   
 
   return (
-    <Container className={styles.root}>
+    <OpsWrapper backButton={{ label: "All Contacts", value: "/ops/contacts" }}>
       <ContactCard contact={contact} />
       <div className={styles.block}>
-        <h2 className="typography--h4">Contact</h2>
-        <Button
-          variation="link"
-          className={classNames(styles.button, "typography--body")}
-          href={`mailto:${contact.email}`}
-        >
-          <span className={classNames(styles.icon, "material-symbols-outlined")}>send</span>
-          {contact.email}
-        </Button>
-        <Button variation="link" href={`tel:${contact.phone}`}>
-          <span className={classNames(styles.icon, "material-symbols-outlined")}>
-            mobile
-          </span>
-          {contact.phone}
-        </Button>
+        {/* <h2 className="typography--h4">Contact</h2> */}
+        {contact.email && (
+          <Button
+            variation="link"
+            className={classNames(styles.button, "typography--body")}
+            href={`mailto:${contact.email}`}
+          >
+            {contact.email}
+            <span
+              className={classNames(styles.icon, "material-symbols-outlined")}
+            >
+              call_made
+            </span>
+          </Button>
+        )}
+        {contact.phone && (
+          <Button
+            variation="link"
+            href={`tel:${contact.phone}`}
+            className={styles.button}
+          >
+            {contact.phone}
+            <span
+              className={classNames(styles.icon, "material-symbols-outlined")}
+            >
+              call_made
+            </span>
+          </Button>
+        )}
       </div>
       {contact.schedule && (
         <div className={styles.block}>
           <h2 className="typography--h4">Schedule</h2>
-         <ScheduleBlock schedule={contact.schedule}/>
+          <ScheduleBlock schedule={contact.schedule} />
         </div>
       )}
-    </Container>
+    </OpsWrapper>
   );
 };
 

@@ -1,8 +1,5 @@
 @use "@courtneyring/components-library/styles" as lib;
 
-.root {
-  --container-padding: 20px ;
-}
 
 .block {
   margin-bottom: 50px;
@@ -14,9 +11,11 @@
 
 .button {
   margin-bottom: 15px;
+  font-style: italic;
+  font-weight: 400 !important;
 }
 
 .icon {
-  margin-left: 0px !important;
+  margin-left: 3px !important;
   margin-right: 10px;
 }

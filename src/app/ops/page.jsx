@@ -1,4 +1,5 @@
-import { PromoGroup } from "@courtneyring/components-library";
+import OpsWrapper from "@/components/OpsWrapper/OpsWrapper";
+import { PromoGroup, Container, Button } from "@courtneyring/components-library";
 
 const Ops = () => {
 
@@ -7,7 +8,7 @@ const Ops = () => {
         containerCta: { href: "/ops/contacts" },
         header: "Contacts",
         textAlign: "center",
-        icon: "view_agenda",
+        icon: "contact_page",
         color: "color-neutral-light",
       },
       {
@@ -20,10 +21,9 @@ const Ops = () => {
     ];
 
   return (
-    <>
-      <h1 className="typography--h1">Wedding Ops</h1>
+    <OpsWrapper backButton={{label: 'Wedding Website', value: '/'}} header='Wedding Ops'>
       <PromoGroup promos={links} />
-    </>
+    </OpsWrapper>
   );
 };
 

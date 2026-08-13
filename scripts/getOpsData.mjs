@@ -107,13 +107,13 @@ const getSchedule = async () => {
   return results;
 };
 
-const format = async (schedule) => {
+const format = async (schedule, contacts) => {
   const arr = [];
   for (let task of schedule) {
     const opsObj = task.properties["Wedding Ops"].relation;
     const assignees = [];
     for (let assignee of opsObj) {
-      assignees.push(assignee.id);
+      assignees.push({id: assignee.id, name: contacts.get(assignee.id).name, alias: contacts.get(assignee.id).alias});
       // map.get(assignee.id).schedule.push({
       //   task: task.properties.Name.title[0].plain_text,
       //   start: task.properties.Day.date?.start,
@@ -137,7 +137,7 @@ const connectSchedules = (contacts, schedule) => {
   for (let event of schedule) {
     const { assignees } = event;
     for (let assignee of assignees) {
-      contacts.get(assignee).schedule.push(event);
+      contacts.get(assignee.id).schedule.push(event);
     }
   }
   return [...contacts.values()];
@@ -147,7 +147,7 @@ const init = async () => {
   const contacts = formatContacts(await getContacts());
 
   const scheduleRaw = await getSchedule();
-  const schedule = await format(scheduleRaw);
+  const schedule = await format(scheduleRaw, contacts);
   const contactsWithSchedules = connectSchedules(contacts, schedule);
   // console.log(contactsWithSchedules)
   // const ops = format(contacts, schedule);
