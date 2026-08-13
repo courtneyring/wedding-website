@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/getOpsData.mjs && next build",
     "build:dev": "NEXT_PUBLIC_DEVELOPMENT=true next build",
     "start": "next start",
     "test": "playwright test"

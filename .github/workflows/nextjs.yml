@@ -85,6 +85,7 @@ jobs:
           echo ${{ vars.NEXT_PUBLIC_ANALYTICS_ID }}
         env:
           NEXT_PUBLIC_ANALYTICS_ID: ${{ vars.NEXT_PUBLIC_ANALYTICS_ID }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
