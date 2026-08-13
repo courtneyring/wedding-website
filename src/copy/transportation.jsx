@@ -112,12 +112,12 @@ export default {
         header: "Rhinebeck to Milea",
         slots: [
           {
-            time: "TBA",
-            description: "Depart from Mirbeau Inn & Spa",
+            time: "3:30pm",
+            description: <><p>Depart from Mirbeau Inn & Spa</p><p style={{fontSize: '22px'}}>46 W Market Street</p></>,
           },
           {
-            time: "TBA",
-            description: "Depart from Delamater Inn",
+            time: "3:30pm",
+            description: <><p>Depart from Delamater Inn</p><p style={{fontSize: '22px'}}>25 Garden Street</p></>,
           },
           {
             time: "4:00pm",
@@ -146,7 +146,7 @@ export default {
           },
           {
             time: "10:55pm",
-            description: "Arrive at Beekman Arms & Delamater Inn",
+            description: "Arrive at Delamater Inn",
           },
         ],
       }
