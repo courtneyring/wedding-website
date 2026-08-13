@@ -48,7 +48,7 @@ export default {
         { icon: "schedule", text: ["Saturday August 29, 4-10:30pm"] },
         {
           icon: "directions_bus",
-          text: ["Shuttles from Mirbeau & Delamater", "Pick up times TBA"],
+          text: ["Shuttles from Mirbeau & Delamater", "Depart at 3:30pm"],
         },
         { icon: "apparel", text: "Formal Attire" },
       ],
@@ -68,7 +68,7 @@ export default {
         { icon: "schedule", text: ["Saturday August 29, 11pm-2am"] },
         {
           icon: "directions_bus",
-          text: ["Shuttles from Milea to Rhinebeck", "Departures starting at 10:30pm"],
+          text: ["Shuttles from Milea to Rhinebeck", "Depart at 10:30pm"],
         },
       ],
     },

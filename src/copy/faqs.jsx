@@ -161,7 +161,7 @@ export default {
     },
     {
       title: "What if I arrive early to the venue?",
-      body: "You are welcome to enjoy a glass of wine at the vineyard tasting room while you wait. The ceremony seating area will open at 3:30 PM.",
+      body: "You are welcome to enjoy a glass of wine at the vineyard tasting room while you wait. The ceremony seating area will open at 3:45 PM.",
       category: "ceremony-&-reception",
     },
     {
@@ -171,7 +171,7 @@ export default {
     },
     {
       title: "What if the recommended hotels are full?",
-      body: "We have reserved a generous block of rooms at the Beekman Arms & Delamater Inn. If you miss the booking deadline or prefer a different setting, we recommend local bed and breakfasts such as The Gables of Rhinebeck, The Baker House, or The Veranda House.",
+      body: "We have extra rooms for the block rate at the Beekman-Delamater. Reach out to Courtney if you're still looking to book.",
       category: "accommodations",
     },
   ],

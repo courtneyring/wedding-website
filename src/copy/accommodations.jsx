@@ -79,8 +79,7 @@ export default {
           Beekman Arms Delamater Inn is a historic property made up of several
           distinct buildings, each offering its own character and atmosphere.{" "}
           <strong className='typography--body' style={{  fontWeight: 700 }}>
-            The block is closed, the generic booking page is linked below. You may be
-            able to call the hotel to get the block rate.
+            We have extra rooms at the block rate - Contact Courtney if you're still looking to book.
           </strong>
         </p>
       ),
