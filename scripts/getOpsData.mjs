@@ -113,7 +113,11 @@ const format = async (schedule, contacts) => {
     const opsObj = task.properties["Wedding Ops"].relation;
     const assignees = [];
     for (let assignee of opsObj) {
-      assignees.push({id: assignee.id, name: contacts.get(assignee.id).name, alias: contacts.get(assignee.id).alias});
+      assignees.push({
+        id: assignee.id,
+        name: contacts.get(assignee.id).name,
+        alias: contacts.get(assignee.id).alias,
+      });
       // map.get(assignee.id).schedule.push({
       //   task: task.properties.Name.title[0].plain_text,
       //   start: task.properties.Day.date?.start,
@@ -136,8 +140,10 @@ const format = async (schedule, contacts) => {
 const connectSchedules = (contacts, schedule) => {
   for (let event of schedule) {
     const { assignees } = event;
+    const cleanEvent = { ...event };
+    delete cleanEvent.assignees;
     for (let assignee of assignees) {
-      contacts.get(assignee.id).schedule.push(event);
+      contacts.get(assignee.id).schedule.push(cleanEvent);
     }
   }
   return [...contacts.values()];
