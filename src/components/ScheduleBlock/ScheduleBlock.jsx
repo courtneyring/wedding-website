@@ -49,7 +49,7 @@ const ScheduleBlock = ({ schedule }) => {
       (m) =>
         m.startTime && 
         moment(m.startTime).day() === activeDay &&
-        (hidePast ? moment(m.startTime).isSameOrAfter(moment()) : true),
+        (hidePast ? (m.endTime ? moment(m.endTime).isSameOrAfter(moment()) : moment(m.startTime).isSameOrAfter(moment())) : true),
     );
   }, [schedule, activeDay, hidePast]);
 
