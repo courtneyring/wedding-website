@@ -23,16 +23,27 @@ export default function Home() {
   return (
     <main className={overrides.home}>
       <Container color="color-neutral-light" styleless>
+        <a
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "30px",
+            height: "30px",
+            zIndex: 99999
+          }}
+          href="/ops"
+        ></a>
         <FloatingWordsHero {...content.hero} />
       </Container>
-      <Container color="color-primary-dark" maxWidth="sm" id='note'>
+      <Container color="color-primary-dark" maxWidth="sm" id="note">
         <Note {...content.note} />
       </Container>
       <Container
         color="color-primary-dark"
         backgroundImage={content.countdown.backgroundImage}
         backgroundPosition={content.countdown.backgroundPosition}
-        maxWidth='lg'
+        maxWidth="lg"
         hide={new Date(content.countdown.targetDate) - new Date() <= 0}
       >
         <Countdown targetDate={content.countdown.targetDate} />
@@ -41,7 +52,7 @@ export default function Home() {
         <ImageTextBlock {...content.imageTextPlanning} />
       </Container>
       <Container styleless>
-        <Background image="/images/holding-hands-3.jpeg" y={0} pos='50% 60%'/>
+        <Background image="/images/holding-hands-3.jpeg" y={0} pos="50% 60%" />
       </Container>
       <Container color="color-neutral-light" maxWidth="lg">
         <PromoGroup {...content.nextSteps} />

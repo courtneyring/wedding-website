@@ -7,11 +7,12 @@ import {
   SegmentedToggle,
   EventList,
   Toggle,
+  Button,
 } from "@courtneyring/components-library";
 
 const HIDE_PAST_KEY = "schedule.hidePast";
 
-const ScheduleBlock = ({ schedule }) => {
+const ScheduleBlock = ({ schedule, alias }) => {
   const [hidePast, setHidePast] = useState(false);
   const [hasHydrated, setHasHydrated] = useState(false);
 
@@ -47,9 +48,13 @@ const ScheduleBlock = ({ schedule }) => {
   const filteredSchedule = useMemo(() => {
     return schedule.filter(
       (m) =>
-        m.startTime && 
+        m.startTime &&
         moment(m.startTime).day() === activeDay &&
-        (hidePast ? (m.endTime ? moment(m.endTime).isSameOrAfter(moment()) : moment(m.startTime).isSameOrAfter(moment())) : true),
+        (hidePast
+          ? m.endTime
+            ? moment(m.endTime).isSameOrAfter(moment())
+            : moment(m.startTime).isSameOrAfter(moment())
+          : true),
     );
   }, [schedule, activeDay, hidePast]);
 
@@ -64,12 +69,23 @@ const ScheduleBlock = ({ schedule }) => {
           />
         </div>
       )}
-      <Toggle
-        label="Hide past events"
-        className={styles.toggle}
-        checked={hidePast}
-        onChange={setHidePast}
-      />
+      <div className={styles.actions}>
+        <Toggle
+          label="Hide past events"
+          className={styles.toggle}
+          checked={hidePast}
+          onChange={setHidePast}
+        />
+        <Button
+          href={`/pdfs/schedule-${alias}.pdf`}
+          variation="link"
+          className={styles.download}
+        >
+          Download PDF{" "}
+          <span className="material-symbols-outlined">download</span>
+        </Button>
+      </div>
+
       <EventList tasks={filteredSchedule} />
     </>
   );

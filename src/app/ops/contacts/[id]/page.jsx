@@ -59,7 +59,7 @@ const ContactPage = async ({ params }) => {
       {contact.schedule && (
         <div className={styles.block}>
           <h2 className="typography--h4">Schedule</h2>
-          <ScheduleBlock schedule={contact.schedule} />
+          <ScheduleBlock schedule={contact.schedule} alias={contact.alias}/>
         </div>
       )}
     </OpsWrapper>

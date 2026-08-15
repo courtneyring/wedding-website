@@ -130,7 +130,8 @@ const format = async (schedule, contacts) => {
       startTime: task.properties.Day.date?.start,
       endTime: task.properties.Day.date?.end,
       location: task.properties.Location.rich_text[0]?.text.content,
-      notes: await getPageContent(task.id),
+      notes: task.properties.Notes.rich_text[0]?.text.content,
+      // notes: await getPageContent(task.id),
       assignees,
     });
   }
