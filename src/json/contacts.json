@@ -12,13 +12,12 @@
         "title": "Courtney Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Wait a little for string to play. Double doors opened by Barb & TBD"
       },
       {
         "title": "Transfer Courtney to Residence",
-        "startTime": "2026-08-29T13:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T13:40:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -32,28 +31,36 @@
     "role": "Unset",
     "schedule": [
       {
+        "title": "Gary drive Mackenzie & ?  back to Rhinebeck",
+        "startTime": "2026-08-28T12:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "HJ and Gary Bring Supplies to Staatsburg House",
+        "startTime": "2026-08-28T22:00:00.000-04:00",
+        "endTime": null,
+        "notes": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb"
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "Transfer Courtney & Matt to Vineyard",
-        "startTime": "2026-08-29T14:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Transfer Matt to Residence",
         "startTime": "2026-08-29T13:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -67,34 +74,35 @@
     "role": "Unset",
     "schedule": [
       {
+        "title": "Wedding Party Moves from Vines to Clubhouse Bar",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Kris, Bill and Rick Arrive",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Haberlach Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:10:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Wetzler Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Parents get corsage and boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -108,64 +116,60 @@
     "role": "Unset",
     "schedule": [
       {
+        "title": "Floral & Decorating Prep",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": "2026-08-29T10:45:00.000-04:00"
+      },
+      {
+        "title": "MJ, Shirley, Barb go to clubhouse",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+        "startTime": "2026-08-28T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Check with Megan to see if we can drop greens at Beekman",
         "startTime": "2026-08-27T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Dinner ? ",
         "startTime": "2026-08-27T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Parents get corsage and boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Beekman Set Up",
         "startTime": "2026-08-27T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      }
-    ]
-  },
-  {
-    "id": "3b3de2a9-1181-8022-b291-e5d1139883f0",
-    "name": "Mary",
-    "email": null,
-    "phone": null,
-    "image": "/images/ops/undefined.png",
-    "role": "Unset",
-    "schedule": [
-      {
-        "title": "Cake Pickup at Pastry Garden",
-        "startTime": "2026-08-28T17:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -181,8 +185,7 @@
       {
         "title": "Cake Pickup at Pastry Garden",
         "startTime": "2026-08-28T17:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -196,225 +199,169 @@
     "role": "Unset",
     "schedule": [
       {
+        "title": "Wedding Party Moves from Vines to Clubhouse Bar",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ goes to Staatsburg house to get ready",
+        "startTime": "2026-08-29T10:45:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Transfer Courtney & Matt to Vineyard",
-        "startTime": "2026-08-29T14:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Transfer Matt to Residence",
         "startTime": "2026-08-29T13:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Transfer Courtney to Residence",
-        "startTime": "2026-08-29T13:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T13:40:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Kris, Bill and Rick Arrive",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Parents get corsage and boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaids Get Bouquets",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
-        "title": "Photographer Look over property",
-        "startTime": "2026-08-29T11:45:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
-          null
-        ]
+        "title": "Photographer Arrives",
+        "startTime": "2026-08-29T11:00:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Groomsmen Getting Ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Nathan Does Guys Details",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Matt Get Dressed",
         "startTime": "2026-08-29T12:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Lindsay Does Girls Details",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Courtney Gets Dressed",
         "startTime": "2026-08-29T13:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "First Look - Dad",
         "startTime": "2026-08-29T13:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Ashley Does Chloe’s Hair",
         "startTime": "2026-08-29T11:15:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Bobby Arrives with Cameron",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Mackenzie Hair",
         "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": "2026-08-29T09:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T09:30:00.000-04:00"
       },
       {
         "title": "Makeup Touch Ups",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": "2026-08-29T12:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:30:00.000-04:00"
       },
       {
         "title": "Hair Touch Ups",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": "2026-08-29T12:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:30:00.000-04:00"
       },
       {
         "title": "Court Makeup",
         "startTime": "2026-08-29T11:00:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Mackenzie Makeup",
         "startTime": "2026-08-29T10:15:00.000-04:00",
-        "endTime": "2026-08-29T11:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T11:00:00.000-04:00"
       },
       {
         "title": "Ashley Makeup",
         "startTime": "2026-08-29T09:30:00.000-04:00",
-        "endTime": "2026-08-29T10:15:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T10:15:00.000-04:00"
       },
       {
         "title": "Domenica Makeup",
         "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": "2026-08-29T09:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T09:30:00.000-04:00"
       },
       {
         "title": "Mom Hair",
         "startTime": "2026-08-29T11:15:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Ashley Hair",
         "startTime": "2026-08-29T10:30:00.000-04:00",
-        "endTime": "2026-08-29T11:15:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T11:15:00.000-04:00"
       },
       {
         "title": "Court Hair",
         "startTime": "2026-08-29T09:30:00.000-04:00",
-        "endTime": "2026-08-29T10:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T10:30:00.000-04:00"
       },
       {
         "title": "Take gifts and put on gifts table",
         "startTime": "2026-08-29T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Lunch for house Delivered",
         "startTime": "2026-08-29",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Matt’s gift goes to Court",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Court’s gift goes to Matt",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Bridesmaid Arrival",
-        "startTime": "2026-08-29T08:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Hair and Makeup Finished",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Hair & Makeup Arrive",
-        "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -428,60 +375,57 @@
     "role": "Unset",
     "schedule": [
       {
+        "title": "Slater Family in MJ’s Enclave to the Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Drop greens at Beekman if possible",
         "startTime": "2026-08-27T19:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "MJ is asking when she gets there at 4"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Ash & Co Land",
         "startTime": "2026-08-27T15:50:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "LaGuardia Airport"
       },
       {
         "title": "Dad gets flowers from Adams Family Green Market",
         "startTime": "2026-08-27T18:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Pick Up: Flowers & Greens, sandwiches, berries. Might be a good place for Ashley & Bobby to get dinner"
       },
       {
         "title": "Bobby Arrives with Cameron",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -498,26 +442,17 @@
       {
         "title": "Shuttles Arrive at Milea",
         "startTime": "2026-08-29T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Shuttle Leaves Beekman",
         "startTime": "2026-08-29T15:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
         "startTime": "2026-08-29T15:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Shuttle to After Party",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -534,14 +469,7 @@
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -559,25 +487,17 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -594,14 +514,7 @@
       {
         "title": "Drop Ribbons & Arch Material to Florist",
         "startTime": "2026-08-27T14:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Florist Leaves",
-        "startTime": "2026-08-29T15:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -619,13 +532,13 @@
         "title": "Courtney Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Wait a little for string to play. Double doors opened by Barb & TBD"
       },
       {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       }
     ]
   },
@@ -640,40 +553,36 @@
     "role": "venue",
     "schedule": [
       {
+        "title": "Move flowers from Arch to Sweetheart table",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Milea Opens Gate to Clubhouse",
         "startTime": "2026-08-29T16:40:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Once Courtney is down the aisle"
       },
       {
         "title": "Milea Closes Gate to Clubhouse",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "This is because processional is walking through the only way in "
       },
       {
         "title": "Milea Closes Gate to Clubhouse",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bar Opens, Staff is Floating with Wine",
         "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Passing Water & Lemonade",
         "startTime": "2026-08-29T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Open Gate to Clubhouse",
-        "startTime": "2026-08-29T15:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -690,44 +599,27 @@
       {
         "title": "Makeup Touch Ups",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": "2026-08-29T12:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:30:00.000-04:00"
       },
       {
         "title": "Court Makeup",
         "startTime": "2026-08-29T11:00:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Mackenzie Makeup",
         "startTime": "2026-08-29T10:15:00.000-04:00",
-        "endTime": "2026-08-29T11:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T11:00:00.000-04:00"
       },
       {
         "title": "Ashley Makeup",
         "startTime": "2026-08-29T09:30:00.000-04:00",
-        "endTime": "2026-08-29T10:15:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T10:15:00.000-04:00"
       },
       {
         "title": "Domenica Makeup",
         "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": "2026-08-29T09:30:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Hair and Makeup Finished",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Hair & Makeup Arrive",
-        "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": "2026-08-29T09:30:00.000-04:00"
       }
     ]
   },
@@ -744,44 +636,27 @@
       {
         "title": "Mackenzie Hair",
         "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": "2026-08-29T09:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T09:30:00.000-04:00"
       },
       {
         "title": "Hair Touch Ups",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": "2026-08-29T12:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:30:00.000-04:00"
       },
       {
         "title": "Mom Hair",
         "startTime": "2026-08-29T11:15:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Ashley Hair",
         "startTime": "2026-08-29T10:30:00.000-04:00",
-        "endTime": "2026-08-29T11:15:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T11:15:00.000-04:00"
       },
       {
         "title": "Court Hair",
         "startTime": "2026-08-29T09:30:00.000-04:00",
-        "endTime": "2026-08-29T10:30:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Hair and Makeup Finished",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Hair & Makeup Arrive",
-        "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": "2026-08-29T10:30:00.000-04:00"
       }
     ]
   },
@@ -789,17 +664,21 @@
     "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
     "name": "Jeff Richards",
     "alias": "jeff",
-    "email": "support@conwayentertainment.com",
-    "phone": "800-882-7216",
+    "email": "djjeffrichards@yahoo.com",
+    "phone": "518-961-0246",
     "image": "/images/ops/jeff.png",
     "title": "DJ",
     "role": "dj",
     "schedule": [
       {
+        "title": "Last Call",
+        "startTime": "2026-08-29T22:00:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Cell Phone Announcement from DJ",
         "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -814,99 +693,64 @@
     "role": "photography",
     "schedule": [
       {
-        "title": "Photographer Look over property",
-        "startTime": "2026-08-29T11:45:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
-          null
-        ]
+        "title": "Wedding Party Moves from Vines to Clubhouse Bar",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Photographer Arrives",
+        "startTime": "2026-08-29T11:00:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Nathan Does Guys Details",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Matt Get Dressed",
         "startTime": "2026-08-29T12:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Lindsay Does Girls Details",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Courtney Gets Dressed",
         "startTime": "2026-08-29T13:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "First Look - Dad",
         "startTime": "2026-08-29T13:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Reception Space Photos",
         "startTime": "2026-08-29T15:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Other Groups TBD",
-        "startTime": "2026-08-03T17:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Matt’s gift goes to Court",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Court’s gift goes to Matt",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Hair and Makeup Finished",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Golden Hour Photos",
-        "startTime": "2026-08-29T18:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T17:25:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -921,237 +765,264 @@
     "role": "aunt-of-the-bride",
     "schedule": [
       {
+        "title": "Last Call",
+        "startTime": "2026-08-29T22:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Bridesmaids drop off bouquets in the clubhouse",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Bridesmaid bouquets on the candy table or credenza",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Put Courtney’s bouquet on the bar",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Move small bouquets on ceremony chairs to the cake table",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Move flowers from Arch to Sweetheart table",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "High top table used for the ceremony is moved to the bar",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null,
+        "notes": "Had the cell phone sign in the corner where people walk in"
+      },
+      {
+        "title": "Take down welcome sign, move easel to bar area",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null,
+        "notes": "The easel will hold the 20x24 photo of Matt holding Courtney"
+      },
+      {
+        "title": "MJ goes to Staatsburg house to get ready",
+        "startTime": "2026-08-29T10:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Floral & Decorating Prep",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": "2026-08-29T10:45:00.000-04:00"
+      },
+      {
+        "title": "MJ, Shirley, Barb go to clubhouse",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ & HJ depart Rhinebeck and go to Staatsburg House",
+        "startTime": "2026-08-29T07:30:00.000-04:00",
+        "endTime": null,
+        "notes": "Drop off wedding attire & make sure everything is ready for the bridal party"
+      },
+      {
+        "title": "MJ takes greens and votives from the welcome party to Beekman",
+        "startTime": "2026-08-28T22:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Slater Family in MJ’s Enclave to the Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Courtney & Matt drive to the venue in their car",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+        "startTime": "2026-08-28T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Gary drive Mackenzie & ?  back to Rhinebeck",
+        "startTime": "2026-08-28T12:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "HJ and Gary Bring Supplies to Staatsburg House",
+        "startTime": "2026-08-28T22:00:00.000-04:00",
+        "endTime": null,
+        "notes": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb"
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "Check with Megan to see if we can drop greens at Beekman",
         "startTime": "2026-08-27T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Dinner ? ",
         "startTime": "2026-08-27T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Cell Phone Announcement from DJ",
         "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Courtney Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Wait a little for string to play. Double doors opened by Barb & TBD"
       },
       {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Barb / Tanya Flower Set Up",
         "startTime": "2026-08-29T11:30:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "Is it worth doing this the day before"
-        ]
+        "endTime": null
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Milea Opens Gate to Clubhouse",
         "startTime": "2026-08-29T16:40:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Once Courtney is down the aisle"
       },
       {
         "title": "Milea Closes Gate to Clubhouse",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "This is because processional is walking through the only way in "
       },
       {
         "title": "Milea Closes Gate to Clubhouse",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Courtney Goes to Staatsburg House",
         "startTime": "2026-08-28T13:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Haberlach Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:10:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Wetzler Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
       },
       {
-        "title": "Photographer Look over property",
-        "startTime": "2026-08-29T11:45:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
-          null
-        ]
+        "title": "Photographer Arrives",
+        "startTime": "2026-08-29T11:00:00.000-04:00",
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Reception Space Photos",
         "startTime": "2026-08-29T15:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Other Groups TBD",
-        "startTime": "2026-08-03T17:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T17:25:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Megan Sets up Greens at Beekman",
         "startTime": "2026-08-28T17:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Staatsburg House Check In",
         "startTime": "2026-08-28T10:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bar Opens, Staff is Floating with Wine",
         "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Shuttles Arrive at Milea",
         "startTime": "2026-08-29T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Shuttle Leaves Beekman",
         "startTime": "2026-08-29T15:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
         "startTime": "2026-08-29T15:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Passing Water & Lemonade",
         "startTime": "2026-08-29T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Pillow to Cameron",
         "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Cake Pickup at Pastry Garden",
         "startTime": "2026-08-28T17:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Milea Set Up Starts",
         "startTime": "2026-08-28T22:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Start with the arch and the chandelier inside the dining room"
       },
       {
         "title": "Beekman Set Up",
         "startTime": "2026-08-27T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Group Picture Outside",
-        "startTime": "2026-08-28T19:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Open Gate to Clubhouse",
-        "startTime": "2026-08-29T15:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Courtney Staged in Bar Area",
-        "startTime": "2026-08-29T15:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Petals to go into Chloe’s basket",
-        "startTime": "2026-08-29T23:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Basket of Petals to Chloe",
-        "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Florist Leaves",
-        "startTime": "2026-08-29T15:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Golden Hour Photos",
-        "startTime": "2026-08-29T18:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -1166,102 +1037,106 @@
     "role": "father-of-the-bride",
     "schedule": [
       {
+        "title": "MJ & HJ depart Rhinebeck and go to Staatsburg House",
+        "startTime": "2026-08-29T07:30:00.000-04:00",
+        "endTime": null,
+        "notes": "Drop off wedding attire & make sure everything is ready for the bridal party"
+      },
+      {
+        "title": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+        "startTime": "2026-08-28T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "HJ and Gary Bring Supplies to Staatsburg House",
+        "startTime": "2026-08-28T22:00:00.000-04:00",
+        "endTime": null,
+        "notes": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb"
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "Drop greens at Beekman if possible",
         "startTime": "2026-08-27T19:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "MJ is asking when she gets there at 4"
       },
       {
         "title": "Courtney Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Wait a little for string to play. Double doors opened by Barb & TBD"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Parents get corsage and boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "First Look - Dad",
         "startTime": "2026-08-29T13:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Courtney Gives Florist Ribbons to Dad",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Drop Chips and Food with John",
         "startTime": "2026-08-27T10:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Dad Leaves for Ash",
         "startTime": "2026-08-27T13:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ash & Co Land",
         "startTime": "2026-08-27T15:50:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "LaGuardia Airport"
       },
       {
         "title": "Drop Ribbons & Arch Material to Florist",
         "startTime": "2026-08-27T14:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Dad gets flowers from Adams Family Green Market",
         "startTime": "2026-08-27T18:00:00.000-04:00",
         "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "notes": "Pick Up: Flowers & Greens, sandwiches, berries. Might be a good place for Ashley & Bobby to get dinner"
       }
     ]
   },
@@ -1276,132 +1151,149 @@
     "role": "mother-of-the-bride",
     "schedule": [
       {
+        "title": "MJ goes to Staatsburg house to get ready",
+        "startTime": "2026-08-29T10:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Floral & Decorating Prep",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": "2026-08-29T10:45:00.000-04:00"
+      },
+      {
+        "title": "MJ, Shirley, Barb go to clubhouse",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ & HJ depart Rhinebeck and go to Staatsburg House",
+        "startTime": "2026-08-29T07:30:00.000-04:00",
+        "endTime": null,
+        "notes": "Drop off wedding attire & make sure everything is ready for the bridal party"
+      },
+      {
+        "title": "MJ takes greens and votives from the welcome party to Beekman",
+        "startTime": "2026-08-28T22:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+        "startTime": "2026-08-28T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Gary drive Mackenzie & ?  back to Rhinebeck",
+        "startTime": "2026-08-28T12:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "HJ and Gary Bring Supplies to Staatsburg House",
+        "startTime": "2026-08-28T22:00:00.000-04:00",
+        "endTime": null,
+        "notes": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb"
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "Check with Megan to see if we can drop greens at Beekman",
         "startTime": "2026-08-27T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Dinner ? ",
         "startTime": "2026-08-27T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Courtney Goes to Staatsburg House",
         "startTime": "2026-08-28T13:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Parents get corsage and boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Drop Chips and Food with John",
         "startTime": "2026-08-27T10:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Signs go into frames",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Finish Seating Chart - Wax Seals and Paper sticking on",
         "startTime": "2026-08-27T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Megan Sets up Greens at Beekman",
         "startTime": "2026-08-28T17:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Staatsburg House Check In",
         "startTime": "2026-08-28T10:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Mom Hair",
         "startTime": "2026-08-29T11:15:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Milea Set Up Starts",
         "startTime": "2026-08-28T22:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Start with the arch and the chandelier inside the dining room"
       },
       {
         "title": "Beekman Set Up",
         "startTime": "2026-08-27T16:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Drop off Drinks and Snacks to Staatsburg House",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Group Picture Outside",
-        "startTime": "2026-08-28T19:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -1416,108 +1308,69 @@
     "role": "groom",
     "schedule": [
       {
+        "title": "Courtney & Matt drive to the venue in their car",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Transfer Courtney & Matt to Vineyard",
-        "startTime": "2026-08-29T14:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Haberlach Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:10:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Wetzler Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Getting Ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Nathan Does Guys Details",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Matt Get Dressed",
         "startTime": "2026-08-29T12:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
-      },
-      {
-        "title": "Rehearsal Dinner Speeches & Gifts",
-        "startTime": "2026-08-28T19:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Matt’s gift goes to Court",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Court’s gift goes to Matt",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Golden Hour Photos",
-        "startTime": "2026-08-29T18:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1532,208 +1385,141 @@
     "role": "bride",
     "schedule": [
       {
+        "title": "Courtney & Matt drive to the venue in their car",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "TEST",
         "startTime": "2026-08-13T16:10:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "test"
-        ]
+        "endTime": null
       },
       {
         "title": "Courtney Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Wait a little for string to play. Double doors opened by Barb & TBD"
       },
       {
         "title": "Transfer Courtney & Matt to Vineyard",
-        "startTime": "2026-08-29T14:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Transfer Matt to Residence",
         "startTime": "2026-08-29T13:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Transfer Courtney to Residence",
-        "startTime": "2026-08-29T13:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "startTime": "2026-08-29T13:40:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
+      },
+      {
+        "title": "Courtney Goes to Staatsburg House",
+        "startTime": "2026-08-28T13:00:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Pick Up Krause’s Chocolates for Grandma",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": [
-          "test"
-        ]
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Haberlach Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:10:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Wetzler Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Bridesmaids Get Bouquets",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Lindsay Does Girls Details",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Courtney Gets Dressed",
         "startTime": "2026-08-29T13:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "First Look - Dad",
         "startTime": "2026-08-29T13:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Courtney Gives Florist Ribbons to Dad",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Signs go into frames",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Finish Seating Chart - Wax Seals and Paper sticking on",
         "startTime": "2026-08-27T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Staatsburg House Check In",
         "startTime": "2026-08-28T10:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Court Makeup",
         "startTime": "2026-08-29T11:00:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Court Hair",
         "startTime": "2026-08-29T09:30:00.000-04:00",
-        "endTime": "2026-08-29T10:30:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner Speeches & Gifts",
-        "startTime": "2026-08-28T19:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Group Picture Outside",
-        "startTime": "2026-08-28T19:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Matt’s gift goes to Court",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Court’s gift goes to Matt",
-        "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Bridesmaid Arrival",
-        "startTime": "2026-08-29T08:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Courtney Staged in Bar Area",
-        "startTime": "2026-08-29T15:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Golden Hour Photos",
-        "startTime": "2026-08-29T18:45:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": "2026-08-29T10:30:00.000-04:00"
       }
     ]
   },
@@ -1751,37 +1537,27 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Getting Ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -1799,37 +1575,27 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Getting Ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -1847,37 +1613,27 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Getting Ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -1895,37 +1651,27 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Getting Ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Groomsmen Put on their stuff",
         "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -1940,52 +1686,56 @@
     "role": "bridesmaid",
     "schedule": [
       {
+        "title": "Bridesmaids drop off bouquets in the clubhouse",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Gary drive Mackenzie & ?  back to Rhinebeck",
+        "startTime": "2026-08-28T12:00:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Mackenzie Hair",
         "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": "2026-08-29T09:30:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T09:30:00.000-04:00"
       },
       {
         "title": "Mackenzie Makeup",
         "startTime": "2026-08-29T10:15:00.000-04:00",
-        "endTime": "2026-08-29T11:00:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Bridesmaid Arrival",
-        "startTime": "2026-08-29T08:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": "2026-08-29T11:00:00.000-04:00"
       }
     ]
   },
@@ -2000,58 +1750,50 @@
     "role": "bridesmaid",
     "schedule": [
       {
+        "title": "Bridesmaids drop off bouquets in the clubhouse",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Moves from Vines to Clubhouse Bar",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Kris, Bill and Rick Arrive",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Haberlach Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:10:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Wetzler Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Bridesmaids Get Bouquets",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Bridesmaid Arrival",
-        "startTime": "2026-08-29T08:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       }
     ]
   },
@@ -2066,142 +1808,119 @@
     "role": "bridesmaid",
     "schedule": [
       {
+        "title": "Bridesmaids drop off bouquets in the clubhouse",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Slater Family in MJ’s Enclave to the Beekman",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+        "startTime": "2026-08-28T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Two cars departing Rhinebeck headed for Milea",
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
       },
       {
         "title": "Drop greens at Beekman if possible",
         "startTime": "2026-08-27T19:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "MJ is asking when she gets there at 4"
       },
       {
         "title": "TEST",
         "startTime": "2026-08-13T16:10:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "test"
-        ]
+        "endTime": null
       },
       {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ring Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Young Family Photo",
-        "startTime": "2026-08-29T17:00:00.000-04:00",
-        "endTime": "2026-08-29T18:00:00.000-04:00",
-        "notes": []
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Bridesmaids Get Bouquets",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Family Portraits - Ring",
-        "startTime": "2026-08-29T15:15:00.000-04:00",
-        "endTime": null,
-        "notes": [
-          "In the contract. He may be earlier, 3pm is the very latest"
-        ]
+        "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Put Pizza Order In",
         "startTime": "2026-08-27",
-        "endTime": null,
-        "notes": [
-          "test"
-        ]
+        "endTime": null
       },
       {
         "title": "Dad Leaves for Ash",
         "startTime": "2026-08-27T13:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ash & Co Land",
         "startTime": "2026-08-27T15:50:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "LaGuardia Airport"
       },
       {
         "title": "Dad gets flowers from Adams Family Green Market",
         "startTime": "2026-08-27T18:00:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Pick Up: Flowers & Greens, sandwiches, berries. Might be a good place for Ashley & Bobby to get dinner"
       },
       {
         "title": "Pillow to Cameron",
         "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ashley Does Chloe’s Hair",
         "startTime": "2026-08-29T11:15:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T12:00:00.000-04:00"
       },
       {
         "title": "Bobby Arrives with Cameron",
         "startTime": "2026-08-29T15:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Ashley Makeup",
         "startTime": "2026-08-29T09:30:00.000-04:00",
-        "endTime": "2026-08-29T10:15:00.000-04:00",
-        "notes": []
+        "endTime": "2026-08-29T10:15:00.000-04:00"
       },
       {
         "title": "Ashley Hair",
         "startTime": "2026-08-29T10:30:00.000-04:00",
-        "endTime": "2026-08-29T11:15:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Bridesmaid Arrival",
-        "startTime": "2026-08-29T08:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Basket of Petals to Chloe",
-        "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": "2026-08-29T11:15:00.000-04:00"
       }
     ]
   },
@@ -2216,46 +1935,35 @@
     "role": "bridesmaid",
     "schedule": [
       {
+        "title": "Bridesmaids drop off bouquets in the clubhouse",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": []
+        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaids Get Bouquets",
         "startTime": "2026-08-29T13:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": null
       },
       {
         "title": "Domenica Makeup",
         "startTime": "2026-08-29T08:45:00.000-04:00",
-        "endTime": "2026-08-29T09:30:00.000-04:00",
-        "notes": []
-      },
-      {
-        "title": "Bridesmaid Arrival",
-        "startTime": "2026-08-29T08:15:00.000-04:00",
-        "endTime": null,
-        "notes": []
-      },
-      {
-        "title": "Rehearsal Dinner",
-        "startTime": "2026-08-28T18:00:00.000-04:00",
-        "endTime": null,
-        "notes": []
+        "endTime": "2026-08-29T09:30:00.000-04:00"
       }
     ]
   }

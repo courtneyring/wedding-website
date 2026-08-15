@@ -20,9 +20,9 @@
  *   node schedule-to-pdf.js events.json --all pdfs/     # ...into pdfs/
  */
 
-import fs from 'fs';
-import path from 'path';
-import PDFDocument from 'pdfkit';
+import fs from "fs";
+import path from "path";
+import PDFDocument from "pdfkit";
 
 // ---------- CLI args ----------
 const [, , inputPath, secondArg, thirdArg] = process.argv;
@@ -201,18 +201,25 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
       );
 
     // Notes
-    const notes = (ev.notes || []).filter(
-      (n) => n && String(n).trim().length > 0,
-    );
-    for (const note of notes) {
-      doc
-        .font("Helvetica")
-        .fontSize(10.5)
-        .fillColor("#000000")
-        .text(note, doc.page.margins.left + timeColWidth, doc.y, {
-          width: PAGE_WIDTH - timeColWidth,
-        });
-    }
+    // const notes = (ev.notes || []).filter(
+    //   (n) => n && String(n).trim().length > 0,
+    // );
+    // for (const note of notes) {
+    //   doc
+    //     .font("Helvetica")
+    //     .fontSize(10.5)
+    //     .fillColor("#000000")
+    //     .text(note, doc.page.margins.left + timeColWidth, doc.y, {
+    //       width: PAGE_WIDTH - timeColWidth,
+    //     });
+    // }
+    doc
+      .font("Helvetica")
+      .fontSize(10.5)
+      .fillColor("#000000")
+      .text(ev.note, doc.page.margins.left + timeColWidth, doc.y, {
+        width: PAGE_WIDTH - timeColWidth,
+      });
 
     // Assignees — only shown on the full (no-alias) schedule
     if (!alias) {

@@ -1,9 +1,455 @@
 [
   {
+    "title": "Last Call",
+    "startTime": "2026-08-29T22:00:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+        "name": "Jeff Richards",
+        "alias": "jeff"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Bridesmaids drop off bouquets in the clubhouse",
+    "startTime": "2026-08-29T17:05:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
+        "name": "Domenica Pazmino",
+        "alias": "dom"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
+    ]
+  },
+  {
+    "title": "Bridesmaid bouquets on the candy table or credenza",
+    "startTime": "2026-08-29T17:05:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Put Courtney’s bouquet on the bar",
+    "startTime": "2026-08-29T17:50:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Move small bouquets on ceremony chairs to the cake table",
+    "startTime": "2026-08-29T17:05:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Move flowers from Arch to Sweetheart table",
+    "startTime": "2026-08-29T17:50:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8065-8a5e-f03507318665",
+        "name": "Mina Do",
+        "alias": "Mina"
+      }
+    ]
+  },
+  {
+    "title": "High top table used for the ceremony is moved to the bar",
+    "startTime": "2026-08-29T17:05:00.000-04:00",
+    "endTime": null,
+    "notes": "Had the cell phone sign in the corner where people walk in",
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Take down welcome sign, move easel to bar area",
+    "startTime": "2026-08-29T17:05:00.000-04:00",
+    "endTime": null,
+    "notes": "The easel will hold the 20x24 photo of Matt holding Courtney",
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Wedding Party Moves from Vines to Clubhouse Bar",
+    "startTime": "2026-08-29T15:30:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
+        "name": "Lindsay & Nathan Varner",
+        "alias": "lindsay"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth",
+        "alias": "sam"
+      },
+      {
+        "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7",
+        "name": "Kris & Bill Haberlach",
+        "alias": "haberlach"
+      },
+      {
+        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
+        "name": "Becky Wetzler",
+        "alias": "becky"
+      }
+    ]
+  },
+  {
+    "title": "MJ goes to Staatsburg house to get ready",
+    "startTime": "2026-08-29T10:45:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth",
+        "alias": "sam"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      }
+    ]
+  },
+  {
+    "title": "Floral & Decorating Prep",
+    "startTime": "2026-08-29T09:00:00.000-04:00",
+    "endTime": "2026-08-29T10:45:00.000-04:00",
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley Young",
+        "alias": "shirley"
+      }
+    ]
+  },
+  {
+    "title": "MJ, Shirley, Barb go to clubhouse",
+    "startTime": "2026-08-29T09:00:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley Young",
+        "alias": "shirley"
+      }
+    ]
+  },
+  {
+    "title": "MJ & HJ depart Rhinebeck and go to Staatsburg House",
+    "startTime": "2026-08-29T07:30:00.000-04:00",
+    "endTime": null,
+    "notes": "Drop off wedding attire & make sure everything is ready for the bridal party",
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howard"
+      }
+    ]
+  },
+  {
+    "title": "MJ takes greens and votives from the welcome party to Beekman",
+    "startTime": "2026-08-28T22:00:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+    "startTime": "2026-08-28T15:30:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley Young",
+        "alias": "shirley"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howard"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      }
+    ]
+  },
+  {
+    "title": "Slater Family in MJ’s Enclave to the Beekman",
+    "startTime": "2026-08-28T15:30:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby Slater",
+        "alias": "bobby"
+      }
+    ]
+  },
+  {
+    "title": "Courtney & Matt drive to the venue in their car",
+    "startTime": "2026-08-28T15:30:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      }
+    ]
+  },
+  {
+    "title": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+    "startTime": "2026-08-28T15:30:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
+        "name": "Bobby Slater",
+        "alias": "bobby"
+      }
+    ]
+  },
+  {
+    "title": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+    "startTime": "2026-08-28T14:00:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley Young",
+        "alias": "shirley"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howard"
+      }
+    ]
+  },
+  {
+    "title": "Gary drive Mackenzie & ?  back to Rhinebeck",
+    "startTime": "2026-08-28T12:00:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski",
+        "alias": "garyk"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      }
+    ]
+  },
+  {
+    "title": "HJ and Gary Bring Supplies to Staatsburg House",
+    "startTime": "2026-08-28T22:00:00.000-04:00",
+    "endTime": null,
+    "notes": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb",
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski",
+        "alias": "garyk"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howard"
+      }
+    ]
+  },
+  {
     "title": "Two cars departing Rhinebeck headed for Milea",
     "startTime": "2026-08-28T09:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -46,7 +492,7 @@
     "title": "Drop greens at Beekman if possible",
     "startTime": "2026-08-27T19:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "MJ is asking when she gets there at 4",
     "assignees": [
       {
         "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -69,7 +515,6 @@
     "title": "Check with Megan to see if we can drop greens at Beekman",
     "startTime": "2026-08-27T16:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -92,7 +537,6 @@
     "title": "Dinner ? ",
     "startTime": "2026-08-27T18:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -115,9 +559,6 @@
     "title": "TEST",
     "startTime": "2026-08-13T16:10:00.000-04:00",
     "endTime": null,
-    "notes": [
-      "test"
-    ],
     "assignees": [
       {
         "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -135,7 +576,6 @@
     "title": "Cell Phone Announcement from DJ",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -153,7 +593,7 @@
     "title": "Courtney Processional",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "Wait a little for string to play. Double doors opened by Barb & TBD",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -186,7 +626,7 @@
     "title": "Wedding Party Processional",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -262,9 +702,8 @@
   },
   {
     "title": "Transfer Courtney & Matt to Vineyard",
-    "startTime": "2026-08-29T14:30:00.000-04:00",
+    "startTime": "2026-08-29T14:45:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
@@ -292,7 +731,6 @@
     "title": "Transfer Matt to Residence",
     "startTime": "2026-08-29T13:45:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
@@ -313,9 +751,8 @@
   },
   {
     "title": "Transfer Courtney to Residence",
-    "startTime": "2026-08-29T13:45:00.000-04:00",
+    "startTime": "2026-08-29T13:40:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3afde2a9-1181-80f2-88f0-faba95602902",
@@ -338,7 +775,6 @@
     "title": "Kris, Bill and Rick Arrive",
     "startTime": "2026-08-29T15:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3afde2a9-1181-80f2-88f0-faba95602902",
@@ -361,9 +797,6 @@
     "title": "Barb / Tanya Flower Set Up",
     "startTime": "2026-08-29T11:30:00.000-04:00",
     "endTime": null,
-    "notes": [
-      "Is it worth doing this the day before"
-    ],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -376,7 +809,6 @@
     "title": "Leave for Beekman",
     "startTime": "2026-08-28T17:20:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
@@ -464,7 +896,7 @@
     "title": "Milea Opens Gate to Clubhouse",
     "startTime": "2026-08-29T16:40:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "Once Courtney is down the aisle",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -482,7 +914,7 @@
     "title": "Milea Closes Gate to Clubhouse",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "This is because processional is walking through the only way in ",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -500,7 +932,6 @@
     "title": "Milea Closes Gate to Clubhouse",
     "startTime": "2026-08-29T15:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -518,7 +949,6 @@
     "title": "Courtney Goes to Staatsburg House",
     "startTime": "2026-08-28T13:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -529,6 +959,11 @@
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
         "name": "Barb Konuszewski",
         "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
       }
     ]
   },
@@ -536,9 +971,6 @@
     "title": "Pick Up Krause’s Chocolates for Grandma",
     "startTime": "2026-08-27",
     "endTime": null,
-    "notes": [
-      "test"
-    ],
     "assignees": [
       {
         "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
@@ -549,9 +981,8 @@
   },
   {
     "title": "Ring Family Photo",
-    "startTime": "2026-08-29T17:00:00.000-04:00",
-    "endTime": "2026-08-29T18:00:00.000-04:00",
-    "notes": [],
+    "startTime": "2026-08-29T17:20:00.000-04:00",
+    "endTime": null,
     "assignees": [
       {
         "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
@@ -592,9 +1023,8 @@
   },
   {
     "title": "Young Family Photo",
-    "startTime": "2026-08-29T17:00:00.000-04:00",
-    "endTime": "2026-08-29T18:00:00.000-04:00",
-    "notes": [],
+    "startTime": "2026-08-29T17:15:00.000-04:00",
+    "endTime": null,
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -650,9 +1080,8 @@
   },
   {
     "title": "Haberlach Family Photo",
-    "startTime": "2026-08-29T17:00:00.000-04:00",
-    "endTime": "2026-08-29T18:00:00.000-04:00",
-    "notes": [],
+    "startTime": "2026-08-29T17:10:00.000-04:00",
+    "endTime": null,
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -683,9 +1112,8 @@
   },
   {
     "title": "Wetzler Family Photo",
-    "startTime": "2026-08-29T17:00:00.000-04:00",
-    "endTime": "2026-08-29T18:00:00.000-04:00",
-    "notes": [],
+    "startTime": "2026-08-29T17:05:00.000-04:00",
+    "endTime": null,
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -718,7 +1146,6 @@
     "title": "Parents get corsage and boutonnieres",
     "startTime": "2026-08-29T13:15:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3afde2a9-1181-80f2-88f0-faba95602902",
@@ -751,7 +1178,6 @@
     "title": "Bridesmaids Get Bouquets",
     "startTime": "2026-08-29T13:15:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
@@ -784,7 +1210,6 @@
     "title": "Groomsmen pin on Boutonnieres",
     "startTime": "2026-08-29T13:15:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
@@ -819,13 +1244,9 @@
     ]
   },
   {
-    "title": "Photographer Look over property",
-    "startTime": "2026-08-29T11:45:00.000-04:00",
-    "endTime": null,
-    "notes": [
-      "Officially we have her for 8 hours, 12-8. She said she usually arrives 45 minutes early to take a look at the venue",
-      null
-    ],
+    "title": "Photographer Arrives",
+    "startTime": "2026-08-29T11:00:00.000-04:00",
+    "endTime": "2026-08-29T12:00:00.000-04:00",
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -848,7 +1269,6 @@
     "title": "Groomsmen Getting Ready",
     "startTime": "2026-08-29T12:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3afde2a9-1181-80f2-88f0-faba95602902",
@@ -886,7 +1306,6 @@
     "title": "Groomsmen Put on their stuff",
     "startTime": "2026-08-29T12:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -934,7 +1353,6 @@
     "title": "Nathan Does Guys Details",
     "startTime": "2026-08-29T12:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -957,7 +1375,6 @@
     "title": "Matt Get Dressed",
     "startTime": "2026-08-29T12:45:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -980,7 +1397,6 @@
     "title": "Lindsay Does Girls Details",
     "startTime": "2026-08-29T12:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -1003,7 +1419,6 @@
     "title": "Bridesmaid Photo in Athleisure",
     "startTime": "2026-08-29T12:55:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -1046,7 +1461,6 @@
     "title": "Courtney Gets Dressed",
     "startTime": "2026-08-29T13:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -1069,7 +1483,6 @@
     "title": "First Look - Dad",
     "startTime": "2026-08-29T13:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -1097,7 +1510,6 @@
     "title": "Reception Space Photos",
     "startTime": "2026-08-29T15:45:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1113,11 +1525,8 @@
   },
   {
     "title": "Family Portraits - Ring",
-    "startTime": "2026-08-29T15:15:00.000-04:00",
+    "startTime": "2026-08-29T15:20:00.000-04:00",
     "endTime": null,
-    "notes": [
-      "In the contract. He may be earlier, 3pm is the very latest"
-    ],
     "assignees": [
       {
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
@@ -1168,9 +1577,8 @@
   },
   {
     "title": "Other Groups TBD",
-    "startTime": "2026-08-03T17:00:00.000-04:00",
+    "startTime": "2026-08-29T17:25:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1188,7 +1596,6 @@
     "title": "Courtney Gives Florist Ribbons to Dad",
     "startTime": "2026-08-27",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
@@ -1206,7 +1613,6 @@
     "title": "Drop Chips and Food with John",
     "startTime": "2026-08-27T10:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1224,7 +1630,6 @@
     "title": "Signs go into frames",
     "startTime": "2026-08-27",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1242,7 +1647,6 @@
     "title": "Finish Seating Chart - Wax Seals and Paper sticking on",
     "startTime": "2026-08-27T12:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1260,9 +1664,6 @@
     "title": "Put Pizza Order In",
     "startTime": "2026-08-27",
     "endTime": null,
-    "notes": [
-      "test"
-    ],
     "assignees": [
       {
         "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -1275,7 +1676,6 @@
     "title": "Dad Leaves for Ash",
     "startTime": "2026-08-27T13:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8009-84b9-f3021e97e700",
@@ -1293,7 +1693,7 @@
     "title": "Ash & Co Land",
     "startTime": "2026-08-27T15:50:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "LaGuardia Airport",
     "assignees": [
       {
         "id": "300de2a9-1181-8009-84b9-f3021e97e700",
@@ -1316,7 +1716,6 @@
     "title": "Drop Ribbons & Arch Material to Florist",
     "startTime": "2026-08-27T14:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8064-9891-df4314ea7fad",
@@ -1334,7 +1733,6 @@
     "title": "Megan Sets up Greens at Beekman",
     "startTime": "2026-08-28T17:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1352,7 +1750,7 @@
     "title": "Dad gets flowers from Adams Family Green Market",
     "startTime": "2026-08-27T18:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "Pick Up: Flowers & Greens, sandwiches, berries. Might be a good place for Ashley & Bobby to get dinner",
     "assignees": [
       {
         "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -1375,7 +1773,6 @@
     "title": "Staatsburg House Check In",
     "startTime": "2026-08-28T10:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1398,7 +1795,6 @@
     "title": "Bar Opens, Staff is Floating with Wine",
     "startTime": "2026-08-29T17:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1416,7 +1812,6 @@
     "title": "Shuttles Arrive at Milea",
     "startTime": "2026-08-29T16:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
@@ -1434,7 +1829,6 @@
     "title": "Shuttle Leaves Beekman",
     "startTime": "2026-08-29T15:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
@@ -1452,7 +1846,6 @@
     "title": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
     "startTime": "2026-08-29T15:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
@@ -1470,7 +1863,6 @@
     "title": "Passing Water & Lemonade",
     "startTime": "2026-08-29T16:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8065-8a5e-f03507318665",
@@ -1488,7 +1880,6 @@
     "title": "Pillow to Cameron",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1506,19 +1897,16 @@
     "title": "Staatsburg Checkout ",
     "startTime": "2026-08-30T16:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": []
   },
   {
     "title": "Courtney’s Bouquet goes to ?",
-    "notes": [],
     "assignees": []
   },
   {
     "title": "Ashley Does Chloe’s Hair",
     "startTime": "2026-08-29T11:15:00.000-04:00",
     "endTime": "2026-08-29T12:00:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -1536,7 +1924,6 @@
     "title": "Bobby Arrives with Cameron",
     "startTime": "2026-08-29T15:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c8-9596-f22327f25eab",
@@ -1557,14 +1944,12 @@
   },
   {
     "title": "Drop off marriage license into mail",
-    "notes": [],
     "assignees": []
   },
   {
     "title": "Mackenzie Hair",
     "startTime": "2026-08-29T08:45:00.000-04:00",
     "endTime": "2026-08-29T09:30:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
@@ -1587,7 +1972,6 @@
     "title": "Makeup Touch Ups",
     "startTime": "2026-08-29T12:00:00.000-04:00",
     "endTime": "2026-08-29T12:30:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
@@ -1605,7 +1989,6 @@
     "title": "Hair Touch Ups",
     "startTime": "2026-08-29T12:00:00.000-04:00",
     "endTime": "2026-08-29T12:30:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
@@ -1623,7 +2006,6 @@
     "title": "Court Makeup",
     "startTime": "2026-08-29T11:00:00.000-04:00",
     "endTime": "2026-08-29T12:00:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
@@ -1646,7 +2028,6 @@
     "title": "Mackenzie Makeup",
     "startTime": "2026-08-29T10:15:00.000-04:00",
     "endTime": "2026-08-29T11:00:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
@@ -1669,7 +2050,6 @@
     "title": "Ashley Makeup",
     "startTime": "2026-08-29T09:30:00.000-04:00",
     "endTime": "2026-08-29T10:15:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
@@ -1692,7 +2072,6 @@
     "title": "Domenica Makeup",
     "startTime": "2026-08-29T08:45:00.000-04:00",
     "endTime": "2026-08-29T09:30:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
@@ -1715,7 +2094,6 @@
     "title": "Mom Hair",
     "startTime": "2026-08-29T11:15:00.000-04:00",
     "endTime": "2026-08-29T12:00:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
@@ -1738,7 +2116,6 @@
     "title": "Ashley Hair",
     "startTime": "2026-08-29T10:30:00.000-04:00",
     "endTime": "2026-08-29T11:15:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
@@ -1761,7 +2138,6 @@
     "title": "Court Hair",
     "startTime": "2026-08-29T09:30:00.000-04:00",
     "endTime": "2026-08-29T10:30:00.000-04:00",
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
@@ -1782,28 +2158,17 @@
   },
   {
     "title": "Bags out of the way in the getting ready room",
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Put cake on cake table",
-    "notes": [],
     "assignees": []
   },
   {
     "title": "Cake Pickup at Pastry Garden",
     "startTime": "2026-08-28T17:45:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3b3de2a9-1181-80c8-a35d-c17004e6abf5",
         "name": "Ed Tafur",
         "alias": "ed"
-      },
-      {
-        "id": "3b3de2a9-1181-8022-b291-e5d1139883f0",
-        "name": "Mary"
       },
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1816,7 +2181,6 @@
     "title": "Take gifts and put on gifts table",
     "startTime": "2026-08-29T16:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3afde2a9-1181-80f2-88f0-faba95602902",
@@ -1829,7 +2193,7 @@
     "title": "Milea Set Up Starts",
     "startTime": "2026-08-28T22:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
+    "notes": "Start with the arch and the chandelier inside the dining room",
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1847,7 +2211,6 @@
     "title": "Beekman Set Up",
     "startTime": "2026-08-27T16:00:00.000-04:00",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1868,14 +2231,12 @@
   },
   {
     "title": "Drivers to Rehearsal leave",
-    "notes": [],
     "assignees": []
   },
   {
     "title": "Drop off Drinks and Snacks to Staatsburg House",
     "startTime": "2026-08-27",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
@@ -1888,7 +2249,6 @@
     "title": "Lunch for house Delivered",
     "startTime": "2026-08-29",
     "endTime": null,
-    "notes": [],
     "assignees": [
       {
         "id": "3afde2a9-1181-80f2-88f0-faba95602902",
@@ -1899,438 +2259,6 @@
   },
   {
     "title": "After Party chips, etc, set up",
-    "notes": [],
     "assignees": []
-  },
-  {
-    "title": "Pizza Arrives at Legion",
-    "startTime": "2026-08-29T22:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Rehearsal Dinner Speeches & Gifts",
-    "startTime": "2026-08-28T19:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-        "name": "Matt Haberlach",
-        "alias": "matt"
-      }
-    ]
-  },
-  {
-    "title": "Rehearsal Group Picture Outside",
-    "startTime": "2026-08-28T19:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
-        "name": "Mary Jo Ring",
-        "alias": "maryjo"
-      },
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      }
-    ]
-  },
-  {
-    "title": "Matt’s gift goes to Court",
-    "startTime": "2026-08-29T13:15:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-        "name": "Matt Haberlach",
-        "alias": "matt"
-      },
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-        "name": "Lindsay & Nathan Varner",
-        "alias": "lindsay"
-      },
-      {
-        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
-        "name": "Sam Landreth",
-        "alias": "sam"
-      }
-    ]
-  },
-  {
-    "title": "Court’s gift goes to Matt",
-    "startTime": "2026-08-29T13:15:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-        "name": "Matt Haberlach",
-        "alias": "matt"
-      },
-      {
-        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-        "name": "Lindsay & Nathan Varner",
-        "alias": "lindsay"
-      },
-      {
-        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
-        "name": "Sam Landreth",
-        "alias": "sam"
-      }
-    ]
-  },
-  {
-    "title": "Court changes into after party dress",
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Bridesmaid Arrival",
-    "startTime": "2026-08-29T08:15:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
-        "name": "Domenica Pazmino",
-        "alias": "dom"
-      },
-      {
-        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
-        "name": "Mackenzie Robertson",
-        "alias": "mackenzie"
-      },
-      {
-        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
-        "name": "Becky Wetzler",
-        "alias": "becky"
-      },
-      {
-        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
-        "name": "Sam Landreth",
-        "alias": "sam"
-      },
-      {
-        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
-        "name": "Ashley Slater",
-        "alias": "ashley"
-      }
-    ]
-  },
-  {
-    "title": "Hair and Makeup Finished",
-    "startTime": "2026-08-29T12:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
-        "name": "Sara Julianna",
-        "alias": "sara"
-      },
-      {
-        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-        "name": "Laura Moore",
-        "alias": "laura"
-      },
-      {
-        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
-        "name": "Sam Landreth",
-        "alias": "sam"
-      },
-      {
-        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-        "name": "Lindsay & Nathan Varner",
-        "alias": "lindsay"
-      }
-    ]
-  },
-  {
-    "title": "Open Gate to Clubhouse",
-    "startTime": "2026-08-29T15:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8065-8a5e-f03507318665",
-        "name": "Mina Do",
-        "alias": "Mina"
-      },
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      }
-    ]
-  },
-  {
-    "title": "Courtney Staged in Bar Area",
-    "startTime": "2026-08-29T15:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      }
-    ]
-  },
-  {
-    "title": "After Party Ends",
-    "startTime": "2026-08-30T02:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "After Party Starts",
-    "startTime": "2026-08-29T23:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Shuttle to After Party",
-    "startTime": "2026-08-29T22:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "36dde2a9-1181-8066-a2ac-d4b00b605273",
-        "name": "Nancy",
-        "alias": "nancy"
-      }
-    ]
-  },
-  {
-    "title": "Rehearsal Dinner",
-    "startTime": "2026-08-28T18:00:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d",
-        "name": "Domenica Pazmino",
-        "alias": "dom"
-      },
-      {
-        "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e",
-        "name": "Wes Landreth",
-        "alias": "wes"
-      },
-      {
-        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
-        "name": "Mackenzie Robertson",
-        "alias": "mackenzie"
-      },
-      {
-        "id": "300de2a9-1181-807c-906b-d8c1f1d72667",
-        "name": "Becky Wetzler",
-        "alias": "becky"
-      },
-      {
-        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
-        "name": "Ashley Slater",
-        "alias": "ashley"
-      },
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-8030-8d3c-da6c337ae361",
-        "name": "CJ Douty",
-        "alias": "cj"
-      },
-      {
-        "id": "300de2a9-1181-809e-96c3-da3e34e95806",
-        "name": "Austin Michel",
-        "alias": "austin"
-      },
-      {
-        "id": "300de2a9-1181-805c-baa6-c4c331099d70",
-        "name": "Alex Meyers",
-        "alias": "alex"
-      },
-      {
-        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-        "name": "Matt Haberlach",
-        "alias": "matt"
-      },
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      },
-      {
-        "id": "36dde2a9-1181-8001-8d03-e452c5598c89",
-        "name": "Gary Young",
-        "alias": "garyy"
-      },
-      {
-        "id": "36dde2a9-1181-801d-b1b9-f581b829f721",
-        "name": "Stuart Kendall",
-        "alias": "stuart"
-      },
-      {
-        "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21",
-        "name": "Bobby Slater",
-        "alias": "bobby"
-      },
-      {
-        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
-        "name": "Howard Ring",
-        "alias": "howard"
-      },
-      {
-        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
-        "name": "Mary Jo Ring",
-        "alias": "maryjo"
-      }
-    ]
-  },
-  {
-    "title": "Petals to go into Chloe’s basket",
-    "startTime": "2026-08-29T23:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      }
-    ]
-  },
-  {
-    "title": "Basket of Petals to Chloe",
-    "startTime": "2026-08-29T16:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      },
-      {
-        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
-        "name": "Ashley Slater",
-        "alias": "ashley"
-      }
-    ]
-  },
-  {
-    "title": "Mic Practice",
-    "notes": [],
-    "assignees": []
-  },
-  {
-    "title": "Florist Leaves",
-    "startTime": "2026-08-29T15:30:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8064-9891-df4314ea7fad",
-        "name": "Christine Fontana",
-        "alias": "christine"
-      },
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      }
-    ]
-  },
-  {
-    "title": "Hair & Makeup Arrive",
-    "startTime": "2026-08-29T08:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5",
-        "name": "Laura Moore",
-        "alias": "laura"
-      },
-      {
-        "id": "300de2a9-1181-80ea-bff2-c1e5d156f770",
-        "name": "Sara Julianna",
-        "alias": "sara"
-      },
-      {
-        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
-        "name": "Sam Landreth",
-        "alias": "sam"
-      }
-    ]
-  },
-  {
-    "title": "Golden Hour Photos",
-    "startTime": "2026-08-29T18:45:00.000-04:00",
-    "endTime": null,
-    "notes": [],
-    "assignees": [
-      {
-        "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
-        "name": "Lindsay & Nathan Varner",
-        "alias": "lindsay"
-      },
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      },
-      {
-        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
-        "name": "Matt Haberlach",
-        "alias": "matt"
-      },
-      {
-        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
-        "name": "Barb Konuszewski",
-        "alias": "barb"
-      }
-    ]
   }
 ]

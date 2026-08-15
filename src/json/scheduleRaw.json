@@ -1,6 +1,2822 @@
 [
   {
     "object": "page",
+    "id": "3bcde2a9-1181-8082-80cf-e54bb48e8ed7",
+    "created_time": "2026-08-14T21:19:00.000Z",
+    "last_edited_time": "2026-08-14T21:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "2:00 am"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 2
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "af8ee5f9-bd6f-4346-8cf9-966fa753557c",
+          "name": "DJ",
+          "color": "blue"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T22:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Last Call",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Last Call",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Last-Call-3bcde2a91181808280cfe54bb48e8ed7",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80ed-bb53-dccaaf129d1b",
+    "created_time": "2026-08-14T21:14:00.000Z",
+    "last_edited_time": "2026-08-14T21:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:05 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          },
+          {
+            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "6dd41afe-9252-4e8c-839a-8bc3a3db743b",
+          "name": "Venue",
+          "color": "brown"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:05:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridesmaids drop off bouquets in the clubhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridesmaids drop off bouquets in the clubhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Bridesmaids-drop-off-bouquets-in-the-clubhouse-3bcde2a9118180edbb53dccaaf129d1b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-802a-95f4-de7189997fe6",
+    "created_time": "2026-08-14T21:14:00.000Z",
+    "last_edited_time": "2026-08-14T21:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:05 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:05:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridesmaid bouquets on the candy table or credenza",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridesmaid bouquets on the candy table or credenza",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Bridesmaid-bouquets-on-the-candy-table-or-credenza-3bcde2a91181802a95f4de7189997fe6",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80ee-be47-e0d15d02c223",
+    "created_time": "2026-08-14T21:14:00.000Z",
+    "last_edited_time": "2026-08-14T21:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:50 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:50:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Put Courtney’s bouquet on the bar",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Put Courtney’s bouquet on the bar",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Put-Courtney-s-bouquet-on-the-bar-3bcde2a9118180eebe47e0d15d02c223",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8033-a55d-dcbcef55a0f9",
+    "created_time": "2026-08-14T21:13:00.000Z",
+    "last_edited_time": "2026-08-14T21:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:05 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:05:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Move small bouquets on ceremony chairs to the cake table",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Move small bouquets on ceremony chairs to the cake table",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Move-small-bouquets-on-ceremony-chairs-to-the-cake-table-3bcde2a911818033a55ddcbcef55a0f9",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8052-b663-f53adb30eb1e",
+    "created_time": "2026-08-14T21:13:00.000Z",
+    "last_edited_time": "2026-08-14T21:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:50 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8065-8a5e-f03507318665"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:50:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Move flowers from Arch to Sweetheart table",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Move flowers from Arch to Sweetheart table",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Move-flowers-from-Arch-to-Sweetheart-table-3bcde2a911818052b663f53adb30eb1e",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8040-85b7-ddc0fb166d67",
+    "created_time": "2026-08-14T21:12:00.000Z",
+    "last_edited_time": "2026-08-14T21:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:05 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Had the cell phone sign in the corner where people walk in",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Had the cell phone sign in the corner where people walk in",
+            "href": null
+          }
+        ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:05:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "High top table used for the ceremony is moved to the bar",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "High top table used for the ceremony is moved to the bar",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/High-top-table-used-for-the-ceremony-is-moved-to-the-bar-3bcde2a91181804085b7ddc0fb166d67",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8003-b907-c588c71cb11d",
+    "created_time": "2026-08-14T21:11:00.000Z",
+    "last_edited_time": "2026-08-14T21:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "9:05 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 21
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The easel will hold the 20x24 photo of Matt holding Courtney",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The easel will hold the 20x24 photo of Matt holding Courtney",
+            "href": null
+          }
+        ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T17:05:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Take down welcome sign, move easel to bar area",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Take down welcome sign, move easel to bar area",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Take-down-welcome-sign-move-easel-to-bar-area-3bcde2a911818003b907c588c71cb11d",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8056-8a3d-ce2515d03843",
+    "created_time": "2026-08-14T20:35:00.000Z",
+    "last_edited_time": "2026-08-14T20:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
+          },
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+          },
+          {
+            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
+          "name": "Photography",
+          "color": "pink"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T15:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wedding Party Moves from Vines to Clubhouse Bar",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wedding Party Moves from Vines to Clubhouse Bar",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Wedding-Party-Moves-from-Vines-to-Clubhouse-Bar-3bcde2a9118180568a3dce2515d03843",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80a5-85ef-c7dac11ec389",
+    "created_time": "2026-08-14T20:25:00.000Z",
+    "last_edited_time": "2026-08-14T20:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "2:45 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 14
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "71bf0ff7-4054-4b00-ae93-9e7220a77850",
+          "name": "Beauty",
+          "color": "green"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T10:45:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MJ goes to Staatsburg house to get ready",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MJ goes to Staatsburg house to get ready",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MJ-goes-to-Staatsburg-house-to-get-ready-3bcde2a9118180a585efc7dac11ec389",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80ee-a130-da898ade6f9b",
+    "created_time": "2026-08-14T20:24:00.000Z",
+    "last_edited_time": "2026-08-14T20:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 13
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "558ca814-2da5-46af-8fef-c3cabe7b51c0",
+          "name": "Florist",
+          "color": "purple"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T09:00:00.000-04:00",
+          "end": "2026-08-29T10:45:00.000-04:00",
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Floral & Decorating Prep",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Floral & Decorating Prep",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Floral-Decorating-Prep-3bcde2a9118180eea130da898ade6f9b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80be-8108-dc17fa45c1e7",
+    "created_time": "2026-08-14T20:23:00.000Z",
+    "last_edited_time": "2026-08-14T20:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 13
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "558ca814-2da5-46af-8fef-c3cabe7b51c0",
+          "name": "Florist",
+          "color": "purple"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T09:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MJ, Shirley, Barb go to clubhouse",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MJ, Shirley, Barb go to clubhouse",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MJ-Shirley-Barb-go-to-clubhouse-3bcde2a9118180be8108dc17fa45c1e7",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80ee-b712-cbbf665b301a",
+    "created_time": "2026-08-14T20:14:00.000Z",
+    "last_edited_time": "2026-08-14T20:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "11:30 am"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 11
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": {
+          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
+          "name": "10:15 am",
+          "color": "blue"
+        }
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Drop off wedding attire & make sure everything is ready for the bridal party",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Drop off wedding attire & make sure everything is ready for the bridal party",
+            "href": null
+          }
+        ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "1015"
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-29T07:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MJ & HJ depart Rhinebeck and go to Staatsburg House",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MJ & HJ depart Rhinebeck and go to Staatsburg House",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MJ-HJ-depart-Rhinebeck-and-go-to-Staatsburg-House-3bcde2a9118180eeb712cbbf665b301a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80fb-a475-f5677cd79bcd",
+    "created_time": "2026-08-14T20:10:00.000Z",
+    "last_edited_time": "2026-08-14T20:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "2:00 am"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 2
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T22:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MJ takes greens and votives from the welcome party to Beekman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MJ takes greens and votives from the welcome party to Beekman",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MJ-takes-greens-and-votives-from-the-welcome-party-to-Beekman-3bcde2a9118180fba475f5677cd79bcd",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-808e-99bc-e9ecf694cb9f",
+    "created_time": "2026-08-14T20:06:00.000Z",
+    "last_edited_time": "2026-08-14T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T15:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MJ, Shirley, HJ, Barb, Kenzie in Shirley Enclave to Beekman",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MJ-Shirley-HJ-Barb-Kenzie-in-Shirley-Enclave-to-Beekman-3bcde2a91181808e99bce9ecf694cb9f",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80d2-af4c-cfbc1fa9455a",
+    "created_time": "2026-08-14T20:05:00.000Z",
+    "last_edited_time": "2026-08-14T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T15:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Slater Family in MJ’s Enclave to the Beekman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Slater Family in MJ’s Enclave to the Beekman",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Slater-Family-in-MJ-s-Enclave-to-the-Beekman-3bcde2a9118180d2af4ccfbc1fa9455a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-804e-b04e-f6c35ef30431",
+    "created_time": "2026-08-14T20:01:00.000Z",
+    "last_edited_time": "2026-08-14T20:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Getting ready at the house or at the hotel?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Getting ready at the house or at the hotel?",
+            "href": null
+          }
+        ]
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T15:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Courtney & Matt drive to the venue in their car",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Courtney & Matt drive to the venue in their car",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Courtney-Matt-drive-to-the-venue-in-their-car-3bcde2a91181804eb04ef6c35ef30431",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-802c-9a34-ee8ec65cf204",
+    "created_time": "2026-08-14T19:59:00.000Z",
+    "last_edited_time": "2026-08-14T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "7:30 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          },
+          {
+            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
+          },
+          {
+            "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 19
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T15:30:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Slater Family + Mackenzie drive to venue in MJ Enclave",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Slater-Family-Mackenzie-drive-to-venue-in-MJ-Enclave-3bcde2a91181802c9a34ee8ec65cf204",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8071-8b3f-d9e1b7dcb581",
+    "created_time": "2026-08-14T19:59:00.000Z",
+    "last_edited_time": "2026-08-14T19:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "6:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 18
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T14:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MJ, Mom, Barb, Howard go to house to get ready for rehearsal",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MJ-Mom-Barb-Howard-go-to-house-to-get-ready-for-rehearsal-3bcde2a9118180718b3fd9e1b7dcb581",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-80d9-95a3-db97e5ff8ffe",
+    "created_time": "2026-08-14T19:57:00.000Z",
+    "last_edited_time": "2026-08-14T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "4:00 pm"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "3bade2a9-1181-802d-b77d-ed01b186de83"
+          },
+          {
+            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 16
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T12:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gary drive Mackenzie & ?  back to Rhinebeck",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gary drive Mackenzie & ?  back to Rhinebeck",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Gary-drive-Mackenzie-back-to-Rhinebeck-3bcde2a9118180d995a3db97e5ff8ffe",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "3bcde2a9-1181-8013-81bc-d308027d0786",
+    "created_time": "2026-08-14T19:56:00.000Z",
+    "last_edited_time": "2026-08-14T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afd36642-5351-4773-84bc-357376259093"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
+      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "Time a/p": {
+        "id": "%3ATcH",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "2:00 am"
+        }
+      },
+      "Wedding Ops": {
+        "id": "NX%3DX",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
+          },
+          {
+            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "3bade2a9-1181-802d-b77d-ed01b186de83"
+          },
+          {
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+          }
+        ],
+        "has_more": false
+      },
+      "Rounded to Hour": {
+        "id": "P%40mX",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 2
+        }
+      },
+      "Time": {
+        "id": "TzPD",
+        "type": "select",
+        "select": null
+      },
+      "Location": {
+        "id": "ZW%7CG",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Notes": {
+        "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Plates, bowls, napkins, parfait dishes, ssilverware, snacks, drinks, emergency kit, steamer, rehearsal clothes for MJ, HJ, Mom and Barb",
+            "href": null
+          }
+        ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Category": {
+        "id": "fupT",
+        "type": "select",
+        "select": {
+          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
+          "name": "DIYs",
+          "color": "yellow"
+        }
+      },
+      "Military Time": {
+        "id": "gKHd",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 0
+        }
+      },
+      "Day": {
+        "id": "ir%5DW",
+        "type": "date",
+        "date": {
+          "start": "2026-08-28T22:00:00.000-04:00",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "HJ and Gary Bring Supplies to Staatsburg House",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "HJ and Gary Bring Supplies to Staatsburg House",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/HJ-and-Gary-Bring-Supplies-to-Staatsburg-House-3bcde2a91181801381bcd308027d0786",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
     "id": "3bbde2a9-1181-8033-abf3-d8756c8b0163",
     "created_time": "2026-08-13T21:26:00.000Z",
     "last_edited_time": "2026-08-13T21:27:00.000Z",
@@ -77,7 +2893,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -99,6 +2915,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -220,7 +3041,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -242,6 +3063,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -363,8 +3189,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -488,8 +3319,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -610,8 +3446,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -736,8 +3577,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -867,7 +3713,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -889,6 +3735,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -1043,7 +3894,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -1065,6 +3916,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -1120,7 +3976,7 @@
     "object": "page",
     "id": "3bade2a9-1181-80ea-834f-e3f1fff600b3",
     "created_time": "2026-08-12T20:42:00.000Z",
-    "last_edited_time": "2026-08-13T20:08:00.000Z",
+    "last_edited_time": "2026-08-14T19:42:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1145,7 +4001,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "6:30 pm"
+          "string": "6:45 pm"
         }
       },
       "Wedding Ops": {
@@ -1185,8 +4041,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1211,7 +4072,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T14:30:00.000-04:00",
+          "start": "2026-08-29T14:45:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -1310,8 +4171,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1373,7 +4239,7 @@
     "object": "page",
     "id": "3bade2a9-1181-8043-929a-c503846a6945",
     "created_time": "2026-08-12T20:41:00.000Z",
-    "last_edited_time": "2026-08-13T20:08:00.000Z",
+    "last_edited_time": "2026-08-14T19:40:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1398,7 +4264,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "5:45 pm"
+          "string": "5:40 pm"
         }
       },
       "Wedding Ops": {
@@ -1435,8 +4301,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1461,7 +4332,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T13:45:00.000-04:00",
+          "start": "2026-08-29T13:40:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -1564,8 +4435,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1627,7 +4503,7 @@
     "object": "page",
     "id": "3bade2a9-1181-80fe-b403-e3f3d51aafc6",
     "created_time": "2026-08-12T20:28:00.000Z",
-    "last_edited_time": "2026-08-12T20:28:00.000Z",
+    "last_edited_time": "2026-08-14T20:31:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1683,8 +4559,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1851,8 +4732,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -1977,7 +4863,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -1999,6 +4885,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -2121,7 +5012,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -2143,6 +5034,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -2265,8 +5161,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2328,7 +5229,7 @@
     "object": "page",
     "id": "3b9de2a9-1181-805f-8cdd-cd11fd99e840",
     "created_time": "2026-08-11T13:10:00.000Z",
-    "last_edited_time": "2026-08-11T13:17:00.000Z",
+    "last_edited_time": "2026-08-14T19:57:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2365,6 +5266,9 @@
           },
           {
             "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
+          },
+          {
+            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
           }
         ],
         "has_more": false
@@ -2387,8 +5291,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2450,7 +5359,7 @@
     "object": "page",
     "id": "3b9de2a9-1181-8092-9902-fba740f166c4",
     "created_time": "2026-08-11T00:53:00.000Z",
-    "last_edited_time": "2026-08-11T00:53:00.000Z",
+    "last_edited_time": "2026-08-14T20:29:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2506,8 +5415,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2569,7 +5483,7 @@
     "object": "page",
     "id": "3b8de2a9-1181-805a-92ae-c37c7adf853c",
     "created_time": "2026-08-10T17:52:00.000Z",
-    "last_edited_time": "2026-08-12T21:03:00.000Z",
+    "last_edited_time": "2026-08-14T21:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2594,7 +5508,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "9:00 pm"
+          "string": "9:20 pm"
         }
       },
       "Wedding Ops": {
@@ -2643,8 +5557,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2665,8 +5584,8 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T17:00:00.000-04:00",
-          "end": "2026-08-29T18:00:00.000-04:00",
+          "start": "2026-08-29T17:20:00.000-04:00",
+          "end": null,
           "time_zone": null
         }
       },
@@ -2702,7 +5621,7 @@
     "object": "page",
     "id": "3b8de2a9-1181-80ee-8015-c6957ee877d2",
     "created_time": "2026-08-10T17:52:00.000Z",
-    "last_edited_time": "2026-08-12T21:02:00.000Z",
+    "last_edited_time": "2026-08-14T21:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2727,7 +5646,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "9:00 pm"
+          "string": "9:15 pm"
         }
       },
       "Wedding Ops": {
@@ -2785,8 +5704,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2807,8 +5731,8 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T17:00:00.000-04:00",
-          "end": "2026-08-29T18:00:00.000-04:00",
+          "start": "2026-08-29T17:15:00.000-04:00",
+          "end": null,
           "time_zone": null
         }
       },
@@ -2844,7 +5768,7 @@
     "object": "page",
     "id": "3b8de2a9-1181-808b-90c6-f3a00fb003f6",
     "created_time": "2026-08-10T17:51:00.000Z",
-    "last_edited_time": "2026-08-12T21:02:00.000Z",
+    "last_edited_time": "2026-08-14T21:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2869,7 +5793,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "9:00 pm"
+          "string": "9:10 pm"
         }
       },
       "Wedding Ops": {
@@ -2912,8 +5836,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -2934,8 +5863,8 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T17:00:00.000-04:00",
-          "end": "2026-08-29T18:00:00.000-04:00",
+          "start": "2026-08-29T17:10:00.000-04:00",
+          "end": null,
           "time_zone": null
         }
       },
@@ -2971,7 +5900,7 @@
     "object": "page",
     "id": "3b8de2a9-1181-8083-8283-f8eb96325a01",
     "created_time": "2026-08-10T17:51:00.000Z",
-    "last_edited_time": "2026-08-12T21:02:00.000Z",
+    "last_edited_time": "2026-08-14T21:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2996,7 +5925,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "9:00 pm"
+          "string": "9:05 pm"
         }
       },
       "Wedding Ops": {
@@ -3039,8 +5968,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3061,8 +5995,8 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T17:00:00.000-04:00",
-          "end": "2026-08-29T18:00:00.000-04:00",
+          "start": "2026-08-29T17:05:00.000-04:00",
+          "end": null,
           "time_zone": null
         }
       },
@@ -3166,8 +6100,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3297,8 +6236,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3431,8 +6375,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3494,7 +6443,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-8010-b9dd-e2d09da73da4",
     "created_time": "2026-08-03T17:17:00.000Z",
-    "last_edited_time": "2026-08-03T18:11:00.000Z",
+    "last_edited_time": "2026-08-14T20:33:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -3519,7 +6468,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "3:45 pm"
+          "string": "3:00 pm"
         }
       },
       "Wedding Ops": {
@@ -3560,8 +6509,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3586,8 +6540,8 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T11:45:00.000-04:00",
-          "end": null,
+          "start": "2026-08-29T11:00:00.000-04:00",
+          "end": "2026-08-29T12:00:00.000-04:00",
           "time_zone": null
         }
       },
@@ -3598,7 +6552,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Photographer Look over property",
+              "content": "Photographer Arrives",
               "link": null
             },
             "annotations": {
@@ -3609,13 +6563,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Photographer Look over property",
+            "plain_text": "Photographer Arrives",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Photographer-Look-over-property-3b1de2a911818010b9dde2d09da73da4",
+    "url": "https://app.notion.com/p/Photographer-Arrives-3b1de2a911818010b9dde2d09da73da4",
     "public_url": null,
     "archived": false
   },
@@ -3694,8 +6648,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3834,8 +6793,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -3959,8 +6923,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4084,8 +7053,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4209,8 +7183,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4346,8 +7325,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4471,8 +7455,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4599,8 +7588,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4721,8 +7715,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4784,7 +7783,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-80b6-8c03-db63924ccac4",
     "created_time": "2026-08-03T17:09:00.000Z",
-    "last_edited_time": "2026-08-12T20:50:00.000Z",
+    "last_edited_time": "2026-08-14T20:34:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -4809,7 +7808,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "7:15 pm"
+          "string": "7:20 pm"
         }
       },
       "Wedding Ops": {
@@ -4864,8 +7863,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -4890,7 +7894,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T15:15:00.000-04:00",
+          "start": "2026-08-29T15:20:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -4927,7 +7931,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-80bc-b49b-d51d3b400e7e",
     "created_time": "2026-08-03T17:08:00.000Z",
-    "last_edited_time": "2026-08-12T21:03:00.000Z",
+    "last_edited_time": "2026-08-14T21:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -4952,7 +7956,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "9:00 pm"
+          "string": "9:25 pm"
         }
       },
       "Wedding Ops": {
@@ -4986,8 +7990,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5012,7 +8021,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-03T17:00:00.000-04:00",
+          "start": "2026-08-29T17:25:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -5108,8 +8117,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5230,8 +8244,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5352,8 +8371,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5474,8 +8498,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5537,7 +8566,7 @@
     "object": "page",
     "id": "3afde2a9-1181-8003-8139-d74f9ef8d516",
     "created_time": "2026-08-01T19:19:00.000Z",
-    "last_edited_time": "2026-08-09T19:41:00.000Z",
+    "last_edited_time": "2026-08-14T20:29:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -5593,8 +8622,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5715,8 +8749,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -5778,7 +8817,7 @@
     "object": "page",
     "id": "3afde2a9-1181-80c0-9623-d9d8bb02fefe",
     "created_time": "2026-08-01T19:17:00.000Z",
-    "last_edited_time": "2026-08-13T21:21:00.000Z",
+    "last_edited_time": "2026-08-14T20:30:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -5840,7 +8879,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -5862,6 +8901,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -5980,8 +9024,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6102,8 +9151,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6227,7 +9281,7 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
         "rich_text": [
@@ -6249,6 +9303,11 @@
             "href": null
           }
         ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
+        "type": "rich_text",
+        "rich_text": []
       },
       "Category": {
         "id": "fupT",
@@ -6370,8 +9429,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6492,8 +9556,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6614,8 +9683,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6736,8 +9810,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6858,8 +9937,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -6984,8 +10068,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7106,8 +10195,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7221,8 +10315,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7332,8 +10431,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7450,8 +10554,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7579,8 +10688,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7694,8 +10808,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7815,8 +10934,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -7941,8 +11065,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8067,8 +11196,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8196,8 +11330,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8325,8 +11464,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8454,8 +11598,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8583,8 +11732,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8712,8 +11866,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8841,8 +12000,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -8970,8 +12134,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9085,8 +12254,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9138,116 +12312,9 @@
   },
   {
     "object": "page",
-    "id": "398de2a9-1181-8095-834f-ea66c918d3df",
-    "created_time": "2026-07-09T17:47:00.000Z",
-    "last_edited_time": "2026-07-09T17:47:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": null
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": null
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Put cake on cake table",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Put cake on cake table",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Put-cake-on-cake-table-398de2a911818095834fea66c918d3df",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
     "id": "398de2a9-1181-809c-bfdf-d000be834ad3",
     "created_time": "2026-07-09T17:46:00.000Z",
-    "last_edited_time": "2026-08-12T20:24:00.000Z",
+    "last_edited_time": "2026-08-15T10:36:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -9283,9 +12350,6 @@
             "id": "3b3de2a9-1181-80c8-a35d-c17004e6abf5"
           },
           {
-            "id": "3b3de2a9-1181-8022-b291-e5d1139883f0"
-          },
-          {
             "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
           }
         ],
@@ -9309,8 +12373,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9428,8 +12497,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9491,7 +12565,7 @@
     "object": "page",
     "id": "398de2a9-1181-80b1-9a2f-e66f866c06f3",
     "created_time": "2026-07-09T17:43:00.000Z",
-    "last_edited_time": "2026-08-11T13:10:00.000Z",
+    "last_edited_time": "2026-08-14T19:56:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -9550,8 +12624,31 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Start with the arch and the chandelier inside the dining room",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Start with the arch and the chandelier inside the dining room",
+            "href": null
+          }
+        ]
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9675,8 +12772,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9790,8 +12892,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -9901,8 +13008,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -10020,8 +13132,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -10135,8 +13252,13 @@
         "type": "rich_text",
         "rich_text": []
       },
-      "Text": {
+      "Notes": {
         "id": "%5E%7D_t",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Open Question": {
+        "id": "c%5Bol",
         "type": "rich_text",
         "rich_text": []
       },
@@ -10183,2491 +13305,6 @@
       }
     },
     "url": "https://app.notion.com/p/After-Party-chips-etc-set-up-382de2a9118180f9945fed0d5570dbdd",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "382de2a9-1181-80e7-a4c5-dbad6f7fb87b",
-    "created_time": "2026-06-17T22:25:00.000Z",
-    "last_edited_time": "2026-08-03T19:19:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "2:45 am"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 2
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "4bb2f202-dd24-4354-8a26-831e11b0cf42",
-          "name": "Afterparty",
-          "color": "default"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T22:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Pizza Arrives at Legion",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Pizza Arrives at Legion",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Pizza-Arrives-at-Legion-382de2a9118180e7a4c5dbad6f7fb87b",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "382de2a9-1181-80c3-af9c-c48588f256c1",
-    "created_time": "2026-06-17T22:23:00.000Z",
-    "last_edited_time": "2026-08-01T17:40:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "11:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 23
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-28T19:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Rehearsal Dinner Speeches & Gifts",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Rehearsal Dinner Speeches & Gifts",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Rehearsal-Dinner-Speeches-Gifts-382de2a9118180c3af9cc48588f256c1",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "382de2a9-1181-8026-8e4f-e1447de7ec25",
-    "created_time": "2026-06-17T22:21:00.000Z",
-    "last_edited_time": "2026-08-12T20:27:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "11:45 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 23
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-28T19:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Rehearsal Group Picture Outside",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Rehearsal Group Picture Outside",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Rehearsal-Group-Picture-Outside-382de2a9118180268e4fe1447de7ec25",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "374de2a9-1181-8068-8c29-d94ff1bb8174",
-    "created_time": "2026-06-03T21:06:00.000Z",
-    "last_edited_time": "2026-08-05T19:35:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "5:15 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 17
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T13:15:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Matt’s gift goes to Court",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Matt’s gift goes to Court",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Matt-s-gift-goes-to-Court-374de2a9118180688c29d94ff1bb8174",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "374de2a9-1181-8082-b403-f9ba409a1221",
-    "created_time": "2026-06-03T21:06:00.000Z",
-    "last_edited_time": "2026-08-05T19:35:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "5:15 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 17
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T13:15:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Court’s gift goes to Matt",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Court’s gift goes to Matt",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Court-s-gift-goes-to-Matt-374de2a911818082b403f9ba409a1221",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "374de2a9-1181-80aa-aa5b-f814b1e7f4a6",
-    "created_time": "2026-06-03T21:05:00.000Z",
-    "last_edited_time": "2026-06-03T21:05:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": null
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": null
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Court changes into after party dress",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Court changes into after party dress",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Court-changes-into-after-party-dress-374de2a9118180aaaa5bf814b1e7f4a6",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "374de2a9-1181-8028-8de7-e85cecfd5d98",
-    "created_time": "2026-06-03T21:03:00.000Z",
-    "last_edited_time": "2026-08-12T20:27:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "12:15 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
-          },
-          {
-            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
-          },
-          {
-            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 12
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T08:15:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Bridesmaid Arrival",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Bridesmaid Arrival",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Bridesmaid-Arrival-374de2a9118180288de7e85cecfd5d98",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "36dde2a9-1181-8084-80b9-fa9cf93bbd9a",
-    "created_time": "2026-05-27T20:16:00.000Z",
-    "last_edited_time": "2026-08-05T19:34:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "4:30 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-80ea-bff2-c1e5d156f770"
-          },
-          {
-            "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 16
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "71bf0ff7-4054-4b00-ae93-9e7220a77850",
-          "name": "Beauty",
-          "color": "green"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T12:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Hair and Makeup Finished",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Hair and Makeup Finished",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Hair-and-Makeup-Finished-36dde2a91181808480b9fa9cf93bbd9a",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "36dde2a9-1181-80b3-aa8e-ece5fee345d2",
-    "created_time": "2026-05-27T20:11:00.000Z",
-    "last_edited_time": "2026-08-12T20:48:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "7:45 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8065-8a5e-f03507318665"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 19
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "This can’t happen until Courtney’s Inside",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "This can’t happen until Courtney’s Inside",
-            "href": null
-          }
-        ]
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "6dd41afe-9252-4e8c-839a-8bc3a3db743b",
-          "name": "Venue",
-          "color": "brown"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T15:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Open Gate to Clubhouse",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Open Gate to Clubhouse",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Open-Gate-to-Clubhouse-36dde2a9118180b3aa8eece5fee345d2",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "36dde2a9-1181-80d6-8732-e693379cdbd6",
-    "created_time": "2026-05-27T20:10:00.000Z",
-    "last_edited_time": "2026-08-03T17:06:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "7:45 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 19
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T15:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Courtney Staged in Bar Area",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Courtney Staged in Bar Area",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Courtney-Staged-in-Bar-Area-36dde2a9118180d68732e693379cdbd6",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "301de2a9-1181-80d4-a48a-e5b3a9a32d59",
-    "created_time": "2026-02-08T13:04:00.000Z",
-    "last_edited_time": "2026-05-27T20:03:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "6:00 am"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 6
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-30T02:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "After Party Ends",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "After Party Ends",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/After-Party-Ends-301de2a9118180d4a48ae5b3a9a32d59",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "301de2a9-1181-800b-a6c1-d3a2483700e8",
-    "created_time": "2026-02-08T13:04:00.000Z",
-    "last_edited_time": "2026-05-27T20:02:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "3:00 am"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 3
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T23:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "After Party Starts",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "After Party Starts",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/After-Party-Starts-301de2a91181800ba6c1d3a2483700e8",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "301de2a9-1181-80e4-9a5a-feb28a061f9a",
-    "created_time": "2026-02-08T13:03:00.000Z",
-    "last_edited_time": "2026-08-01T17:39:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "2:30 am"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "36dde2a9-1181-8066-a2ac-d4b00b605273"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 2
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "31dfcc4e-ff73-414f-a128-d50477ab7678",
-          "name": "Transportation",
-          "color": "orange"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T22:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Shuttle to After Party",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Shuttle to After Party",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Shuttle-to-After-Party-301de2a9118180e49a5afeb28a061f9a",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "2fede2a9-1181-803a-861a-f74735e92b5d",
-    "created_time": "2026-02-05T15:35:00.000Z",
-    "last_edited_time": "2026-08-05T18:27:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "10:00 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-805f-a8f1-d6e834fa7f7d"
-          },
-          {
-            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
-          },
-          {
-            "id": "300de2a9-1181-804a-aeb3-da17945f356d"
-          },
-          {
-            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
-          },
-          {
-            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
-          },
-          {
-            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
-          },
-          {
-            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          },
-          {
-            "id": "36dde2a9-1181-8001-8d03-e452c5598c89"
-          },
-          {
-            "id": "36dde2a9-1181-801d-b1b9-f581b829f721"
-          },
-          {
-            "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
-          },
-          {
-            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
-          },
-          {
-            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 22
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-28T18:00:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Rehearsal Dinner",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Rehearsal Dinner",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Rehearsal-Dinner-2fede2a91181803a861af74735e92b5d",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8031-afc9-f9d7786506a7",
-    "created_time": "2025-10-06T21:50:00.000Z",
-    "last_edited_time": "2026-08-13T20:08:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "3:30 am"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 3
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T23:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Petals to go into Chloe’s basket",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Petals to go into Chloe’s basket",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Petals-to-go-into-Chloe-s-basket-284de2a911818031afc9f9d7786506a7",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8078-bc0c-e7be74e29e33",
-    "created_time": "2025-10-06T21:50:00.000Z",
-    "last_edited_time": "2026-08-12T20:56:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "8:30 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          },
-          {
-            "id": "300de2a9-1181-80c8-9596-f22327f25eab"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 20
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T16:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Basket of Petals to Chloe",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Basket of Petals to Chloe",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Basket-of-Petals-to-Chloe-284de2a911818078bc0ce7be74e29e33",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-802c-978e-e8d707647448",
-    "created_time": "2025-10-06T21:49:00.000Z",
-    "last_edited_time": "2026-08-13T20:27:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": null
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": null
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": {
-          "id": "542ded1c-e743-46da-a0c1-e1867abfbe72",
-          "name": "5:00 pm",
-          "color": "pink"
-        }
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": null
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "1700"
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": null
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Mic Practice",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Mic Practice",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Mic-Practice-284de2a91181802c978ee8d707647448",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8061-a5b4-db7d5a6b120a",
-    "created_time": "2025-10-06T20:59:00.000Z",
-    "last_edited_time": "2026-08-12T20:53:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "7:30 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8064-9891-df4314ea7fad"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 19
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "558ca814-2da5-46af-8fef-c3cabe7b51c0",
-          "name": "Florist",
-          "color": "purple"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T15:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Florist Leaves",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Florist Leaves",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Florist-Leaves-284de2a911818061a5b4db7d5a6b120a",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-80e6-9855-c40170b6fffc",
-    "created_time": "2025-10-06T20:57:00.000Z",
-    "last_edited_time": "2026-08-01T17:31:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "12:45 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8086-9ec3-ed32ebfd97c5"
-          },
-          {
-            "id": "300de2a9-1181-80ea-bff2-c1e5d156f770"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 12
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": {
-          "id": "e4028ad9-fb48-483c-8598-5905782fdb11",
-          "name": "10:15 am",
-          "color": "blue"
-        }
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "71bf0ff7-4054-4b00-ae93-9e7220a77850",
-          "name": "Beauty",
-          "color": "green"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "1015"
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T08:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Hair & Makeup Arrive",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Hair & Makeup Arrive",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Hair-Makeup-Arrive-284de2a9118180e69855c40170b6fffc",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "284de2a9-1181-8063-acbf-c0580b690272",
-    "created_time": "2025-10-06T20:55:00.000Z",
-    "last_edited_time": "2026-08-12T16:34:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "10:45 pm"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 22
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Text": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T18:45:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Golden Hour Photos",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Golden Hour Photos",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Golden-Hour-Photos-284de2a911818063acbfc0580b690272",
     "public_url": null,
     "archived": false
   }
