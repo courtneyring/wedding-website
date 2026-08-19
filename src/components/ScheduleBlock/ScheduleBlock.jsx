@@ -40,6 +40,16 @@ const ScheduleBlock = ({ schedule, alias }) => {
   }, [schedule]);
 
   const [activeDay, setActiveDay] = useState(() => {
+    const earliestDate = schedule.reduce((earliest, item) => {
+      if (!item.startTime) return earliest;
+      const start = moment(item.startTime);
+      return !earliest || start.isBefore(earliest) ? start : earliest;
+    }, null);
+
+    if (earliestDate && moment().isBefore(earliestDate, "day")) {
+      return days[0]?.value;
+    }
+
     const today = moment().day();
     const matchesToday = days.some((d) => d.value === today);
     return matchesToday ? today : days[0]?.value;
