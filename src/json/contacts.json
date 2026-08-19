@@ -54,12 +54,18 @@
       },
       {
         "title": "Transfer Matt to Residence",
-        "startTime": "2026-08-29T13:45:00.000-04:00",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
         "endTime": null
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
         "endTime": null
       }
     ]
@@ -92,7 +98,8 @@
       {
         "title": "Haberlach Family Photo",
         "startTime": "2026-08-29T17:10:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
       },
       {
         "title": "Wetzler Family Photo",
@@ -102,6 +109,16 @@
       {
         "title": "Parents get corsage and boutonnieres",
         "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Family Portraits - Haberlach",
+        "startTime": "2026-08-29T15:25:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -154,7 +171,8 @@
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Parents get corsage and boutonnieres",
@@ -169,6 +187,11 @@
       {
         "title": "Beekman Set Up",
         "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -215,7 +238,7 @@
       },
       {
         "title": "Transfer Matt to Residence",
-        "startTime": "2026-08-29T13:45:00.000-04:00",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
         "endTime": null
       },
       {
@@ -245,8 +268,8 @@
       },
       {
         "title": "Photographer Arrives",
-        "startTime": "2026-08-29T11:00:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00"
+        "startTime": "2026-08-29T11:30:00.000-04:00",
+        "endTime": "2026-08-29T12:30:00.000-04:00"
       },
       {
         "title": "Groomsmen Getting Ready",
@@ -254,7 +277,7 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
         "endTime": null
       },
@@ -362,6 +385,81 @@
         "title": "Lunch for house Delivered",
         "startTime": "2026-08-29",
         "endTime": null
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Hair & Makeup Arrive",
+        "startTime": "2026-08-29T08:20:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Family Portraits - Haberlach",
+        "startTime": "2026-08-29T15:25:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rings to CJ",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Get Rings for Photos",
+        "startTime": "2026-08-29T13:20:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Photographer Timeline start",
+        "startTime": "2026-08-29T00:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Get Catering for House",
+        "startTime": "2026-08-29",
+        "endTime": null
       }
     ]
   },
@@ -398,12 +496,14 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Family Portraits - Ring",
@@ -426,6 +526,27 @@
         "title": "Bobby Arrives with Cameron",
         "startTime": "2026-08-29T15:00:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
       }
     ]
   },
@@ -453,6 +574,11 @@
         "title": "Shuttle Leaves Mirbeau - One to Milea, one to Beekman",
         "startTime": "2026-08-29T15:30:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Shuttle to After Party",
+        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -470,6 +596,27 @@
         "title": "Leave for Beekman",
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
       }
     ]
   },
@@ -497,6 +644,33 @@
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -514,6 +688,26 @@
       {
         "title": "Drop Ribbons & Arch Material to Florist",
         "startTime": "2026-08-27T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Florist Leaves",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Florist Arrives",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": "2026-08-29T10:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Barb gets flowers from Christine",
+        "startTime": "2026-08-29T11:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -539,6 +733,31 @@
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
         "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+      },
+      {
+        "title": "Strings Arrive",
+        "startTime": "2026-08-29T15:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Strings Leave",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cocktail Hour",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": "2026-08-29T18:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Strings Start playing",
+        "startTime": "2026-08-29T16:10:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -583,6 +802,32 @@
         "title": "Passing Water & Lemonade",
         "startTime": "2026-08-29T16:00:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Open Gate to Clubhouse",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": "This can’t happen until Courtney’s Inside"
+      },
+      {
+        "title": "Dinner Starts",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": "2026-08-29T19:30:00.000-04:00"
+      },
+      {
+        "title": "Reception Starts",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cocktail Hour",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": "2026-08-29T18:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -620,6 +865,16 @@
         "title": "Domenica Makeup",
         "startTime": "2026-08-29T08:45:00.000-04:00",
         "endTime": "2026-08-29T09:30:00.000-04:00"
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Hair & Makeup Arrive",
+        "startTime": "2026-08-29T08:20:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -657,6 +912,16 @@
         "title": "Court Hair",
         "startTime": "2026-08-29T09:30:00.000-04:00",
         "endTime": "2026-08-29T10:30:00.000-04:00"
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Hair & Makeup Arrive",
+        "startTime": "2026-08-29T08:20:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -679,6 +944,52 @@
         "title": "Cell Phone Announcement from DJ",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Bride Groom Intros & Welcome / Thank you speech",
+        "startTime": "2026-08-29T18:05:00.000-04:00",
+        "endTime": null,
+        "notes": "Mr. & Mrs. Matthew Haberlach"
+      },
+      {
+        "title": "DJ Ends",
+        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "DJ Arrives for Setup",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Jeff Starts",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cocktail Hour",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": "2026-08-29T18:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -698,12 +1009,50 @@
         "endTime": null
       },
       {
-        "title": "Photographer Arrives",
-        "startTime": "2026-08-29T11:00:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00"
+        "title": "Transfer Courtney & Matt to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Transfer Matt to Residence",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Transfer Courtney to Residence",
+        "startTime": "2026-08-29T13:40:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ring Family Photo",
+        "startTime": "2026-08-29T17:20:00.000-04:00",
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
+      },
+      {
+        "title": "Young Family Photo",
+        "startTime": "2026-08-29T17:15:00.000-04:00",
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
+      },
+      {
+        "title": "Haberlach Family Photo",
+        "startTime": "2026-08-29T17:10:00.000-04:00",
+        "endTime": null,
+        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
+      },
+      {
+        "title": "Wetzler Family Photo",
+        "startTime": "2026-08-29T17:05:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Groomsmen Getting Ready",
+        "startTime": "2026-08-29T12:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
         "endTime": null
       },
@@ -750,6 +1099,137 @@
       {
         "title": "Other Groups TBD",
         "startTime": "2026-08-29T17:25:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Hair and Makeup Finished",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Courtney Staged in Bar Area",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T18:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Family Portraits - Haberlach",
+        "startTime": "2026-08-29T15:25:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Getting Ready Photos - Bride & Groom",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Bride Groom Intros & Welcome / Thank you speech",
+        "startTime": "2026-08-29T18:05:00.000-04:00",
+        "endTime": null,
+        "notes": "Mr. & Mrs. Matthew Haberlach"
+      },
+      {
+        "title": "Start Reception Dancing",
+        "startTime": "2026-08-29T19:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Father / Daughter",
+        "startTime": "2026-08-29T19:40:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Dance",
+        "startTime": "2026-08-29T19:42:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Dinner Starts",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": "2026-08-29T19:30:00.000-04:00"
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cake Cutting ",
+        "startTime": "2026-08-29T20:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Photographer Leaves",
+        "startTime": "2026-08-29T20:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Reception Starts",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cocktail Hour",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": "2026-08-29T18:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Guests Start Arriving",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Photographer Timeline start",
+        "startTime": "2026-08-29T00:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -936,17 +1416,20 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Haberlach Family Photo",
         "startTime": "2026-08-29T17:10:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
       },
       {
         "title": "Wetzler Family Photo",
@@ -955,8 +1438,8 @@
       },
       {
         "title": "Photographer Arrives",
-        "startTime": "2026-08-29T11:00:00.000-04:00",
-        "endTime": "2026-08-29T12:00:00.000-04:00"
+        "startTime": "2026-08-29T11:30:00.000-04:00",
+        "endTime": "2026-08-29T12:30:00.000-04:00"
       },
       {
         "title": "Reception Space Photos",
@@ -1023,6 +1506,154 @@
         "title": "Beekman Set Up",
         "startTime": "2026-08-27T16:00:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Open Gate to Clubhouse",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "notes": "This can’t happen until Courtney’s Inside"
+      },
+      {
+        "title": "Courtney Staged in Bar Area",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Petals to go into Chloe’s basket",
+        "startTime": "2026-08-29T23:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Basket of Petals to Chloe",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Florist Leaves",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T18:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court Bustled",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Florist Arrives",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": "2026-08-29T10:00:00.000-04:00"
+      },
+      {
+        "title": "Strings Arrive",
+        "startTime": "2026-08-29T15:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Bride Groom Intros & Welcome / Thank you speech",
+        "startTime": "2026-08-29T18:05:00.000-04:00",
+        "endTime": null,
+        "notes": "Mr. & Mrs. Matthew Haberlach"
+      },
+      {
+        "title": "DJ Ends",
+        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "DJ Arrives for Setup",
+        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Dinner Starts",
+        "startTime": "2026-08-29T18:15:00.000-04:00",
+        "endTime": "2026-08-29T19:30:00.000-04:00"
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Jeff Starts",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Photographer Leaves",
+        "startTime": "2026-08-29T20:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Strings Leave",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Reception Starts",
+        "startTime": "2026-08-29T18:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cocktail Hour",
+        "startTime": "2026-08-29T17:00:00.000-04:00",
+        "endTime": "2026-08-29T18:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Guests Start Arriving",
+        "startTime": "2026-08-29T16:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Strings Start playing",
+        "startTime": "2026-08-29T16:10:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Photographer Timeline start",
+        "startTime": "2026-08-29T00:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Barb gets flowers from Christine",
+        "startTime": "2026-08-29T11:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1084,12 +1715,14 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Parents get corsage and boutonnieres",
@@ -1137,6 +1770,37 @@
         "startTime": "2026-08-27T18:00:00.000-04:00",
         "endTime": null,
         "notes": "Pick Up: Flowers & Greens, sandwiches, berries. Might be a good place for Ashley & Bobby to get dinner"
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1232,12 +1896,14 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Parents get corsage and boutonnieres",
@@ -1294,6 +1960,42 @@
         "title": "Drop off Drinks and Snacks to Staatsburg House",
         "startTime": "2026-08-27",
         "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Court Bustled",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Parents Speech",
+        "startTime": "2026-08-29T18:10:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1325,17 +2027,20 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Haberlach Family Photo",
         "startTime": "2026-08-29T17:10:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
       },
       {
         "title": "Wetzler Family Photo",
@@ -1353,7 +2058,7 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
         "endTime": null
       },
@@ -1370,6 +2075,82 @@
       {
         "title": "Family Portraits - Ring",
         "startTime": "2026-08-29T15:20:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner Speeches & Gifts",
+        "startTime": "2026-08-28T19:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T18:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rings to CJ",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Get Rings for Photos",
+        "startTime": "2026-08-29T13:20:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Getting Ready Photos - Bride & Groom",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -1413,7 +2194,7 @@
       },
       {
         "title": "Transfer Matt to Residence",
-        "startTime": "2026-08-29T13:45:00.000-04:00",
+        "startTime": "2026-08-29T13:30:00.000-04:00",
         "endTime": null
       },
       {
@@ -1439,17 +2220,20 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Haberlach Family Photo",
         "startTime": "2026-08-29T17:10:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
       },
       {
         "title": "Wetzler Family Photo",
@@ -1462,7 +2246,7 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
         "endTime": null
       },
@@ -1520,6 +2304,102 @@
         "title": "Court Hair",
         "startTime": "2026-08-29T09:30:00.000-04:00",
         "endTime": "2026-08-29T10:30:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal Dinner Speeches & Gifts",
+        "startTime": "2026-08-28T19:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Matt’s gift goes to Court",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court’s gift goes to Matt",
+        "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Courtney Staged in Bar Area",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T18:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court Bustled",
+        "startTime": "2026-08-29T17:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rings to CJ",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Get Rings for Photos",
+        "startTime": "2026-08-29T13:20:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Portraits",
+        "startTime": "2026-08-29T14:00:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Look",
+        "startTime": "2026-08-29T13:50:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Getting Ready Photos - Bride & Groom",
+        "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Quick Morning Jog",
+        "startTime": "2026-08-29T06:00:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1555,8 +2435,44 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -1593,8 +2509,44 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -1631,8 +2583,54 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rings to CJ",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "CJ (BM) Speech",
+        "startTime": "2026-08-29T19:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -1669,8 +2667,44 @@
         "endTime": null
       },
       {
-        "title": "Groomsmen Put on their stuff",
+        "title": "Groomsmen Put on Their Tuxes",
         "startTime": "2026-08-29T12:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -1736,6 +2770,47 @@
         "title": "Mackenzie Makeup",
         "startTime": "2026-08-29T10:15:00.000-04:00",
         "endTime": "2026-08-29T11:00:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1778,7 +2853,8 @@
       {
         "title": "Haberlach Family Photo",
         "startTime": "2026-08-29T17:10:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
       },
       {
         "title": "Wetzler Family Photo",
@@ -1793,6 +2869,47 @@
       {
         "title": "Bridesmaid Photo in Athleisure",
         "startTime": "2026-08-29T12:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Family Portraits - Haberlach",
+        "startTime": "2026-08-29T15:25:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null
       }
     ]
@@ -1853,12 +2970,14 @@
       {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Mitch, Elaine, MJ, HJ, Claudia, Julia, Dan, Krystian, Ashley, Bobby, Chloe, Cameron (?), Courtney & Matt"
       },
       {
         "title": "Young Family Photo",
         "startTime": "2026-08-29T17:15:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "Grandma, MJ, HJ, Barb, Gary K, Gary Y, Amy, Connor, Garrett, Spencer, Hunter, Mackenzie, Ashley, Chloe, Cameron, Bobby, Dan & Ellen (?), Court & Matt"
       },
       {
         "title": "Bridesmaids Get Bouquets",
@@ -1921,6 +3040,52 @@
         "title": "Ashley Hair",
         "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": "2026-08-29T11:15:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Basket of Petals to Chloe",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Ashley (MOH) Speech",
+        "startTime": "2026-08-29T19:35:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   },
@@ -1964,6 +3129,47 @@
         "title": "Domenica Makeup",
         "startTime": "2026-08-29T08:45:00.000-04:00",
         "endTime": "2026-08-29T09:30:00.000-04:00"
+      },
+      {
+        "title": "Rehearsal Ends, Party Steps Out",
+        "startTime": "2026-08-28T19:45:00.000-04:00",
+        "endTime": null,
+        "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Bridesmaid Arrival",
+        "startTime": "2026-08-29T08:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal Dinner",
+        "startTime": "2026-08-28T18:00:00.000-04:00",
+        "endTime": "2026-08-28T19:40:00.000-04:00"
+      },
+      {
+        "title": "Transfer Wedding Party to Vineyard",
+        "startTime": "2026-08-29T14:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Wedding Party Photos",
+        "startTime": "2026-08-29T14:55:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Rehearsal ",
+        "startTime": "2026-08-28T16:00:00.000-04:00",
+        "endTime": "2026-08-28T17:00:00.000-04:00"
+      },
+      {
+        "title": "Welcome Party",
+        "startTime": "2026-08-28T20:00:00.000-04:00",
+        "endTime": "2026-08-28T22:00:00.000-04:00"
+      },
+      {
+        "title": "Ceremony Start",
+        "startTime": "2026-08-29T16:30:00.000-04:00",
+        "endTime": null
       }
     ]
   }

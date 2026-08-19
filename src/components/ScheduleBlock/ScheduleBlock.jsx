@@ -77,7 +77,7 @@ const ScheduleBlock = ({ schedule, alias }) => {
           onChange={setHidePast}
         />
         <Button
-          href={`/pdfs/schedule-${alias}.pdf`}
+          href={alias ? `/pdfs/schedule-${alias}.pdf` : '/pdfs/schedule-full.pdf'}
           variation="link"
           className={styles.download}
         >

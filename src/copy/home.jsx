@@ -26,7 +26,7 @@ export default {
       {
         variation: "color-primary-dark",
         children: "Schedule",
-        href: "/schedule",
+        href: "/weekend",
         hollow: true,
         // onClick: () => {
         //   const noteEl = document.querySelector("#note");

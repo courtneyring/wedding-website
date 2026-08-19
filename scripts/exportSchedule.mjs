@@ -153,7 +153,7 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
 
   const PAGE_WIDTH =
     doc.page.width - doc.page.margins.left - doc.page.margins.right;
-  const timeColWidth = 95;
+  const timeColWidth = 110;
 
   function ensureSpace(minHeight) {
     const bottom = doc.page.height - doc.page.margins.bottom;
@@ -200,6 +200,7 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
         },
       );
 
+    doc.moveDown(0.2);
     // Notes
     // const notes = (ev.notes || []).filter(
     //   (n) => n && String(n).trim().length > 0,
@@ -213,14 +214,16 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
     //       width: PAGE_WIDTH - timeColWidth,
     //     });
     // }
-    doc
-      .font("Helvetica")
-      .fontSize(10.5)
-      .fillColor("#000000")
-      .text(ev.note, doc.page.margins.left + timeColWidth, doc.y, {
-        width: PAGE_WIDTH - timeColWidth,
-      });
-
+    if (ev.notes) {
+      doc
+        .font("Helvetica")
+        .fontSize(10)
+        .fillColor("#000000")
+        .text(ev.notes, doc.page.margins.left + timeColWidth, doc.y, {
+          width: PAGE_WIDTH - timeColWidth,
+        });
+      doc.moveDown(0.2);
+    }
     // Assignees — only shown on the full (no-alias) schedule
     if (!alias) {
       const assignees = ev.assignees || [];
@@ -254,7 +257,7 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
       }
     }
 
-    doc.moveDown(1.1);
+    doc.moveDown(1.9);
   }
 
   // Title

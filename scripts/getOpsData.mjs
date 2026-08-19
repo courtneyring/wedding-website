@@ -13,7 +13,21 @@ const notion = new Client({ auth: process.env.NOTION_API_KEY });
 
 const getDatabaseById = async (database_id) => {
   const { data_sources } = await notion.databases.retrieve({ database_id });
-  return await notion.dataSources.query({ data_source_id: data_sources[0].id });
+  let results = [];
+  let hasMore = true;
+  let startCursor = undefined;
+  while (hasMore) {
+    const response = await notion.dataSources.query({
+      data_source_id: data_sources[0].id,
+      start_cursor: startCursor, // ← was missing
+      page_size: 100,
+    });
+
+    results = results.concat(response.results);
+    hasMore = response.has_more;
+    startCursor = response.next_cursor;
+  }
+  return results;
 };
 
 async function getPageContent(pageId) {
@@ -83,6 +97,7 @@ const getChildren = async (arr) => {
         page_size: 50,
       });
       children = [...children, ...results];
+      console.log(children)
       nextCursor = next_cursor;
     }
     ret.push({ ...a, children });
@@ -94,7 +109,7 @@ const getChildren = async (arr) => {
 // fs.writeFileSync(outputPath, JSON.stringify(schedule, null, 2), "utf8");
 const getContacts = async () => {
   const databaseId = "300de2a9-1181-8014-a917-d25b5b0ab5ee";
-  const { results } = await getDatabaseById(databaseId);
+  const results = await getDatabaseById(databaseId);
   const contacts = await getChildren(results);
   return contacts;
   // const map = new Map(contacts.map((val) => [val.id, val]));
@@ -103,7 +118,7 @@ const getContacts = async () => {
 
 const getSchedule = async () => {
   const databaseId = "283de2a91181803980b8f47f513e5014";
-  const { results } = await getDatabaseById(databaseId);
+  const results = await getDatabaseById(databaseId);
   return results;
 };
 
