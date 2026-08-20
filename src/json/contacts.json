@@ -88,7 +88,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Kris, Bill and Rick Arrive",
@@ -104,7 +104,8 @@
       {
         "title": "Wetzler Family Photo",
         "startTime": "2026-08-29T17:05:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
         "title": "Parents get corsage and boutonnieres",
@@ -166,7 +167,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Young Family Photo",
@@ -221,6 +222,18 @@
     "image": "/images/ops/sam.png",
     "role": "Unset",
     "schedule": [
+      {
+        "title": "Receive Flowers from florist at house",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null,
+        "notes": "Boutanierres, corsages, bridesmaid bouquets, bridal bouquet, loose flowers for photographer"
+      },
+      {
+        "title": "Photographer needs items for initial shots",
+        "startTime": "2026-08-29",
+        "endTime": null,
+        "notes": "The following are in the box: stationery suite, rings and ring boxes, jewelry, shoes, ribbon. The following are from the florist: loose flowers, bouquet. Will be hanging.. somewhere: dress and veil"
+      },
       {
         "title": "Wedding Party Moves from Vines to Clubhouse Bar",
         "startTime": "2026-08-29T15:30:00.000-04:00",
@@ -634,7 +647,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -686,6 +699,12 @@
     "role": "florist",
     "schedule": [
       {
+        "title": "Receive Flowers from florist at house",
+        "startTime": "2026-08-29T09:00:00.000-04:00",
+        "endTime": null,
+        "notes": "Boutanierres, corsages, bridesmaid bouquets, bridal bouquet, loose flowers for photographer"
+      },
+      {
         "title": "Drop Ribbons & Arch Material to Florist",
         "startTime": "2026-08-27T14:00:00.000-04:00",
         "endTime": null
@@ -732,7 +751,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Strings Arrive",
@@ -962,6 +981,21 @@
         "endTime": null
       },
       {
+        "title": "Start Reception Dancing",
+        "startTime": "2026-08-29T19:45:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Father / Daughter",
+        "startTime": "2026-08-29T19:40:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Dance",
+        "startTime": "2026-08-29T19:42:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "CJ (BM) Speech",
         "startTime": "2026-08-29T19:30:00.000-04:00",
         "endTime": null
@@ -1044,7 +1078,8 @@
       {
         "title": "Wetzler Family Photo",
         "startTime": "2026-08-29T17:05:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
         "title": "Groomsmen Getting Ready",
@@ -1245,6 +1280,11 @@
     "role": "aunt-of-the-bride",
     "schedule": [
       {
+        "title": "Drop Gifts at Beekman",
+        "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Last Call",
         "startTime": "2026-08-29T22:00:00.000-04:00",
         "endTime": null
@@ -1379,7 +1419,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Barb / Tanya Flower Set Up",
@@ -1434,7 +1474,8 @@
       {
         "title": "Wetzler Family Photo",
         "startTime": "2026-08-29T17:05:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
         "title": "Photographer Arrives",
@@ -1783,6 +1824,11 @@
         "endTime": "2026-08-28T19:40:00.000-04:00"
       },
       {
+        "title": "Father / Daughter",
+        "startTime": "2026-08-29T19:40:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Parents Speech",
         "startTime": "2026-08-29T18:10:00.000-04:00",
         "endTime": null
@@ -1814,6 +1860,11 @@
     "title": "Mother of the Bride",
     "role": "mother-of-the-bride",
     "schedule": [
+      {
+        "title": "Drop Gifts at Beekman",
+        "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null
+      },
       {
         "title": "MJ goes to Staatsburg house to get ready",
         "startTime": "2026-08-29T10:45:00.000-04:00",
@@ -1881,7 +1932,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -1968,6 +2019,11 @@
         "notes": "They are flipping the room for the welcome party 7:45 to 8"
       },
       {
+        "title": "Court changes into after party dress",
+        "startTime": "2026-08-29T22:15:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Rehearsal Dinner",
         "startTime": "2026-08-28T18:00:00.000-04:00",
         "endTime": "2026-08-28T19:40:00.000-04:00"
@@ -2045,7 +2101,8 @@
       {
         "title": "Wetzler Family Photo",
         "startTime": "2026-08-29T17:05:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
         "title": "Groomsmen pin on Boutonnieres",
@@ -2076,6 +2133,9 @@
         "title": "Family Portraits - Ring",
         "startTime": "2026-08-29T15:20:00.000-04:00",
         "endTime": null
+      },
+      {
+        "title": "Drop off marriage license into mail"
       },
       {
         "title": "Rehearsal Dinner Speeches & Gifts",
@@ -2139,6 +2199,16 @@
         "endTime": null
       },
       {
+        "title": "First Dance",
+        "startTime": "2026-08-29T19:42:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cake Cutting ",
+        "startTime": "2026-08-29T20:15:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Rehearsal ",
         "startTime": "2026-08-28T16:00:00.000-04:00",
         "endTime": "2026-08-28T17:00:00.000-04:00"
@@ -2166,6 +2236,11 @@
     "role": "bride",
     "schedule": [
       {
+        "title": "Drop Gifts at Beekman",
+        "startTime": "2026-08-27T16:00:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Courtney & Matt drive to the venue in their car",
         "startTime": "2026-08-28T15:30:00.000-04:00",
         "endTime": null
@@ -2175,11 +2250,6 @@
         "startTime": "2026-08-28T09:30:00.000-04:00",
         "endTime": null,
         "notes": "One car needs to have rehearsal stuff to be dropped at Staatsburg House"
-      },
-      {
-        "title": "TEST",
-        "startTime": "2026-08-13T16:10:00.000-04:00",
-        "endTime": null
       },
       {
         "title": "Courtney Processional",
@@ -2213,11 +2283,6 @@
         "endTime": null
       },
       {
-        "title": "Pick Up Krause’s Chocolates for Grandma",
-        "startTime": "2026-08-27",
-        "endTime": null
-      },
-      {
         "title": "Ring Family Photo",
         "startTime": "2026-08-29T17:20:00.000-04:00",
         "endTime": null,
@@ -2238,7 +2303,8 @@
       {
         "title": "Wetzler Family Photo",
         "startTime": "2026-08-29T17:05:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
         "title": "Bridesmaids Get Bouquets",
@@ -2296,6 +2362,9 @@
         "endTime": null
       },
       {
+        "title": "Drop off marriage license into mail"
+      },
+      {
         "title": "Court Makeup",
         "startTime": "2026-08-29T11:00:00.000-04:00",
         "endTime": "2026-08-29T12:00:00.000-04:00"
@@ -2324,6 +2393,11 @@
       {
         "title": "Court’s gift goes to Matt",
         "startTime": "2026-08-29T13:15:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Court changes into after party dress",
+        "startTime": "2026-08-29T22:15:00.000-04:00",
         "endTime": null
       },
       {
@@ -2382,6 +2456,21 @@
         "endTime": null
       },
       {
+        "title": "Father / Daughter",
+        "startTime": "2026-08-29T19:40:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "First Dance",
+        "startTime": "2026-08-29T19:42:00.000-04:00",
+        "endTime": null
+      },
+      {
+        "title": "Cake Cutting ",
+        "startTime": "2026-08-29T20:15:00.000-04:00",
+        "endTime": null
+      },
+      {
         "title": "Rehearsal ",
         "startTime": "2026-08-28T16:00:00.000-04:00",
         "endTime": "2026-08-28T17:00:00.000-04:00"
@@ -2417,7 +2506,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -2491,7 +2580,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -2565,7 +2654,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -2649,7 +2738,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -2749,7 +2838,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -2838,7 +2927,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Kris, Bill and Rick Arrive",
@@ -2859,7 +2948,8 @@
       {
         "title": "Wetzler Family Photo",
         "startTime": "2026-08-29T17:05:00.000-04:00",
-        "endTime": null
+        "endTime": null,
+        "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
         "title": "Bridesmaids Get Bouquets",
@@ -2952,15 +3042,10 @@
         "notes": "MJ is asking when she gets there at 4"
       },
       {
-        "title": "TEST",
-        "startTime": "2026-08-13T16:10:00.000-04:00",
-        "endTime": null
-      },
-      {
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",
@@ -2992,11 +3077,6 @@
       {
         "title": "Family Portraits - Ring",
         "startTime": "2026-08-29T15:20:00.000-04:00",
-        "endTime": null
-      },
-      {
-        "title": "Put Pizza Order In",
-        "startTime": "2026-08-27",
         "endTime": null
       },
       {
@@ -3046,6 +3126,11 @@
         "startTime": "2026-08-28T19:45:00.000-04:00",
         "endTime": null,
         "notes": "They are flipping the room for the welcome party 7:45 to 8"
+      },
+      {
+        "title": "Court changes into after party dress",
+        "startTime": "2026-08-29T22:15:00.000-04:00",
+        "endTime": null
       },
       {
         "title": "Bridesmaid Arrival",
@@ -3108,7 +3193,7 @@
         "title": "Wedding Party Processional",
         "startTime": "2026-08-29T16:30:00.000-04:00",
         "endTime": null,
-        "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
+        "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together"
       },
       {
         "title": "Leave for Beekman",

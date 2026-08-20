@@ -273,7 +273,12 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
         width: PAGE_WIDTH,
       },
     );
-
+  doc
+    .moveDown(0.3)
+    .font("Helvetica-Bold")
+    .fontSize(10)
+    .fillColor("#1a1a1a")
+    .text(`Day of Coordinator: Barb Konuszewski, 810-407-2884`);
   doc
     .moveDown(0.3)
     .font("Helvetica")
@@ -283,8 +288,8 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
       `${sorted.length} event${sorted.length === 1 ? "" : "s"} \u00b7 Generated ${new Date().toLocaleDateString("en-US", DATE_OPTS)}`,
     );
 
-  doc.moveDown(1);
-  drawRule();
+  doc.moveDown(1.8);
+//   drawRule();
 
   for (const group of groups) {
     ensureSpace(60);

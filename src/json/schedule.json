@@ -1,5 +1,58 @@
 [
   {
+    "title": "Receive Flowers from florist at house",
+    "startTime": "2026-08-29T09:00:00.000-04:00",
+    "endTime": null,
+    "notes": "Boutanierres, corsages, bridesmaid bouquets, bridal bouquet, loose flowers for photographer",
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8064-9891-df4314ea7fad",
+        "name": "Christine Fontana",
+        "alias": "christine"
+      },
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth",
+        "alias": "sam"
+      }
+    ]
+  },
+  {
+    "title": "Photographer needs items for initial shots",
+    "startTime": "2026-08-29",
+    "endTime": null,
+    "notes": "The following are in the box: stationery suite, rings and ring boxes, jewelry, shoes, ribbon. The following are from the florist: loose flowers, bouquet. Will be hanging.. somewhere: dress and veil",
+    "assignees": [
+      {
+        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
+        "name": "Sam Landreth",
+        "alias": "sam"
+      }
+    ]
+  },
+  {
+    "title": "Drop Gifts at Beekman",
+    "startTime": "2026-08-27T16:00:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
     "title": "Last Call",
     "startTime": "2026-08-29T22:00:00.000-04:00",
     "endTime": null,
@@ -556,23 +609,6 @@
     ]
   },
   {
-    "title": "TEST",
-    "startTime": "2026-08-13T16:10:00.000-04:00",
-    "endTime": null,
-    "assignees": [
-      {
-        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
-        "name": "Ashley Slater",
-        "alias": "ashley"
-      },
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      }
-    ]
-  },
-  {
     "title": "Cell Phone Announcement from DJ",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
@@ -626,7 +662,7 @@
     "title": "Wedding Party Processional",
     "startTime": "2026-08-29T16:30:00.000-04:00",
     "endTime": null,
-    "notes": "Gary Y, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together",
+    "notes": "Gary Y, Grandma, Kris & Bill, MJ, Matt, Alex, Wes, Austin, CJ, Dom, Becky, Mackenzie, Ashley, Chloe & Cameron together",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -983,18 +1019,6 @@
     ]
   },
   {
-    "title": "Pick Up Krause’s Chocolates for Grandma",
-    "startTime": "2026-08-27",
-    "endTime": null,
-    "assignees": [
-      {
-        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
-        "name": "Courtney Ring",
-        "alias": "court"
-      }
-    ]
-  },
-  {
     "title": "Ring Family Photo",
     "startTime": "2026-08-29T17:20:00.000-04:00",
     "endTime": null,
@@ -1147,6 +1171,7 @@
     "title": "Wetzler Family Photo",
     "startTime": "2026-08-29T17:05:00.000-04:00",
     "endTime": null,
+    "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran",
     "assignees": [
       {
         "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
@@ -1699,18 +1724,6 @@
     ]
   },
   {
-    "title": "Put Pizza Order In",
-    "startTime": "2026-08-27",
-    "endTime": null,
-    "assignees": [
-      {
-        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
-        "name": "Ashley Slater",
-        "alias": "ashley"
-      }
-    ]
-  },
-  {
     "title": "Dad Leaves for Ash",
     "startTime": "2026-08-27T13:30:00.000-04:00",
     "endTime": null,
@@ -1982,7 +1995,18 @@
   },
   {
     "title": "Drop off marriage license into mail",
-    "assignees": []
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      }
+    ]
   },
   {
     "title": "Mackenzie Hair",
@@ -2296,10 +2320,6 @@
     ]
   },
   {
-    "title": "After Party chips, etc, set up",
-    "assignees": []
-  },
-  {
     "title": "Pizza Arrives at Legion",
     "startTime": "2026-08-29T22:45:00.000-04:00",
     "endTime": null,
@@ -2466,7 +2486,25 @@
   },
   {
     "title": "Court changes into after party dress",
-    "assignees": []
+    "startTime": "2026-08-29T22:15:00.000-04:00",
+    "endTime": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
+    ]
   },
   {
     "title": "Bridesmaid Arrival",
@@ -2711,10 +2749,6 @@
         "alias": "ashley"
       }
     ]
-  },
-  {
-    "title": "Mic Practice",
-    "assignees": []
   },
   {
     "title": "Florist Leaves",
@@ -3175,6 +3209,11 @@
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
         "name": "Lindsay & Nathan Varner",
         "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+        "name": "Jeff Richards",
+        "alias": "jeff"
       }
     ]
   },
@@ -3187,6 +3226,21 @@
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
         "name": "Lindsay & Nathan Varner",
         "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8009-84b9-f3021e97e700",
+        "name": "Howard Ring",
+        "alias": "howard"
+      },
+      {
+        "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+        "name": "Jeff Richards",
+        "alias": "jeff"
       }
     ]
   },
@@ -3199,6 +3253,21 @@
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
         "name": "Lindsay & Nathan Varner",
         "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
+      },
+      {
+        "id": "300de2a9-1181-804b-b266-cdd24fd63e39",
+        "name": "Jeff Richards",
+        "alias": "jeff"
       }
     ]
   },
@@ -3336,6 +3405,16 @@
         "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd",
         "name": "Lindsay & Nathan Varner",
         "alias": "lindsay"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea",
+        "name": "Matt Haberlach",
+        "alias": "matt"
       }
     ]
   },
