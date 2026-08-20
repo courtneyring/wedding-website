@@ -135,9 +135,16 @@ export default {
       title: "What time does the shuttle leave for Milea?",
       body: (
         <p>
-          The departure times will depend on the amount of guests opting for the
-          shuttle. The times will be updated on the website at the beginning of
-          August.
+          Both the shuttle from Mirbeau and the shuttle from Beekman leave at 3:15pm.
+        </p>
+      ),
+      category: "getting-around",
+    },
+    {
+      title: "Why does the shuttle depart so early?",
+      body: (
+        <p>
+          There is a county fair just north of Rhinebeck that causes a lot of traffic through the town and surrounding roads. The bus departure time accounts for that traffic. 
         </p>
       ),
       category: "getting-around",
@@ -146,7 +153,7 @@ export default {
       title: "What time does the shuttle return to Rhinebeck?",
       body: (
         <p>
-          Return shuttles will depart Milea starting at 10:30 PM. Drop-offs will
+          Return shuttles will depart Milea at 10:30 PM. Drop-offs will
           include the afterparty at the American Legion, Mirbeau, and the
           Beekman-Delamater. A full schedule is available on our
           <a href="/travel">transportation page</a>
