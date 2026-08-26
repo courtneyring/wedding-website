@@ -33,24 +33,6 @@
     "schedule": []
   },
   {
-    "id": "3bade2a9-1181-8066-ac18-c030c38599e9",
-    "name": "TBD",
-    "alias": "tbd",
-    "email": null,
-    "phone": null,
-    "image": "/images/ops/tbd.png",
-    "role": "Unset",
-    "schedule": [
-      {
-        "title": "Courtney Processional",
-        "startTime": "2026-08-29T16:30:00.000-04:00",
-        "endTime": null,
-        "order": 7,
-        "notes": "Wait a little for string to play. Double doors opened by Barb & TBD"
-      }
-    ]
-  },
-  {
     "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
     "name": "Gary Konuszewski",
     "alias": "garyk",
@@ -60,6 +42,12 @@
     "title": "Bride’s Uncle",
     "role": "Unset",
     "schedule": [
+      {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
       {
         "title": "Matt & Courtney go to clubhouse",
         "startTime": "2026-08-29T15:25:00.000-04:00",
@@ -326,6 +314,12 @@
     "title": "Bride’s Grandma",
     "role": "Unset",
     "schedule": [
+      {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
       {
         "title": "Ceremony Ends",
         "startTime": "2026-08-29T17:00:00.000-04:00",
@@ -925,7 +919,7 @@
         "cars": "Gary K"
       },
       {
-        "title": "Wes give Matt’s Keys to Bobby",
+        "title": "Groomsman give Matt’s Keys to Bobby",
         "startTime": "2026-08-29T14:45:00.000-04:00",
         "endTime": null,
         "order": null
@@ -1443,12 +1437,12 @@
       },
       {
         "title": "Milea Closes Gate to Clubhouse",
-        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
       {
-        "title": "Bar Opens, Staff is Floating with Wine",
+        "title": "Bar Opens, Staff is Floating with Wine, Hor d'oeuvres passed",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
         "order": null
@@ -2082,6 +2076,12 @@
     "role": "aunt-of-the-bride",
     "schedule": [
       {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
         "title": "Ceremony Ends",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
@@ -2259,7 +2259,7 @@
       },
       {
         "title": "Milea Closes Gate to Clubhouse",
-        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "startTime": "2026-08-29T15:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -2298,7 +2298,7 @@
         "order": null
       },
       {
-        "title": "Bar Opens, Staff is Floating with Wine",
+        "title": "Bar Opens, Staff is Floating with Wine, Hor d'oeuvres passed",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
         "order": null
@@ -2765,6 +2765,30 @@
     "title": "Mother of the Bride",
     "role": "mother-of-the-bride",
     "schedule": [
+      {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Practice Bustle",
+        "startTime": "2026-08-27T12:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Hair/makeup money needs to go into the Staatsburg Box",
+        "startTime": "2026-08-27T12:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Tip envelopes & cash payments need to go into the Milea Box",
+        "startTime": "2026-08-27T12:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
       {
         "title": "Courtney needs straps shortened on after party dress ",
         "startTime": "2026-08-27T12:00:00.000-04:00",
@@ -3411,6 +3435,36 @@
     "role": "bride",
     "schedule": [
       {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Ashley quick practice laying out skirt and veil out",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Practice Bustle",
+        "startTime": "2026-08-27T12:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Hair/makeup money needs to go into the Staatsburg Box",
+        "startTime": "2026-08-27T12:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Tip envelopes & cash payments need to go into the Milea Box",
+        "startTime": "2026-08-27T12:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
         "title": "Matt & Courtney go to clubhouse",
         "startTime": "2026-08-29T15:25:00.000-04:00",
         "endTime": null,
@@ -3885,7 +3939,7 @@
         "notes": "Courtney’s Uncle (Gary K) can drive some, if you want to walk go for it"
       },
       {
-        "title": "Wes give Matt’s Keys to Bobby",
+        "title": "Groomsman give Matt’s Keys to Bobby",
         "startTime": "2026-08-29T14:45:00.000-04:00",
         "endTime": null,
         "order": null
@@ -4495,6 +4549,12 @@
     "role": "bridesmaid",
     "schedule": [
       {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
         "title": "Ceremony Ends",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
@@ -4873,6 +4933,18 @@
     "title": "Matron of Honor",
     "role": "bridesmaid",
     "schedule": [
+      {
+        "title": "Grab breakfast at the Delamater Office",
+        "startTime": "2026-08-28T09:00:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
+        "title": "Ashley quick practice laying out skirt and veil out",
+        "startTime": "2026-08-29T15:45:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
       {
         "title": "Ceremony Ends",
         "startTime": "2026-08-29T17:00:00.000-04:00",

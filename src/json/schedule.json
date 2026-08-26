@@ -1,5 +1,120 @@
 [
   {
+    "title": "Grab breakfast at the Delamater Office",
+    "startTime": "2026-08-28T09:00:00.000-04:00",
+    "endTime": null,
+    "order": null,
+    "assignees": [
+      {
+        "id": "3bade2a9-1181-802d-b77d-ed01b186de83",
+        "name": "Gary Konuszewski",
+        "alias": "garyk"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      },
+      {
+        "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5",
+        "name": "Barb Konuszewski",
+        "alias": "barb"
+      },
+      {
+        "id": "300de2a9-1181-804a-aeb3-da17945f356d",
+        "name": "Mackenzie Robertson",
+        "alias": "mackenzie"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "3b3de2a9-1181-8003-8eae-efa4058f44c8",
+        "name": "Shirley Young",
+        "alias": "shirley"
+      },
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      }
+    ]
+  },
+  {
+    "title": "Ashley quick practice laying out skirt and veil out",
+    "startTime": "2026-08-29T15:45:00.000-04:00",
+    "endTime": null,
+    "order": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      },
+      {
+        "id": "300de2a9-1181-80c8-9596-f22327f25eab",
+        "name": "Ashley Slater",
+        "alias": "ashley"
+      }
+    ]
+  },
+  {
+    "title": "Practice Bustle",
+    "startTime": "2026-08-27T12:00:00.000-04:00",
+    "endTime": null,
+    "order": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
+    "title": "Hair/makeup money needs to go into the Staatsburg Box",
+    "startTime": "2026-08-27T12:00:00.000-04:00",
+    "endTime": null,
+    "order": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
+    "title": "Tip envelopes & cash payments need to go into the Milea Box",
+    "startTime": "2026-08-27T12:00:00.000-04:00",
+    "endTime": null,
+    "order": null,
+    "assignees": [
+      {
+        "id": "300de2a9-1181-80c1-8998-e898d9766e4b",
+        "name": "Mary Jo Ring",
+        "alias": "maryjo"
+      },
+      {
+        "id": "300de2a9-1181-8029-8dcb-ee42ecab92f8",
+        "name": "Courtney Ring",
+        "alias": "court"
+      }
+    ]
+  },
+  {
     "title": "Matt & Courtney go to clubhouse",
     "startTime": "2026-08-29T15:25:00.000-04:00",
     "endTime": null,
@@ -532,7 +647,7 @@
     ]
   },
   {
-    "title": "Wes give Matt’s Keys to Bobby",
+    "title": "Groomsman give Matt’s Keys to Bobby",
     "startTime": "2026-08-29T14:45:00.000-04:00",
     "endTime": null,
     "order": null,
@@ -1728,11 +1843,6 @@
         "alias": "howard"
       },
       {
-        "id": "3bade2a9-1181-8066-ac18-c030c38599e9",
-        "name": "TBD",
-        "alias": "tbd"
-      },
-      {
         "id": "300de2a9-1181-80c4-b498-ce77d077924a",
         "name": "Alexis Koutrouvelis",
         "alias": "alexis"
@@ -2042,7 +2152,7 @@
   },
   {
     "title": "Milea Closes Gate to Clubhouse",
-    "startTime": "2026-08-29T15:00:00.000-04:00",
+    "startTime": "2026-08-29T15:30:00.000-04:00",
     "endTime": null,
     "order": null,
     "assignees": [
@@ -2833,7 +2943,7 @@
     ]
   },
   {
-    "title": "Bar Opens, Staff is Floating with Wine",
+    "title": "Bar Opens, Staff is Floating with Wine, Hor d'oeuvres passed",
     "startTime": "2026-08-29T17:00:00.000-04:00",
     "endTime": null,
     "order": null,

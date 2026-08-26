@@ -65,8 +65,9 @@ const days = useMemo(() => {
     return matchesToday ? today : days[0]?.value;
   });
 
-  const filteredSchedule = useMemo(() => {
-    return schedule.filter(
+const filteredSchedule = useMemo(() => {
+  return schedule
+    .filter(
       (m) =>
         m.startTime &&
         moment(m.startTime).day() === activeDay &&
@@ -75,8 +76,14 @@ const days = useMemo(() => {
             ? moment(m.endTime).isSameOrAfter(moment())
             : moment(m.startTime).isSameOrAfter(moment())
           : true),
-    );
-  }, [schedule, activeDay, hidePast]);
+    )
+    .sort((a, b) => {
+      const orderA = a.order ?? Infinity;
+      const orderB = b.order ?? Infinity;
+      if (orderA !== orderB) return orderA - orderB;
+      return moment(a.startTime).valueOf() - moment(b.startTime).valueOf();
+    });
+}, [schedule, activeDay, hidePast]);
 
   return (
     <>
