@@ -3222,13 +3222,7 @@
     "startTime": "2026-08-29T16:00:00.000-04:00",
     "endTime": null,
     "order": null,
-    "assignees": [
-      {
-        "id": "3afde2a9-1181-80f2-88f0-faba95602902",
-        "name": "Sam Landreth",
-        "alias": "sam"
-      }
-    ]
+    "assignees": []
   },
   {
     "title": "Arrive at Milea - Start Unloading Boxes",
