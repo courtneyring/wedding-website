@@ -97,7 +97,6 @@ const getChildren = async (arr) => {
         page_size: 50,
       });
       children = [...children, ...results];
-      console.log(children)
       nextCursor = next_cursor;
     }
     ret.push({ ...a, children });
@@ -145,6 +144,8 @@ const format = async (schedule, contacts) => {
       startTime: task.properties.Day.date?.start,
       endTime: task.properties.Day.date?.end,
       location: task.properties.Location.rich_text[0]?.text.content,
+      order: task.properties.Order?.number,
+      cars: task.properties.Cars?.rich_text[0]?.plain_text,
       notes: task.properties.Notes.rich_text[0]?.text.content,
       // notes: await getPageContent(task.id),
       assignees,
@@ -171,8 +172,6 @@ const init = async () => {
   const scheduleRaw = await getSchedule();
   const schedule = await format(scheduleRaw, contacts);
   const contactsWithSchedules = connectSchedules(contacts, schedule);
-  // console.log(contactsWithSchedules)
-  // const ops = format(contacts, schedule);
   const fileNames = [
     {
       data: schedule,

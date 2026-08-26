@@ -56,7 +56,7 @@ const ContactPage = async ({ params }) => {
           </Button>
         )}
       </div>
-      {contact.schedule && (
+      {contact.schedule && contact.schedule.length > 0 && (
         <div className={styles.block}>
           <h2 className="typography--h4">Schedule</h2>
           <ScheduleBlock schedule={contact.schedule} alias={contact.alias}/>

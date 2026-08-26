@@ -29,15 +29,25 @@ const ScheduleBlock = ({ schedule, alias }) => {
     window.localStorage.setItem(HIDE_PAST_KEY, String(hidePast));
   }, [hidePast, hasHydrated]);
 
-  const days = useMemo(() => {
-    const dayNums = [
-      ...new Set(schedule.map((item) => moment(item.startTime).day())),
-    ];
-    return dayNums.sort().map((day) => ({
-      label: moment().day(day).format("dddd"),
+const days = useMemo(() => {
+  const earliestByDay = new Map();
+
+  schedule.forEach((item) => {
+    if (!item.startTime) return;
+    const m = moment(item.startTime);
+    const day = m.day();
+    if (!earliestByDay.has(day) || m.isBefore(earliestByDay.get(day))) {
+      earliestByDay.set(day, m);
+    }
+  });
+
+  return [...earliestByDay.entries()]
+    .sort((a, b) => a[1].valueOf() - b[1].valueOf())
+    .map(([day, date]) => ({
+      label: date.format("dddd"),
       value: day,
     }));
-  }, [schedule]);
+}, [schedule]);
 
   const [activeDay, setActiveDay] = useState(() => {
     const earliestDate = schedule.reduce((earliest, item) => {
@@ -79,24 +89,32 @@ const ScheduleBlock = ({ schedule, alias }) => {
           />
         </div>
       )}
-      <div className={styles.actions}>
-        <Toggle
-          label="Hide past events"
-          className={styles.toggle}
-          checked={hidePast}
-          onChange={setHidePast}
-        />
-        <Button
-          href={alias ? `/pdfs/schedule-${alias}.pdf` : '/pdfs/schedule-full.pdf'}
-          variation="link"
-          className={styles.download}
-        >
-          Download PDF{" "}
-          <span className="material-symbols-outlined">download</span>
-        </Button>
-      </div>
+      {filteredSchedule.length > 0 && (
+        <>
+          <div className={styles.actions}>
+            <Toggle
+              label="Hide past events"
+              className={styles.toggle}
+              checked={hidePast}
+              onChange={setHidePast}
+            />
+            <Button
+              href={
+                alias
+                  ? `/pdfs/schedule-${alias}.pdf`
+                  : "/pdfs/schedule-full.pdf"
+              }
+              variation="link"
+              className={styles.download}
+            >
+              Download PDF{" "}
+              <span className="material-symbols-outlined">download</span>
+            </Button>
+          </div>
 
-      <EventList tasks={filteredSchedule} />
+          <EventList tasks={filteredSchedule} />
+        </>
+      )}
     </>
   );
 };

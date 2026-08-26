@@ -8,7 +8,9 @@
     "build:dev": "NEXT_PUBLIC_DEVELOPMENT=true next build",
     "start": "next start",
     "test": "playwright test",
-    "generate:pdfs": "node scripts/exportSchedule.mjs src/json/schedule.json --all public/pdfs/"
+    "generate:pdfs": "node scripts/exportSchedule.mjs src/json/schedule.json --all public/pdfs/",
+    "generate:contacts": "node scripts/exportContacts.mjs src/json/contacts.json",
+    "generate": "node scripts/getOpsData.mjs && npm run generate:pdfs && npm run generate:contacts"
   },
   "dependencies": {
     "@courtneyring/components-library": "^1.0.38",

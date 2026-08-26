@@ -123,16 +123,23 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
       .find((a) => (a.alias || "").toLowerCase() === alias);
     personName = match ? match.name : alias;
   }
-
   const withOrder = filtered.map((ev, idx) => ({ ev, idx }));
   withOrder.sort((a, b) => {
     const ka = sortKey(a.ev);
     const kb = sortKey(b.ev);
     if (ka !== kb) return ka - kb;
-    return a.idx - b.idx; // stable fallback
+
+    // Secondary sort: `order` ascending, blanks (undefined/null) last.
+    const oa = a.ev.order;
+    const ob = b.ev.order;
+    const aHas = oa !== undefined && oa !== null;
+    const bHas = ob !== undefined && ob !== null;
+    if (aHas && bHas && oa !== ob) return oa - ob; // ascending
+    if (aHas !== bHas) return aHas ? -1 : 1; // has-order wins over blank
+
+    return a.idx - b.idx; // stable fallback for true ties
   });
   const sorted = withOrder.map((x) => x.ev);
-
   // Group sorted events by day heading, preserving chronological order
   // of the groups themselves (Unscheduled group goes last).
   const groups = [];
@@ -256,7 +263,15 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
           );
       }
     }
-
+    if (ev.cars && alias !== "lindsay") {
+      doc
+        .font("Helvetica")
+        .fontSize(9)
+        .fillColor("#666666")
+        .text(`Cars: ${ev.cars}`, doc.page.margins.left + timeColWidth, doc.y, {
+          width: PAGE_WIDTH - timeColWidth,
+        });
+    }
     doc.moveDown(1.9);
   }
 
@@ -289,7 +304,7 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
     );
 
   doc.moveDown(1.8);
-//   drawRule();
+  //   drawRule();
 
   for (const group of groups) {
     ensureSpace(60);
