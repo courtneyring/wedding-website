@@ -2,10 +2,10 @@
   {
     "id": "3c7de2a9-1181-80e9-90bf-cfb4fb18387f",
     "name": "Clayton",
-    "alias": "james",
+    "alias": "clayton",
     "email": "info@anntransportation.com",
     "phone": "646-460-3856",
-    "image": "/images/ops/james.png",
+    "image": "/images/ops/clayton.png",
     "title": "Shuttle Driver",
     "role": "shuttle",
     "schedule": []
@@ -509,7 +509,7 @@
     "email": null,
     "phone": "413-262-2346",
     "image": "/images/ops/sam.png",
-    "title": "Bride Attendant",
+    "title": "Morning of Coordinator",
     "role": "Unset",
     "schedule": [
       {
@@ -1395,10 +1395,10 @@
   {
     "id": "300de2a9-1181-8065-8a5e-f03507318665",
     "name": "Mina Do",
-    "alias": "Mina",
+    "alias": "mina",
     "email": "events@mileaestatevineyard.com",
     "phone": "845-392-2422",
-    "image": "/images/ops/Mina.png",
+    "image": "/images/ops/mina.png",
     "title": "Venue Director",
     "role": "venue",
     "schedule": [
