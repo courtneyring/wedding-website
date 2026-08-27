@@ -65,7 +65,7 @@
         "title": "MJ, HJ, Gary, Gary, Barb, Shirley start packing and clean up",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 3
       },
       {
         "title": "Family goes from vineyard to clubhouse",
@@ -160,7 +160,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Welcome Party",
@@ -202,7 +202,7 @@
       },
       {
         "title": "Kris, Bill and Rick Leave for Milea",
-        "startTime": "2026-08-29T14:30:00.000-04:00",
+        "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -211,7 +211,7 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
         "title": "Haberlach Family Photo",
@@ -250,7 +250,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -265,18 +265,10 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
-        "startTime": "2026-08-29T14:15:00.000-04:00",
-        "endTime": null,
-        "order": null,
-        "cars": "Matt’s Rental & Shirley’s Enclave",
-        "notes": "Groomsmen in Matt’s car - wes has the keys, bridesmaids with Mother of the Bride"
-      },
-      {
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -330,7 +322,7 @@
         "title": "MJ, HJ, Gary, Gary, Barb, Shirley start packing and clean up",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 3
       },
       {
         "title": "Slater/Ring & Grandma Young",
@@ -454,7 +446,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Rehearsal ",
@@ -527,7 +519,7 @@
       },
       {
         "title": "Groomsmen Leave Rhinebeck",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -621,7 +613,7 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
         "title": "Bridesmaids Get Bouquets",
@@ -630,28 +622,17 @@
         "order": null
       },
       {
-        "title": "Groomsmen pin on Boutonnieres",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 5
-      },
-      {
         "title": "Photographer Arrives",
         "startTime": "2026-08-29T11:30:00.000-04:00",
         "endTime": "2026-08-29T12:00:00.000-04:00",
         "order": null
       },
       {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Nathan Does Guys Details",
@@ -802,7 +783,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -823,7 +804,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -846,7 +827,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Rehearsal ",
@@ -1041,7 +1022,7 @@
         "order": 2
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -1100,7 +1081,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       }
     ]
   },
@@ -1119,7 +1100,7 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
         "title": "Rehearsal Ends",
@@ -1138,7 +1119,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Rehearsal ",
@@ -1174,7 +1155,7 @@
         "title": "MJ, HJ, Gary, Gary, Barb, Shirley start packing and clean up",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 3
       },
       {
         "title": "Gary Y gives Officiant license to barb to be put in folder/envelope",
@@ -1193,7 +1174,8 @@
         "title": "Marriage Certificate Signing",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": null,
+        "notes": "CJ and Ashley are witnesses"
       },
       {
         "title": "Wedding Party Processional",
@@ -1207,7 +1189,7 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
         "title": "Young Family Photo",
@@ -1242,7 +1224,7 @@
         "order": null
       },
       {
-        "title": "Rings to Gary Y",
+        "title": "Rings and Vow Books to Gary Y",
         "startTime": "2026-08-29T15:45:00.000-04:00",
         "endTime": null,
         "order": null
@@ -1251,7 +1233,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -1470,7 +1452,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Reception Starts",
@@ -1643,6 +1625,12 @@
         "notes": "Silence cell phones, no pictures during the ceremony etc"
       },
       {
+        "title": "Golden Hour Photos",
+        "startTime": "2026-08-29T18:45:00.000-04:00",
+        "endTime": null,
+        "order": null
+      },
+      {
         "title": "Bride Groom Intros & Welcome / Thank you speech",
         "startTime": "2026-08-29T18:05:00.000-04:00",
         "endTime": null,
@@ -1657,7 +1645,7 @@
       },
       {
         "title": "DJ Arrives for Setup",
-        "startTime": "2026-08-29T15:00:00.000-04:00",
+        "startTime": "2026-08-29T14:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -1715,7 +1703,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Cocktail Hour Start",
@@ -1765,7 +1753,8 @@
         "title": "Marriage Certificate Signing",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": null,
+        "notes": "CJ and Ashley are witnesses"
       },
       {
         "title": "Courtney Processional",
@@ -1837,16 +1826,11 @@
         "order": null
       },
       {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Nathan Does Guys Details",
@@ -1939,7 +1923,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -2097,7 +2081,7 @@
         "title": "MJ, HJ, Gary, Gary, Barb, Shirley start packing and clean up",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 3
       },
       {
         "title": "Slater/Ring & Grandma Young",
@@ -2390,7 +2374,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Reception Starts",
@@ -2450,14 +2434,14 @@
         "title": "Mitch and Elaine deliver Courtney and Matt’s bags, To Go Box and Cake to Mirbeau",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null,
+        "order": 4,
         "notes": "Ask desk to deliver to Matt and Courtney’s Room – Possibly drive Howard back to Beekman"
       },
       {
         "title": "MJ, HJ, Gary, Gary, Barb, Shirley start packing and clean up",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 3
       },
       {
         "title": "Slater/Ring & Grandma Young",
@@ -2703,7 +2687,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -2727,7 +2711,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -2812,14 +2796,14 @@
         "title": "Mitch and Elaine deliver Courtney and Matt’s bags, To Go Box and Cake to Mirbeau",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null,
+        "order": 4,
         "notes": "Ask desk to deliver to Matt and Courtney’s Room – Possibly drive Howard back to Beekman"
       },
       {
         "title": "MJ, HJ, Gary, Gary, Barb, Shirley start packing and clean up",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 3
       },
       {
         "title": "Slater/Ring & Grandma Young",
@@ -2998,6 +2982,11 @@
         "order": null
       },
       {
+        "title": "Drop off marriage license into mail",
+        "order": null,
+        "notes": "It will be in the glovebox of Mom’s car"
+      },
+      {
         "title": "MJ Hair",
         "startTime": "2026-08-29T11:15:00.000-04:00",
         "endTime": "2026-08-29T12:00:00.000-04:00",
@@ -3055,7 +3044,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -3073,7 +3062,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -3133,7 +3122,7 @@
       },
       {
         "title": "Groomsmen Leave Rhinebeck",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -3201,7 +3190,8 @@
         "title": "Marriage Certificate Signing",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": null,
+        "notes": "CJ and Ashley are witnesses"
       },
       {
         "title": "Courtney & Matt  drive to venue",
@@ -3253,22 +3243,11 @@
         "notes": "John, Nan, Jason, Jim, Holly, Andrew, Olivia, Jerry, Kim, Stuart, Catherine, Bill, Kris, Becky, Rick, Aran"
       },
       {
-        "title": "Groomsmen pin on Boutonnieres",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 5
-      },
-      {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Nathan Does Guys Details",
@@ -3328,7 +3307,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -3343,7 +3322,7 @@
         "order": null
       },
       {
-        "title": "Rings to Gary Y",
+        "title": "Rings and Vow Books to Gary Y",
         "startTime": "2026-08-29T15:45:00.000-04:00",
         "endTime": null,
         "order": null
@@ -3396,7 +3375,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -3570,7 +3549,8 @@
         "title": "Marriage Certificate Signing",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": null,
+        "notes": "CJ and Ashley are witnesses"
       },
       {
         "title": "Gather items for detail shot for photographer",
@@ -3793,7 +3773,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -3814,7 +3794,7 @@
         "order": null
       },
       {
-        "title": "Rings to Gary Y",
+        "title": "Rings and Vow Books to Gary Y",
         "startTime": "2026-08-29T15:45:00.000-04:00",
         "endTime": null,
         "order": null
@@ -3874,7 +3854,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -3926,7 +3906,7 @@
       },
       {
         "title": "Groomsmen Leave Rhinebeck",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -3970,25 +3950,14 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
-        "title": "Groomsmen pin on Boutonnieres",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 5
-      },
-      {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Rehearsal Ends",
@@ -4013,7 +3982,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -4022,7 +3991,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -4039,7 +4008,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -4085,7 +4054,7 @@
       },
       {
         "title": "Groomsmen Leave Rhinebeck",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -4123,25 +4092,14 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
-        "title": "Groomsmen pin on Boutonnieres",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 5
-      },
-      {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Rehearsal Ends",
@@ -4166,7 +4124,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -4175,7 +4133,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -4192,7 +4150,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -4238,7 +4196,7 @@
       },
       {
         "title": "Groomsmen Leave Rhinebeck",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -4260,7 +4218,8 @@
         "title": "Marriage Certificate Signing",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": null,
+        "notes": "CJ and Ashley are witnesses"
       },
       {
         "title": "Wedding party puts all bags and belongings into the car ",
@@ -4282,25 +4241,14 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
-        "title": "Groomsmen pin on Boutonnieres",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 5
-      },
-      {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Rehearsal Ends",
@@ -4325,7 +4273,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -4334,7 +4282,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -4357,7 +4305,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -4403,7 +4351,7 @@
       },
       {
         "title": "Groomsmen Leave Rhinebeck",
-        "startTime": "2026-08-29T22:30:00.000-04:00",
+        "startTime": "2026-08-29T10:30:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -4441,25 +4389,14 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
-        "title": "Groomsmen pin on Boutonnieres",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 5
-      },
-      {
-        "title": "Groomsmen Getting Ready",
+        "title": "Groomsmen start getting ready",
         "startTime": "2026-08-29T12:00:00.000-04:00",
         "endTime": null,
-        "order": null
-      },
-      {
-        "title": "Groomsmen & Matt Put on Their Tuxes",
-        "startTime": "2026-08-29T12:30:00.000-04:00",
-        "endTime": null,
-        "order": 4
+        "order": null,
+        "notes": "Put on Tuxes, Pin on Boutainnieres"
       },
       {
         "title": "Rehearsal Ends",
@@ -4484,7 +4421,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -4493,7 +4430,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -4510,7 +4447,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -4688,7 +4625,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -4697,7 +4634,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -4714,7 +4651,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -4797,7 +4734,7 @@
       },
       {
         "title": "Kris, Bill and Rick Leave for Milea",
-        "startTime": "2026-08-29T14:30:00.000-04:00",
+        "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null
       },
@@ -4806,14 +4743,7 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
-      },
-      {
-        "title": "Haberlach Family Photo",
-        "startTime": "2026-08-29T17:10:00.000-04:00",
-        "endTime": null,
-        "order": null,
-        "notes": "Kris, Bill, Anne, Dean, Kurt, Joanne, Court & Matt"
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
         "title": "Wetzler Family Photo",
@@ -4863,7 +4793,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -4878,7 +4808,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -4895,7 +4825,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -5004,7 +4934,8 @@
         "title": "Marriage Certificate Signing",
         "startTime": "2026-08-29T17:00:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": null,
+        "notes": "CJ and Ashley are witnesses"
       },
       {
         "title": "Hair & Makeup Money into Envelopes",
@@ -5191,7 +5122,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -5212,7 +5143,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -5235,7 +5166,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",
@@ -5329,7 +5260,7 @@
         "startTime": "2026-08-28T17:20:00.000-04:00",
         "endTime": null,
         "order": null,
-        "cars": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them "
+        "cars": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves"
       },
       {
         "title": "Bridesmaids Get Bouquets",
@@ -5378,7 +5309,7 @@
         "title": "Shuttle to After Party",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 2
       },
       {
         "title": "Rehearsal Dinner",
@@ -5387,7 +5318,7 @@
         "order": null
       },
       {
-        "title": "Wedding Party goes to Vineyard",
+        "title": "Wedding Party + MJ and Howie  goes to Vineyard ",
         "startTime": "2026-08-29T14:15:00.000-04:00",
         "endTime": null,
         "order": null,
@@ -5404,7 +5335,7 @@
         "title": "Reception Ends",
         "startTime": "2026-08-29T22:30:00.000-04:00",
         "endTime": null,
-        "order": null
+        "order": 1
       },
       {
         "title": "Wedding Party Lined Up In Bar Area",

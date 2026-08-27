@@ -300,9 +300,8 @@ function buildSchedulePdf(allEvents, alias, outputPath) {
     .fontSize(10)
     .fillColor("#666666")
     .text(
-      `${sorted.length} event${sorted.length === 1 ? "" : "s"} \u00b7 Generated ${new Date().toLocaleDateString("en-US", DATE_OPTS)}`,
+      `${sorted.length} event${sorted.length === 1 ? "" : "s"} \u00b7 Generated ${new Date().toLocaleDateString("en-US", DATE_OPTS)} \u00b7 www.mattandcourtney.com/${alias}`,
     );
-
   doc.moveDown(1.8);
   //   drawRule();
 

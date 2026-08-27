@@ -1363,7 +1363,7 @@
     "object": "page",
     "id": "3c6de2a9-1181-80a0-9b44-d633129bcf44",
     "created_time": "2026-08-24T01:40:00.000Z",
-    "last_edited_time": "2026-08-24T01:40:00.000Z",
+    "last_edited_time": "2026-08-27T10:13:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -1388,7 +1388,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "2026-08-30 02:30"
+          "string": "2026-08-29 14:30"
         }
       },
       "Wedding Ops": {
@@ -1421,7 +1421,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": 2
+          "number": 14
         }
       },
       "Time": {
@@ -1470,7 +1470,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T22:30:00.000-04:00",
+          "start": "2026-08-29T10:30:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -1943,7 +1943,7 @@
     "object": "page",
     "id": "3c5de2a9-1181-80f0-afa7-e2369b562c71",
     "created_time": "2026-08-23T19:21:00.000Z",
-    "last_edited_time": "2026-08-24T18:25:00.000Z",
+    "last_edited_time": "2026-08-27T10:15:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2064,7 +2064,7 @@
       "Order": {
         "id": "tFGP",
         "type": "number",
-        "number": null
+        "number": 4
       },
       "Name": {
         "id": "title",
@@ -2115,7 +2115,7 @@
     "object": "page",
     "id": "3c5de2a9-1181-8074-a237-cec4eb7835b3",
     "created_time": "2026-08-23T19:21:00.000Z",
-    "last_edited_time": "2026-08-24T18:25:00.000Z",
+    "last_edited_time": "2026-08-27T10:15:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -2230,7 +2230,7 @@
       "Order": {
         "id": "tFGP",
         "type": "number",
-        "number": null
+        "number": 3
       },
       "Name": {
         "id": "title",
@@ -6551,7 +6551,7 @@
     "object": "page",
     "id": "3c5de2a9-1181-80ed-9bd6-e75984f48ad4",
     "created_time": "2026-08-23T17:19:00.000Z",
-    "last_edited_time": "2026-08-24T02:09:00.000Z",
+    "last_edited_time": "2026-08-27T10:27:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -6630,7 +6630,25 @@
       "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CJ and Ashley are witnesses",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CJ and Ashley are witnesses",
+            "href": null
+          }
+        ]
       },
       "Open Question": {
         "id": "c%5Bol",
@@ -11916,7 +11934,7 @@
     "object": "page",
     "id": "3bade2a9-1181-80fd-9753-ca2330e86b8f",
     "created_time": "2026-08-12T20:36:00.000Z",
-    "last_edited_time": "2026-08-25T19:34:00.000Z",
+    "last_edited_time": "2026-08-27T10:24:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -11941,7 +11959,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "2026-08-29 18:30"
+          "string": "2026-08-29 18:15"
         }
       },
       "Wedding Ops": {
@@ -12015,7 +12033,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T14:30:00.000-04:00",
+          "start": "2026-08-29T14:15:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -12057,7 +12075,7 @@
     "object": "page",
     "id": "3b9de2a9-1181-809f-885a-f65feaea8e5a",
     "created_time": "2026-08-11T13:21:00.000Z",
-    "last_edited_time": "2026-08-24T01:28:00.000Z",
+    "last_edited_time": "2026-08-27T10:19:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -12146,7 +12164,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them ",
+              "content": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves",
               "link": null
             },
             "annotations": {
@@ -12157,7 +12175,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Dom has a car\nAlex likely will have a car\nBill & Kris driving themselves\nStuart & Catherine driving themselves, becky will likely go with them ",
+            "plain_text": "Dom, Alex, Wes, and Austin all have cars\nBill & Kris driving themselves",
             "href": null
           }
         ]
@@ -13046,7 +13064,7 @@
     "object": "page",
     "id": "3b8de2a9-1181-808b-90c6-f3a00fb003f6",
     "created_time": "2026-08-10T17:51:00.000Z",
-    "last_edited_time": "2026-08-17T20:58:00.000Z",
+    "last_edited_time": "2026-08-27T10:26:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -13080,9 +13098,6 @@
         "relation": [
           {
             "id": "300de2a9-1181-809f-b7f2-c8b6c54639a5"
-          },
-          {
-            "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
           },
           {
             "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
@@ -13653,155 +13668,6 @@
   },
   {
     "object": "page",
-    "id": "3b8de2a9-1181-80d5-a490-ca4d6aad8b09",
-    "created_time": "2026-08-10T16:56:00.000Z",
-    "last_edited_time": "2026-08-25T19:46:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "2026-08-29 16:30"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
-          },
-          {
-            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
-          },
-          {
-            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
-          },
-          {
-            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 16
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Cars": {
-        "id": "WKee",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Notes": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Open Question": {
-        "id": "c%5Bol",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "0bcf42ab-783c-44b8-b7f4-2b2d9941320e",
-          "name": "DIYs",
-          "color": "yellow"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T12:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Order": {
-        "id": "tFGP",
-        "type": "number",
-        "number": 5
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Groomsmen pin on Boutonnieres",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Groomsmen pin on Boutonnieres",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Groomsmen-pin-on-Boutonnieres-3b8de2a9118180d5a490ca4d6aad8b09",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
     "id": "3b1de2a9-1181-8010-b9dd-e2d09da73da4",
     "created_time": "2026-08-03T17:17:00.000Z",
     "last_edited_time": "2026-08-25T19:06:00.000Z",
@@ -13945,7 +13811,7 @@
     "object": "page",
     "id": "3b1de2a9-1181-80fb-be19-f29d072b8922",
     "created_time": "2026-08-03T17:16:00.000Z",
-    "last_edited_time": "2026-08-17T20:51:00.000Z",
+    "last_edited_time": "2026-08-27T10:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -14027,7 +13893,25 @@
       "Notes": {
         "id": "%5E%7D_t",
         "type": "rich_text",
-        "rich_text": []
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Put on Tuxes, Pin on Boutainnieres",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Put on Tuxes, Pin on Boutainnieres",
+            "href": null
+          }
+        ]
       },
       "Open Question": {
         "id": "c%5Bol",
@@ -14072,7 +13956,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Groomsmen Getting Ready",
+              "content": "Groomsmen start getting ready",
               "link": null
             },
             "annotations": {
@@ -14083,165 +13967,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Groomsmen Getting Ready",
+            "plain_text": "Groomsmen start getting ready",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Groomsmen-Getting-Ready-3b1de2a9118180fbbe19f29d072b8922",
-    "public_url": null,
-    "archived": false
-  },
-  {
-    "object": "page",
-    "id": "3b1de2a9-1181-80d1-933d-cd8122d6b758",
-    "created_time": "2026-08-03T17:15:00.000Z",
-    "last_edited_time": "2026-08-25T19:46:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "afd36642-5351-4773-84bc-357376259093"
-    },
-    "cover": null,
-    "icon": null,
-    "parent": {
-      "type": "data_source_id",
-      "data_source_id": "283de2a9-1181-80cf-90aa-000b4ca8c25a",
-      "database_id": "283de2a9-1181-8039-80b8-f47f513e5014"
-    },
-    "in_trash": false,
-    "is_archived": false,
-    "is_locked": false,
-    "properties": {
-      "Time a/p": {
-        "id": "%3ATcH",
-        "type": "formula",
-        "formula": {
-          "type": "string",
-          "string": "2026-08-29 16:30"
-        }
-      },
-      "Wedding Ops": {
-        "id": "NX%3DX",
-        "type": "relation",
-        "relation": [
-          {
-            "id": "300de2a9-1181-803f-a8fb-f24f2426e1fd"
-          },
-          {
-            "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
-          },
-          {
-            "id": "3afde2a9-1181-80f2-88f0-faba95602902"
-          },
-          {
-            "id": "300de2a9-1181-8030-8d3c-da6c337ae361"
-          },
-          {
-            "id": "300de2a9-1181-809e-96c3-da3e34e95806"
-          },
-          {
-            "id": "300de2a9-1181-805c-baa6-c4c331099d70"
-          },
-          {
-            "id": "300de2a9-1181-80d8-ad32-fa3d87421a2e"
-          }
-        ],
-        "has_more": false
-      },
-      "Rounded to Hour": {
-        "id": "P%40mX",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 16
-        }
-      },
-      "Time": {
-        "id": "TzPD",
-        "type": "select",
-        "select": null
-      },
-      "Cars": {
-        "id": "WKee",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Location": {
-        "id": "ZW%7CG",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Notes": {
-        "id": "%5E%7D_t",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Open Question": {
-        "id": "c%5Bol",
-        "type": "rich_text",
-        "rich_text": []
-      },
-      "Category": {
-        "id": "fupT",
-        "type": "select",
-        "select": {
-          "id": "77dce36e-d46c-4b9d-a170-1b3582b67755",
-          "name": "Photography",
-          "color": "pink"
-        }
-      },
-      "Military Time": {
-        "id": "gKHd",
-        "type": "formula",
-        "formula": {
-          "type": "number",
-          "number": 0
-        }
-      },
-      "Day": {
-        "id": "ir%5DW",
-        "type": "date",
-        "date": {
-          "start": "2026-08-29T12:30:00.000-04:00",
-          "end": null,
-          "time_zone": null
-        }
-      },
-      "Order": {
-        "id": "tFGP",
-        "type": "number",
-        "number": 4
-      },
-      "Name": {
-        "id": "title",
-        "type": "title",
-        "title": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Groomsmen & Matt Put on Their Tuxes",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Groomsmen & Matt Put on Their Tuxes",
-            "href": null
-          }
-        ]
-      }
-    },
-    "url": "https://app.notion.com/p/Groomsmen-Matt-Put-on-Their-Tuxes-3b1de2a9118180d1933dcd8122d6b758",
+    "url": "https://app.notion.com/p/Groomsmen-start-getting-ready-3b1de2a9118180fbbe19f29d072b8922",
     "public_url": null,
     "archived": false
   },
@@ -17715,7 +17447,7 @@
     "object": "page",
     "id": "3abde2a9-1181-8056-98dc-cfb48a7ff390",
     "created_time": "2026-07-28T02:43:00.000Z",
-    "last_edited_time": "2026-08-23T19:26:00.000Z",
+    "last_edited_time": "2026-08-27T10:37:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -17752,6 +17484,9 @@
           },
           {
             "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
           }
         ],
         "has_more": false
@@ -21939,7 +21674,7 @@
     "object": "page",
     "id": "301de2a9-1181-80e4-9a5a-feb28a061f9a",
     "created_time": "2026-02-08T13:03:00.000Z",
-    "last_edited_time": "2026-08-24T18:23:00.000Z",
+    "last_edited_time": "2026-08-27T10:15:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -22075,7 +21810,7 @@
       "Order": {
         "id": "tFGP",
         "type": "number",
-        "number": null
+        "number": 2
       },
       "Name": {
         "id": "title",
@@ -22718,7 +22453,7 @@
     "object": "page",
     "id": "284de2a9-1181-8063-acbf-c0580b690272",
     "created_time": "2025-10-06T20:55:00.000Z",
-    "last_edited_time": "2026-08-24T02:11:00.000Z",
+    "last_edited_time": "2026-08-27T10:28:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -22758,6 +22493,9 @@
           },
           {
             "id": "300de2a9-1181-8024-bea5-e67cf3ec00ea"
+          },
+          {
+            "id": "300de2a9-1181-804b-b266-cdd24fd63e39"
           }
         ],
         "has_more": false
@@ -23143,7 +22881,7 @@
     "object": "page",
     "id": "284de2a9-1181-802e-92c5-e363aa107c9e",
     "created_time": "2025-10-06T20:53:00.000Z",
-    "last_edited_time": "2026-08-25T19:10:00.000Z",
+    "last_edited_time": "2026-08-27T10:23:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -23203,19 +22941,16 @@
             "id": "300de2a9-1181-80c8-9596-f22327f25eab"
           },
           {
-            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
-          },
-          {
             "id": "3aede2a9-1181-8091-8fe3-e8c7b1d60d21"
           },
           {
             "id": "300de2a9-1181-807c-906b-d8c1f1d72667"
           },
           {
-            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
+            "id": "300de2a9-1181-80c1-8998-e898d9766e4b"
           },
           {
-            "id": "3bade2a9-1181-80ce-b820-edfaaccdcfc7"
+            "id": "300de2a9-1181-8009-84b9-f3021e97e700"
           }
         ],
         "has_more": false
@@ -23327,7 +23062,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Wedding Party goes to Vineyard",
+              "content": "Wedding Party + MJ and Howie  goes to Vineyard ",
               "link": null
             },
             "annotations": {
@@ -23338,13 +23073,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Wedding Party goes to Vineyard",
+            "plain_text": "Wedding Party + MJ and Howie  goes to Vineyard ",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Wedding-Party-goes-to-Vineyard-284de2a91181802e92c5e363aa107c9e",
+    "url": "https://app.notion.com/p/Wedding-Party-MJ-and-Howie-goes-to-Vineyard-284de2a91181802e92c5e363aa107c9e",
     "public_url": null,
     "archived": false
   },
@@ -23352,7 +23087,7 @@
     "object": "page",
     "id": "284de2a9-1181-80c2-8db1-f0e8d5661827",
     "created_time": "2025-10-06T20:51:00.000Z",
-    "last_edited_time": "2026-08-25T19:36:00.000Z",
+    "last_edited_time": "2026-08-27T10:21:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -23467,7 +23202,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Rings to Gary Y",
+              "content": "Rings and Vow Books to Gary Y",
               "link": null
             },
             "annotations": {
@@ -23478,13 +23213,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Rings to Gary Y",
+            "plain_text": "Rings and Vow Books to Gary Y",
             "href": null
           }
         ]
       }
     },
-    "url": "https://app.notion.com/p/Rings-to-Gary-Y-284de2a9118180c28db1f0e8d5661827",
+    "url": "https://app.notion.com/p/Rings-and-Vow-Books-to-Gary-Y-284de2a9118180c28db1f0e8d5661827",
     "public_url": null,
     "archived": false
   },
@@ -24663,7 +24398,7 @@
     "object": "page",
     "id": "284de2a9-1181-806c-9027-db95be2c5e55",
     "created_time": "2025-10-06T17:15:00.000Z",
-    "last_edited_time": "2026-08-24T01:55:00.000Z",
+    "last_edited_time": "2026-08-27T10:54:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -24688,7 +24423,7 @@
         "type": "formula",
         "formula": {
           "type": "string",
-          "string": "2026-08-29 19:00"
+          "string": "2026-08-29 18:30"
         }
       },
       "Wedding Ops": {
@@ -24706,7 +24441,7 @@
         "type": "formula",
         "formula": {
           "type": "number",
-          "number": 19
+          "number": 18
         }
       },
       "Time": {
@@ -24755,7 +24490,7 @@
         "id": "ir%5DW",
         "type": "date",
         "date": {
-          "start": "2026-08-29T15:00:00.000-04:00",
+          "start": "2026-08-29T14:30:00.000-04:00",
           "end": null,
           "time_zone": null
         }
@@ -26065,7 +25800,7 @@
     "object": "page",
     "id": "284de2a9-1181-80a6-87f5-d8ae1a3ee6b0",
     "created_time": "2025-10-06T16:59:00.000Z",
-    "last_edited_time": "2026-08-24T18:24:00.000Z",
+    "last_edited_time": "2026-08-27T10:15:00.000Z",
     "created_by": {
       "object": "user",
       "id": "afd36642-5351-4773-84bc-357376259093"
@@ -26221,7 +25956,7 @@
       "Order": {
         "id": "tFGP",
         "type": "number",
-        "number": null
+        "number": 1
       },
       "Name": {
         "id": "title",
